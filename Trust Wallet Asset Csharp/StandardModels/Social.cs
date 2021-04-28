@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TrustWallet.Asset.Models
+namespace TrustWallet.Asset.StandardModels
 {
     public class Social : ISocial
     {

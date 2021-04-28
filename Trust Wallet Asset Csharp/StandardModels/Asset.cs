@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Text;
-
-namespace TrustWallet.Asset.Models
+﻿namespace TrustWallet.Asset.StandardModels
 {
 
     /*
@@ -38,6 +35,7 @@ namespace TrustWallet.Asset.Models
     public enum AssetType
     {
         Coin,
+        Smart_Contract,
         Erc20,
         Trc10,
         Trc20

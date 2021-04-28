@@ -1,0 +1,14 @@
+﻿using System.Collections.Generic;
+using TrustWallet.Asset.Models;
+
+namespace TrustWallet
+{
+    public class Assets
+    {
+        /// <summary>
+        /// Collection of assets
+        /// </summary>
+        public static IDictionary<string, IAsset> Dict { get; }
+
+    }
+}
