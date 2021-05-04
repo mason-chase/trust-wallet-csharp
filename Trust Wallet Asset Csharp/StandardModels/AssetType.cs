@@ -35,7 +35,6 @@
     public enum AssetType
     {
         Coin,
-        Smart_Contract,
         Erc20,
         Trc10,
         Trc20

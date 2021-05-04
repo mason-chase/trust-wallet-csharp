@@ -9,23 +9,24 @@ namespace TrustWallet.Asset.FolderModels
     /// Temporary test model to convert AssetSymbol to string before direct conversion
     /// due to limitation from Json Deserializer
     /// </summary>
-    public class CoinFolder
+    public class CoinFolder : Coin
     {
-        public string Name { get; set; }
-        public string Symbol { get; set; }
-        public byte Decimals { get; set; }
-        public string Description { get; set; }
-        public string ShortDescription { get; set; }
-        public Uri Website { get; set; }
-        public Uri SourceCode { get; set; }
-        public Uri WhitePaper { get; set; }
-        public Uri Research { get; set; }
-        public Uri Explorer { get; set; }
-        public AssetType Type { get; set; } // = AssetType.Coin;
-        public Social[] Socials { get; set; }
-        public string[] Tags { get; set; }
-        public string Status { get; set; }
+        public new string Symbol { get; set; }
         public byte[] LogoPng { get; set; }
-        public IList<Validator> Validators { get; set; }
+        public IList<Token> Tokens { get; set; }
+        public IList<TokenAsset> TokenAsset { get; set; }
+        public new IList<Validator> Validators { get; set; }
+        public override string ToString()
+        {
+            return $"Name: {Name}\n" +
+                $"Symbol: {Symbol}\n" +
+                $"Decimals: {Decimals}\n" +
+                $"Description: {Description}\n" +
+                $"ShortDescription: {ShortDescription}\n" +
+                $"Website: {Website}\n" +
+                $"SourceCode: {SourceCode}\n" +
+                $"WhitePaper: {WhitePaper}\n" +
+                $"Research: {Research}\n";
+        }
     }
 }

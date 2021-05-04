@@ -1,11 +1,16 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using TrustWallet.Asset.StandardModels;
 
-namespace TrustWallet.Asset.StandardModels
+namespace TrustWallet.Asset.FolderModels
 {
-    public interface IAsset
+    public interface IAssetString
     {
         public string Name { get; set; }
-        public AssetSymbol Symbol { get; set; }
+        public string Symbol { get; set; }
         public byte Decimals { get; set; }
         public string Description { get; set; }
         public string ShortDescription { get; set; }
@@ -16,9 +21,9 @@ namespace TrustWallet.Asset.StandardModels
         public Uri Research { get; set; }
         public Uri AuditReport { get; set; }
         public Uri DataSource { get; set; }
-        public AssetType Type { get; set; }
+        public string Type { get; set; }
         public Social[] Socials { get; set; }
-        public AssetStatus Status { get; set; }
+        public string Status { get; set; }
         public string[] Tags { get; set; }
     }
 }

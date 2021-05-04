@@ -2,10 +2,13 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text.RegularExpressions;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 using TrustWallet.Asset.FolderModels;
+using TrustWallet.Asset.StandardModels;
 using ValidatorDto = TrustWallet.Asset.FolderModels.Validator;
+using TokenStd = TrustWallet.Asset.StandardModels.Token;
 
 namespace TrustWallet.Asset.Utilities
 {
@@ -39,6 +42,24 @@ namespace TrustWallet.Asset.Utilities
             Formatting = Formatting.Indented,
             MissingMemberHandling = MissingMemberHandling.Error
         };
+
+        public static IDictionary<string, IAsset> GetAllAssets(IDictionary<string, BlockchainFolder> coins )
+        {
+            var coinsArray = coins.ToArray();
+            IDictionary<string, IAsset> assets = new Dictionary<string, IAsset>();
+            var coinMapper = Mappings.CoinMapperConfiguration.CreateMapper();
+            var tokenMapper = Mappings.ValidatorMapperConfiguration.CreateMapper();
+            foreach(var coin in coinsArray)
+            {
+                assets.Add(coin.Value.Coin.Symbol, coinMapper.Map<Coin>(coin.Value.Coin));
+                foreach(TokenAsset asset in coin.Value.Coin.TokenAsset)
+                {
+                    var token = tokenMapper.Map<TokenStd>(asset);
+                    assets.Add(asset.Symbol, token);
+                }
+            }
+            return assets;
+        }
         #endregion
 
         /// <summary>
@@ -51,10 +72,8 @@ namespace TrustWallet.Asset.Utilities
             string assetBlockchainsRoot = PathUtilities.RemoveFolder(BuildPath, 4) +
                                           $"{DS}assets{DS}blockchains";
 
-            //var files = Directory.EnumerateFiles(assetRoot, "*.*", SearchOption.TopDirectoryOnly).ToArray();
             var folders = Directory.GetDirectories(assetBlockchainsRoot, "*.*", SearchOption.TopDirectoryOnly).ToArray();
-            //.Where(x => x.EndsWith("base.json"));
-
+            
             Dictionary<string, BlockchainFolder> blockChainFolders = new ();
             Dictionary<string, BlockchainFolder> blockChainFoldersPending = new ();
             
@@ -78,8 +97,18 @@ namespace TrustWallet.Asset.Utilities
                         coinString.Validators = GetValidators($"{blockChainPath}{DS}validators");
                     }
 
+                    if (Directory.Exists($"{blockChainPath}{DS}assets"))
+                    {
+                        if (File.Exists($"{blockChainPath}{DS}assets{DS}info"))
+                        {
+                            var tokenFolder = GetTokenList($"{blockChainPath}");
+                            coinString.Tokens = tokenFolder.Tokens;
+                        }
+                        coinString.TokenAsset = GetTokenAssetList($"{blockChainPath}");
+                    }
+
                     blockChainFolders.Add(
-                    coinString.Symbol,
+                    coinString.Name.ToLower(),
                     new BlockchainFolder
                     {
                         Coin = coinString,
@@ -123,13 +152,56 @@ namespace TrustWallet.Asset.Utilities
             return validators;
         }
 
-        public static List<TokenFolder>
-        //public static ICollection<string, Coin)> MapCoin()
-        //{
-        //    IMapper iMapper = Mappings.MapperConfiguration.CreateMapper();
+        public static TokenList GetTokenList(string path)
+        {
 
-        //    Coin coin = iMapper.Map<CoinString, Coin>(coinString);
+            var tokenListJson = File.ReadAllText($"{path}{DS}tokenlist.json");
+            TokenList tokenList = JsonConvert.DeserializeObject<TokenList>(tokenListJson, JsonSettingsCamelCase);
 
-        //}
+            return tokenList;
+        }
+
+        /// <summary>
+        /// Read info.json and attach png and get address through folderpath.
+        /// </summary>
+        /// <param name="path"></param>
+        /// <returns></returns>
+        public static List<TokenAsset> GetTokenAssetList(string path)
+        {
+
+            var tokenAssetFiles = Directory.EnumerateFiles($"{path}{DS}assets", "info.json", SearchOption.AllDirectories).ToArray();
+            List<TokenAsset> tokenAssetList = new();
+            string infoJson;
+            string basePath;
+            foreach (string filePath in tokenAssetFiles)
+            {
+                infoJson = File.ReadAllText(filePath);
+                TokenAsset tokenAsset = null; 
+                try
+                {
+                    tokenAsset = JsonConvert.DeserializeObject<TokenAsset>(infoJson, JsonSettingsSnakeCase);
+                }
+                catch (JsonSerializationException ex)
+                {
+                    var message = ex.Message;
+                }
+                tokenAsset.Address = GetContractAddress(filePath);
+                basePath = PathUtilities.RemoveFolder(filePath, 1);
+                tokenAsset.LogoPng = File.ReadAllBytes($"{basePath}{DS}logo.png");
+                tokenAssetList.Add(tokenAsset);
+            }
+            return tokenAssetList;
+        }
+
+        /// <summary>
+        /// Get address part of folder path since not all info.json are included with address
+        /// </summary>
+        /// <param name="filepath"></param>
+        /// <returns></returns>
+        private static string GetContractAddress(string filepath)
+        {
+            string resultString = Regex.Match(filepath, @"\\assets\\(?<address>[^\\.]*?)\\info\.json$").Groups["address"].Value;
+            return resultString;
+        }
     }
 }

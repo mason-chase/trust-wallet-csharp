@@ -8,4 +8,12 @@ namespace TrustWallet.Asset.StandardModels
         public Uri Url { get; set; }
         public string Handle { get; set; }
     }
+
+    public enum SocialType
+    {
+        Twitter,
+        Telegram,
+        Facebook,
+        Discord
+    }
 }

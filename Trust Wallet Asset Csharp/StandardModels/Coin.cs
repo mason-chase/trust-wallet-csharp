@@ -19,6 +19,8 @@ namespace TrustWallet.Asset.StandardModels
         public Uri WhitePaper { get; set; }
         public Uri Research { get; set; }
         public Uri Explorer { get; set; }
+        public Uri AuditReport { get; set; }
+        public Uri DataSource { get; set; }
         public AssetType Type { get; set; } = AssetType.Coin;
         public Social[] Socials { get; set; }
         public string[] Tags { get; set; }
