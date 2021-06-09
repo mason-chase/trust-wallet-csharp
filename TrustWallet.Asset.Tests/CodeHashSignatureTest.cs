@@ -15,27 +15,20 @@ namespace TrustWallet.Asset.Tests
         public void GetSignaturesTest()
         {
             CodeSignatures signature = CodeSignatureService.GetSignatures();
-            string assetConstsCs = signature.AssetConstsCs.ToString();
-            string assetsDictCs = signature.AssetsDictCs.ToString();
-            Assert.Equal(
-                // Expected
-                SHA256.Create().ToString(),
-                // Calculated
-                assetConstsCs
-                );
+            Assert.True(!string.IsNullOrEmpty(signature.AssetConstsCs));
+            Assert.True(!string.IsNullOrEmpty(signature.AssetsDictCs));
         }
 
         [Fact]
-        public void SetSignaturesTest()
+        public void SaveSignaturesTest()
         {
             CodeSignatures signature = CodeSignatureService.GetSignatures();
-            string assetConstsCs = signature.AssetConstsCs.ToString();
-            Assert.Equal(
-                // Expected
-                SHA256.Create().ToString(),
-                // Calculated
-                assetConstsCs
-                );
+            CodeSignatureService.SaveSignatures(new()
+            {
+                AssetConstsCs = signature.AssetConstsCs,
+                AssetsDictCs = signature.AssetsDictCs
+            }
+            );
         }
     }
 }

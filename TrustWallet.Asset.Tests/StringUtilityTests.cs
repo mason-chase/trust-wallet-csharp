@@ -10,7 +10,7 @@ namespace TrustWallet.Asset.Tests
         [InlineData("_1BITCOIN_ETHEREUM_COINS","1Bitcoin Ethereum Coins")]
         public void ToConstantCase(string expected, string original)
         {
-            string calculated = original.ToConstantCase();
+            string calculated = original.ToConstantCase(true);
             Assert.Equal(expected, calculated);
         }
     }
