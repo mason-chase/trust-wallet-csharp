@@ -260,18 +260,10 @@ paket-files/
 __pycache__/
 *.pyc
 
-# Arzshomar setting
-Arzshomar.Identity.API/appsettings.json
-Arzshomar.Identity.API/appsettings.Mysql.json
-Arzshomar.Identity.API/appsettings.Development.json
-Arzshomar.Identity.API/appsettings.Mail.json
-Arzshomar.Identity.API/appsettings.Mailgun.json
-Arzshomar.Identity.API/appsettings.SmsRouter.json
+# VS Code settings
+/.vscode
 
-# Arzshomar front setting
-Arzshomar.Front/appsettings.json
-Arzshomar.Front/appsettings.Development.json
-
+# Docker settings
 /dockerdata/var/log/mysql/
 /.my.cnf
 /.env
@@ -279,6 +271,4 @@ Arzshomar.Front/appsettings.Development.json
 
 /dockerdata/phpmyadmin/config.user.inc.php
 /dockerdata/var/lib/mysql/
-
-
 

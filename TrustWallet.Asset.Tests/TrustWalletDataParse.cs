@@ -4,20 +4,43 @@ using TrustWallet.Asset.Utilities;
 using TrustWallet.Asset.FolderModels;
 using Xunit.Abstractions;
 using System.Linq;
-using System;
+using RoslynCore;
+using TrustWallet.Asset.Data;
 using TrustWallet.Asset.StandardModels;
+using Microsoft.CodeAnalysis;
+using Microsoft.CodeAnalysis.CSharp;
+using Microsoft.CodeAnalysis.CSharp.Syntax;
+using System.IO;
+using TrustWallet.Asset.Services;
+using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.DependencyInjection;
+using Divergic.Logging.Xunit;
+using Xunit.DependencyInjection.Logging;
+using Xunit.DependencyInjection;
 
 namespace TrustWallet.Asset.Tests
 {
     public class TrustWalletDataParse
     {
         private ITestOutputHelper OutputHelper { get; }
-        public TrustWalletDataParse(ITestOutputHelper outputHelper)
+
+        // Implementing further logging with LoggerFactory
+        //private readonly ILogger Logger;
+        //private ServiceProvider ServiceProvider { get; }
+
+        public TrustWalletDataParse(ITestOutputHelper outputHelper/*, ILoggerFactory loggerFactory*/)
         {
             OutputHelper = outputHelper;
+
+            //var services = new ServiceCollection()
+            //                   .AddLogging(logging => logging.AddProvider(loggerProvider))
+            //                   .BuildServiceProvider();
+            //Logger = services.GetRequiredService<ILogger<TrustWalletDataParse>>();
+            //var serviceCollection = new ServiceCollection();
+            //serviceCollection.AddLogging();
+            //ServiceProvider = serviceCollection.BuildServiceProvider();
         }
-            
-        
+
         /// <summary>
         /// A) Parse blockchain folders
         /// B) Parse Validators
@@ -27,31 +50,15 @@ namespace TrustWallet.Asset.Tests
         [Fact]
         public void TrustWalletJsonParseTest()
         {
-            IDictionary<string, BlockchainFolder> blockchains;
-            IDictionary<string, BlockchainFolder> blockchainsPending;
-            (blockchains, blockchainsPending) = TwFolderTool.GetBlockChainFolder();
-
-            //() = TwFolderTool.GetBlockChainFolder();
-
-            IDictionary<string, IAsset> assets = TwFolderTool.GetAllAssets(blockchains);
-
-            OutputHelper.WriteLine($"Parsed {blockchains.Count} blockchain");
-
-            blockchains.Select(x => x.Value).ToList().ForEach(delegate (BlockchainFolder folder)
-            {
-                OutputHelper.WriteLine(folder.ToString());
-            }) ;
-            //OutputHelper.WriteLine(blockchains.Select(x => x.Value).ToArray().ToString());
+            //MigrationService migrationService = ServiceProvider.GetService<MigrationService>();
+            MigrationService migrationService = new(OutputHelper.BuildLoggerFor<MigrationService>());
+            migrationService.Rebuild();
         }
 
         [Fact]
         public void GenerateAssetSymbols()
         {
-            
+            //Assert.Equal(AssetSymbols.BTC_BITCOIN, Assets.Dict[AssetSymbols.BTC_BITCOIN].Symbol);
         }
-
-
     }
-
-
 }
