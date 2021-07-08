@@ -1,18 +1,15 @@
 ﻿using System.Text;
+using TrustWallet.Asset.Tests.Abstracts;
 using TrustWallet.Asset.Utilities;
 using Xunit;
 using Xunit.Abstractions;
 
 namespace TrustWallet.Asset.Tests
 {
-    public class Sha256Tests
+    public class Sha256Tests : TestBase
     {
-        private ITestOutputHelper OutputHelper { get; }
-
-        public Sha256Tests(ITestOutputHelper outputHelper)
-        {
-            OutputHelper = outputHelper;
-        }
+        
+        public Sha256Tests(ITestOutputHelper outputHelper) : base(outputHelper) { }
 
         [Theory]
         [InlineData("test", "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08")]

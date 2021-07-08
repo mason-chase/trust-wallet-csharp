@@ -14,7 +14,7 @@ namespace TrustWallet.Asset.Tests
         public void GetSignaturesTest()
         {
             CodeSignatures signature = CodeSignatureService.GetSignatures();
-            Assert.True(!string.IsNullOrEmpty(signature.AssetConstsCs));
+            Assert.True(!string.IsNullOrEmpty(signature.AssetsConstsCs));
             Assert.True(!string.IsNullOrEmpty(signature.AssetsDictCs));
         }
 
@@ -24,7 +24,7 @@ namespace TrustWallet.Asset.Tests
             CodeSignatures signature = CodeSignatureService.GetSignatures();
             CodeSignatureService.SaveSignatures(new()
             {
-                AssetConstsCs = signature.AssetConstsCs,
+                AssetsConstsCs = signature.AssetsConstsCs,
                 AssetsDictCs = signature.AssetsDictCs
             }
             );

@@ -5,7 +5,16 @@ VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrustWallet.Asset", "TrustWallet.Asset\TrustWallet.Asset.csproj", "{63A3295C-A2CF-4A3D-AA9C-B831F9DAD0E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrustWallet.Asset.Tests", "TrustWallet.Asset.Tests\TrustWallet.Asset.Tests.csproj", "{E7B00881-915F-4D34-9531-59B0FC62AFD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrustWallet.Asset.Tests", "TrustWallet.Asset.Tests\TrustWallet.Asset.Tests.csproj", "{E7B00881-915F-4D34-9531-59B0FC62AFD5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TrustWallet.Asset.Root", "TrustWallet.Asset.Root", "{438EC241-EA51-46D9-B9A2-99B618F08AEA}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		.gitmodules = .gitmodules
+		.travis.yml = .travis.yml
+		readme.md = readme.md
+		readme.template.md = readme.template.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

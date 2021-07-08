@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using TrustWallet.Asset.Data;
 using TrustWallet.Asset.Exceptions;
 
 namespace TrustWallet.Asset.ModelsStandard.AssetProperties
@@ -49,5 +50,8 @@ namespace TrustWallet.Asset.ModelsStandard.AssetProperties
 
             throw new InvalidAssetSymbolException();
         }
+
+        // Todo: Auto Generate
+        public AssetSymbol BITCOIN => new("BTC_BITCOIN");
     }
 }

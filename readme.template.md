@@ -6,6 +6,6 @@ the aim of this project is to validate all submited data and ensure Symbols are 
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-|   |   |   |   |   |
+| a| b  |  c |   | ![img](TrustWallet.Asset/Data/Logos/BTC_BTC.png) <img src="TrustWallet.Asset/Data/Logos/BTC_BTC.png" width="32" height="32" />  |
 |   |   |   |   |   |
 |   |   |   |   |   |

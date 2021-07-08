@@ -7,6 +7,7 @@ namespace TrustWallet.Asset.ModelsStandard
 {
     public class TokenAsset : IAssetString
     {
+        public string Blockchain { get; set; }
         public string Id { get; set; }
         public string Name { get; set; }
         public string Address { get; set; }
@@ -23,11 +24,12 @@ namespace TrustWallet.Asset.ModelsStandard
         public Uri AuditReport { get; set; }
         public Uri DataSource { get; set; }
         public string Type { get; set; }
-        public Social[] Socials { get; set; } = Array.Empty<Social>();
+        public Link[] Links { get; set; } = Array.Empty<Link>();
         public ActiveStatus Status { get; set; }
         public string[] Tags { get; set; } = Array.Empty<string>();
         public byte[] LogoPng { get; set; }
-        public IList<TokenListing> TokenListings { get; set; } = new List<TokenListing>();
+        public IList<IListing> Listings { get; set; }
+        public IList<TokenListing> TokenListings { get; set; }
         public IList<BlockchainListing> Blockchains { get; set; } = new List<BlockchainListing>();
     }
 }

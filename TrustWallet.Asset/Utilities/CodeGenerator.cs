@@ -15,10 +15,10 @@ namespace TrustWallet.Asset.Utilities
         /// </summary>
         /// <param name="assetStrings"></param>
         /// <returns></returns>
-        public static (string, string) GenAssetSymbols(IList<IAssetString> assetStrings)
+        public static (string, string) GenAssetsSymbols(IList<IAssetString> assetStrings)
         {
-            StringBuilder assetSymbols = new();
-            assetSymbols.Append(GetAssetSymbolsHeader());
+            StringBuilder assetsSymbols = new();
+            assetsSymbols.Append(GetAssetsSymbolsHeader());
 
             StringBuilder assetsDict = new();
             assetsDict.Append(GetAssetDictHeader());
@@ -26,30 +26,30 @@ namespace TrustWallet.Asset.Utilities
             foreach (IAssetString asset in assetStrings)
             {
                 string constAsset = asset.Symbol.ToConstantCase(true) + "_" + asset.Name.ToConstantCase();
-                assetSymbols.Append(GetAssetSymbolsConsts(asset.Name, ref constAsset));
+                assetsSymbols.Append(GetAssetsSymbolsConsts(asset.Name, ref constAsset));
                 assetsDict.Append(GetAssetDict(asset, ref constAsset));
             }
 
-            assetSymbols.Append(GetAssetSymbolsFooter());
+            assetsSymbols.Append(GetAssetsSymbolsFooter());
             assetsDict.Append(GetAssetDictFooter());
 
-            return (assetSymbols.ToString(), assetsDict.ToString());
+            return (assetsSymbols.ToString(), assetsDict.ToString());
         }
 
         /// <summary>
-        /// Refer toAssetSymbols Sample
+        /// Refer toAssetsSymbols Sample
         /// </summary>
         /// <returns></returns>
-        private static string GetAssetSymbolsHeader()
+        private static string GetAssetsSymbolsHeader()
         {
             return @"namespace TrustWallet.Asset.Data
 {
-    public static class AssetSymbols
+    public static class AssetsConsts
     {
 ";
         }
 
-        private static string GetAssetSymbolsConsts(string name, ref string constAsset)
+        private static string GetAssetsSymbolsConsts(string name, ref string constAsset)
         {
             
             return  "        /// <summary>\n" +
@@ -58,7 +58,7 @@ namespace TrustWallet.Asset.Utilities
                    @$"        public const string {constAsset} = ""{constAsset}"";"+"\n\n";
         }
 
-        private static string GetAssetSymbolsFooter()
+        private static string GetAssetsSymbolsFooter()
         {
             return @"
     }
@@ -75,7 +75,9 @@ namespace TrustWallet.Asset.Utilities
             return @"using System;
 using System.IO;
 using System.Collections.Generic;
-using TrustWallet.Asset.StandardModels;
+using TrustWallet.Asset.ModelsStandard;
+using TrustWallet.Asset.ModelsStandard.AssetProperties;
+using TrustWallet.Asset.ModelsStandard.Interfaces;
 
 namespace TrustWallet.Asset.Data
 {
@@ -97,36 +99,33 @@ namespace TrustWallet.Asset.Data
             StringBuilder assetDictItem = new();
             assetDictItem.Append(@$"
             assets.Add(
-                AssetSymbols.{constAsset},
+                AssetsConsts.{constAsset},
                 new Coin
                 {{
                     Name = @""{asset.Name.EscapeQuotes()}"",
                     Code = ""{asset.Symbol}"",
-                    Symbol = AssetSymbol.FromString( AssetSymbols.{constAsset}),
+                    Symbol = AssetSymbol.FromString( AssetsConsts.{constAsset}),
                     Website = " + asset.Website.ToCodeString() + @$",
-                    SourceCode = " + asset.SourceCode.ToCodeString() + @$",
-                    WhitePaper = " + asset.WhitePaper.ToCodeString() + @$",
                     Description = @""{asset.Description.EscapeQuotes() }"",
                     ShortDescription = ""{asset.ShortDescription}"",
                     Explorer = " + asset.Explorer.ToCodeString() + @$",
                     Research = " + asset.Research.ToCodeString() + @$",
                     Decimals = {asset.Decimals},
                     Status = AssetStatus.{asset.Status},
-                    LogoPng = File.ReadAllBytes(AssetSymbols.{constAsset}+ "".png""),");
-            if (asset.Socials.Length > 0)
+                    LogoPng = File.ReadAllBytes(AssetsConsts.{constAsset}+ "".png""),");
+            if (asset.Links.Length > 0)
             {
                 assetDictItem.Append(@"
-                    Socials = new Social[] {
+                    Links = new Link[] {
 ");
 
                 StringBuilder socialSb = new();
-                foreach (Social social in asset.Socials)
+                foreach (Link social in asset.Links)
                 {
                     socialSb.Append(@$"
-                        new Social {{
+                        new Link {{
                             Name = ""{social.Name}"",
-                            Url = new Uri(""{social.Url}""),
-                            Handle = ""{social.Handle}""
+                            Url = new Uri(""{social.Url}"")
                         }},");
                 }
                 assetDictItem.Append(socialSb.ToString().TrimEnd(new char[] { ',' }));
@@ -135,7 +134,7 @@ namespace TrustWallet.Asset.Data
             }
             else
                 assetDictItem.Append(@"
-                    Socials = Array.Empty<Social>(),");
+                    Links = Array.Empty<Link>(),");
 
             // trim trailing comma and append to code
             if (asset.Tags.Length > 0)

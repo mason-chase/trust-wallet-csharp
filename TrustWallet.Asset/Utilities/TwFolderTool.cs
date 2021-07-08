@@ -9,6 +9,7 @@ using TrustWallet.Asset.ModelsFolder;
 using TrustWallet.Asset.ModelsStandard;
 using TrustWallet.Asset.ModelsStandard.CoinProperties;
 using TrustWallet.Asset.ModelsStandard.Interfaces;
+using TrustWallet.Asset.Utilities.Exceptions;
 
 namespace TrustWallet.Asset.Utilities
 {
@@ -16,7 +17,7 @@ namespace TrustWallet.Asset.Utilities
     {
         private static char DS { get; } = Path.DirectorySeparatorChar;
         private static string BuildPath { get; } = Directory.GetCurrentDirectory();
-        
+
         #region Parse json settings
         /// <summary>
         /// Parse json settings
@@ -46,46 +47,44 @@ namespace TrustWallet.Asset.Utilities
         public static IDictionary<string, IAssetString> GetAllAssetsString(IDictionary<string, BlockchainFolder> coins)
         {
             var coinsArray = coins.ToArray();
-            IDictionary<string, IAssetString> assetsUnique = new Dictionary<string, IAssetString>();
-            IDictionary<string, IAssetString> assetsRepeated = new Dictionary<string, IAssetString>();
-            IDictionary<TokenId, IAssetString> assetsDict = new Dictionary<TokenId, IAssetString>();
-            foreach (var coin in coinsArray)
-            {
-                assetsDict.Add(new TokenId
-                {
-                    Name = coin.Value.Coin.Name,
-                    Symbol = coin.Value.Coin.Symbol
-                }, coin.Value.Coin );
+            IDictionary<string, IAssetString> assetsDict = new Dictionary<string, IAssetString>();
 
+            foreach (KeyValuePair<string, BlockchainFolder> assetKey in coinsArray)
+            {
+                assetKey.Value.Coin.Listings = new List<IListing> { new BlockchainListing(assetKey.Value.Coin.Code, assetKey.Value.Coin.Name) };
+                assetsDict.Add(GetAssetsSymbol(assetKey.Value.Coin), assetKey.Value.Coin);
+            }
+
+            foreach (KeyValuePair<string, BlockchainFolder> coin in coinsArray)
+            {
                 foreach (TokenAsset token in coin.Value.Coin.TokenAsset)
                 {
-                    token.SymbolConst = $"{token.Symbol.ToConstantCase()}_{token.Name.ToConstantCase()}";
+                    token.SymbolConst = GetAssetsSymbol(token);
 
-                    assetsDict.Add(new TokenId
+                    if (assetsDict.ContainsKey(token.SymbolConst))
                     {
-                        Symbol = token.Symbol,
-                        Name = token.Name
-                    }, token); 
-
-                    if (assetsUnique.ContainsKey(token.SymbolConst))
-                    {
-                        assetsUnique.First(x => x.Key == token.SymbolConst).Value.TokenListings.Add(new TokenListing { 
-                            Blockchain = coin.Value.Coin.Code,
-                            SmartContractType = token.Type,
-                            Id = token.Id
-                        });
+                        assetsDict.First(x => x.Key == token.SymbolConst)
+                                  .Value
+                                  .TokenListings.Add( new TokenListing(token.Blockchain, token.Type, token.Id) );
                     }
                     else
-                        assetsUnique.Add(token.SymbolConst, token );
+                    {
+                        token.TokenListings = new List<TokenListing>() { new TokenListing( token.Blockchain, token.Type, token.Id) };
+                        assetsDict.Add(token.SymbolConst, token);
+                    }
                 }
             }
-            return assetsUnique;
+            return assetsDict;
         }
 
-        public class TokenId
+        public static string GetAssetsSymbol(IAssetString asset)
         {
-            public string Symbol { get; set; }
-            public string Name { get; set; }
+            string symbolConst = asset.Symbol.ToConstantCase();
+
+            if (symbolConst.Length == 0)
+                throw new BadSymbolNameException(asset);
+
+            return $"{symbolConst}_{asset.Name.ToConstantCase()}";
         }
         #endregion
 
@@ -100,25 +99,34 @@ namespace TrustWallet.Asset.Utilities
                                           $"{DS}assets{DS}blockchains";
 
             var folders = Directory.GetDirectories(assetBlockchainsRoot, "*.*", SearchOption.TopDirectoryOnly).ToArray();
-            
-            Dictionary<string, BlockchainFolder> blockChainFolders = new ();
-            Dictionary<string, BlockchainFolder> blockChainFoldersPending = new ();
-            
+
+            Dictionary<string, BlockchainFolder> blockChainFolders = new();
+            Dictionary<string, BlockchainFolder> blockChainFoldersPending = new();
+
             foreach (string blockChainPath in folders)
             {
-                var blockChainFiles = Directory.EnumerateFiles(blockChainPath, "*.json", SearchOption.AllDirectories).ToArray();
-                var infoJson = File.ReadAllText($"{blockChainPath}{DS}info{DS}info.json");
+                string[] blockChainFiles = Directory.EnumerateFiles(blockChainPath, "*.json", SearchOption.AllDirectories).ToArray();
+                string fileFullPath = $"{blockChainPath}{DS}info{DS}info.json";
+                string infoJson = File.ReadAllText(fileFullPath);
 
-                // Apparently .NET Json serializer is very lousy and is not able to understand snakeCase
-                //Coin coin = JsonSerializer.Deserialize<Coin>(infoJson,  serializeOptions);
-                CoinFolder coinString = JsonConvert.DeserializeObject<CoinFolder>(infoJson, JsonSettingsSnakeCase);
+                CoinFolder coinString;
+                try
+                {
+                    coinString = JsonConvert.DeserializeObject<CoinFolder>(infoJson, JsonSettingsSnakeCase);
+
+                }
+                catch (JsonSerializationException ex)
+                {
+                    throw new BadJsonFileException(ex.Message, fileFullPath, infoJson);
+                }
+
                 if (coinString is null)
                     throw new NullReferenceException($"Check json file: {blockChainPath}{DS}info{DS}info.json \n" +
                                                      $"content was parsed as : {infoJson}");
 
                 coinString.Code = GetBlockchainCode(blockChainPath);
                 coinString.LogoPng = File.ReadAllBytes($"{blockChainPath}{DS}info{DS}logo.png");
-                if (!string.IsNullOrEmpty( coinString.Symbol))
+                if (!string.IsNullOrEmpty(coinString.Symbol))
                 {
                     if (Directory.Exists($"{blockChainPath}{DS}validators"))
                     {
@@ -161,7 +169,7 @@ namespace TrustWallet.Asset.Utilities
                 }
             }
 
-            return (blockChainFolders,blockChainFoldersPending);
+            return (blockChainFolders, blockChainFoldersPending);
         }
 
         /// <summary>
@@ -203,21 +211,21 @@ namespace TrustWallet.Asset.Utilities
             List<TokenAsset> tokenAssetList = new();
             string infoJson;
             string basePath;
-            foreach (string filePath in tokenAssetFiles)
+            foreach (string fileFullPath in tokenAssetFiles)
             {
-                infoJson = File.ReadAllText(filePath);
-                TokenAsset tokenAsset = null; 
+                infoJson = File.ReadAllText(fileFullPath);
+                TokenAsset tokenAsset = null;
                 try
                 {
                     tokenAsset = JsonConvert.DeserializeObject<TokenAsset>(infoJson, JsonSettingsSnakeCase);
                 }
-                catch (JsonSerializationException ex)
+                catch (Exception ex) when (ex is JsonReaderException || ex is JsonSerializationException)
                 {
-                    var message = ex.Message;
-                    //throw;
+                    throw new BadJsonFileException(ex.Message, fileFullPath, infoJson);
                 }
-                tokenAsset.Address = GetContractAddress(filePath);
-                basePath = PathUtilities.RemoveFolder(filePath, 1);
+                tokenAsset.Blockchain = GetBlockchainCode(fileFullPath);
+                tokenAsset.Address = GetContractAddress(fileFullPath);
+                basePath = PathUtilities.RemoveFolder(fileFullPath, 1);
                 tokenAsset.LogoPng = File.ReadAllBytes($"{basePath}{DS}logo.png");
                 if (string.IsNullOrEmpty(tokenAsset.Symbol))
                     throw new ArgumentNullException($"symbol is null: {tokenAsset.Symbol}");
@@ -229,7 +237,7 @@ namespace TrustWallet.Asset.Utilities
 
         private static string GetBlockchainCode(string filepath)
         {
-            string resultString = Regex.Match(filepath, @"[\\|/]assets[\\|/]blockchains[\\|/](?<folderName>.*?)$").Groups["folderName"].Value;
+            string resultString = Regex.Match(filepath, @"[\\|/]assets[\\|/]blockchains[\\|/](?<folderName>\w{1,})").Groups["folderName"].Value;
             return resultString;
         }
 

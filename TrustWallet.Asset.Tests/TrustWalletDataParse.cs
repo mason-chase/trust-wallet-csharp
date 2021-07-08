@@ -1,29 +1,17 @@
 using Xunit;
 using Xunit.Abstractions;
 using TrustWallet.Asset.Services;
+using TrustWallet.Asset.Tests.Abstracts;
 
 namespace TrustWallet.Asset.Tests
 {
-    public class TrustWalletDataParse
+    public class TrustWalletDataParse : TestBase
     {
-        private ITestOutputHelper OutputHelper { get; }
-
         // Implementing further logging with LoggerFactory
         //private readonly ILogger Logger;
         //private ServiceProvider ServiceProvider { get; }
 
-        public TrustWalletDataParse(ITestOutputHelper outputHelper/*, ILoggerFactory loggerFactory*/)
-        {
-            OutputHelper = outputHelper;
-
-            //var services = new ServiceCollection()
-            //                   .AddLogging(logging => logging.AddProvider(loggerProvider))
-            //                   .BuildServiceProvider();
-            //Logger = services.GetRequiredService<ILogger<TrustWalletDataParse>>();
-            //var serviceCollection = new ServiceCollection();
-            //serviceCollection.AddLogging();
-            //ServiceProvider = serviceCollection.BuildServiceProvider();
-        }
+        public TrustWalletDataParse(ITestOutputHelper outputHelper) : base(outputHelper) { }
 
         /// <summary>
         /// A) Parse blockchain folders

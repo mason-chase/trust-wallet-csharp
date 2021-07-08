@@ -15,14 +15,12 @@ namespace TrustWallet.Asset.ModelsStandard.Interfaces
         public string Description { get; set; }
         public string ShortDescription { get; set; }
         public Uri Website { get; set; }
-        public Uri SourceCode { get; set; }
-        public Uri WhitePaper { get; set; }
         public Uri Explorer { get; set; }
         public Uri Research { get; set; }
         public Uri AuditReport { get; set; }
         public Uri DataSource { get; set; }
         public AssetType Type { get; set; }
-        public Social[] Socials { get; set; }
+        public Link[] Links { get; set; }
         public AssetStatus Status { get; set; }
         public string[] Tags { get; set; }
         public byte[] LogoPng { get; set; }

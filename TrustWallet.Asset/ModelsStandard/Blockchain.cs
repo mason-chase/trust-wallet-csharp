@@ -1,9 +1,13 @@
 ﻿namespace TrustWallet.Asset.ModelsStandard
 {
-    public class Blockchain
+    public partial class Blockchain
     {
-        public string Code { get; set; }
-        public string Name { get; set; }
-        public byte Decimal { get; set; }
+        private Blockchain(string code)
+        {
+            Code = code;
+        }
+        public string Code { get; }
+        public string Name { get; }
+        public byte Decimal { get; }
     }
 }

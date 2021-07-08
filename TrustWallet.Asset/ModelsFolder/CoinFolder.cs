@@ -14,8 +14,9 @@ namespace TrustWallet.Asset.ModelsFolder
     {
         public new string Symbol { get; set; }
         public IList<Token> Tokens { get; set; }
-        public IList<TokenListing> TokenListings { get; set; }
-        public IList<BlockchainListing> Blockchains { get; set; }
+        public IList<IListing> Listings { get; set; }
+        public IList<TokenListing> TokenListings { get; set; } = new List<TokenListing>();
+        public IList<BlockchainListing> Blockchains { get; set; } = new List<BlockchainListing>();
         string IAssetString.Type { get; set; } = "Blockchain";
         ActiveStatus IAssetString.Status { get; set; } = ActiveStatus.Active;
 
@@ -27,8 +28,6 @@ namespace TrustWallet.Asset.ModelsFolder
                 $"Description: {Description}\n" +
                 $"ShortDescription: {ShortDescription}\n" +
                 $"Website: {Website}\n" +
-                $"SourceCode: {SourceCode}\n" +
-                $"WhitePaper: {WhitePaper}\n" +
                 $"Research: {Research}\n";
         }
     }

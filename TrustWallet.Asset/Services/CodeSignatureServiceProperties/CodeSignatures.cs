@@ -6,6 +6,6 @@ namespace TrustWallet.Asset.Services.CodeSignatureServiceProperties
     public class CodeSignatures
     {
         public string AssetsDictCs { get; set; }
-        public string AssetConstsCs { get; set; }
+        public string AssetsConstsCs { get; set; }
     }
 }

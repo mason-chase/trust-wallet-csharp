@@ -1,6 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using TrustWallet.Asset.Services.CodeSignatureServiceProperties;
 using static TrustWallet.Asset.Data.Settings;
 
@@ -32,12 +33,15 @@ namespace TrustWallet.Asset.Services
         {
             string signatureJson = File.ReadAllText($"{DataPath}{DS}{LOGO_HASHES_JSON}");
             Dictionary<string, string> logoHashes = JsonConvert.DeserializeObject<Dictionary<string, string>>(signatureJson);
+            if (logoHashes is null)
+                logoHashes = new() { };
+
             return logoHashes;
         }
 
         public static void SaveLogoHashes(Dictionary<string, string> logoHashesString)
         {
-            string logoHashes = JsonConvert.SerializeObject(logoHashesString);
+            string logoHashes = JsonConvert.SerializeObject(logoHashesString.OrderBy(key => key.Key), Formatting.Indented);
             File.WriteAllText($"{LogoPath}{DS}{LOGO_HASHES_JSON}", logoHashes);
         }
     }
