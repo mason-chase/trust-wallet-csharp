@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
-using TrustWallet.Asset.FolderModels;
-using TrustWallet.Asset.StandardModels;
+using TrustWallet.Asset.ModelsFolder;
+using TrustWallet.Asset.ModelsStandard;
+using TrustWallet.Asset.ModelsStandard.AssetProperties;
 
 namespace TrustWallet.Asset.Utilities
 {

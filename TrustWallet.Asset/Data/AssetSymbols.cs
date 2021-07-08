@@ -12753,9 +12753,9 @@ namespace TrustWallet.Asset.Data
         public const string MHEC_MHEALTHCOIN = "MHEC_MHEALTHCOIN";
 
         /// <summary>
-        /// BTC
+        /// Bitcoin ERC20 Tokens
         /// </summary>
-        public const string BTC_BTC = "BTC_BTC";
+        public const string BTC_BITCOIN_ERC20_TOKENS = "BTC_BITCOIN_ERC20_TOKENS";
 
         /// <summary>
         /// INS Token

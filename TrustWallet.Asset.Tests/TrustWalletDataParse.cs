@@ -1,22 +1,6 @@
-using System.Collections.Generic;
 using Xunit;
-using TrustWallet.Asset.Utilities;
-using TrustWallet.Asset.FolderModels;
 using Xunit.Abstractions;
-using System.Linq;
-using RoslynCore;
-using TrustWallet.Asset.Data;
-using TrustWallet.Asset.StandardModels;
-using Microsoft.CodeAnalysis;
-using Microsoft.CodeAnalysis.CSharp;
-using Microsoft.CodeAnalysis.CSharp.Syntax;
-using System.IO;
 using TrustWallet.Asset.Services;
-using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.DependencyInjection;
-using Divergic.Logging.Xunit;
-using Xunit.DependencyInjection.Logging;
-using Xunit.DependencyInjection;
 
 namespace TrustWallet.Asset.Tests
 {

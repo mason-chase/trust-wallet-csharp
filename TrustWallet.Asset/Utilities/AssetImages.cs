@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using TrustWallet.Asset.Data;
-using TrustWallet.Asset.FolderModels;
+using TrustWallet.Asset.ModelsStandard.Interfaces;
 using TrustWallet.Asset.Services;
 using static TrustWallet.Asset.Data.Settings;
 

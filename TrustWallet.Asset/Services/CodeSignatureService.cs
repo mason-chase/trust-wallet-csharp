@@ -12,12 +12,12 @@ namespace TrustWallet.Asset.Services
     /// </summary>
     public static class CodeSignatureService
     {
-        private const  string CodeHashSignatureJson = "CodeSignatures.json";
-        private const  string LogoHashesJson = "LogoHashes.json";
+        private const  string CODE_HASH_SIGNATURE_JSON = "CodeSignatures.json";
+        private const  string LOGO_HASHES_JSON = "LogoHashes.json";
 
         public static CodeSignatures GetSignatures()
         {
-            string signatureJson = File.ReadAllText($"{DataPath}{DS}{CodeHashSignatureJson}");
+            string signatureJson = File.ReadAllText($"{DataPath}{DS}{CODE_HASH_SIGNATURE_JSON}");
             CodeSignatures codeHashSignature = JsonConvert.DeserializeObject<CodeSignatures>(signatureJson);
             return codeHashSignature;
         }
@@ -25,12 +25,12 @@ namespace TrustWallet.Asset.Services
         public static void SaveSignatures(CodeSignatures codeSignature)
         {
             string codeHashSignature = JsonConvert.SerializeObject(codeSignature, Formatting.Indented);
-            File.WriteAllText($"{DataPath}{DS}{CodeHashSignatureJson}", codeHashSignature);
+            File.WriteAllText($"{DataPath}{DS}{CODE_HASH_SIGNATURE_JSON}", codeHashSignature);
         }
 
         public static Dictionary<string, string> GetLogoHashes()
         {
-            string signatureJson = File.ReadAllText($"{DataPath}{DS}{LogoHashesJson}");
+            string signatureJson = File.ReadAllText($"{DataPath}{DS}{LOGO_HASHES_JSON}");
             Dictionary<string, string> logoHashes = JsonConvert.DeserializeObject<Dictionary<string, string>>(signatureJson);
             return logoHashes;
         }
@@ -38,7 +38,7 @@ namespace TrustWallet.Asset.Services
         public static void SaveLogoHashes(Dictionary<string, string> logoHashesString)
         {
             string logoHashes = JsonConvert.SerializeObject(logoHashesString);
-            File.WriteAllText($"{LogoPath}{DS}{LogoHashesJson}", logoHashes);
+            File.WriteAllText($"{LogoPath}{DS}{LOGO_HASHES_JSON}", logoHashes);
         }
     }
 

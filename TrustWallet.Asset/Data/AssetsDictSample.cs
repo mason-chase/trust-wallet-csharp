@@ -1,7 +1,10 @@
 ﻿using System;
 using System.IO;
 using System.Collections.Generic;
-using TrustWallet.Asset.StandardModels;
+using TrustWallet.Asset.ModelsStandard;
+using TrustWallet.Asset.ModelsStandard.AssetProperties;
+using TrustWallet.Asset.ModelsStandard.Interfaces;
+using AssetSymbols = TrustWallet.Asset.Data.AssetSymbolsSample;
 
 namespace TrustWallet.Asset.Data
 {

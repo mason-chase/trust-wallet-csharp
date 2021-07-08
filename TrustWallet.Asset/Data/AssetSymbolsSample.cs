@@ -1,4 +1,4 @@
-﻿namespace TrustWallet.Asset.StandardModels
+﻿namespace TrustWallet.Asset.Data
 {
     public static class AssetSymbolsSample
     {

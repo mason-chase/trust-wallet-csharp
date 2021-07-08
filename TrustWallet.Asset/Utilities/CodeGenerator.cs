@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Text;
-using TrustWallet.Asset.FolderModels;
-using TrustWallet.Asset.StandardModels;
+using TrustWallet.Asset.ModelsStandard;
+using TrustWallet.Asset.ModelsStandard.Interfaces;
 
 namespace TrustWallet.Asset.Utilities
 {

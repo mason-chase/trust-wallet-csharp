@@ -7,13 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Data\Jsons\**" />
     <Compile Remove="Data\Logos\**" />
+    <EmbeddedResource Remove="Data\Jsons\**" />
     <EmbeddedResource Remove="Data\Logos\**" />
+    <None Remove="Data\Jsons\**" />
     <None Remove="Data\Logos\**" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Data\Jsons\" />
   </ItemGroup>
 
   <ItemGroup>

@@ -1,8 +1,6 @@
 ﻿using TrustWallet.Asset.Exceptions;
-using TrustWallet.Asset.StandardModels;
-using TrustWallet.Asset.Data;
+using TrustWallet.Asset.ModelsStandard.AssetProperties;
 using Xunit;
-using Divergic.Logging.Xunit;
 
 namespace TrustWallet.Asset.Tests
 {

@@ -1,5 +1,4 @@
-﻿using System.Security.Cryptography;
-using TrustWallet.Asset.Services;
+﻿using TrustWallet.Asset.Services;
 using TrustWallet.Asset.Services.CodeSignatureServiceProperties;
 using Xunit;
 

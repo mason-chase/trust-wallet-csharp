@@ -5,9 +5,10 @@ using System.Linq;
 using System.Text.RegularExpressions;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
-using TrustWallet.Asset.FolderModels;
-using TrustWallet.Asset.StandardModels;
-using TrustWallet.Asset.StandardModels.CoinProperties;
+using TrustWallet.Asset.ModelsFolder;
+using TrustWallet.Asset.ModelsStandard;
+using TrustWallet.Asset.ModelsStandard.CoinProperties;
+using TrustWallet.Asset.ModelsStandard.Interfaces;
 
 namespace TrustWallet.Asset.Utilities
 {
