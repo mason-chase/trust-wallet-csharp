@@ -26,11 +26,5 @@ namespace TrustWallet.Asset.Tests
             MigrationService migrationService = new(OutputHelper.BuildLoggerFor<MigrationService>());
             migrationService.Rebuild();
         }
-
-        [Fact]
-        public void GenerateAssetSymbols()
-        {
-            //Assert.Equal(AssetSymbols.BTC_BITCOIN, Assets.Dict[AssetSymbols.BTC_BITCOIN].Symbol);
-        }
     }
 }
