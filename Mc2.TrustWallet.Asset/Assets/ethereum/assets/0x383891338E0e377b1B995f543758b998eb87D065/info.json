@@ -1,0 +1,18 @@
+{
+  "id": "0x383891338E0e377b1B995f543758b998eb87D065",
+  "address": "0x383891338E0e377b1B995f543758b998eb87D065",
+  "blockchain": "ethereum",
+  "name": "GBHub Pro",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x383891338E0e377b1B995f543758b998eb87D065",
+  "research": null,
+  "symbol": "GBP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

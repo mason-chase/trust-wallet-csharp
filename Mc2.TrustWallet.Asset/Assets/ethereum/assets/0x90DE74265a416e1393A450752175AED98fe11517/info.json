@@ -1,0 +1,27 @@
+{
+  "id": "0x90DE74265a416e1393A450752175AED98fe11517",
+  "address": "0x90DE74265a416e1393A450752175AED98fe11517",
+  "blockchain": "ethereum",
+  "name": "Unlock Protocol",
+  "website": "https://unlock-protocol.com/",
+  "description": "Unlock lets you easily lock and manage access to your content, apps, community and even real life events and spaces.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x90de74265a416e1393a450752175aed98fe11517",
+  "research": null,
+  "symbol": "UDT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Unlock Protocol"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/unlockprotocol"
+    }
+  ],
+  "tags": null
+}

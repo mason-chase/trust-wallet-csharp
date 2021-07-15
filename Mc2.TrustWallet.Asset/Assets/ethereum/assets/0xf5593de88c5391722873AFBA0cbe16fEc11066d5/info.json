@@ -1,0 +1,18 @@
+{
+  "id": "0xf5593de88c5391722873AFBA0cbe16fEc11066d5",
+  "address": "0xf5593de88c5391722873AFBA0cbe16fEc11066d5",
+  "blockchain": "ethereum",
+  "name": "Awkward",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf5593de88c5391722873AFBA0cbe16fEc11066d5",
+  "research": null,
+  "symbol": "AWKWRD",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "CTK-EB8",
+  "address": "CTK-EB8",
+  "blockchain": "binance",
+  "name": "CertiK Token",
+  "website": null,
+  "description": "-",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/CTK-EB8",
+  "research": null,
+  "symbol": "CTK-EB8",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

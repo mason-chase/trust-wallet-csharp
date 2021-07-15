@@ -1,0 +1,18 @@
+{
+  "id": "0x3498c7927dA877fAa14198d24caEbd6516189646",
+  "address": "0x3498c7927dA877fAa14198d24caEbd6516189646",
+  "blockchain": "smartchain",
+  "name": "ROTHS",
+  "website": "https://roths.live",
+  "description": "ROTHS ",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x3498c7927dA877fAa14198d24caEbd6516189646",
+  "research": null,
+  "symbol": "ROTHS",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x10747e2045a0ef884a0586AC81558F43285ea3c7",
+  "address": "0x10747e2045a0ef884a0586AC81558F43285ea3c7",
+  "blockchain": "smartchain",
+  "name": "Best",
+  "website": "https://bsc.bestswap.com/swap",
+  "description": "-",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x10747e2045a0ef884a0586AC81558F43285ea3c7",
+  "research": null,
+  "symbol": "BEST",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

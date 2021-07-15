@@ -1,0 +1,18 @@
+{
+  "id": "0x03806Ce5ef69Bd9780EDFb04c29da1F23Db96294",
+  "address": "0x03806Ce5ef69Bd9780EDFb04c29da1F23Db96294",
+  "blockchain": "ethereum",
+  "name": "TESLA",
+  "website": "http://www.energolabs.com/#/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x03806Ce5ef69Bd9780EDFb04c29da1F23Db96294",
+  "research": null,
+  "symbol": "TSL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

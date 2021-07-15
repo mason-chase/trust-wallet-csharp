@@ -1,0 +1,18 @@
+{
+  "id": "0xa184088a740c695E156F91f5cC086a06bb78b827",
+  "address": "0xa184088a740c695E156F91f5cC086a06bb78b827",
+  "blockchain": "smartchain",
+  "name": "AUTOv2",
+  "website": "https://autofarm.network",
+  "description": "Autofarm is a suite of products in Decentralized Finance (DeFi) that provides DEX aggregation and, yield farming aggregation on the various blockchains.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xa184088a740c695e156f91f5cc086a06bb78b827",
+  "research": null,
+  "symbol": "AUTO",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

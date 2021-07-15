@@ -1,0 +1,18 @@
+{
+  "id": "0x38894302A6eABea6f2B29B508031d2ed75F0bE22",
+  "address": "0x38894302A6eABea6f2B29B508031d2ed75F0bE22",
+  "blockchain": "ethereum",
+  "name": "Fearless",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x38894302A6eABea6f2B29B508031d2ed75F0bE22",
+  "research": null,
+  "symbol": "FEAR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

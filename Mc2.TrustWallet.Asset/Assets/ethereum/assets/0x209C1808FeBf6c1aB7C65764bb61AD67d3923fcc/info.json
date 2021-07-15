@@ -1,0 +1,18 @@
+{
+  "id": "0x209C1808FeBf6c1aB7C65764bb61AD67d3923fcc",
+  "address": "0x209C1808FeBf6c1aB7C65764bb61AD67d3923fcc",
+  "blockchain": "ethereum",
+  "name": "APEcoin",
+  "website": "https://APEcoin.dev",
+  "description": "APEcoin is a new token that is known as a Meme Coin. APEcoin is meant to be fun and not taken seriously while navigating the possibilities of blockchain technology.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x209C1808FeBf6c1aB7C65764bb61AD67d3923fcc",
+  "research": null,
+  "symbol": "APE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

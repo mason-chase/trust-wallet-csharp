@@ -1,0 +1,18 @@
+{
+  "id": "TTYpHRvz826qA8ChsSvdJKfAY4wiY7p1NP",
+  "address": "TTYpHRvz826qA8ChsSvdJKfAY4wiY7p1NP",
+  "blockchain": "tron",
+  "name": "DCIToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TTYpHRvz826qA8ChsSvdJKfAY4wiY7p1NP",
+  "research": null,
+  "symbol": "DCI",
+  "type": "TRC20",
+  "decimals": 6,
+  "status": "spam",
+  "links": null,
+  "tags": null
+}

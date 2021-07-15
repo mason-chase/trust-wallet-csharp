@@ -1,0 +1,18 @@
+{
+  "id": "1000930",
+  "address": "1000930",
+  "blockchain": "tron",
+  "name": "GhostNote",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1000930",
+  "research": null,
+  "symbol": "GNOTE",
+  "type": "TRC10",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

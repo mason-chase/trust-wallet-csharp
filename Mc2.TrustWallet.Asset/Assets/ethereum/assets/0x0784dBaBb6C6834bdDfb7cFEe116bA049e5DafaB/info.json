@@ -1,0 +1,18 @@
+{
+  "id": "0x0784dBaBb6C6834bdDfb7cFEe116bA049e5DafaB",
+  "address": "0x0784dBaBb6C6834bdDfb7cFEe116bA049e5DafaB",
+  "blockchain": "ethereum",
+  "name": "IBTC",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0784dBaBb6C6834bdDfb7cFEe116bA049e5DafaB",
+  "research": null,
+  "symbol": "IBTC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

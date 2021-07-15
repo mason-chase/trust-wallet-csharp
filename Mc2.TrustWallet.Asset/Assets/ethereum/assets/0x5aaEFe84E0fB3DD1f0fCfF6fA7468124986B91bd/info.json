@@ -1,0 +1,18 @@
+{
+  "id": "0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd",
+  "address": "0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd",
+  "blockchain": "ethereum",
+  "name": "Evedo Token",
+  "website": "https://www.evedo.co",
+  "description": "Evedo is a blockchain based platform, consisting of B2B & B2C Marketplaces. It unifies all businesses and participants involved in organizing events.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd",
+  "research": null,
+  "symbol": "EVED",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

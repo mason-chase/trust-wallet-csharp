@@ -1,0 +1,18 @@
+{
+  "id": "0x5149fFdf642D551539f7B68Bd75fA37b16371eb9",
+  "address": "0x5149fFdf642D551539f7B68Bd75fA37b16371eb9",
+  "blockchain": "ethereum",
+  "name": "KhanhTest01",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5149fFdf642D551539f7B68Bd75fA37b16371eb9",
+  "research": null,
+  "symbol": "KT1",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

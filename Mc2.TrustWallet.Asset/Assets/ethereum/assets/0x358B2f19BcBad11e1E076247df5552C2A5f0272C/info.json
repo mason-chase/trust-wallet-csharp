@@ -1,0 +1,18 @@
+{
+  "id": "0x358B2f19BcBad11e1E076247df5552C2A5f0272C",
+  "address": "0x358B2f19BcBad11e1E076247df5552C2A5f0272C",
+  "blockchain": "ethereum",
+  "name": "ELLUI",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x358B2f19BcBad11e1E076247df5552C2A5f0272C",
+  "research": null,
+  "symbol": "ELU",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

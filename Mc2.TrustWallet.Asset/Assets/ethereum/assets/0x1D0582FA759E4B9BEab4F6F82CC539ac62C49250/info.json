@@ -1,0 +1,18 @@
+{
+  "id": "0x1D0582FA759E4B9BEab4F6F82CC539ac62C49250",
+  "address": "0x1D0582FA759E4B9BEab4F6F82CC539ac62C49250",
+  "blockchain": "ethereum",
+  "name": "GoDigit",
+  "website": "https://www.godigit.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1D0582FA759E4B9BEab4F6F82CC539ac62C49250",
+  "research": null,
+  "symbol": "GIT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

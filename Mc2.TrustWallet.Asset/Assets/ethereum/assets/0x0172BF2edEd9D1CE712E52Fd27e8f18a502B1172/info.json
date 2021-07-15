@@ -1,0 +1,18 @@
+{
+  "id": "0x0172BF2edEd9D1CE712E52Fd27e8f18a502B1172",
+  "address": "0x0172BF2edEd9D1CE712E52Fd27e8f18a502B1172",
+  "blockchain": "ethereum",
+  "name": "Town",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0172BF2edEd9D1CE712E52Fd27e8f18a502B1172",
+  "research": null,
+  "symbol": "TOWN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x3893b9422Cd5D70a81eDeFfe3d5A1c6A978310BB",
+  "address": "0x3893b9422Cd5D70a81eDeFfe3d5A1c6A978310BB",
+  "blockchain": "ethereum",
+  "name": "Mithril Token",
+  "website": "https://mith.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3893b9422Cd5D70a81eDeFfe3d5A1c6A978310BB",
+  "research": null,
+  "symbol": "MITH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "0xa58a4f5c4Bb043d2CC1E170613B74e767c94189B",
+  "address": "0xa58a4f5c4Bb043d2CC1E170613B74e767c94189B",
+  "blockchain": "ethereum",
+  "name": "UTU Coin",
+  "website": "http://protocol.utu.io/",
+  "description": "Utility token that powers the trust infrastructure of the internet.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa58a4f5c4Bb043d2CC1E170613B74e767c94189B",
+  "research": null,
+  "symbol": "UTU",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/utu-protocol/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/UTU_trust"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/UTUtrust"
+    }
+  ],
+  "tags": null
+}

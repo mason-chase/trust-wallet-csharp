@@ -1,0 +1,18 @@
+{
+  "id": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+  "address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+  "blockchain": "ethereum",
+  "name": "Unibright",
+  "website": "https://unibright.io",
+  "description": "Unibright offers a unified framework that aims to bring blockchain technology and smart contracts to mainstream usage.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+  "research": null,
+  "symbol": "UBT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

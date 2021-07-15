@@ -1,0 +1,18 @@
+{
+  "id": "ERD-D06",
+  "address": "ERD-D06",
+  "blockchain": "binance",
+  "name": "Elrond",
+  "website": "https://elrond.com/",
+  "description": "A highly scalable, fast and secure blockchain platform for distributed apps, enterprise use cases and the new internet economy.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/ERD-D06",
+  "research": null,
+  "symbol": "ERD",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

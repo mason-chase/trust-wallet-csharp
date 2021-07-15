@@ -1,0 +1,18 @@
+{
+  "id": "0xc398891b43F1B91158dCa87c63a88b80d000C248",
+  "address": "0xc398891b43F1B91158dCa87c63a88b80d000C248",
+  "blockchain": "ethereum",
+  "name": "INDOBIT",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc398891b43F1B91158dCa87c63a88b80d000C248",
+  "research": null,
+  "symbol": "IBIT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

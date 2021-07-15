@@ -1,0 +1,18 @@
+{
+  "id": "0x8993F76e40ED605f930b13B860BFAbDEe0756858",
+  "address": "0x8993F76e40ED605f930b13B860BFAbDEe0756858",
+  "blockchain": "ethereum",
+  "name": "Bank Future Exchange",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8993F76e40ED605f930b13B860BFAbDEe0756858",
+  "research": null,
+  "symbol": "BFEX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

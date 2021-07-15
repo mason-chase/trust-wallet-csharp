@@ -1,0 +1,18 @@
+{
+  "id": "0xC18e7a03f8986798323658dD8645f93aa79Ac5C9",
+  "address": "0xC18e7a03f8986798323658dD8645f93aa79Ac5C9",
+  "blockchain": "ethereum",
+  "name": "American Akita",
+  "website": "https://uskita.com",
+  "description": "American Akita ($USKITA) is here to bring back the American Dream. We are a decentralized community-driven cryptocurrency with built-in automated rewards for its holders. Keep on holding USKITA in your wallet, and watch the amount increase over time. Our goal is to support Veterans, Dog shelters and so much more!",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc18e7a03f8986798323658dd8645f93aa79ac5c9",
+  "research": null,
+  "symbol": "USKITA",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

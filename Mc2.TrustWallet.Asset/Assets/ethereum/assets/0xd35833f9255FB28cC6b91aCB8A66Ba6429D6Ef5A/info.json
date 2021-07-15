@@ -1,0 +1,18 @@
+{
+  "id": "0xd35833f9255FB28cC6b91aCB8A66Ba6429D6Ef5A",
+  "address": "0xd35833f9255FB28cC6b91aCB8A66Ba6429D6Ef5A",
+  "blockchain": "ethereum",
+  "name": "Hypnoxys",
+  "website": "https://hypnoxys.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd35833f9255FB28cC6b91aCB8A66Ba6429D6Ef5A",
+  "research": null,
+  "symbol": "HYPX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

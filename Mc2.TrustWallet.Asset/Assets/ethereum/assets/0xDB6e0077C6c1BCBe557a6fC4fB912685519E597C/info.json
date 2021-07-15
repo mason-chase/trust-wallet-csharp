@@ -1,0 +1,18 @@
+{
+  "id": "0xDB6e0077C6c1BCBe557a6fC4fB912685519E597C",
+  "address": "0xDB6e0077C6c1BCBe557a6fC4fB912685519E597C",
+  "blockchain": "ethereum",
+  "name": "WEEDCRYPTO",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDB6e0077C6c1BCBe557a6fC4fB912685519E597C",
+  "research": null,
+  "symbol": "WDCR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

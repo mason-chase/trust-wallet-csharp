@@ -1,0 +1,18 @@
+{
+  "id": "0x763Fa6806e1acf68130D2D0f0df754C93cC546B2",
+  "address": "0x763Fa6806e1acf68130D2D0f0df754C93cC546B2",
+  "blockchain": "ethereum",
+  "name": "LITION",
+  "website": "https://www.lition.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x763Fa6806e1acf68130D2D0f0df754C93cC546B2",
+  "research": null,
+  "symbol": "LIT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

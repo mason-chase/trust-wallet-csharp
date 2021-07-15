@@ -1,0 +1,18 @@
+{
+  "id": "0xF093b8cC623ca76D2743F47Ac1dA6eeDA24B040a",
+  "address": "0xF093b8cC623ca76D2743F47Ac1dA6eeDA24B040a",
+  "blockchain": "ethereum",
+  "name": "Axor",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF093b8cC623ca76D2743F47Ac1dA6eeDA24B040a",
+  "research": null,
+  "symbol": "AXO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

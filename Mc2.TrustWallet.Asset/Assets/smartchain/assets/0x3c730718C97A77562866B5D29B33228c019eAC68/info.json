@@ -1,0 +1,18 @@
+{
+  "id": "0x3c730718C97A77562866B5D29B33228c019eAC68",
+  "address": "0x3c730718C97A77562866B5D29B33228c019eAC68",
+  "blockchain": "smartchain",
+  "name": "BNB Diamond",
+  "website": "https://bnbdiamond.net/",
+  "description": "Built for the community. Simply hold BNBD to join the journey and experience all of the benefit from BNB Diamond.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x3c730718C97A77562866B5D29B33228c019eAC68",
+  "research": null,
+  "symbol": "BNBD",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

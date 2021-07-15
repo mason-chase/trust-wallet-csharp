@@ -1,0 +1,18 @@
+{
+  "id": "0xe47D4874F671554AD6619e22FB5570C81413A14f",
+  "address": "0xe47D4874F671554AD6619e22FB5570C81413A14f",
+  "blockchain": "smartchain",
+  "name": "ELON MARS",
+  "website": "https://elonmars.info",
+  "description": "ELON MARS is Community Meme Token",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xe47D4874F671554AD6619e22FB5570C81413A14f",
+  "research": null,
+  "symbol": "ELONMARS",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

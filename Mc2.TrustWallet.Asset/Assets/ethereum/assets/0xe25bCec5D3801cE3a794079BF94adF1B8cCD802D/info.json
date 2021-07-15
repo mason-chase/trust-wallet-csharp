@@ -1,0 +1,18 @@
+{
+  "id": "0xe25bCec5D3801cE3a794079BF94adF1B8cCD802D",
+  "address": "0xe25bCec5D3801cE3a794079BF94adF1B8cCD802D",
+  "blockchain": "ethereum",
+  "name": "MATRIX AI Network",
+  "website": "https://www.matrix.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe25bCec5D3801cE3a794079BF94adF1B8cCD802D",
+  "research": null,
+  "symbol": "MAN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

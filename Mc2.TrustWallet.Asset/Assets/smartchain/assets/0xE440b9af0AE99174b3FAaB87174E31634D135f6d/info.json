@@ -1,0 +1,18 @@
+{
+  "id": "0xE440b9af0AE99174b3FAaB87174E31634D135f6d",
+  "address": "0xE440b9af0AE99174b3FAaB87174E31634D135f6d",
+  "blockchain": "smartchain",
+  "name": "MONETAS",
+  "website": "https://monetasglobal.com/",
+  "description": "monetas",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xE440b9af0AE99174b3FAaB87174E31634D135f6d",
+  "research": null,
+  "symbol": "MNTG",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

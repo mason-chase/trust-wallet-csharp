@@ -1,0 +1,18 @@
+{
+  "id": "0xb628919a5456fd746A6b7a9f1003040Ca63e6d45",
+  "address": "0xb628919a5456fd746A6b7a9f1003040Ca63e6d45",
+  "blockchain": "ethereum",
+  "name": "Produce Pay",
+  "website": "https://producepay.io",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb628919a5456fd746A6b7a9f1003040Ca63e6d45",
+  "research": null,
+  "symbol": "PP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

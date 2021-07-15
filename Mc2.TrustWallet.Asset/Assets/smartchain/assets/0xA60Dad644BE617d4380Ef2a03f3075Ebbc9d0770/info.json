@@ -1,0 +1,18 @@
+{
+  "id": "0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770",
+  "address": "0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770",
+  "blockchain": "smartchain",
+  "name": "KingDoge",
+  "website": "https://kingdoge.io/",
+  "description": "The KingDoge is a community-driven DeFi. We love doges and we know what they can do. We will do much better.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770",
+  "research": null,
+  "symbol": "KDOGE",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

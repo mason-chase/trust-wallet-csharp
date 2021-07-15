@@ -1,0 +1,18 @@
+{
+  "id": "0xE7A8E7d7729859EA6eEdbd4D67F8c97A22b11435",
+  "address": "0xE7A8E7d7729859EA6eEdbd4D67F8c97A22b11435",
+  "blockchain": "smartchain",
+  "name": "Frozencake",
+  "website": "https://frozencake.finance",
+  "description": "A next evolution DeFi exchange on BinanceSmartChain.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xE7A8E7d7729859EA6eEdbd4D67F8c97A22b11435",
+  "research": null,
+  "symbol": "FROZEN",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

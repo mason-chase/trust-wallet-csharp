@@ -1,0 +1,18 @@
+{
+  "id": "0xe23cd160761f63FC3a1cF78Aa034b6cdF97d3E0C",
+  "address": "0xe23cd160761f63FC3a1cF78Aa034b6cdF97d3E0C",
+  "blockchain": "ethereum",
+  "name": "Mainstreet Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe23cd160761f63FC3a1cF78Aa034b6cdF97d3E0C",
+  "research": null,
+  "symbol": "MIT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

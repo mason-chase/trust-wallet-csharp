@@ -1,0 +1,18 @@
+{
+  "id": "0x843131b15F2Ec5BeA850aC5164D2e4a3749ad87f",
+  "address": "0x843131b15F2Ec5BeA850aC5164D2e4a3749ad87f",
+  "blockchain": "ethereum",
+  "name": "WOWcoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x843131b15F2Ec5BeA850aC5164D2e4a3749ad87f",
+  "research": null,
+  "symbol": "WOW",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

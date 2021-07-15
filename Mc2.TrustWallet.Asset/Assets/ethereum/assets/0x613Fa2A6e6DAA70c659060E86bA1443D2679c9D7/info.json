@@ -1,0 +1,18 @@
+{
+  "id": "0x613Fa2A6e6DAA70c659060E86bA1443D2679c9D7",
+  "address": "0x613Fa2A6e6DAA70c659060E86bA1443D2679c9D7",
+  "blockchain": "ethereum",
+  "name": "GOToken",
+  "website": "https://parkingo.io/en/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x613Fa2A6e6DAA70c659060E86bA1443D2679c9D7",
+  "research": null,
+  "symbol": "GOT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xBA14b245d449965BdBeB630ebe135B569474F5b1",
+  "address": "0xBA14b245d449965BdBeB630ebe135B569474F5b1",
+  "blockchain": "ethereum",
+  "name": " EvaCash ",
+  "website": "https://theevacash.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xBA14b245d449965BdBeB630ebe135B569474F5b1",
+  "research": null,
+  "symbol": "EVC",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xEE738a9e5FB78c24D26ceCD30389ED977C38D0Ca",
+  "address": "0xEE738a9e5FB78c24D26ceCD30389ED977C38D0Ca",
+  "blockchain": "smartchain",
+  "name": "Fair Safe",
+  "website": "https://fairsafe.finance/",
+  "description": "A deflationary, auto-staking, community owned token.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xEE738a9e5FB78c24D26ceCD30389ED977C38D0Ca",
+  "research": null,
+  "symbol": "FSAFE",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

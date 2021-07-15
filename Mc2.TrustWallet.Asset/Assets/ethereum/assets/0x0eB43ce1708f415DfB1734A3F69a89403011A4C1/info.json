@@ -1,0 +1,18 @@
+{
+  "id": "0x0eB43ce1708f415DfB1734A3F69a89403011A4C1",
+  "address": "0x0eB43ce1708f415DfB1734A3F69a89403011A4C1",
+  "blockchain": "ethereum",
+  "name": "zBitcoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0eB43ce1708f415DfB1734A3F69a89403011A4C1",
+  "research": null,
+  "symbol": "zBTC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

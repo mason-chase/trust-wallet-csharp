@@ -1,0 +1,18 @@
+{
+  "id": "0x0fA74f33f6a579bA420C78f8B1Bc45855f521cA7",
+  "address": "0x0fA74f33f6a579bA420C78f8B1Bc45855f521cA7",
+  "blockchain": "ethereum",
+  "name": "Overdrive",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0fA74f33f6a579bA420C78f8B1Bc45855f521cA7",
+  "research": null,
+  "symbol": "OVD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

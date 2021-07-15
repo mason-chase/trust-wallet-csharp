@@ -1,0 +1,18 @@
+{
+  "id": "0x3B73c1B2ea59835cbfcADade5462b6aB630D9890",
+  "address": "0x3B73c1B2ea59835cbfcADade5462b6aB630D9890",
+  "blockchain": "smartchain",
+  "name": "ChainSwap.com Governance Token",
+  "website": "https://chainswap.com/",
+  "description": "ChainSwap is a cross-chain asset bridge & application hub for smart chains.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x3B73c1B2ea59835cbfcADade5462b6aB630D9890",
+  "research": null,
+  "symbol": "TOKEN",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

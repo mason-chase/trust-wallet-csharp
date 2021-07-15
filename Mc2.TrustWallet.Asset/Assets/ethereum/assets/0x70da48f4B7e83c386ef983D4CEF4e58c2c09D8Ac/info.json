@@ -1,0 +1,18 @@
+{
+  "id": "0x70da48f4B7e83c386ef983D4CEF4e58c2c09D8Ac",
+  "address": "0x70da48f4B7e83c386ef983D4CEF4e58c2c09D8Ac",
+  "blockchain": "ethereum",
+  "name": "Quras Token",
+  "website": "https://quras.io/",
+  "description": "QURAS is a genuine secret contract platform that fulfills various privacy protection needs.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x70da48f4B7e83c386ef983D4CEF4e58c2c09D8Ac",
+  "research": null,
+  "symbol": "XQC",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xADD9c6c4375B5afa3c952ed517a0E532E6238815",
+  "address": "0xADD9c6c4375B5afa3c952ed517a0E532E6238815",
+  "blockchain": "ethereum",
+  "name": "HCTCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xADD9c6c4375B5afa3c952ed517a0E532E6238815",
+  "research": null,
+  "symbol": "HCT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

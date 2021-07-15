@@ -1,0 +1,31 @@
+{
+  "id": "0x8519EA49c997f50cefFa444d240fB655e89248Aa",
+  "address": "0x8519EA49c997f50cefFa444d240fB655e89248Aa",
+  "blockchain": "smartchain",
+  "name": "RAMP DEFI",
+  "website": "https://rampdefi.com/",
+  "description": "Unlocking Liquid Capital From Staked Assets",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x8519ea49c997f50ceffa444d240fb655e89248aa",
+  "research": null,
+  "symbol": "RAMP",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/RampDefi"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/rampdefiofficial"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/rampdefi"
+    }
+  ],
+  "tags": null
+}

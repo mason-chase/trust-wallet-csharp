@@ -1,0 +1,18 @@
+{
+  "id": "0x6467882316dc6e206FEef05fBa6deaA69277f155",
+  "address": "0x6467882316dc6e206FEef05fBa6deaA69277f155",
+  "blockchain": "ethereum",
+  "name": "FAPcoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6467882316dc6e206FEef05fBa6deaA69277f155",
+  "research": null,
+  "symbol": "FAP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

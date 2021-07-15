@@ -1,0 +1,18 @@
+{
+  "id": "0xC66eA802717bFb9833400264Dd12c2bCeAa34a6d",
+  "address": "0xC66eA802717bFb9833400264Dd12c2bCeAa34a6d",
+  "blockchain": "ethereum",
+  "name": "MKR",
+  "website": null,
+  "description": "-",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc66ea802717bfb9833400264dd12c2bceaa34a6d",
+  "research": null,
+  "symbol": "MKR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

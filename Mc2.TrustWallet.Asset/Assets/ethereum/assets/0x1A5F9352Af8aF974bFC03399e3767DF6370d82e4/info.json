@@ -1,0 +1,18 @@
+{
+  "id": "0x1A5F9352Af8aF974bFC03399e3767DF6370d82e4",
+  "address": "0x1A5F9352Af8aF974bFC03399e3767DF6370d82e4",
+  "blockchain": "ethereum",
+  "name": "OWL Token",
+  "website": "https://owl.gnosis.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1A5F9352Af8aF974bFC03399e3767DF6370d82e4",
+  "research": null,
+  "symbol": "OWL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x30a3c667aBe896B11514f0F6a3EAd2839e84dc5e",
+  "address": "0x30a3c667aBe896B11514f0F6a3EAd2839e84dc5e",
+  "blockchain": "ethereum",
+  "name": "GOL",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x30a3c667aBe896B11514f0F6a3EAd2839e84dc5e",
+  "research": null,
+  "symbol": "GOLS",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

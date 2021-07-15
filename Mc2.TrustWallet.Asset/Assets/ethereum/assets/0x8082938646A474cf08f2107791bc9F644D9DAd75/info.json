@@ -1,0 +1,18 @@
+{
+  "id": "0x8082938646A474cf08f2107791bc9F644D9DAd75",
+  "address": "0x8082938646A474cf08f2107791bc9F644D9DAd75",
+  "blockchain": "ethereum",
+  "name": "DD Platinum",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8082938646A474cf08f2107791bc9F644D9DAd75",
+  "research": null,
+  "symbol": "DDP",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

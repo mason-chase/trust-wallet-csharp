@@ -1,0 +1,18 @@
+{
+  "id": "0xcbdFAD49DAD16A992978f2767506a0f3f11aE9C7",
+  "address": "0xcbdFAD49DAD16A992978f2767506a0f3f11aE9C7",
+  "blockchain": "ethereum",
+  "name": "Game Magic",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xcbdFAD49DAD16A992978f2767506a0f3f11aE9C7",
+  "research": null,
+  "symbol": "GAME",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

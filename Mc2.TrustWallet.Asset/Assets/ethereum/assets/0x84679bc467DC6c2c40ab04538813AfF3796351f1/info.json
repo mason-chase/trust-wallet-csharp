@@ -1,0 +1,23 @@
+{
+  "id": "0x84679bc467DC6c2c40ab04538813AfF3796351f1",
+  "address": "0x84679bc467DC6c2c40ab04538813AfF3796351f1",
+  "blockchain": "ethereum",
+  "name": "CHONK",
+  "website": "https://chonker.finance/",
+  "description": "Inspired by $MEME. Fish with fat chonkers and get rewarded with NFT cards. DEFI + NFT + FAT CATS.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x84679bc467DC6c2c40ab04538813AfF3796351f1",
+  "research": null,
+  "symbol": "CHONK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/ChonkerFinance"
+    }
+  ],
+  "tags": null
+}

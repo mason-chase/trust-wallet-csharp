@@ -1,0 +1,18 @@
+{
+  "id": "0x740623d2c797b7D8D1EcB98e9b4Afcf99Ec31E14",
+  "address": "0x740623d2c797b7D8D1EcB98e9b4Afcf99Ec31E14",
+  "blockchain": "ethereum",
+  "name": "DoYourTip",
+  "website": "https://doyourtip.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x740623d2c797b7D8D1EcB98e9b4Afcf99Ec31E14",
+  "research": null,
+  "symbol": "DYT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

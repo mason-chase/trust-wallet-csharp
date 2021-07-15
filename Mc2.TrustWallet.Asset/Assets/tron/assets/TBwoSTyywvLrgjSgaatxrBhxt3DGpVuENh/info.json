@@ -1,0 +1,18 @@
+{
+  "id": "TBwoSTyywvLrgjSgaatxrBhxt3DGpVuENh",
+  "address": "TBwoSTyywvLrgjSgaatxrBhxt3DGpVuENh",
+  "blockchain": "tron",
+  "name": "SEED",
+  "website": "https://sesameseed.org",
+  "description": "Sesameseed is a blockchain community that aims to provide fair and transparent representation in delegated governance.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TBwoSTyywvLrgjSgaatxrBhxt3DGpVuENh",
+  "research": null,
+  "symbol": "SEED",
+  "type": "TRC20",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

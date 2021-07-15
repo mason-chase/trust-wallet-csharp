@@ -1,0 +1,18 @@
+{
+  "id": "0xaA0CA4C5447101BfaE2c79f4cc4d91CD360f33a4",
+  "address": "0xaA0CA4C5447101BfaE2c79f4cc4d91CD360f33a4",
+  "blockchain": "ethereum",
+  "name": "ZTAR COIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xaA0CA4C5447101BfaE2c79f4cc4d91CD360f33a4",
+  "research": null,
+  "symbol": "ZTAR",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

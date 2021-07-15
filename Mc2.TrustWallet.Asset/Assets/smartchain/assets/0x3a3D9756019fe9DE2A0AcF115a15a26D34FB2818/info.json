@@ -1,0 +1,18 @@
+{
+  "id": "0x3a3D9756019fe9DE2A0AcF115a15a26D34FB2818",
+  "address": "0x3a3D9756019fe9DE2A0AcF115a15a26D34FB2818",
+  "blockchain": "smartchain",
+  "name": "PRODAX",
+  "website": "https://prodax.io",
+  "description": "Utility token of DAX NFT",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x3a3D9756019fe9DE2A0AcF115a15a26D34FB2818",
+  "research": null,
+  "symbol": "DAX",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xa960d2bA7000d58773E7fa5754DeC3Bb40A069D5",
+  "address": "0xa960d2bA7000d58773E7fa5754DeC3Bb40A069D5",
+  "blockchain": "ethereum",
+  "name": "One DEX",
+  "website": "https://onedexproject.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa960d2bA7000d58773E7fa5754DeC3Bb40A069D5",
+  "research": null,
+  "symbol": "ODEX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

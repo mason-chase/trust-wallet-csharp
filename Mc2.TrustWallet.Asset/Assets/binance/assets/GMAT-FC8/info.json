@@ -1,0 +1,18 @@
+{
+  "id": "GMAT-FC8",
+  "address": "GMAT-FC8",
+  "blockchain": "binance",
+  "name": "GoWithMi",
+  "website": "https://www.gowithmi.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/GMAT-FC8",
+  "research": null,
+  "symbol": "GMAT",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

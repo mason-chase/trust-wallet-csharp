@@ -1,0 +1,18 @@
+{
+  "id": "0xfc82bb4ba86045Af6F327323a46E80412b91b27d",
+  "address": "0xfc82bb4ba86045Af6F327323a46E80412b91b27d",
+  "blockchain": "ethereum",
+  "name": "Token Prometeus Network",
+  "website": "https://prometeus.io/",
+  "description": "Prometeus Network is a secure and decentralized ecosystem designed to solve real-world problems in data brokerage, created for the Influencer Marketing, Medical and Insurance data market industries.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xfc82bb4ba86045Af6F327323a46E80412b91b27d",
+  "research": null,
+  "symbol": "PROM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

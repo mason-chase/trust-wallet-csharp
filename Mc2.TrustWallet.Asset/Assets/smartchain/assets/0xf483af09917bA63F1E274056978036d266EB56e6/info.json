@@ -1,0 +1,18 @@
+{
+  "id": "0xf483af09917bA63F1E274056978036d266EB56e6",
+  "address": "0xf483af09917bA63F1E274056978036d266EB56e6",
+  "blockchain": "smartchain",
+  "name": "BULL COIN",
+  "website": "http://bullcoin.finance/",
+  "description": "BullSwap is a completely decentralized transaction protocol",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xf483af09917bA63F1E274056978036d266EB56e6",
+  "research": null,
+  "symbol": "BULL",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

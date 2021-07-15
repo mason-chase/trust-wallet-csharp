@@ -1,0 +1,18 @@
+{
+  "id": "0x0200412995f1baFef0D3F97C4E28Ac2515EC1eCE",
+  "address": "0x0200412995f1baFef0D3F97C4E28Ac2515EC1eCE",
+  "blockchain": "ethereum",
+  "name": "FollowCoin",
+  "website": "https://followcoin.io/",
+  "description": "Follow Coin is the platform to excel in trading in the Cryptocurrency world! You can follow and copy influencers with the highest reputation and much more!",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0200412995f1baFef0D3F97C4E28Ac2515EC1eCE",
+  "research": null,
+  "symbol": "FLLW",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

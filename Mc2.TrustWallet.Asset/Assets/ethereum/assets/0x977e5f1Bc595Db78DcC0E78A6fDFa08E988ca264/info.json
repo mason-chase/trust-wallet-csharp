@@ -1,0 +1,18 @@
+{
+  "id": "0x977e5f1Bc595Db78DcC0E78A6fDFa08E988ca264",
+  "address": "0x977e5f1Bc595Db78DcC0E78A6fDFa08E988ca264",
+  "blockchain": "ethereum",
+  "name": "Nicash",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x977e5f1Bc595Db78DcC0E78A6fDFa08E988ca264",
+  "research": null,
+  "symbol": "NICASH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

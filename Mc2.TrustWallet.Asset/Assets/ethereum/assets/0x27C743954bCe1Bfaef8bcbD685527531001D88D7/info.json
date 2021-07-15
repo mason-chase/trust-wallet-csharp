@@ -1,0 +1,18 @@
+{
+  "id": "0x27C743954bCe1Bfaef8bcbD685527531001D88D7",
+  "address": "0x27C743954bCe1Bfaef8bcbD685527531001D88D7",
+  "blockchain": "ethereum",
+  "name": "Blockium Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x27C743954bCe1Bfaef8bcbD685527531001D88D7",
+  "research": null,
+  "symbol": "BOK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

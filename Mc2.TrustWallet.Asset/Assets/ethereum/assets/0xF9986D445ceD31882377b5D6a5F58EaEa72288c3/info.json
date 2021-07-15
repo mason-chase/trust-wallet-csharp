@@ -1,0 +1,18 @@
+{
+  "id": "0xF9986D445ceD31882377b5D6a5F58EaEa72288c3",
+  "address": "0xF9986D445ceD31882377b5D6a5F58EaEa72288c3",
+  "blockchain": "ethereum",
+  "name": "Elrond",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF9986D445ceD31882377b5D6a5F58EaEa72288c3",
+  "research": null,
+  "symbol": "ERD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

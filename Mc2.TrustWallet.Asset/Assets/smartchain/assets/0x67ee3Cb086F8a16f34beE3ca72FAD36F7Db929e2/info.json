@@ -1,0 +1,35 @@
+{
+  "id": "0x67ee3Cb086F8a16f34beE3ca72FAD36F7Db929e2",
+  "address": "0x67ee3Cb086F8a16f34beE3ca72FAD36F7Db929e2",
+  "blockchain": "smartchain",
+  "name": "DODO",
+  "website": "https://dodoex.io/",
+  "description": "DODO is a liquidity protocol powered by the Proactive Market Maker (PMM) algorithm and built for capital efficiency.",
+  "short_description": "a liquidity protocol powered by the Proactive Market Maker (PMM) algorithm",
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x67ee3Cb086F8a16f34beE3ca72FAD36F7Db929e2",
+  "research": null,
+  "symbol": "DODO",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/DODOEX/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/DODO"
+    },
+    {
+      "name": "reddit",
+      "url": "https://reddit.com/r/DodoEx/"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/dodoex"
+    }
+  ],
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xa178398a3A816d049588cC46D431f5EEC4dd7e96",
+  "address": "0xa178398a3A816d049588cC46D431f5EEC4dd7e96",
+  "blockchain": "smartchain",
+  "name": "ClearMoon",
+  "website": "https://clearmoon.io",
+  "description": "The ClearMoon Network is a community-driven, viral networking project dedicated to Crypto Education in DeFi.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xa178398a3A816d049588cC46D431f5EEC4dd7e96",
+  "research": null,
+  "symbol": "CLEARMOON",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

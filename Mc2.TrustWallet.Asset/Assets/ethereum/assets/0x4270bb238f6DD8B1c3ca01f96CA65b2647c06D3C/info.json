@@ -1,0 +1,18 @@
+{
+  "id": "0x4270bb238f6DD8B1c3ca01f96CA65b2647c06D3C",
+  "address": "0x4270bb238f6DD8B1c3ca01f96CA65b2647c06D3C",
+  "blockchain": "ethereum",
+  "name": "FOTA",
+  "website": "https://www.fota.top/",
+  "description": "FORTUNA is a global OTC derivatives market disciplined by algorithms while supporting transparent, real time, and full dose trading data supervision.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4270bb238f6DD8B1c3ca01f96CA65b2647c06D3C",
+  "research": null,
+  "symbol": "FOTA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

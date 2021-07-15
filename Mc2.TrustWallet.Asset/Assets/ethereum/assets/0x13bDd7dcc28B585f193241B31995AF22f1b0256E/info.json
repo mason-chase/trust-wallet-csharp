@@ -1,0 +1,18 @@
+{
+  "id": "0x13bDd7dcc28B585f193241B31995AF22f1b0256E",
+  "address": "0x13bDd7dcc28B585f193241B31995AF22f1b0256E",
+  "blockchain": "ethereum",
+  "name": "GIRLTOKEN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x13bDd7dcc28B585f193241B31995AF22f1b0256E",
+  "research": null,
+  "symbol": "GIRL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

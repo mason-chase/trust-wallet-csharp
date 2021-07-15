@@ -1,0 +1,18 @@
+{
+  "id": "0x1641abdd83E25131645b241a7302FD0Ea9903b51",
+  "address": "0x1641abdd83E25131645b241a7302FD0Ea9903b51",
+  "blockchain": "ethereum",
+  "name": "Soom Classic Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1641abdd83E25131645b241a7302FD0Ea9903b51",
+  "research": null,
+  "symbol": "SMC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "BEAR-14C",
+  "address": "BEAR-14C",
+  "blockchain": "binance",
+  "name": "3X Short Bitcoin Token",
+  "website": "https://ftx.com/",
+  "description": "3X Short Bitcoin Token (BEAR) is an BEP2 token which seeks a return that corresponds to -3 times the daily return of Bitcoin.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/BEAR-14C",
+  "research": null,
+  "symbol": "BEAR",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

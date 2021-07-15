@@ -1,0 +1,18 @@
+{
+  "id": "0x86E56f3c89a14528858e58B3De48c074538BAf2c",
+  "address": "0x86E56f3c89a14528858e58B3De48c074538BAf2c",
+  "blockchain": "ethereum",
+  "name": "Evolution Land Global Token",
+  "website": "https://www.evolution.land",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x86E56f3c89a14528858e58B3De48c074538BAf2c",
+  "research": null,
+  "symbol": "RING",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

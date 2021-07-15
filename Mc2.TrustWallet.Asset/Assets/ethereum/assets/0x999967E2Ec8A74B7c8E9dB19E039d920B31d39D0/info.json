@@ -1,0 +1,18 @@
+{
+  "id": "0x999967E2Ec8A74B7c8E9dB19E039d920B31d39D0",
+  "address": "0x999967E2Ec8A74B7c8E9dB19E039d920B31d39D0",
+  "blockchain": "ethereum",
+  "name": "TieToken",
+  "website": "https://tiesdb.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x999967E2Ec8A74B7c8E9dB19E039d920B31d39D0",
+  "research": null,
+  "symbol": "TIE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xa05a31924F767D23a03B0b1b2cF48654D0C87E0f",
+  "address": "0xa05a31924F767D23a03B0b1b2cF48654D0C87E0f",
+  "blockchain": "ethereum",
+  "name": "Video",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa05a31924F767D23a03B0b1b2cF48654D0C87E0f",
+  "research": null,
+  "symbol": "VIDEO",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

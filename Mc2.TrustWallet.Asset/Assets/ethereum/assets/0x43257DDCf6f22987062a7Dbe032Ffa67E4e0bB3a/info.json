@@ -1,0 +1,18 @@
+{
+  "id": "0x43257DDCf6f22987062a7Dbe032Ffa67E4e0bB3a",
+  "address": "0x43257DDCf6f22987062a7Dbe032Ffa67E4e0bB3a",
+  "blockchain": "ethereum",
+  "name": "HBTT",
+  "website": "https://hbttplus.space/",
+  "description": "HBTT Payment System",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x43257DDCf6f22987062a7Dbe032Ffa67E4e0bB3a",
+  "research": null,
+  "symbol": "HBTT",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x697beac28B09E122C4332D163985e8a73121b97F",
+  "address": "0x697beac28B09E122C4332D163985e8a73121b97F",
+  "blockchain": "ethereum",
+  "name": "QRL",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x697beac28B09E122C4332D163985e8a73121b97F",
+  "research": null,
+  "symbol": "QRL",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

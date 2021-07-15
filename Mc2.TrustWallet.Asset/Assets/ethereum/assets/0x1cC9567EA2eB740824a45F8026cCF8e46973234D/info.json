@@ -1,0 +1,18 @@
+{
+  "id": "0x1cC9567EA2eB740824a45F8026cCF8e46973234D",
+  "address": "0x1cC9567EA2eB740824a45F8026cCF8e46973234D",
+  "blockchain": "ethereum",
+  "name": "bZx KNC iToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1cC9567EA2eB740824a45F8026cCF8e46973234D",
+  "research": null,
+  "symbol": "iKNC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

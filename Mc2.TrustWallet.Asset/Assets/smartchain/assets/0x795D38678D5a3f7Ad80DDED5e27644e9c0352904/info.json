@@ -1,0 +1,18 @@
+{
+  "id": "0x795D38678D5a3f7Ad80DDED5e27644e9c0352904",
+  "address": "0x795D38678D5a3f7Ad80DDED5e27644e9c0352904",
+  "blockchain": "smartchain",
+  "name": "upShib",
+  "website": "https://www.upshib.space/",
+  "description": "A deflationary burn mechanism and static reward protocol, are the core functions of upShib.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x795D38678D5a3f7Ad80DDED5e27644e9c0352904",
+  "research": null,
+  "symbol": "UPSHIB",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

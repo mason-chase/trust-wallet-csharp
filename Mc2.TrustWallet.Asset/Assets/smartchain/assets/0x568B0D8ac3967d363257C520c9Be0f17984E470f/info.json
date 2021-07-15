@@ -1,0 +1,18 @@
+{
+  "id": "0x568B0D8ac3967d363257C520c9Be0f17984E470f",
+  "address": "0x568B0D8ac3967d363257C520c9Be0f17984E470f",
+  "blockchain": "smartchain",
+  "name": "Nadeshiko",
+  "website": "https://nadeshikocoin.com/",
+  "description": "In-house developed NFT in-app token",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x568B0D8ac3967d363257C520c9Be0f17984E470f",
+  "research": null,
+  "symbol": "NDSK",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

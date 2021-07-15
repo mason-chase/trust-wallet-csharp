@@ -1,0 +1,18 @@
+{
+  "id": "0x69cea718773F3ffBc9ff77dD0647F7270bF9282D",
+  "address": "0x69cea718773F3ffBc9ff77dD0647F7270bF9282D",
+  "blockchain": "ethereum",
+  "name": "ETU Exchange",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x69cea718773F3ffBc9ff77dD0647F7270bF9282D",
+  "research": null,
+  "symbol": "ETUex",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

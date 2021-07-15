@@ -1,0 +1,18 @@
+{
+  "id": "0x587C16b84c64751760f6e3e7e32F896634704352",
+  "address": "0x587C16b84c64751760f6e3e7e32F896634704352",
+  "blockchain": "smartchain",
+  "name": "WhaleFall",
+  "website": "http://whalefall-defi.com",
+  "description": "WhaleFall is a experimentation of a decentralized community movement to break free from the oppression of the financial class.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x587C16b84c64751760f6e3e7e32F896634704352",
+  "research": null,
+  "symbol": "WHALE",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xd15EB3e486AAdF5e77244f7732a3C5Fc8Fa44Ec0",
+  "address": "0xd15EB3e486AAdF5e77244f7732a3C5Fc8Fa44Ec0",
+  "blockchain": "ethereum",
+  "name": "Fulcrum Perpetual Long ETH-WBTC 2x v2",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd15EB3e486AAdF5e77244f7732a3C5Fc8Fa44Ec0",
+  "research": null,
+  "symbol": "LETHwBTC2x",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

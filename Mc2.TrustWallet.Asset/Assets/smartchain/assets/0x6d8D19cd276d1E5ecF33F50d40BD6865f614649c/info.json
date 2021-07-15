@@ -1,0 +1,18 @@
+{
+  "id": "0x6d8D19cd276d1E5ecF33F50d40BD6865f614649c",
+  "address": "0x6d8D19cd276d1E5ecF33F50d40BD6865f614649c",
+  "blockchain": "smartchain",
+  "name": "ShinchanBsc",
+  "website": "https://shinchanbsc.org",
+  "description": "Shinchan BSC is a unique meme token with utility.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x6d8d19cd276d1e5ecf33f50d40bd6865f614649c",
+  "research": null,
+  "symbol": "Shinchan",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "TMhjbHzJCiMWqa5oqn2DF3mGw5yh9oQNf2",
+  "address": "TMhjbHzJCiMWqa5oqn2DF3mGw5yh9oQNf2",
+  "blockchain": "tron",
+  "name": "DLNToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TMhjbHzJCiMWqa5oqn2DF3mGw5yh9oQNf2",
+  "research": null,
+  "symbol": "DLN",
+  "type": "TRC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

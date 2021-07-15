@@ -1,0 +1,18 @@
+{
+  "id": "0xB08F303E5e30d8bd50cB991dB07A55C506e61F23",
+  "address": "0xB08F303E5e30d8bd50cB991dB07A55C506e61F23",
+  "blockchain": "ethereum",
+  "name": "Ethwidget",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB08F303E5e30d8bd50cB991dB07A55C506e61F23",
+  "research": null,
+  "symbol": "EWDG2",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

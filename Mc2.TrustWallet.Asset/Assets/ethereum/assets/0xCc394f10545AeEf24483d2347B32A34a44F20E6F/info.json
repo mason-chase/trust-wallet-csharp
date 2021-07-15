@@ -1,0 +1,18 @@
+{
+  "id": "0xCc394f10545AeEf24483d2347B32A34a44F20E6F",
+  "address": "0xCc394f10545AeEf24483d2347B32A34a44F20E6F",
+  "blockchain": "ethereum",
+  "name": "Vault Guardian Token",
+  "website": "https://vault12.com",
+  "description": "Vault12 platform safeguards your crypto assets by harnessing your very own network of trusted people.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xCc394f10545AeEf24483d2347B32A34a44F20E6F",
+  "research": null,
+  "symbol": "VGT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

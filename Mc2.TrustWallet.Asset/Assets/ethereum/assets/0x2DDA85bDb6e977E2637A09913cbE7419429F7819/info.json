@@ -1,0 +1,18 @@
+{
+  "id": "0x2DDA85bDb6e977E2637A09913cbE7419429F7819",
+  "address": "0x2DDA85bDb6e977E2637A09913cbE7419429F7819",
+  "blockchain": "ethereum",
+  "name": "PullRug.Run",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2DDA85bDb6e977E2637A09913cbE7419429F7819",
+  "research": null,
+  "symbol": "PRR",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

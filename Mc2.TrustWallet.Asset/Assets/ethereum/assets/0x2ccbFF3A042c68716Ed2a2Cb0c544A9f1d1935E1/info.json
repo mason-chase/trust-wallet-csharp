@@ -1,0 +1,18 @@
+{
+  "id": "0x2ccbFF3A042c68716Ed2a2Cb0c544A9f1d1935E1",
+  "address": "0x2ccbFF3A042c68716Ed2a2Cb0c544A9f1d1935E1",
+  "blockchain": "ethereum",
+  "name": "DMarket Token",
+  "website": "https://dmarket.com",
+  "description": "DMarket is a platform that aims to enable the secure buying, selling, and trading of in-game items to help developers attract more players, make more money, and increase the lifetime value of their game.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2ccbFF3A042c68716Ed2a2Cb0c544A9f1d1935E1",
+  "research": null,
+  "symbol": "DMT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

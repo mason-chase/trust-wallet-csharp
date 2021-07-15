@@ -1,0 +1,18 @@
+{
+  "id": "0x1De09690e0d3c75C22cd19aCC1AEBdE46bbC7d25",
+  "address": "0x1De09690e0d3c75C22cd19aCC1AEBdE46bbC7d25",
+  "blockchain": "ethereum",
+  "name": "TemboCoin",
+  "website": "https://tembocoin.io",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1De09690e0d3c75C22cd19aCC1AEBdE46bbC7d25",
+  "research": null,
+  "symbol": "TMB",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

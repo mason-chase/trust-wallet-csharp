@@ -1,0 +1,27 @@
+{
+  "id": "0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7",
+  "address": "0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7",
+  "blockchain": "smartchain",
+  "name": "Jupiter",
+  "website": "https://gojupiter.tech",
+  "description": "Using Jupiter, we strive to make this technology accessible by everyone and that is why we created Gravity, a versatile framework that interfaces with our blockchain, Jupiter.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x0231f91e02DebD20345Ae8AB7D71A41f8E140cE7",
+  "research": null,
+  "symbol": "bwJUP",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/jup_project"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/jupiterproject"
+    }
+  ],
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x59A11e14514b15D5486b7fAa190Ab234DE04EdB4",
+  "address": "0x59A11e14514b15D5486b7fAa190Ab234DE04EdB4",
+  "blockchain": "ethereum",
+  "name": "Planetagro",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x59A11e14514b15D5486b7fAa190Ab234DE04EdB4",
+  "research": null,
+  "symbol": "MXN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

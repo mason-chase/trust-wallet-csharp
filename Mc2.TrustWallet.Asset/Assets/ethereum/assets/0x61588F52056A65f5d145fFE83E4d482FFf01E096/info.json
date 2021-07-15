@@ -1,0 +1,18 @@
+{
+  "id": "0x61588F52056A65f5d145fFE83E4d482FFf01E096",
+  "address": "0x61588F52056A65f5d145fFE83E4d482FFf01E096",
+  "blockchain": "ethereum",
+  "name": "iZiCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x61588F52056A65f5d145fFE83E4d482FFf01E096",
+  "research": null,
+  "symbol": "IZC",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xb2C822a1b923E06Dbd193d2cFc7ad15388EA09DD",
+  "address": "0xb2C822a1b923E06Dbd193d2cFc7ad15388EA09DD",
+  "blockchain": "ethereum",
+  "name": "Vampire Protocol",
+  "website": "https://vampire.finance/",
+  "description": "VAMP is native token for Vampire Protocol. VAMP gains value by rebasing and farming tokens & items. MANA Token - a token that grants a holder an enhanced rebase.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb2C822a1b923E06Dbd193d2cFc7ad15388EA09DD",
+  "research": null,
+  "symbol": "VAMP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

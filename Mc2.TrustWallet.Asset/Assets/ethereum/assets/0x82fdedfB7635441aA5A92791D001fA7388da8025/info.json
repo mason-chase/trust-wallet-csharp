@@ -1,0 +1,18 @@
+{
+  "id": "0x82fdedfB7635441aA5A92791D001fA7388da8025",
+  "address": "0x82fdedfB7635441aA5A92791D001fA7388da8025",
+  "blockchain": "ethereum",
+  "name": "DigitalTicks",
+  "website": "https://www.digitalticks.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x82fdedfB7635441aA5A92791D001fA7388da8025",
+  "research": null,
+  "symbol": "DTX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

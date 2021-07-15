@@ -1,0 +1,18 @@
+{
+  "id": "0x13d6b121817D78faC403Ebf2C59c0C93583991df",
+  "address": "0x13d6b121817D78faC403Ebf2C59c0C93583991df",
+  "blockchain": "ethereum",
+  "name": "MccCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x13d6b121817D78faC403Ebf2C59c0C93583991df",
+  "research": null,
+  "symbol": "MCC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x5EB87cAA0105a63aa87A36C7Bd2573Bd13E84faE",
+  "address": "0x5EB87cAA0105a63aa87A36C7Bd2573Bd13E84faE",
+  "blockchain": "ethereum",
+  "name": "BQT",
+  "website": "https://www.bqi.com/cn/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5EB87cAA0105a63aa87A36C7Bd2573Bd13E84faE",
+  "research": null,
+  "symbol": "BQT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

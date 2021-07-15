@@ -1,0 +1,18 @@
+{
+  "id": "0x09B0Db1E4E15233D1Eb6995A851780aF36548eB8",
+  "address": "0x09B0Db1E4E15233D1Eb6995A851780aF36548eB8",
+  "blockchain": "ethereum",
+  "name": "EtherDiamond",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x09B0Db1E4E15233D1Eb6995A851780aF36548eB8",
+  "research": null,
+  "symbol": "ETD",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

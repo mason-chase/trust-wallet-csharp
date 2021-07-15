@@ -1,0 +1,18 @@
+{
+  "id": "0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8",
+  "address": "0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8",
+  "blockchain": "ethereum",
+  "name": "Elycoin",
+  "website": "https://elycoin.io",
+  "description": "A decentralized platform to build Ecommerce websites on the blockchain",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa95592DCFfA3C080B4B40E459c5f5692F67DB7F8",
+  "research": null,
+  "symbol": "ELY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

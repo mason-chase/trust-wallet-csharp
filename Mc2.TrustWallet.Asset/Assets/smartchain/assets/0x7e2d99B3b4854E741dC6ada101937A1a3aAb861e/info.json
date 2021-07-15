@@ -1,0 +1,18 @@
+{
+  "id": "0x7e2d99B3b4854E741dC6ada101937A1a3aAb861e",
+  "address": "0x7e2d99B3b4854E741dC6ada101937A1a3aAb861e",
+  "blockchain": "smartchain",
+  "name": "FEG Wrapped DOT",
+  "website": "https://fegtoken.com",
+  "description": "FEG Wrapped DOT",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x7e2d99b3b4854e741dc6ada101937a1a3aab861e",
+  "research": null,
+  "symbol": "fDOT",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x8A1E3930FDe1f151471c368fDBb39F3F63A65B55",
+  "address": "0x8A1E3930FDe1f151471c368fDBb39F3F63A65B55",
+  "blockchain": "ethereum",
+  "name": "Bezop",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8A1E3930FDe1f151471c368fDBb39F3F63A65B55",
+  "research": null,
+  "symbol": "Bez",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

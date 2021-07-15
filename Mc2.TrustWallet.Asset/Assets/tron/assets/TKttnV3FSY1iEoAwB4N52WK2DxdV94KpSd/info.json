@@ -1,0 +1,18 @@
+{
+  "id": "TKttnV3FSY1iEoAwB4N52WK2DxdV94KpSd",
+  "address": "TKttnV3FSY1iEoAwB4N52WK2DxdV94KpSd",
+  "blockchain": "tron",
+  "name": "TRONbetDice",
+  "website": "https://wink.org",
+  "description": "DICE is the first Dapp game certificate of the WINk platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TKttnV3FSY1iEoAwB4N52WK2DxdV94KpSd",
+  "research": null,
+  "symbol": "DICE",
+  "type": "TRC20",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

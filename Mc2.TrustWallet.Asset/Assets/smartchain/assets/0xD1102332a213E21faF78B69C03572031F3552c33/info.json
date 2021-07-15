@@ -1,0 +1,18 @@
+{
+  "id": "0xD1102332a213E21faF78B69C03572031F3552c33",
+  "address": "0xD1102332a213E21faF78B69C03572031F3552c33",
+  "blockchain": "smartchain",
+  "name": "Bolt Dollar",
+  "website": "https://boltdollar.finance/",
+  "description": "Bolt Dollar - previously Bat True Dollar - is a community owned and driven algorithmic stable coin project established on BSC",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xD1102332a213E21faF78B69C03572031F3552c33",
+  "research": null,
+  "symbol": "BTD",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

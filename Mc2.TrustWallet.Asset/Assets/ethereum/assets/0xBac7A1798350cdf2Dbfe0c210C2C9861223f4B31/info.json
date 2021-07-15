@@ -1,0 +1,18 @@
+{
+  "id": "0xBac7A1798350cdf2Dbfe0c210C2C9861223f4B31",
+  "address": "0xBac7A1798350cdf2Dbfe0c210C2C9861223f4B31",
+  "blockchain": "ethereum",
+  "name": "Moneynet Coin",
+  "website": "https://moneynet.io",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xBac7A1798350cdf2Dbfe0c210C2C9861223f4B31",
+  "research": null,
+  "symbol": "MNC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

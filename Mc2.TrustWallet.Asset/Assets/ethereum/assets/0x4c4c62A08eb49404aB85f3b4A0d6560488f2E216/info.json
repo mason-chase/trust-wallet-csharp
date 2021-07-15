@@ -1,0 +1,18 @@
+{
+  "id": "0x4c4c62A08eb49404aB85f3b4A0d6560488f2E216",
+  "address": "0x4c4c62A08eb49404aB85f3b4A0d6560488f2E216",
+  "blockchain": "ethereum",
+  "name": "Sparkles Light",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4c4c62A08eb49404aB85f3b4A0d6560488f2E216",
+  "research": null,
+  "symbol": "Spark",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "spam",
+  "links": null,
+  "tags": null
+}

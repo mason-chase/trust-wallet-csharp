@@ -1,0 +1,18 @@
+{
+  "id": "0x7C2C75adcEE243e3874938aE8a71fA08020088a3",
+  "address": "0x7C2C75adcEE243e3874938aE8a71fA08020088a3",
+  "blockchain": "ethereum",
+  "name": "Petro.Global",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7C2C75adcEE243e3874938aE8a71fA08020088a3",
+  "research": null,
+  "symbol": "PTG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

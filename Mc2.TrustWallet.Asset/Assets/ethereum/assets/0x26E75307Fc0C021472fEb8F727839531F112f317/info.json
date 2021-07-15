@@ -1,0 +1,18 @@
+{
+  "id": "0x26E75307Fc0C021472fEb8F727839531F112f317",
+  "address": "0x26E75307Fc0C021472fEb8F727839531F112f317",
+  "blockchain": "ethereum",
+  "name": "Crypto20",
+  "website": "https://invictuscapital.com/en/crypto20",
+  "description": "Crypto20 is the world's first tokenized crypto index fund.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x26E75307Fc0C021472fEb8F727839531F112f317",
+  "research": null,
+  "symbol": "C20",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

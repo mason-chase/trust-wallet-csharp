@@ -1,0 +1,18 @@
+{
+  "id": "0xD7732e3783b0047aa251928960063f863AD022D8",
+  "address": "0xD7732e3783b0047aa251928960063f863AD022D8",
+  "blockchain": "ethereum",
+  "name": "BrahmaOS",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xD7732e3783b0047aa251928960063f863AD022D8",
+  "research": null,
+  "symbol": "BRM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

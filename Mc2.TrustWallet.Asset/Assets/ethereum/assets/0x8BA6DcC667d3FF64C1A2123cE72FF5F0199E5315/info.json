@@ -1,0 +1,18 @@
+{
+  "id": "0x8BA6DcC667d3FF64C1A2123cE72FF5F0199E5315",
+  "address": "0x8BA6DcC667d3FF64C1A2123cE72FF5F0199E5315",
+  "blockchain": "ethereum",
+  "name": "AlexMasmej",
+  "website": "https://app.tryroll.com/rewards/ALEX",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8BA6DcC667d3FF64C1A2123cE72FF5F0199E5315",
+  "research": null,
+  "symbol": "ALEX",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

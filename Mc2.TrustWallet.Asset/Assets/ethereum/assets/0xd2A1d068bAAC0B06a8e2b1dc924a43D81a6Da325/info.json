@@ -1,0 +1,18 @@
+{
+  "id": "0xd2A1d068bAAC0B06a8e2b1dc924a43D81a6Da325",
+  "address": "0xd2A1d068bAAC0B06a8e2b1dc924a43D81a6Da325",
+  "blockchain": "ethereum",
+  "name": "Fulcrum Perpetual Short ETH-DAI v2",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd2A1d068bAAC0B06a8e2b1dc924a43D81a6Da325",
+  "research": null,
+  "symbol": "dsETH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

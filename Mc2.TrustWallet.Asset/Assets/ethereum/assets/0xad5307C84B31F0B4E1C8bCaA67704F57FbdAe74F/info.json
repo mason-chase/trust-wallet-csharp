@@ -1,0 +1,18 @@
+{
+  "id": "0xad5307C84B31F0B4E1C8bCaA67704F57FbdAe74F",
+  "address": "0xad5307C84B31F0B4E1C8bCaA67704F57FbdAe74F",
+  "blockchain": "ethereum",
+  "name": "Wellness Cash Coin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xad5307C84B31F0B4E1C8bCaA67704F57FbdAe74F",
+  "research": null,
+  "symbol": "WCC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

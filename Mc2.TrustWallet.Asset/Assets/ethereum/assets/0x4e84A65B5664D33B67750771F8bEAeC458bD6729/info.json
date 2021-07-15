@@ -1,0 +1,18 @@
+{
+  "id": "0x4e84A65B5664D33B67750771F8bEAeC458bD6729",
+  "address": "0x4e84A65B5664D33B67750771F8bEAeC458bD6729",
+  "blockchain": "ethereum",
+  "name": "Orionix",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4e84A65B5664D33B67750771F8bEAeC458bD6729",
+  "research": null,
+  "symbol": "ORX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

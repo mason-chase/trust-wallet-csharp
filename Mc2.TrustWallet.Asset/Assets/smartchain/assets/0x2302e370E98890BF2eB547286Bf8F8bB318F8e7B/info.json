@@ -1,0 +1,18 @@
+{
+  "id": "0x2302e370E98890BF2eB547286Bf8F8bB318F8e7B",
+  "address": "0x2302e370E98890BF2eB547286Bf8F8bB318F8e7B",
+  "blockchain": "smartchain",
+  "name": "BabyShiba",
+  "website": "https://babyshiba.net/",
+  "description": "Buy and Hold BabyShiba and you will automatically get more in your wallet. No need to farm, stake or claim.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x2302e370E98890BF2eB547286Bf8F8bB318F8e7B",
+  "research": null,
+  "symbol": "BabyShiba",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

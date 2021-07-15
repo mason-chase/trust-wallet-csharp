@@ -1,0 +1,18 @@
+{
+  "id": "TRXB-2E6",
+  "address": "TRXB-2E6",
+  "blockchain": "binance",
+  "name": "TRXB",
+  "website": "https://tron.network/",
+  "description": "TRON is a dedicated to build the infrastructure for a truly decentralized Internet.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/TRXB-2E6",
+  "research": null,
+  "symbol": "TRXB",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

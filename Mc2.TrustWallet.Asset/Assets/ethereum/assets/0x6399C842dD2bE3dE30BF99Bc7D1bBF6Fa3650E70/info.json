@@ -1,0 +1,31 @@
+{
+  "id": "0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70",
+  "address": "0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70",
+  "blockchain": "ethereum",
+  "name": "PREMIA",
+  "website": "https://premia.finance",
+  "description": "Decentralized Financial Instrument Protocol.",
+  "short_description": "powered by anons.",
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6399C842dD2bE3dE30BF99Bc7D1bBF6Fa3650E70",
+  "research": null,
+  "symbol": "PREMIA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/premiafinance/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/premiafinance"
+    },
+    {
+      "name": "medium",
+      "url": "https://premia.medium.com"
+    }
+  ],
+  "tags": null
+}

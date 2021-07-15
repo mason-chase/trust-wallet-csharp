@@ -1,0 +1,18 @@
+{
+  "id": "0x4c1A8ba7D6Fe281ea01B3Cd69fcB6d82d5771996",
+  "address": "0x4c1A8ba7D6Fe281ea01B3Cd69fcB6d82d5771996",
+  "blockchain": "ethereum",
+  "name": "You Long Dun (游龙盾)",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4c1A8ba7D6Fe281ea01B3Cd69fcB6d82d5771996",
+  "research": null,
+  "symbol": "GDC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

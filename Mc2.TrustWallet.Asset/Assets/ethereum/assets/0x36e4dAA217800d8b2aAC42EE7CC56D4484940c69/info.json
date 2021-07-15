@@ -1,0 +1,18 @@
+{
+  "id": "0x36e4dAA217800d8b2aAC42EE7CC56D4484940c69",
+  "address": "0x36e4dAA217800d8b2aAC42EE7CC56D4484940c69",
+  "blockchain": "ethereum",
+  "name": "AntariX Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x36e4dAA217800d8b2aAC42EE7CC56D4484940c69",
+  "research": null,
+  "symbol": "ATRX",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

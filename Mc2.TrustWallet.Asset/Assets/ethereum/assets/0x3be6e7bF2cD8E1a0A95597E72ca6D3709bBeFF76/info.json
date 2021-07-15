@@ -1,0 +1,18 @@
+{
+  "id": "0x3be6e7bF2cD8E1a0A95597E72ca6D3709bBeFF76",
+  "address": "0x3be6e7bF2cD8E1a0A95597E72ca6D3709bBeFF76",
+  "blockchain": "ethereum",
+  "name": "DMTC Token",
+  "website": "https://dmtc.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3be6e7bF2cD8E1a0A95597E72ca6D3709bBeFF76",
+  "research": null,
+  "symbol": "DMTC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

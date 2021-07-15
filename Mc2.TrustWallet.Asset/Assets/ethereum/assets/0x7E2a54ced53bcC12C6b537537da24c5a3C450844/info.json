@@ -1,0 +1,18 @@
+{
+  "id": "0x7E2a54ced53bcC12C6b537537da24c5a3C450844",
+  "address": "0x7E2a54ced53bcC12C6b537537da24c5a3C450844",
+  "blockchain": "ethereum",
+  "name": "IMGame",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7E2a54ced53bcC12C6b537537da24c5a3C450844",
+  "research": null,
+  "symbol": "IMG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

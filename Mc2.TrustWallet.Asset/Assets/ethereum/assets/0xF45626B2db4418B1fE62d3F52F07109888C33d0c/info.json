@@ -1,0 +1,18 @@
+{
+  "id": "0xF45626B2db4418B1fE62d3F52F07109888C33d0c",
+  "address": "0xF45626B2db4418B1fE62d3F52F07109888C33d0c",
+  "blockchain": "ethereum",
+  "name": "G Gold Coin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF45626B2db4418B1fE62d3F52F07109888C33d0c",
+  "research": null,
+  "symbol": "GGC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

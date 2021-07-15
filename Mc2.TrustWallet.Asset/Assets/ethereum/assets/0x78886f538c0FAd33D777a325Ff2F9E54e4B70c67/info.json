@@ -1,0 +1,18 @@
+{
+  "id": "0x78886f538c0FAd33D777a325Ff2F9E54e4B70c67",
+  "address": "0x78886f538c0FAd33D777a325Ff2F9E54e4B70c67",
+  "blockchain": "ethereum",
+  "name": "Dogethereum",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x78886f538c0FAd33D777a325Ff2F9E54e4B70c67",
+  "research": null,
+  "symbol": "DETH",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

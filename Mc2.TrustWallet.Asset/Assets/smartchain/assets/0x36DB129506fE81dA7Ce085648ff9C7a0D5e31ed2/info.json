@@ -1,0 +1,18 @@
+{
+  "id": "0x36DB129506fE81dA7Ce085648ff9C7a0D5e31ed2",
+  "address": "0x36DB129506fE81dA7Ce085648ff9C7a0D5e31ed2",
+  "blockchain": "smartchain",
+  "name": "CEEZEE",
+  "website": "https://ceezee.io/",
+  "description": "The Best Meme-Based Geometric Deflationary Token",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x36DB129506fE81dA7Ce085648ff9C7a0D5e31ed2",
+  "research": null,
+  "symbol": "SAFU",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

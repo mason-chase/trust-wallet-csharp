@@ -1,0 +1,18 @@
+{
+  "id": "0x01FDB5103a0D9De8d12e32E7775D5799bD715a54",
+  "address": "0x01FDB5103a0D9De8d12e32E7775D5799bD715a54",
+  "blockchain": "ethereum",
+  "name": "QBUX",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x01FDB5103a0D9De8d12e32E7775D5799bD715a54",
+  "research": null,
+  "symbol": "QBUX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

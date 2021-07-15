@@ -1,0 +1,18 @@
+{
+  "id": "0xA7fC5D2453E3F68aF0cc1B78bcFEe94A1B293650",
+  "address": "0xA7fC5D2453E3F68aF0cc1B78bcFEe94A1B293650",
+  "blockchain": "ethereum",
+  "name": "Spiking",
+  "website": "https://spiking.com/",
+  "description": "The Spiking Platform aims to allow its users to mirror the trading activity of any whale and control their own segregated trading accounts directly. SPIKE will be the token that fuels the Spiking Platform (gas). For new traders, Spiking will offer the assistance of RoboBull, a proprietary AI Robot that is able to create a portfolio of different whales based on the trader’s risk/reward ratio.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA7fC5D2453E3F68aF0cc1B78bcFEe94A1B293650",
+  "research": null,
+  "symbol": "SPIKE",
+  "type": "ERC20",
+  "decimals": 10,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

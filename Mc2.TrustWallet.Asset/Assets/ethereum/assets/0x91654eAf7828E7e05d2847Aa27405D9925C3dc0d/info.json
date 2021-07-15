@@ -1,0 +1,18 @@
+{
+  "id": "0x91654eAf7828E7e05d2847Aa27405D9925C3dc0d",
+  "address": "0x91654eAf7828E7e05d2847Aa27405D9925C3dc0d",
+  "blockchain": "ethereum",
+  "name": "Ubiquitous Business Credit 2.0",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x91654eAf7828E7e05d2847Aa27405D9925C3dc0d",
+  "research": null,
+  "symbol": "UBC",
+  "type": "ERC20",
+  "decimals": 10,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

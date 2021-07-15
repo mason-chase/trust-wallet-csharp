@@ -1,0 +1,18 @@
+{
+  "id": "0x3a2732Aa4A876f2dadeE90E15467d2e5ecd18160",
+  "address": "0x3a2732Aa4A876f2dadeE90E15467d2e5ecd18160",
+  "blockchain": "ethereum",
+  "name": "NTV-d",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3a2732Aa4A876f2dadeE90E15467d2e5ecd18160",
+  "research": null,
+  "symbol": "NTV-d",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

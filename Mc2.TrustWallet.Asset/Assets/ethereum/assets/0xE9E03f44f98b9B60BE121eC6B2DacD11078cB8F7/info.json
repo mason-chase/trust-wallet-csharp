@@ -1,0 +1,18 @@
+{
+  "id": "0xE9E03f44f98b9B60BE121eC6B2DacD11078cB8F7",
+  "address": "0xE9E03f44f98b9B60BE121eC6B2DacD11078cB8F7",
+  "blockchain": "ethereum",
+  "name": "DUDA",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE9E03f44f98b9B60BE121eC6B2DacD11078cB8F7",
+  "research": null,
+  "symbol": "DUDA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

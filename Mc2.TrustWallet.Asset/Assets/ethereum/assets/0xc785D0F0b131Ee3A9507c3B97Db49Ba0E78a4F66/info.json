@@ -1,0 +1,18 @@
+{
+  "id": "0xc785D0F0b131Ee3A9507c3B97Db49Ba0E78a4F66",
+  "address": "0xc785D0F0b131Ee3A9507c3B97Db49Ba0E78a4F66",
+  "blockchain": "ethereum",
+  "name": "Netareum",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc785D0F0b131Ee3A9507c3B97Db49Ba0E78a4F66",
+  "research": null,
+  "symbol": "NETA",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

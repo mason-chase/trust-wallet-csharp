@@ -1,0 +1,18 @@
+{
+  "id": "0x2AcF7dB66B767a431acfDfE9F8834DdF5835c53d",
+  "address": "0x2AcF7dB66B767a431acfDfE9F8834DdF5835c53d",
+  "blockchain": "ethereum",
+  "name": "Global Coin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2AcF7dB66B767a431acfDfE9F8834DdF5835c53d",
+  "research": null,
+  "symbol": "GBC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

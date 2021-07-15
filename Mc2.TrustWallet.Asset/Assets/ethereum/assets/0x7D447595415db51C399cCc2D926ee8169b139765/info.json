@@ -1,0 +1,18 @@
+{
+  "id": "0x7D447595415db51C399cCc2D926ee8169b139765",
+  "address": "0x7D447595415db51C399cCc2D926ee8169b139765",
+  "blockchain": "ethereum",
+  "name": "Planetagro-Exchange",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7D447595415db51C399cCc2D926ee8169b139765",
+  "research": null,
+  "symbol": "COFEE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

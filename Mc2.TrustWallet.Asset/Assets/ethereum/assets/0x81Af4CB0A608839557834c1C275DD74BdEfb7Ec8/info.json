@@ -1,0 +1,18 @@
+{
+  "id": "0x81Af4CB0A608839557834c1C275DD74BdEfb7Ec8",
+  "address": "0x81Af4CB0A608839557834c1C275DD74BdEfb7Ec8",
+  "blockchain": "ethereum",
+  "name": "NERBIO",
+  "website": "http://nerbio.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x81Af4CB0A608839557834c1C275DD74BdEfb7Ec8",
+  "research": null,
+  "symbol": "NRB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

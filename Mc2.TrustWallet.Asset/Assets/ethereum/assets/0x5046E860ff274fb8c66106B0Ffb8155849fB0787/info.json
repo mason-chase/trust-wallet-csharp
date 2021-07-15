@@ -1,0 +1,18 @@
+{
+  "id": "0x5046E860ff274fb8c66106B0Ffb8155849fB0787",
+  "address": "0x5046E860ff274fb8c66106B0Ffb8155849fB0787",
+  "blockchain": "ethereum",
+  "name": "JavaScript",
+  "website": "http://javascripttoken.pagedemo.co/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5046E860ff274fb8c66106B0Ffb8155849fB0787",
+  "research": null,
+  "symbol": "JS",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

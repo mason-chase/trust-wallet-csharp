@@ -1,0 +1,18 @@
+{
+  "id": "0x8c20D8D54771DF6Ed6728CA7413aE95e2E5F14Ee",
+  "address": "0x8c20D8D54771DF6Ed6728CA7413aE95e2E5F14Ee",
+  "blockchain": "ethereum",
+  "name": "Garrys",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8c20D8D54771DF6Ed6728CA7413aE95e2E5F14Ee",
+  "research": null,
+  "symbol": "GAR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

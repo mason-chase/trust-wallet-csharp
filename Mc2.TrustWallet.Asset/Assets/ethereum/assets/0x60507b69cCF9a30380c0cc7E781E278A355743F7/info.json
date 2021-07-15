@@ -1,0 +1,18 @@
+{
+  "id": "0x60507b69cCF9a30380c0cc7E781E278A355743F7",
+  "address": "0x60507b69cCF9a30380c0cc7E781E278A355743F7",
+  "blockchain": "ethereum",
+  "name": "BlockMed_Venture",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x60507b69cCF9a30380c0cc7E781E278A355743F7",
+  "research": null,
+  "symbol": "BMV",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

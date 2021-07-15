@@ -1,0 +1,18 @@
+{
+  "id": "0x33a669a350807552a005845C13A37662FAcb041B",
+  "address": "0x33a669a350807552a005845C13A37662FAcb041B",
+  "blockchain": "smartchain",
+  "name": "SHAGGY TOKEN",
+  "website": "https://shaggytoken.xyz/",
+  "description": "Experience the next generation of cryptocurrency token that automatically rewards you for holding.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x33a669a350807552a005845C13A37662FAcb041B",
+  "research": null,
+  "symbol": "SHAGGY",
+  "type": "BEP20",
+  "decimals": 0,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

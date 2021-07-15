@@ -1,0 +1,18 @@
+{
+  "id": "0x6067652Fe687Aa221B6F86F398aF4d0fe9bF45E3",
+  "address": "0x6067652Fe687Aa221B6F86F398aF4d0fe9bF45E3",
+  "blockchain": "smartchain",
+  "name": "Vain",
+  "website": "https://vaintoken.com",
+  "description": "Vain is a token made to make the world a better and greener place by planting trees.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x6067652Fe687Aa221B6F86F398aF4d0fe9bF45E3",
+  "research": null,
+  "symbol": "Vain",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

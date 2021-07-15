@@ -1,0 +1,18 @@
+{
+  "id": "0xb2fDd1a08c08714Ce3Ccd38fde3D9b9f300Fa9Cc",
+  "address": "0xb2fDd1a08c08714Ce3Ccd38fde3D9b9f300Fa9Cc",
+  "blockchain": "ethereum",
+  "name": "Kork Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb2fDd1a08c08714Ce3Ccd38fde3D9b9f300Fa9Cc",
+  "research": null,
+  "symbol": "Kork",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

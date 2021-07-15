@@ -1,0 +1,18 @@
+{
+  "id": "0x5F85c60187aB233Ca6e750731D15e7eFd061fBdE",
+  "address": "0x5F85c60187aB233Ca6e750731D15e7eFd061fBdE",
+  "blockchain": "ethereum",
+  "name": "Poseidon",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5F85c60187aB233Ca6e750731D15e7eFd061fBdE",
+  "research": null,
+  "symbol": "PSDN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

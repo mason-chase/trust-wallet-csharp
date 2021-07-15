@@ -1,0 +1,18 @@
+{
+  "id": "0xCbE7Fd2dD15f54Bc4Cee790c5c14240e7DDEA644",
+  "address": "0xCbE7Fd2dD15f54Bc4Cee790c5c14240e7DDEA644",
+  "blockchain": "ethereum",
+  "name": "Kipple",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xCbE7Fd2dD15f54Bc4Cee790c5c14240e7DDEA644",
+  "research": null,
+  "symbol": "KIPPLE",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

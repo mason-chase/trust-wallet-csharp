@@ -1,0 +1,18 @@
+{
+  "id": "0x94eea9a484F0BaE03D19623cfe389E2CBA56B72F",
+  "address": "0x94eea9a484F0BaE03D19623cfe389E2CBA56B72F",
+  "blockchain": "ethereum",
+  "name": "ENZO",
+  "website": "https://www.alfaenzo.org/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x94eea9a484F0BaE03D19623cfe389E2CBA56B72F",
+  "research": null,
+  "symbol": "NZO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

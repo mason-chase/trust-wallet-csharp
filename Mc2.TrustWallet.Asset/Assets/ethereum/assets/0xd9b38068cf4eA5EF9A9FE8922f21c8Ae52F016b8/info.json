@@ -1,0 +1,18 @@
+{
+  "id": "0xd9b38068cf4eA5EF9A9FE8922f21c8Ae52F016b8",
+  "address": "0xd9b38068cf4eA5EF9A9FE8922f21c8Ae52F016b8",
+  "blockchain": "ethereum",
+  "name": "DANIEL",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd9b38068cf4eA5EF9A9FE8922f21c8Ae52F016b8",
+  "research": null,
+  "symbol": "DANIEL",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

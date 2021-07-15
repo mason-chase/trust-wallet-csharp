@@ -1,0 +1,18 @@
+{
+  "id": "0xc1f976B91217E240885536aF8b63bc8b5269a9BE",
+  "address": "0xc1f976B91217E240885536aF8b63bc8b5269a9BE",
+  "blockchain": "ethereum",
+  "name": "PIN",
+  "website": "https://publicindex.network",
+  "description": "PIN📌is a proof-of-work cryptocurrency designed to index web3 metadata. PIN also exists as a wrapped token on Ethereum, Binance Smart Chain, and Polygon.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc1f976B91217E240885536aF8b63bc8b5269a9BE",
+  "research": null,
+  "symbol": "PIN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

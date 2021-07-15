@@ -1,0 +1,18 @@
+{
+  "id": "0x3154da898943Fc7151bc77F16E43C0C47b5E452d",
+  "address": "0x3154da898943Fc7151bc77F16E43C0C47b5E452d",
+  "blockchain": "ethereum",
+  "name": "STB Chain",
+  "website": "https://soft2b.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3154da898943Fc7151bc77F16E43C0C47b5E452d",
+  "research": null,
+  "symbol": "STB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "spam",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x8FD709Fc68886Bb522b32b9E70203D6001A2d1b2",
+  "address": "0x8FD709Fc68886Bb522b32b9E70203D6001A2d1b2",
+  "blockchain": "ethereum",
+  "name": "ComeAndPay",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8FD709Fc68886Bb522b32b9E70203D6001A2d1b2",
+  "research": null,
+  "symbol": "CNA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

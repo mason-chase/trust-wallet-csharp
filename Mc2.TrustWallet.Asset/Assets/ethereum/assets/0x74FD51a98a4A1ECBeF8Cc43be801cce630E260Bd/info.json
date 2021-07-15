@@ -1,0 +1,18 @@
+{
+  "id": "0x74FD51a98a4A1ECBeF8Cc43be801cce630E260Bd",
+  "address": "0x74FD51a98a4A1ECBeF8Cc43be801cce630E260Bd",
+  "blockchain": "ethereum",
+  "name": "SiaCashCoin",
+  "website": "https://www.siacashcoin.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x74FD51a98a4A1ECBeF8Cc43be801cce630E260Bd",
+  "research": null,
+  "symbol": "SCC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

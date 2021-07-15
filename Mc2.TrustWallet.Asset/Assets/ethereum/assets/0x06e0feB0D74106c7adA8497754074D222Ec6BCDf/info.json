@@ -1,0 +1,18 @@
+{
+  "id": "0x06e0feB0D74106c7adA8497754074D222Ec6BCDf",
+  "address": "0x06e0feB0D74106c7adA8497754074D222Ec6BCDf",
+  "blockchain": "ethereum",
+  "name": "BitBall",
+  "website": "https://www.bitball-btb.com/",
+  "description": "Bitball Ecosystem All in one crypto Solution Peer to Peer digital currencies with Multiple utilities",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x06e0feB0D74106c7adA8497754074D222Ec6BCDf",
+  "research": null,
+  "symbol": "BTB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

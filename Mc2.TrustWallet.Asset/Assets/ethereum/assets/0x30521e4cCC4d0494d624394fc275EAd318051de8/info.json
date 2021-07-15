@@ -1,0 +1,18 @@
+{
+  "id": "0x30521e4cCC4d0494d624394fc275EAd318051de8",
+  "address": "0x30521e4cCC4d0494d624394fc275EAd318051de8",
+  "blockchain": "ethereum",
+  "name": "RealDAS",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x30521e4cCC4d0494d624394fc275EAd318051de8",
+  "research": null,
+  "symbol": "REALDAS",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

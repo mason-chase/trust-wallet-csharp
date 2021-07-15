@@ -1,0 +1,18 @@
+{
+  "id": "0x851017523AE205adc9195e7F97D029f4Cfe7794c",
+  "address": "0x851017523AE205adc9195e7F97D029f4Cfe7794c",
+  "blockchain": "ethereum",
+  "name": "Social Lending Token",
+  "website": "https://sociallending.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x851017523AE205adc9195e7F97D029f4Cfe7794c",
+  "research": null,
+  "symbol": "SLT",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

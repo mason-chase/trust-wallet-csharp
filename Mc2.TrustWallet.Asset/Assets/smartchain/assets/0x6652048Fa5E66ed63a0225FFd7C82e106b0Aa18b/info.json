@@ -1,0 +1,39 @@
+{
+  "id": "0x6652048Fa5E66ed63a0225FFd7C82e106b0Aa18b",
+  "address": "0x6652048Fa5E66ed63a0225FFd7C82e106b0Aa18b",
+  "blockchain": "smartchain",
+  "name": "Yetucoin",
+  "website": "https://yetubit.com/",
+  "description": "Yetucoin is the governance token of the Pan-Afrikan decentralized exchange YetuSwap.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x6652048fa5e66ed63a0225ffd7c82e106b0aa18b",
+  "research": null,
+  "symbol": "YETU",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/yetuswap"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/joinchat/WCgfoG3TKk0FVYsf"
+    },
+    {
+      "name": "facebook",
+      "url": "https://facebook.com/yetuswap/"
+    },
+    {
+      "name": "reddit",
+      "url": "https://reddit.com/user/YetuSwap"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/yetuswap"
+    }
+  ],
+  "tags": null
+}

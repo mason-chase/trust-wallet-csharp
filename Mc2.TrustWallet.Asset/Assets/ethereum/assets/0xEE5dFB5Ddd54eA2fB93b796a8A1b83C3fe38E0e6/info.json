@@ -1,0 +1,18 @@
+{
+  "id": "0xEE5dFB5Ddd54eA2fB93b796a8A1b83C3fe38E0e6",
+  "address": "0xEE5dFB5Ddd54eA2fB93b796a8A1b83C3fe38E0e6",
+  "blockchain": "ethereum",
+  "name": "Nerves",
+  "website": "https://nerves.foundation/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xEE5dFB5Ddd54eA2fB93b796a8A1b83C3fe38E0e6",
+  "research": null,
+  "symbol": "NER",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

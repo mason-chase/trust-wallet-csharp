@@ -1,0 +1,18 @@
+{
+  "id": "0x43E248b058438F05e78CEb66aFC1555a97CB280F",
+  "address": "0x43E248b058438F05e78CEb66aFC1555a97CB280F",
+  "blockchain": "ethereum",
+  "name": "ThrillerX",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x43E248b058438F05e78CEb66aFC1555a97CB280F",
+  "research": null,
+  "symbol": "TLX",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

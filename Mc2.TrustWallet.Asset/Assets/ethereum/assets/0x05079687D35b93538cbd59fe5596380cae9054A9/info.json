@@ -1,0 +1,18 @@
+{
+  "id": "0x05079687D35b93538cbd59fe5596380cae9054A9",
+  "address": "0x05079687D35b93538cbd59fe5596380cae9054A9",
+  "blockchain": "ethereum",
+  "name": "BitSong",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x05079687D35b93538cbd59fe5596380cae9054A9",
+  "research": null,
+  "symbol": "BTSG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa",
+  "address": "0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa",
+  "blockchain": "ethereum",
+  "name": "Dawn",
+  "website": "https://dawn.org",
+  "description": "Dawn is an open-source protocol for gaming and competitions.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa",
+  "research": null,
+  "symbol": "DAWN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

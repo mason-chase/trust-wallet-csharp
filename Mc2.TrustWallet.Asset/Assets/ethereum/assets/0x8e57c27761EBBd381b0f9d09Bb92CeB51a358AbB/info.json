@@ -1,0 +1,18 @@
+{
+  "id": "0x8e57c27761EBBd381b0f9d09Bb92CeB51a358AbB",
+  "address": "0x8e57c27761EBBd381b0f9d09Bb92CeB51a358AbB",
+  "blockchain": "ethereum",
+  "name": "extraDNA",
+  "website": "https://xhumanity.org",
+  "description": "Adaptive Social Media System.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8e57c27761EBBd381b0f9d09Bb92CeB51a358AbB",
+  "research": null,
+  "symbol": "xDNA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

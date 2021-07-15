@@ -1,0 +1,18 @@
+{
+  "id": "0x2A0F5257F4bfE6c75cd58A14A0e7c4651E2160DE",
+  "address": "0x2A0F5257F4bfE6c75cd58A14A0e7c4651E2160DE",
+  "blockchain": "smartchain",
+  "name": "Koala Token",
+  "website": "https://moonkoala.finance/",
+  "description": "A Deflationary Cryptocurrency on Binance Smart Chain.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x2A0F5257F4bfE6c75cd58A14A0e7c4651E2160DE",
+  "research": null,
+  "symbol": "MKOALA",
+  "type": "BEP20",
+  "decimals": 0,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

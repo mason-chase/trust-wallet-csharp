@@ -1,0 +1,18 @@
+{
+  "id": "0x101D35140719EB2D07fFA71185f5bfBE31D6A212",
+  "address": "0x101D35140719EB2D07fFA71185f5bfBE31D6A212",
+  "blockchain": "smartchain",
+  "name": "BNB Cash",
+  "website": "https://bnbcash.uk",
+  "description": "BNB Cash",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x101D35140719EB2D07fFA71185f5bfBE31D6A212",
+  "research": null,
+  "symbol": "BNBC",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

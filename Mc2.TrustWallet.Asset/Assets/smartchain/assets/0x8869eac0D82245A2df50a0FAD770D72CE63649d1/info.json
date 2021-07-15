@@ -1,0 +1,18 @@
+{
+  "id": "0x8869eac0D82245A2df50a0FAD770D72CE63649d1",
+  "address": "0x8869eac0D82245A2df50a0FAD770D72CE63649d1",
+  "blockchain": "smartchain",
+  "name": "Doggy Swap",
+  "website": "https://doggyswap.io",
+  "description": "Doggy Swap is the all-in-one DeFi platform that provides both AMM and NFT Marketplace solutions in one place!",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x8869eac0d82245a2df50a0fad770d72ce63649d1",
+  "research": null,
+  "symbol": "DOGS",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

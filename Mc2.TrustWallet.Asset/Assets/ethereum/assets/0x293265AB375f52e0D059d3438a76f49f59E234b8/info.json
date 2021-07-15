@@ -1,0 +1,18 @@
+{
+  "id": "0x293265AB375f52e0D059d3438a76f49f59E234b8",
+  "address": "0x293265AB375f52e0D059d3438a76f49f59E234b8",
+  "blockchain": "ethereum",
+  "name": "WorldBusinessZimonCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x293265AB375f52e0D059d3438a76f49f59E234b8",
+  "research": null,
+  "symbol": "WBZ",
+  "type": "ERC20",
+  "decimals": 10,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

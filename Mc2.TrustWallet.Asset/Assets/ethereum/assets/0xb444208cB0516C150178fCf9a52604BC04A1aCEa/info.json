@@ -1,0 +1,18 @@
+{
+  "id": "0xb444208cB0516C150178fCf9a52604BC04A1aCEa",
+  "address": "0xb444208cB0516C150178fCf9a52604BC04A1aCEa",
+  "blockchain": "ethereum",
+  "name": "GreenMed",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb444208cB0516C150178fCf9a52604BC04A1aCEa",
+  "research": null,
+  "symbol": "GRMD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

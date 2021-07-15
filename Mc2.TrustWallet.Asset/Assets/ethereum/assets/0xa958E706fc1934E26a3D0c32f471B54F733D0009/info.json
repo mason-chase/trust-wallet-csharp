@@ -1,0 +1,18 @@
+{
+  "id": "0xa958E706fc1934E26a3D0c32f471B54F733D0009",
+  "address": "0xa958E706fc1934E26a3D0c32f471B54F733D0009",
+  "blockchain": "ethereum",
+  "name": "Allcoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa958E706fc1934E26a3D0c32f471B54F733D0009",
+  "research": null,
+  "symbol": "ALC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

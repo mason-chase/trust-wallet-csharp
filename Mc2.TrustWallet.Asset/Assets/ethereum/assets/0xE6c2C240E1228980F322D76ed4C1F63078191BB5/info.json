@@ -1,0 +1,18 @@
+{
+  "id": "0xE6c2C240E1228980F322D76ed4C1F63078191BB5",
+  "address": "0xE6c2C240E1228980F322D76ed4C1F63078191BB5",
+  "blockchain": "ethereum",
+  "name": "Basic Income Staking",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE6c2C240E1228980F322D76ed4C1F63078191BB5",
+  "research": null,
+  "symbol": "BIS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

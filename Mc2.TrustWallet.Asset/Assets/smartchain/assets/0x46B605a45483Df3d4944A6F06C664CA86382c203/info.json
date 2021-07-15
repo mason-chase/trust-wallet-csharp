@@ -1,0 +1,18 @@
+{
+  "id": "0x46B605a45483Df3d4944A6F06C664CA86382c203",
+  "address": "0x46B605a45483Df3d4944A6F06C664CA86382c203",
+  "blockchain": "smartchain",
+  "name": "Fugu Finance",
+  "website": "https://www.fugufinance.com",
+  "description": "Fugu Finance is a decentralized ecosystem to efficient farming and staking",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x46b605a45483df3d4944a6f06c664ca86382c203",
+  "research": null,
+  "symbol": "FUGU",
+  "type": "BEP20",
+  "decimals": 0,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

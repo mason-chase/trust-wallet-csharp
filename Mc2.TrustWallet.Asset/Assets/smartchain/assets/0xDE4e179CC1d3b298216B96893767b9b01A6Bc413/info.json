@@ -1,0 +1,18 @@
+{
+  "id": "0xDE4e179CC1d3b298216B96893767b9b01A6Bc413",
+  "address": "0xDE4e179CC1d3b298216B96893767b9b01A6Bc413",
+  "blockchain": "smartchain",
+  "name": "KingToken",
+  "website": "https://swapking.net",
+  "description": "A decentralized exchange with 100% profit distribution, trading mining and and automated market maker combination.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xde4e179cc1d3b298216b96893767b9b01a6bc413",
+  "research": null,
+  "symbol": "KING",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

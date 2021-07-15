@@ -1,0 +1,18 @@
+{
+  "id": "0x973e52691176d36453868D9d86572788d27041A9",
+  "address": "0x973e52691176d36453868D9d86572788d27041A9",
+  "blockchain": "ethereum",
+  "name": "DxChain Token",
+  "website": "https://dxchain.com",
+  "description": "DxChain is the world’s first decentralized big data and machine learning network powered by a computing-centric blockchain.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x973e52691176d36453868D9d86572788d27041A9",
+  "research": null,
+  "symbol": "DX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

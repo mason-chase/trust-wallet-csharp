@@ -1,0 +1,18 @@
+{
+  "id": "0xC9c0Ff6344b4BFDee7ACE21c4DeddD6e43Ecb454",
+  "address": "0xC9c0Ff6344b4BFDee7ACE21c4DeddD6e43Ecb454",
+  "blockchain": "ethereum",
+  "name": "Oroshi",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xC9c0Ff6344b4BFDee7ACE21c4DeddD6e43Ecb454",
+  "research": null,
+  "symbol": "WIND",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

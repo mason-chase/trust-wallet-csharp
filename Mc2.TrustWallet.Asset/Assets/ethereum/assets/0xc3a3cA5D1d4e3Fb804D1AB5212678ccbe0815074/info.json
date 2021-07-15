@@ -1,0 +1,18 @@
+{
+  "id": "0xc3a3cA5D1d4e3Fb804D1AB5212678ccbe0815074",
+  "address": "0xc3a3cA5D1d4e3Fb804D1AB5212678ccbe0815074",
+  "blockchain": "ethereum",
+  "name": "MCC ico token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc3a3cA5D1d4e3Fb804D1AB5212678ccbe0815074",
+  "research": null,
+  "symbol": "MCC",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

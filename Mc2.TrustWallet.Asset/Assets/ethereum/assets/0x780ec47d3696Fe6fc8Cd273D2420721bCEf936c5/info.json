@@ -1,0 +1,18 @@
+{
+  "id": "0x780ec47d3696Fe6fc8Cd273D2420721bCEf936c5",
+  "address": "0x780ec47d3696Fe6fc8Cd273D2420721bCEf936c5",
+  "blockchain": "ethereum",
+  "name": "DAPTOKEN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x780ec47d3696Fe6fc8Cd273D2420721bCEf936c5",
+  "research": null,
+  "symbol": "DAP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

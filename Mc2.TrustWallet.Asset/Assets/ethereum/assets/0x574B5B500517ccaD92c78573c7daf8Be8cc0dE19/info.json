@@ -1,0 +1,18 @@
+{
+  "id": "0x574B5B500517ccaD92c78573c7daf8Be8cc0dE19",
+  "address": "0x574B5B500517ccaD92c78573c7daf8Be8cc0dE19",
+  "blockchain": "ethereum",
+  "name": "Five Color Stone",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x574B5B500517ccaD92c78573c7daf8Be8cc0dE19",
+  "research": null,
+  "symbol": "FCS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

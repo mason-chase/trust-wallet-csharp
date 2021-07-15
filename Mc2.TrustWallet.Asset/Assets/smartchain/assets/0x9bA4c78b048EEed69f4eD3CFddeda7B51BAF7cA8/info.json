@@ -1,0 +1,18 @@
+{
+  "id": "0x9bA4c78b048EEed69f4eD3CFddeda7B51BAF7cA8",
+  "address": "0x9bA4c78b048EEed69f4eD3CFddeda7B51BAF7cA8",
+  "blockchain": "smartchain",
+  "name": "GenShards",
+  "website": "https://genshards.com",
+  "description": "Genesis Shards transforms NFTs into a liquidity vehicle for Pre-IDO tokens and a whole new suite of DeFi products across multiple blockchains.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x9bA4c78b048EEed69f4eD3CFddeda7B51BAF7cA8",
+  "research": null,
+  "symbol": "GS",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

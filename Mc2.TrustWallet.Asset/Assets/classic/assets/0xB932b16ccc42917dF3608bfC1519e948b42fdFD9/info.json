@@ -1,0 +1,18 @@
+{
+  "id": "0xB932b16ccc42917dF3608bfC1519e948b42fdFD9",
+  "address": "0xB932b16ccc42917dF3608bfC1519e948b42fdFD9",
+  "blockchain": "classic",
+  "name": "INTRO TOKEN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://blockscout.com/etc/mainnet/tokens/0xB932b16ccc42917dF3608bfC1519e948b42fdFD9",
+  "research": null,
+  "symbol": "NTRO",
+  "type": "ETC20",
+  "decimals": 4,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

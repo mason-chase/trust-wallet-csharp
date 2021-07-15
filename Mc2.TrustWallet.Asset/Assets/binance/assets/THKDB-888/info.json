@@ -1,0 +1,18 @@
+{
+  "id": "THKDB-888",
+  "address": "THKDB-888",
+  "blockchain": "binance",
+  "name": "TrueHKD",
+  "website": "https://trusttoken.com/",
+  "description": "The leading stablecoin backed by the Hong Kong dollar.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/THKDB-888",
+  "research": null,
+  "symbol": "THKDB",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

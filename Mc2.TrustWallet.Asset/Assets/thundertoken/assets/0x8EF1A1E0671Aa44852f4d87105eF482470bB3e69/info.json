@@ -1,0 +1,27 @@
+{
+  "id": "0x8EF1A1E0671Aa44852f4d87105eF482470bB3e69",
+  "address": "0x8EF1A1E0671Aa44852f4d87105eF482470bB3e69",
+  "blockchain": "thundertoken",
+  "name": "TT-BNB",
+  "website": "https://bridge.thundercore.com/bsc/",
+  "description": "Bridged token of BSC on ThunderCore blockchain. The Bridge allows users to transfer assets between two chains in the ThunderCore ecosystem. This is a customized version of POA network Bridge",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://viewblock.io/thundercore/address/0x8EF1A1E0671Aa44852f4d87105eF482470bB3e69",
+  "research": null,
+  "symbol": "TT-BNB",
+  "type": "TT20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/ThunderProtocol"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/channels/467102816230440970/468561199790030849"
+    }
+  ],
+  "tags": null
+}

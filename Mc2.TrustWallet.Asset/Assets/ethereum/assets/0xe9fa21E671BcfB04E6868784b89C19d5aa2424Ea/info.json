@@ -1,0 +1,18 @@
+{
+  "id": "0xe9fa21E671BcfB04E6868784b89C19d5aa2424Ea",
+  "address": "0xe9fa21E671BcfB04E6868784b89C19d5aa2424Ea",
+  "blockchain": "ethereum",
+  "name": "EurocoinToken",
+  "website": "https://eurocoinpay.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe9fa21E671BcfB04E6868784b89C19d5aa2424Ea",
+  "research": null,
+  "symbol": "ECTE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

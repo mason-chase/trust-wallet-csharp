@@ -1,0 +1,18 @@
+{
+  "id": "0x0e20E3216EA172fcf9eAa19723b119e090fD353f",
+  "address": "0x0e20E3216EA172fcf9eAa19723b119e090fD353f",
+  "blockchain": "smartchain",
+  "name": "Xiasi Inu",
+  "website": "https://xiasi.finance",
+  "description": "Xiasi Inu ($XIASI) is a community-focused, decentralized cryptocurrency with instant rewards for holders, sit back relax and watch your Xiasi Inu balance grow.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x0e20E3216EA172fcf9eAa19723b119e090fD353f",
+  "research": null,
+  "symbol": "XIASI",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x6bf3a93793e52f75543c92AfEC4636559988e3c1",
+  "address": "0x6bf3a93793e52f75543c92AfEC4636559988e3c1",
+  "blockchain": "smartchain",
+  "name": "Crucifearous Finance",
+  "website": "https://crucifearous.finance",
+  "description": "This is the request from https://github.com/trustwallet/assets/pull/10118 Already paid and just needed for new PR due to correction",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x6bf3a93793e52f75543c92AfEC4636559988e3c1",
+  "research": null,
+  "symbol": "CIFI",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

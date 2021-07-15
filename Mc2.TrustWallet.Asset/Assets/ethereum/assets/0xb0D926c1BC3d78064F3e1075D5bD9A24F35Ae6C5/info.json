@@ -1,0 +1,18 @@
+{
+  "id": "0xb0D926c1BC3d78064F3e1075D5bD9A24F35Ae6C5",
+  "address": "0xb0D926c1BC3d78064F3e1075D5bD9A24F35Ae6C5",
+  "blockchain": "ethereum",
+  "name": "Assistive Reality ARX",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb0D926c1BC3d78064F3e1075D5bD9A24F35Ae6C5",
+  "research": null,
+  "symbol": "ARX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

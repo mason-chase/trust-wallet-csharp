@@ -1,0 +1,18 @@
+{
+  "id": "0xc6A18790d4D3988D28cc1E274E2c696602ea4343",
+  "address": "0xc6A18790d4D3988D28cc1E274E2c696602ea4343",
+  "blockchain": "ethereum",
+  "name": "Coinrobots",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc6A18790d4D3988D28cc1E274E2c696602ea4343",
+  "research": null,
+  "symbol": "ROBOT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

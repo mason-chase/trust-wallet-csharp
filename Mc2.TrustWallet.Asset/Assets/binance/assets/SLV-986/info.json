@@ -1,0 +1,18 @@
+{
+  "id": "SLV-986",
+  "address": "SLV-986",
+  "blockchain": "binance",
+  "name": "Silverway",
+  "website": "https://silverway.io/",
+  "description": "Silverway provides aggregated and structured OTC (over-the-counter) data for crypto markets.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/SLV-986",
+  "research": null,
+  "symbol": "SLV",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

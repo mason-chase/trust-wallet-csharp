@@ -1,0 +1,18 @@
+{
+  "id": "0x90B831fa3Bebf58E9744A14D638E25B4eE06f9Bc",
+  "address": "0x90B831fa3Bebf58E9744A14D638E25B4eE06f9Bc",
+  "blockchain": "ethereum",
+  "name": "MIMO Parallel Governance Token (MIMO)",
+  "website": "https://mimo.capital/",
+  "description": "MIMO token is the Governance Token of PAR Token",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x90b831fa3bebf58e9744a14d638e25b4ee06f9bc",
+  "research": null,
+  "symbol": "MIMO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

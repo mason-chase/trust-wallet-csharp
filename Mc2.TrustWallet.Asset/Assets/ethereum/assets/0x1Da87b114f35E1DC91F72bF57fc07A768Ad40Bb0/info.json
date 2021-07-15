@@ -1,0 +1,18 @@
+{
+  "id": "0x1Da87b114f35E1DC91F72bF57fc07A768Ad40Bb0",
+  "address": "0x1Da87b114f35E1DC91F72bF57fc07A768Ad40Bb0",
+  "blockchain": "ethereum",
+  "name": "Equalizer",
+  "website": "https://equalizer.finance",
+  "description": "DeFi Flash Loans Made Easy. The first dedicated platform that equalizes the decentralized markets.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1Da87b114f35E1DC91F72bF57fc07A768Ad40Bb0",
+  "research": null,
+  "symbol": "EQZ",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

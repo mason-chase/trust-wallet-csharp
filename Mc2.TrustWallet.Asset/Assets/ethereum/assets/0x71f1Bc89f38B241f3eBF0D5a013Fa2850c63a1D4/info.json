@@ -1,0 +1,18 @@
+{
+  "id": "0x71f1Bc89f38B241f3eBF0D5a013Fa2850c63a1D4",
+  "address": "0x71f1Bc89f38B241f3eBF0D5a013Fa2850c63a1D4",
+  "blockchain": "ethereum",
+  "name": "Zloadr Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x71f1Bc89f38B241f3eBF0D5a013Fa2850c63a1D4",
+  "research": null,
+  "symbol": "ZDR",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

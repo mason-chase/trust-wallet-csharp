@@ -1,0 +1,18 @@
+{
+  "id": "1001803",
+  "address": "1001803",
+  "blockchain": "tron",
+  "name": "LIME",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1001803",
+  "research": null,
+  "symbol": "LIME",
+  "type": "TRC10",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

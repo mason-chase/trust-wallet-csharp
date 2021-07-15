@@ -1,0 +1,18 @@
+{
+  "id": "0x28fB9FCf7cF7a67d05bD19fFBEc17578c0dE63d3",
+  "address": "0x28fB9FCf7cF7a67d05bD19fFBEc17578c0dE63d3",
+  "blockchain": "ethereum",
+  "name": "Cercle Stock Service",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x28fB9FCf7cF7a67d05bD19fFBEc17578c0dE63d3",
+  "research": null,
+  "symbol": "CSS",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

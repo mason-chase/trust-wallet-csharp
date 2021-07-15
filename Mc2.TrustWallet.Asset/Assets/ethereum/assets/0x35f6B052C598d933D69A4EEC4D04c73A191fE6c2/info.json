@@ -1,0 +1,18 @@
+{
+  "id": "0x35f6B052C598d933D69A4EEC4D04c73A191fE6c2",
+  "address": "0x35f6B052C598d933D69A4EEC4D04c73A191fE6c2",
+  "blockchain": "ethereum",
+  "name": "Aave SNX",
+  "website": "https://aave.com",
+  "description": "Aave SNX is an interest bearing token pegged 1:1 to the underlying SNX deposited in Aave. aSNX accrue interest in real time in your wallet.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x35f6B052C598d933D69A4EEC4D04c73A191fE6c2",
+  "research": null,
+  "symbol": "aSNX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

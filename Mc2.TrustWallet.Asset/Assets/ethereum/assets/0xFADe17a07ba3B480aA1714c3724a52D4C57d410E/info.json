@@ -1,0 +1,18 @@
+{
+  "id": "0xFADe17a07ba3B480aA1714c3724a52D4C57d410E",
+  "address": "0xFADe17a07ba3B480aA1714c3724a52D4C57d410E",
+  "blockchain": "ethereum",
+  "name": "Vegan",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xFADe17a07ba3B480aA1714c3724a52D4C57d410E",
+  "research": null,
+  "symbol": "VEGAN",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

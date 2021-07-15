@@ -1,0 +1,18 @@
+{
+  "id": "0xbE0aE3C18b985f65d539Ca2Db3f888E06c0cB124",
+  "address": "0xbE0aE3C18b985f65d539Ca2Db3f888E06c0cB124",
+  "blockchain": "ethereum",
+  "name": "Kaleido",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xbE0aE3C18b985f65d539Ca2Db3f888E06c0cB124",
+  "research": null,
+  "symbol": "KAL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

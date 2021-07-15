@@ -1,0 +1,18 @@
+{
+  "id": "0x9B11b1B271A224A271619f3419B1b080fdeC5B4A",
+  "address": "0x9B11b1B271A224A271619f3419B1b080fdeC5B4A",
+  "blockchain": "ethereum",
+  "name": "Bilibit",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9B11b1B271A224A271619f3419B1b080fdeC5B4A",
+  "research": null,
+  "symbol": "BLB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

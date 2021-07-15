@@ -1,0 +1,18 @@
+{
+  "id": "0xE8663A64A96169ff4d95b4299E7ae9a76b905B31",
+  "address": "0xE8663A64A96169ff4d95b4299E7ae9a76b905B31",
+  "blockchain": "ethereum",
+  "name": "Rating",
+  "website": "http://token.dprating.com",
+  "description": "DPRating (RATING) is a cryptocurrency and operates on the Ethereum platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE8663A64A96169ff4d95b4299E7ae9a76b905B31",
+  "research": null,
+  "symbol": "Rating",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

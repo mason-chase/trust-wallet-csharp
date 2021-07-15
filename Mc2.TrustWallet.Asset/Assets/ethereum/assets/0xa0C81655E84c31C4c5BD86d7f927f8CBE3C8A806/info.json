@@ -1,0 +1,18 @@
+{
+  "id": "0xa0C81655E84c31C4c5BD86d7f927f8CBE3C8A806",
+  "address": "0xa0C81655E84c31C4c5BD86d7f927f8CBE3C8A806",
+  "blockchain": "ethereum",
+  "name": "WorldPoker.Game Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa0C81655E84c31C4c5BD86d7f927f8CBE3C8A806",
+  "research": null,
+  "symbol": "WPKG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

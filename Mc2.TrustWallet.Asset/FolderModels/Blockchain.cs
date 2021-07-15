@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Mc2.TrustWallet.Asset.FolderModels.CoinProperties;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,9 +9,16 @@ namespace Mc2.TrustWallet.Asset.FolderModels
 {
     public class Blockchain
     {
-        public Coin Coin { get; set; }
+        /// <summary>
+        /// Blockchain code: (folder name, example: "bitcoin")
+        /// </summary>
         public string Code { get; set; }
+        public Coin Coin { get; set; } = new Coin();
         public IList<Token> Tokens { get; set; }
+        public IList<Validator> Validators { get; set; }
+        public IList<string> AllowList { get; set; }
+        public IList<string> DenyList { get; set; }
+        public TokenList TokenList { get; set; }
 
         public override string ToString()
         {

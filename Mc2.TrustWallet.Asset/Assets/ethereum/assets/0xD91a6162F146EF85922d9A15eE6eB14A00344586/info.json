@@ -1,0 +1,18 @@
+{
+  "id": "0xD91a6162F146EF85922d9A15eE6eB14A00344586",
+  "address": "0xD91a6162F146EF85922d9A15eE6eB14A00344586",
+  "blockchain": "ethereum",
+  "name": "Sessia Kicks",
+  "website": "https://sessia.com",
+  "description": "Using all the advantages of blockchain technology, Sessia presents a new way of communication between businesses and customers. We call it «social marketplace» - an ecosystem where brands can simply develop and apply effective promotional tools by sharing the purchases of their client with their Friends and followers.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xD91a6162F146EF85922d9A15eE6eB14A00344586",
+  "research": null,
+  "symbol": "KICK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

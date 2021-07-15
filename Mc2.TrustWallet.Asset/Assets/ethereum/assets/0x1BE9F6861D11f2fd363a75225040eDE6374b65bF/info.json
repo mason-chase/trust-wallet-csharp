@@ -1,0 +1,18 @@
+{
+  "id": "0x1BE9F6861D11f2fd363a75225040eDE6374b65bF",
+  "address": "0x1BE9F6861D11f2fd363a75225040eDE6374b65bF",
+  "blockchain": "ethereum",
+  "name": "TokenTrezor.com",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1BE9F6861D11f2fd363a75225040eDE6374b65bF",
+  "research": null,
+  "symbol": "TOTR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xc434B0584355039392BBa077B2B58AE614B6f18c",
+  "address": "0xc434B0584355039392BBa077B2B58AE614B6f18c",
+  "blockchain": "ethereum",
+  "name": "Shares",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc434B0584355039392BBa077B2B58AE614B6f18c",
+  "research": null,
+  "symbol": "SHR",
+  "type": "ERC20",
+  "decimals": 10,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

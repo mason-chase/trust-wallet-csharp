@@ -1,0 +1,18 @@
+{
+  "id": "0x42BEdD647E387daBeC65A7dc3A3bAbCc68BB664d",
+  "address": "0x42BEdD647E387daBeC65A7dc3A3bAbCc68BB664d",
+  "blockchain": "ethereum",
+  "name": "BLOCKMASON LINK TOKEN",
+  "website": "https://blockmason.link/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x42BEdD647E387daBeC65A7dc3A3bAbCc68BB664d",
+  "research": null,
+  "symbol": "BLINK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

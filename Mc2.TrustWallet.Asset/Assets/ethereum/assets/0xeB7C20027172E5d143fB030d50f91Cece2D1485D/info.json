@@ -1,0 +1,18 @@
+{
+  "id": "0xeB7C20027172E5d143fB030d50f91Cece2D1485D",
+  "address": "0xeB7C20027172E5d143fB030d50f91Cece2D1485D",
+  "blockchain": "ethereum",
+  "name": "eBTC",
+  "website": "https://ebitcoin.org/",
+  "description": "eBitcoin is a tokenized version of Bitcoin on the Ethereum blockchain.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xeB7C20027172E5d143fB030d50f91Cece2D1485D",
+  "research": null,
+  "symbol": "EBTC",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

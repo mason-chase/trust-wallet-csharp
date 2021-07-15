@@ -1,0 +1,18 @@
+{
+  "id": "0xFD6C31bb6F05Fc8dB64F4b740Ab758605c271FD8",
+  "address": "0xFD6C31bb6F05Fc8dB64F4b740Ab758605c271FD8",
+  "blockchain": "ethereum",
+  "name": "Contracoin",
+  "website": "https://contracoin.asia",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xFD6C31bb6F05Fc8dB64F4b740Ab758605c271FD8",
+  "research": null,
+  "symbol": "CTCN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xD850942eF8811f2A866692A623011bDE52a462C1",
+  "address": "0xD850942eF8811f2A866692A623011bDE52a462C1",
+  "blockchain": "ethereum",
+  "name": "VeChain Token",
+  "website": null,
+  "description": "-",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd850942ef8811f2a866692a623011bde52a462c1",
+  "research": null,
+  "symbol": "VEN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

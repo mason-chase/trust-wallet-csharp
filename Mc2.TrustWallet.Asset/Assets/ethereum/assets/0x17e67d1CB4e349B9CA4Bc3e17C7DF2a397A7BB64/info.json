@@ -1,0 +1,18 @@
+{
+  "id": "0x17e67d1CB4e349B9CA4Bc3e17C7DF2a397A7BB64",
+  "address": "0x17e67d1CB4e349B9CA4Bc3e17C7DF2a397A7BB64",
+  "blockchain": "ethereum",
+  "name": "Freyr Coin",
+  "website": "http://www.freyrchain.org/index.html",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x17e67d1CB4e349B9CA4Bc3e17C7DF2a397A7BB64",
+  "research": null,
+  "symbol": "FREC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

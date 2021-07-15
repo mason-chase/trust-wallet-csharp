@@ -1,0 +1,18 @@
+{
+  "id": "0x01413859d321F423054f6A26276325E8085Dd5fc",
+  "address": "0x01413859d321F423054f6A26276325E8085Dd5fc",
+  "blockchain": "smartchain",
+  "name": "Littlebull",
+  "website": "https://www.littlebullcoin.com/",
+  "description": "Yield farming mechanism provides sustainable and profitable yields combined with transparent security features.\n",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x01413859d321F423054f6A26276325E8085Dd5fc",
+  "research": null,
+  "symbol": "LTB",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

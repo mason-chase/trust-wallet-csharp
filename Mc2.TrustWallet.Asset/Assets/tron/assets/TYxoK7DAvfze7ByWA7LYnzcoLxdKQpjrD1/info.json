@@ -1,0 +1,18 @@
+{
+  "id": "TYxoK7DAvfze7ByWA7LYnzcoLxdKQpjrD1",
+  "address": "TYxoK7DAvfze7ByWA7LYnzcoLxdKQpjrD1",
+  "blockchain": "tron",
+  "name": "FFToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TYxoK7DAvfze7ByWA7LYnzcoLxdKQpjrD1",
+  "research": null,
+  "symbol": "FF",
+  "type": "TRC20",
+  "decimals": 6,
+  "status": "spam",
+  "links": null,
+  "tags": null
+}

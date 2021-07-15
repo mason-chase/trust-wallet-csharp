@@ -1,0 +1,18 @@
+{
+  "id": "0x6961A3e9D86deD4C0c64678d538dc2359659b29E",
+  "address": "0x6961A3e9D86deD4C0c64678d538dc2359659b29E",
+  "blockchain": "ethereum",
+  "name": "Qbean",
+  "website": null,
+  "description": "-",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6961a3e9d86ded4c0c64678d538dc2359659b29e",
+  "research": null,
+  "symbol": "QBC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

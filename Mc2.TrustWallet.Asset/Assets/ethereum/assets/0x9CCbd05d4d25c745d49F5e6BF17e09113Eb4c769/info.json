@@ -1,0 +1,18 @@
+{
+  "id": "0x9CCbd05d4d25c745d49F5e6BF17e09113Eb4c769",
+  "address": "0x9CCbd05d4d25c745d49F5e6BF17e09113Eb4c769",
+  "blockchain": "ethereum",
+  "name": "Decentralized Crypto Token",
+  "website": "https://dctoproject.org",
+  "description": "DCTO Project Cryptocurrency Latest News",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9CCbd05d4d25c745d49F5e6BF17e09113Eb4c769",
+  "research": null,
+  "symbol": "DCTO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

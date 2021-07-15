@@ -1,0 +1,18 @@
+{
+  "id": "0xFF193c057339a328DCec72eB3eD3bfc399922C80",
+  "address": "0xFF193c057339a328DCec72eB3eD3bfc399922C80",
+  "blockchain": "ethereum",
+  "name": "Abe Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xFF193c057339a328DCec72eB3eD3bfc399922C80",
+  "research": null,
+  "symbol": "ABE",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

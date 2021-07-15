@@ -1,0 +1,18 @@
+{
+  "id": "0xA12D6e782e67fC4aF136098324ab2658b2734BD0",
+  "address": "0xA12D6e782e67fC4aF136098324ab2658b2734BD0",
+  "blockchain": "ethereum",
+  "name": "MAZO",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA12D6e782e67fC4aF136098324ab2658b2734BD0",
+  "research": null,
+  "symbol": "MAZO",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

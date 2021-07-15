@@ -1,0 +1,18 @@
+{
+  "id": "0x5c872500c00565505F3624AB435c222E558E9ff8",
+  "address": "0x5c872500c00565505F3624AB435c222E558E9ff8",
+  "blockchain": "ethereum",
+  "name": "CoTrader",
+  "website": "https://cotrader.com/",
+  "description": "CoTrader (COT) is a cryptocurrency and operates on the Ethereum platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5c872500c00565505F3624AB435c222E558E9ff8",
+  "research": null,
+  "symbol": "COT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

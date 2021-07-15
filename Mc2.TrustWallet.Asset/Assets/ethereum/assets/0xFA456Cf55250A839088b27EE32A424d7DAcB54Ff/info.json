@@ -1,0 +1,18 @@
+{
+  "id": "0xFA456Cf55250A839088b27EE32A424d7DAcB54Ff",
+  "address": "0xFA456Cf55250A839088b27EE32A424d7DAcB54Ff",
+  "blockchain": "ethereum",
+  "name": "blocktrade.com",
+  "website": "https://blocktrade.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xFA456Cf55250A839088b27EE32A424d7DAcB54Ff",
+  "research": null,
+  "symbol": "BTT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xd0464A1985edB76Ba82602534a2d89d8cCf3B7Ec",
+  "address": "0xd0464A1985edB76Ba82602534a2d89d8cCf3B7Ec",
+  "blockchain": "ethereum",
+  "name": "GlobalEdu",
+  "website": "https://globaledufoundation.org/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd0464A1985edB76Ba82602534a2d89d8cCf3B7Ec",
+  "research": null,
+  "symbol": "GEFT",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

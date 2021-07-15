@@ -1,0 +1,18 @@
+{
+  "id": "0xaAcC1c5AF6d46A374428bEAECf90948EC5322eA3",
+  "address": "0xaAcC1c5AF6d46A374428bEAECf90948EC5322eA3",
+  "blockchain": "ethereum",
+  "name": "1irst",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xaAcC1c5AF6d46A374428bEAECf90948EC5322eA3",
+  "research": null,
+  "symbol": "FST",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

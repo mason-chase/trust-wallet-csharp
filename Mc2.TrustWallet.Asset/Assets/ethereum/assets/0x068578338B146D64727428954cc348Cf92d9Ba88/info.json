@@ -1,0 +1,18 @@
+{
+  "id": "0x068578338B146D64727428954cc348Cf92d9Ba88",
+  "address": "0x068578338B146D64727428954cc348Cf92d9Ba88",
+  "blockchain": "ethereum",
+  "name": "BitcoinETH",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x068578338B146D64727428954cc348Cf92d9Ba88",
+  "research": null,
+  "symbol": "BTCE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

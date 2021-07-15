@@ -1,0 +1,18 @@
+{
+  "id": "0x139d9397274bb9E2C29A9aa8Aa0b5874d30D62E3",
+  "address": "0x139d9397274bb9E2C29A9aa8Aa0b5874d30D62E3",
+  "blockchain": "ethereum",
+  "name": "BoutsPro",
+  "website": "https://www.bouts.pro/",
+  "description": "Professional Karate Sports Organization.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x139d9397274bb9E2C29A9aa8Aa0b5874d30D62E3",
+  "research": null,
+  "symbol": "BOUTS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

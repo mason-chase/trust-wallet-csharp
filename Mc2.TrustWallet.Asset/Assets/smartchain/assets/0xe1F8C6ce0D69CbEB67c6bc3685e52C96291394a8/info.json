@@ -1,0 +1,18 @@
+{
+  "id": "0xe1F8C6ce0D69CbEB67c6bc3685e52C96291394a8",
+  "address": "0xe1F8C6ce0D69CbEB67c6bc3685e52C96291394a8",
+  "blockchain": "smartchain",
+  "name": "TeamTreesToken",
+  "website": "https://www.teamtreestoken.org",
+  "description": "TeamTreesToken is the first community token built on Binance Smart Chain aimed at providing support to the global pandemic in our community. Whether you donated to plant one tree, or one million trees, or simply helped to spread the word, you become A part of #TeamTrees. With more than 800,000 unique donors, #TeamTrees raised more than $21M before January 1, 2020. Support hasn’t stopped either and #TeamTrees keeps growing.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xe1F8C6ce0D69CbEB67c6bc3685e52C96291394a8",
+  "research": null,
+  "symbol": "TeamTrees",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

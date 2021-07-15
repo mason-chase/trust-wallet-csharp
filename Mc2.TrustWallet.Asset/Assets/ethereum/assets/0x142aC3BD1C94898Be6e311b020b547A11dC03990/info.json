@@ -1,0 +1,18 @@
+{
+  "id": "0x142aC3BD1C94898Be6e311b020b547A11dC03990",
+  "address": "0x142aC3BD1C94898Be6e311b020b547A11dC03990",
+  "blockchain": "ethereum",
+  "name": "Lambda Space Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x142aC3BD1C94898Be6e311b020b547A11dC03990",
+  "research": null,
+  "symbol": "LAMBS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

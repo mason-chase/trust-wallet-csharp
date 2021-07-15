@@ -1,0 +1,18 @@
+{
+  "id": "0xD0C4Ad14f872BcDf7c3Cc2bae99279ab5cDEaD30",
+  "address": "0xD0C4Ad14f872BcDf7c3Cc2bae99279ab5cDEaD30",
+  "blockchain": "ethereum",
+  "name": "Epacoin ",
+  "website": "https://www.epacoin.org/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xD0C4Ad14f872BcDf7c3Cc2bae99279ab5cDEaD30",
+  "research": null,
+  "symbol": "EPC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

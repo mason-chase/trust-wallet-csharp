@@ -1,0 +1,18 @@
+{
+  "id": "0x521cdd9083b751dba264e9E000d11511993836e9",
+  "address": "0x521cdd9083b751dba264e9E000d11511993836e9",
+  "blockchain": "ethereum",
+  "name": "XMAO",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x521cdd9083b751dba264e9E000d11511993836e9",
+  "research": null,
+  "symbol": "XMAO",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

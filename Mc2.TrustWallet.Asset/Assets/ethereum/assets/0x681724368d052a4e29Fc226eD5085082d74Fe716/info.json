@@ -1,0 +1,18 @@
+{
+  "id": "0x681724368d052a4e29Fc226eD5085082d74Fe716",
+  "address": "0x681724368d052a4e29Fc226eD5085082d74Fe716",
+  "blockchain": "ethereum",
+  "name": "SOLARMINING",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x681724368d052a4e29Fc226eD5085082d74Fe716",
+  "research": null,
+  "symbol": "SRM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

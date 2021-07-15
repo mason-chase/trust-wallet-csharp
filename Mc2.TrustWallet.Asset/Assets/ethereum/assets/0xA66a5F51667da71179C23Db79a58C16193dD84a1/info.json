@@ -1,0 +1,18 @@
+{
+  "id": "0xA66a5F51667da71179C23Db79a58C16193dD84a1",
+  "address": "0xA66a5F51667da71179C23Db79a58C16193dD84a1",
+  "blockchain": "ethereum",
+  "name": "Libfx",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA66a5F51667da71179C23Db79a58C16193dD84a1",
+  "research": null,
+  "symbol": "Libfx",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

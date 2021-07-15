@@ -1,0 +1,18 @@
+{
+  "id": "0xE36B0F3C426923E352F6005b6236082A78A3C2cb",
+  "address": "0xE36B0F3C426923E352F6005b6236082A78A3C2cb",
+  "blockchain": "ethereum",
+  "name": "Technology Blockchain Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE36B0F3C426923E352F6005b6236082A78A3C2cb",
+  "research": null,
+  "symbol": "TEBT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x70b147E01E9285E7cE68B9BA437Fe3a9190E756a",
+  "address": "0x70b147E01E9285E7cE68B9BA437Fe3a9190E756a",
+  "blockchain": "ethereum",
+  "name": "BitFlux",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x70b147E01E9285E7cE68B9BA437Fe3a9190E756a",
+  "research": null,
+  "symbol": "FLX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x0fA30FB9E8633A43AeCDcFaBb6c7577437f43958",
+  "address": "0x0fA30FB9E8633A43AeCDcFaBb6c7577437f43958",
+  "blockchain": "ethereum",
+  "name": "MUNDO",
+  "website": "http://www.mundotoke.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0fA30FB9E8633A43AeCDcFaBb6c7577437f43958",
+  "research": null,
+  "symbol": "MUO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

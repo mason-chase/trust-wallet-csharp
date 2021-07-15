@@ -1,0 +1,18 @@
+{
+  "id": "0x5fCde0CB8B4964756baF27BAf3A400C9135915B5",
+  "address": "0x5fCde0CB8B4964756baF27BAf3A400C9135915B5",
+  "blockchain": "ethereum",
+  "name": "MHIMG1-8/30M8",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5fCde0CB8B4964756baF27BAf3A400C9135915B5",
+  "research": null,
+  "symbol": "M",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

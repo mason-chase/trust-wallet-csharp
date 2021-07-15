@@ -1,0 +1,18 @@
+{
+  "id": "0xC6D76756Fec88A289B20091846b81C23997BFD00",
+  "address": "0xC6D76756Fec88A289B20091846b81C23997BFD00",
+  "blockchain": "ethereum",
+  "name": "ethArt",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xC6D76756Fec88A289B20091846b81C23997BFD00",
+  "research": null,
+  "symbol": "ARTE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

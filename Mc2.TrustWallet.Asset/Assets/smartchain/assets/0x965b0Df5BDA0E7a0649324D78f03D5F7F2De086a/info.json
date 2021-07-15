@@ -1,0 +1,18 @@
+{
+  "id": "0x965b0Df5BDA0E7a0649324D78f03D5F7F2De086a",
+  "address": "0x965b0Df5BDA0E7a0649324D78f03D5F7F2De086a",
+  "blockchain": "smartchain",
+  "name": "COOK Token",
+  "website": "https://cook.finance/",
+  "description": "COOK token is a governance and utility token issued by Cook Protocol.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x965b0Df5BDA0E7a0649324D78f03D5F7F2De086a",
+  "research": null,
+  "symbol": "COOK",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

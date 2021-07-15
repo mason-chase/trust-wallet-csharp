@@ -1,0 +1,35 @@
+{
+  "id": "0x09a3EcAFa817268f77BE1283176B946C4ff2E608",
+  "address": "0x09a3EcAFa817268f77BE1283176B946C4ff2E608",
+  "blockchain": "ethereum",
+  "name": "MIR Token",
+  "website": "https://mirror.finance",
+  "description": "Goverance token of Mirror Protocol.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x09a3EcAFa817268f77BE1283176B946C4ff2E608",
+  "research": null,
+  "symbol": "MIR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/MirrorProtocol"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/mirror_protocol"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/MirrorProtocol"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/@mirror-protocol"
+    }
+  ],
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x0AF44e2784637218dD1D32A322D44e603A8f0c6A",
+  "address": "0x0AF44e2784637218dD1D32A322D44e603A8f0c6A",
+  "blockchain": "ethereum",
+  "name": "MatryxToken",
+  "website": "https://matryx.ai",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0AF44e2784637218dD1D32A322D44e603A8f0c6A",
+  "research": null,
+  "symbol": "MTX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

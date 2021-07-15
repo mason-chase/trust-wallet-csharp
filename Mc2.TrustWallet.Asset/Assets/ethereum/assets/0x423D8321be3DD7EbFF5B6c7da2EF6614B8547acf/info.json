@@ -1,0 +1,18 @@
+{
+  "id": "0x423D8321be3DD7EbFF5B6c7da2EF6614B8547acf",
+  "address": "0x423D8321be3DD7EbFF5B6c7da2EF6614B8547acf",
+  "blockchain": "ethereum",
+  "name": "Fundament RE 1",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x423D8321be3DD7EbFF5B6c7da2EF6614B8547acf",
+  "research": null,
+  "symbol": "FUND",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

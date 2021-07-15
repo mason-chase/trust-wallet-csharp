@@ -1,0 +1,18 @@
+{
+  "id": "0xcCc2d670E801570247E9De1841480F52A62Eb6F3",
+  "address": "0xcCc2d670E801570247E9De1841480F52A62Eb6F3",
+  "blockchain": "smartchain",
+  "name": "Marsturbate",
+  "website": "https://marsturbate.me",
+  "description": "MRST - Next generation marketplace for porn nfts",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xccc2d670e801570247e9de1841480f52a62eb6f3",
+  "research": null,
+  "symbol": "MRST",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

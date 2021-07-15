@@ -1,0 +1,18 @@
+{
+  "id": "0x42382F39e7C9F1ADD5fa5f0c6e24aa62f50be3b3",
+  "address": "0x42382F39e7C9F1ADD5fa5f0c6e24aa62f50be3b3",
+  "blockchain": "ethereum",
+  "name": "ZOM",
+  "website": "https://www.yazom.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x42382F39e7C9F1ADD5fa5f0c6e24aa62f50be3b3",
+  "research": null,
+  "symbol": "ZOM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

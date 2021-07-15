@@ -1,0 +1,18 @@
+{
+  "id": "0xFFC97d72E13E01096502Cb8Eb52dEe56f74DAD7B",
+  "address": "0xFFC97d72E13E01096502Cb8Eb52dEe56f74DAD7B",
+  "blockchain": "ethereum",
+  "name": "Aave AAVE",
+  "website": "https://aave.com",
+  "description": "Aave AAVE is an interest bearing token pegged 1:1 to the underlying AAVE deposited in Aave.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xFFC97d72E13E01096502Cb8Eb52dEe56f74DAD7B",
+  "research": null,
+  "symbol": "aAAVE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x58A3520D738B268c2353ECeE518A1AD8e28E4AE5",
+  "address": "0x58A3520D738B268c2353ECeE518A1AD8e28E4AE5",
+  "blockchain": "ethereum",
+  "name": "HEIDI",
+  "website": "https://heidicoin.ch",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x58A3520D738B268c2353ECeE518A1AD8e28E4AE5",
+  "research": null,
+  "symbol": "HDI",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

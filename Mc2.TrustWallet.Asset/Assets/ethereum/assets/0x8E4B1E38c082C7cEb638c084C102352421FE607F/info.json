@@ -1,0 +1,18 @@
+{
+  "id": "0x8E4B1E38c082C7cEb638c084C102352421FE607F",
+  "address": "0x8E4B1E38c082C7cEb638c084C102352421FE607F",
+  "blockchain": "ethereum",
+  "name": "FEG Wrapped SHIB",
+  "website": "https://fegtoken.com",
+  "description": "FEG Wrapped SHIB",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8e4b1e38c082c7ceb638c084c102352421fe607f",
+  "research": null,
+  "symbol": "fSHIB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

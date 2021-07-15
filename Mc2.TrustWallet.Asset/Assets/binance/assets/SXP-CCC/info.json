@@ -1,0 +1,18 @@
+{
+  "id": "SXP-CCC",
+  "address": "SXP-CCC",
+  "blockchain": "binance",
+  "name": "Swipe",
+  "website": "https://www.swipe.io",
+  "description": "Swipe is a platform that looks to form a bridge between the fiat and cryptocurrency worlds with its three main existing products: the Swipe multi-asset mobile wallet, the Swipe cryptocurrency-funded debit card and the Swipe Token",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/SXP-CCC",
+  "research": null,
+  "symbol": "SXP",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "0x9B02dD390a603Add5c07f9fd9175b7DABE8D63B7",
+  "address": "0x9B02dD390a603Add5c07f9fd9175b7DABE8D63B7",
+  "blockchain": "ethereum",
+  "name": "Shopping.io",
+  "website": "https://shopping.io",
+  "description": "Order from major hubs of commerce such as Amazon, Walmart, and eBay using your favorite cryptocurrency.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9b02dd390a603add5c07f9fd9175b7dabe8d63b7",
+  "research": null,
+  "symbol": "SPI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Shoppin.io"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/joinchat/F8pi_g-SvCtqaLq7hOr2yw"
+    }
+  ],
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x87AB739464881af0011052D4Ca0B0d657e8c3B48",
+  "address": "0x87AB739464881af0011052D4Ca0B0d657e8c3B48",
+  "blockchain": "ethereum",
+  "name": "MikeTangoBravo19",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x87AB739464881af0011052D4Ca0B0d657e8c3B48",
+  "research": null,
+  "symbol": "MTB19",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

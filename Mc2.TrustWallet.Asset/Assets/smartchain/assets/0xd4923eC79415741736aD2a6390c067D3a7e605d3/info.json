@@ -1,0 +1,18 @@
+{
+  "id": "0xd4923eC79415741736aD2a6390c067D3a7e605d3",
+  "address": "0xd4923eC79415741736aD2a6390c067D3a7e605d3",
+  "blockchain": "smartchain",
+  "name": "Capsule Decentralized Protocol",
+  "website": "https://www.capsuledefi.com/",
+  "description": "Capsule DEFI - Unites decentralized protocols whose synergy enables the most lucrative, fastest and protected operations in the DeFi space.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xd4923eC79415741736aD2a6390c067D3a7e605d3",
+  "research": null,
+  "symbol": "CAPSULE DEFI",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

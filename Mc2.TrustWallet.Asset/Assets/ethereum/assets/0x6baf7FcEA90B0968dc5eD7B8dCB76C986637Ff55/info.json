@@ -1,0 +1,18 @@
+{
+  "id": "0x6baf7FcEA90B0968dc5eD7B8dCB76C986637Ff55",
+  "address": "0x6baf7FcEA90B0968dc5eD7B8dCB76C986637Ff55",
+  "blockchain": "ethereum",
+  "name": "Hooli Coin Blockchain",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6baf7FcEA90B0968dc5eD7B8dCB76C986637Ff55",
+  "research": null,
+  "symbol": "HLI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

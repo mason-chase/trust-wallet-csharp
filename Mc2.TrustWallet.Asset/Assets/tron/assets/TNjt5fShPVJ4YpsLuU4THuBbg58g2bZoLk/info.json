@@ -1,0 +1,18 @@
+{
+  "id": "TNjt5fShPVJ4YpsLuU4THuBbg58g2bZoLk",
+  "address": "TNjt5fShPVJ4YpsLuU4THuBbg58g2bZoLk",
+  "blockchain": "tron",
+  "name": "Hora Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TNjt5fShPVJ4YpsLuU4THuBbg58g2bZoLk",
+  "research": null,
+  "symbol": "HORA",
+  "type": "TRC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

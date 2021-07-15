@@ -1,0 +1,18 @@
+{
+  "id": "0x89C98F4529A41c7eE25d730d29Bc39170ED11C60",
+  "address": "0x89C98F4529A41c7eE25d730d29Bc39170ED11C60",
+  "blockchain": "ethereum",
+  "name": "Astro",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x89C98F4529A41c7eE25d730d29Bc39170ED11C60",
+  "research": null,
+  "symbol": "ASR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

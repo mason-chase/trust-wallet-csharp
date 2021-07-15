@@ -1,0 +1,18 @@
+{
+  "id": "0xdF0816CC717216c8B0863aF8d4f0fC20Bc65d643",
+  "address": "0xdF0816CC717216c8B0863aF8d4f0fC20Bc65d643",
+  "blockchain": "smartchain",
+  "name": "SHIBA BSC",
+  "website": "https://shibsc.com/#/",
+  "description": "SHIBSC is a decentralized, community driven, fair launched Meme Token in BSC",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xdF0816CC717216c8B0863aF8d4f0fC20Bc65d643",
+  "research": null,
+  "symbol": "SHIBSC",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

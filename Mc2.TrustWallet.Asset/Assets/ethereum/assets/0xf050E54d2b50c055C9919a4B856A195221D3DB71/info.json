@@ -1,0 +1,18 @@
+{
+  "id": "0xf050E54d2b50c055C9919a4B856A195221D3DB71",
+  "address": "0xf050E54d2b50c055C9919a4B856A195221D3DB71",
+  "blockchain": "ethereum",
+  "name": "Rutile",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf050E54d2b50c055C9919a4B856A195221D3DB71",
+  "research": null,
+  "symbol": "RUT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

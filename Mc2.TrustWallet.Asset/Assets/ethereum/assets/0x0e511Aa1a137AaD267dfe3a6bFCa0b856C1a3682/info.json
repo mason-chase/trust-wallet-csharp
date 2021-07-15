@@ -1,0 +1,18 @@
+{
+  "id": "0x0e511Aa1a137AaD267dfe3a6bFCa0b856C1a3682",
+  "address": "0x0e511Aa1a137AaD267dfe3a6bFCa0b856C1a3682",
+  "blockchain": "ethereum",
+  "name": "Balancer Pool Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0e511Aa1a137AaD267dfe3a6bFCa0b856C1a3682",
+  "research": null,
+  "symbol": "BPT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

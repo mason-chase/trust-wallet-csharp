@@ -1,0 +1,18 @@
+{
+  "id": "0x5f3789907b35DCe5605b00C0bE0a7eCDBFa8A841",
+  "address": "0x5f3789907b35DCe5605b00C0bE0a7eCDBFa8A841",
+  "blockchain": "ethereum",
+  "name": "Content and Ad Network",
+  "website": "http://mobipromo.io/",
+  "description": "CAN is the token designed for advertising services basing on a constantly growing AD system being developed by MobiPromo.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5f3789907b35DCe5605b00C0bE0a7eCDBFa8A841",
+  "research": null,
+  "symbol": "CAN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x7654915A1b82D6D2D0AFc37c52Af556eA8983c7E",
+  "address": "0x7654915A1b82D6D2D0AFc37c52Af556eA8983c7E",
+  "blockchain": "ethereum",
+  "name": "Feed",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7654915A1b82D6D2D0AFc37c52Af556eA8983c7E",
+  "research": null,
+  "symbol": "IFT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

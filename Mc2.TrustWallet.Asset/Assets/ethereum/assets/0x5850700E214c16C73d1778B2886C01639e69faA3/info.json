@@ -1,0 +1,18 @@
+{
+  "id": "0x5850700E214c16C73d1778B2886C01639e69faA3",
+  "address": "0x5850700E214c16C73d1778B2886C01639e69faA3",
+  "blockchain": "ethereum",
+  "name": "ROGANCOIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5850700E214c16C73d1778B2886C01639e69faA3",
+  "research": null,
+  "symbol": "RGC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

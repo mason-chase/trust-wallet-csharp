@@ -1,0 +1,18 @@
+{
+  "id": "0x053299b35bfFD54E7620762CDdE9B9A3494662F3",
+  "address": "0x053299b35bfFD54E7620762CDdE9B9A3494662F3",
+  "blockchain": "smartchain",
+  "name": "Coco Token",
+  "website": "https://cocotoken.finance/",
+  "description": "Decentralized Deflationary Token that Grows into Coco's Dog treats.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x053299b35bfFD54E7620762CDdE9B9A3494662F3",
+  "research": null,
+  "symbol": "$COCO",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

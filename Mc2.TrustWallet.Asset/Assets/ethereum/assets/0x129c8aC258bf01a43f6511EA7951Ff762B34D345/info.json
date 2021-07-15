@@ -1,0 +1,18 @@
+{
+  "id": "0x129c8aC258bf01a43f6511EA7951Ff762B34D345",
+  "address": "0x129c8aC258bf01a43f6511EA7951Ff762B34D345",
+  "blockchain": "ethereum",
+  "name": "BitcoinMoon",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x129c8aC258bf01a43f6511EA7951Ff762B34D345",
+  "research": null,
+  "symbol": "BTCM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

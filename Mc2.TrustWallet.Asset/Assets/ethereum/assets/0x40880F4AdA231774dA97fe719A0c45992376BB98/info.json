@@ -1,0 +1,18 @@
+{
+  "id": "0x40880F4AdA231774dA97fe719A0c45992376BB98",
+  "address": "0x40880F4AdA231774dA97fe719A0c45992376BB98",
+  "blockchain": "ethereum",
+  "name": "Allurum",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x40880F4AdA231774dA97fe719A0c45992376BB98",
+  "research": null,
+  "symbol": "CSC-AL",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

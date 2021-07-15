@@ -1,0 +1,18 @@
+{
+  "id": "0x6fc22D1F6852Af2bceA6cB749033ccB6B4D3177a",
+  "address": "0x6fc22D1F6852Af2bceA6cB749033ccB6B4D3177a",
+  "blockchain": "ethereum",
+  "name": "BitSTD Shares",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6fc22D1F6852Af2bceA6cB749033ccB6B4D3177a",
+  "research": null,
+  "symbol": "BSS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

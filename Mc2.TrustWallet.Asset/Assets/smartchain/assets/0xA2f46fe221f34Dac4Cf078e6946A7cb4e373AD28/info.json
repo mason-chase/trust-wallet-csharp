@@ -1,0 +1,18 @@
+{
+  "id": "0xA2f46fe221f34Dac4Cf078e6946A7cb4e373AD28",
+  "address": "0xA2f46fe221f34Dac4Cf078e6946A7cb4e373AD28",
+  "blockchain": "smartchain",
+  "name": "BAFI Token",
+  "website": "https://bafi.finance",
+  "description": "BAFI is a utility token for bafi decentralized exchange ans IDO platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xa2f46fe221f34dac4cf078e6946a7cb4e373ad28",
+  "research": null,
+  "symbol": "BAFI",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

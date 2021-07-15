@@ -1,0 +1,18 @@
+{
+  "id": "0xd1F579cc0a5405D7610346b371371bEd1528D18b",
+  "address": "0xd1F579cc0a5405D7610346b371371bEd1528D18b",
+  "blockchain": "ethereum",
+  "name": "SAHARA",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd1F579cc0a5405D7610346b371371bEd1528D18b",
+  "research": null,
+  "symbol": "IMG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "BET-844",
+  "address": "BET-844",
+  "blockchain": "binance",
+  "name": "EOSBet Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/BET-844",
+  "research": null,
+  "symbol": "BET",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

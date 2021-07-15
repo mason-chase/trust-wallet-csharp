@@ -1,0 +1,18 @@
+{
+  "id": "0x32B7A3018E4B832dEa848786348164667EC030f3",
+  "address": "0x32B7A3018E4B832dEa848786348164667EC030f3",
+  "blockchain": "ethereum",
+  "name": "Molecule",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x32B7A3018E4B832dEa848786348164667EC030f3",
+  "research": null,
+  "symbol": "MOL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

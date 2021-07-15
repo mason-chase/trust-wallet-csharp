@@ -1,0 +1,18 @@
+{
+  "id": "0x0e0989b1f9B8A38983c2BA8053269Ca62Ec9B195",
+  "address": "0x0e0989b1f9B8A38983c2BA8053269Ca62Ec9B195",
+  "blockchain": "ethereum",
+  "name": "Po.et",
+  "website": "https://po.et/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0e0989b1f9B8A38983c2BA8053269Ca62Ec9B195",
+  "research": null,
+  "symbol": "POE",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

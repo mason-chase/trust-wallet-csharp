@@ -1,0 +1,18 @@
+{
+  "id": "0x4E12EB8e506Ccd1427F6b8F7faa3e88fB698EB28",
+  "address": "0x4E12EB8e506Ccd1427F6b8F7faa3e88fB698EB28",
+  "blockchain": "ethereum",
+  "name": "Jack Token",
+  "website": "https://jackr.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4E12EB8e506Ccd1427F6b8F7faa3e88fB698EB28",
+  "research": null,
+  "symbol": "JACK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

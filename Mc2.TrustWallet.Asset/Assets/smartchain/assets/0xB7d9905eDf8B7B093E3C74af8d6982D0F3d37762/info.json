@@ -1,0 +1,18 @@
+{
+  "id": "0xB7d9905eDf8B7B093E3C74af8d6982D0F3d37762",
+  "address": "0xB7d9905eDf8B7B093E3C74af8d6982D0F3d37762",
+  "blockchain": "smartchain",
+  "name": "Ngnt",
+  "website": "https://ngnt.org/",
+  "description": "-",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xB7d9905eDf8B7B093E3C74af8d6982D0F3d37762",
+  "research": null,
+  "symbol": "NGNT",
+  "type": "BEP20",
+  "decimals": 2,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

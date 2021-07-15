@@ -1,0 +1,18 @@
+{
+  "id": "0x752FF65b884b9C260D212C804E0b7ACEea012473",
+  "address": "0x752FF65b884b9C260D212C804E0b7ACEea012473",
+  "blockchain": "ethereum",
+  "name": "SnapCoin",
+  "website": "https://earneo.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x752FF65b884b9C260D212C804E0b7ACEea012473",
+  "research": null,
+  "symbol": "SNPC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

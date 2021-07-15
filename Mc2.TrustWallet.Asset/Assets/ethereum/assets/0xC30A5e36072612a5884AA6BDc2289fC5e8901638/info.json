@@ -1,0 +1,18 @@
+{
+  "id": "0xC30A5e36072612a5884AA6BDc2289fC5e8901638",
+  "address": "0xC30A5e36072612a5884AA6BDc2289fC5e8901638",
+  "blockchain": "ethereum",
+  "name": "DEX Community",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xC30A5e36072612a5884AA6BDc2289fC5e8901638",
+  "research": null,
+  "symbol": "DXC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

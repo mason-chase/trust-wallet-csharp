@@ -1,0 +1,23 @@
+{
+  "id": "0x557B933a7C2c45672B610F8954A3deB39a51A8Ca",
+  "address": "0x557B933a7C2c45672B610F8954A3deB39a51A8Ca",
+  "blockchain": "ethereum",
+  "name": "REVV",
+  "website": "https://revvmotorsport.com/",
+  "description": "REVV is the main utility token and in-game currency for branded motorsports blockchain game titles produced by Animoca Brands, such as the F1® Delta Time blockchain game platform, and a title based on the MotoGP™ motorsport intellectual property, releasing in Q4 of 2020.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x557B933a7C2c45672B610F8954A3deB39a51A8Ca",
+  "research": null,
+  "symbol": "REVV",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "white_paper",
+      "url": "https://revvmotorsport.com/REVV-Motorsport-Lightpaperv1.1.pdf"
+    }
+  ],
+  "tags": null
+}

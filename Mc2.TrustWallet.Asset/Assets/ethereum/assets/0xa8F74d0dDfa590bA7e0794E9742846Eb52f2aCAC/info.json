@@ -1,0 +1,18 @@
+{
+  "id": "0xa8F74d0dDfa590bA7e0794E9742846Eb52f2aCAC",
+  "address": "0xa8F74d0dDfa590bA7e0794E9742846Eb52f2aCAC",
+  "blockchain": "ethereum",
+  "name": "EGYPT",
+  "website": "https://egyptcryptocoin.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa8F74d0dDfa590bA7e0794E9742846Eb52f2aCAC",
+  "research": null,
+  "symbol": "EGY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

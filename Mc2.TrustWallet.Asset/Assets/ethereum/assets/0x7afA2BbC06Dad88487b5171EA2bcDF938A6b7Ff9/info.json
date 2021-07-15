@@ -1,0 +1,18 @@
+{
+  "id": "0x7afA2BbC06Dad88487b5171EA2bcDF938A6b7Ff9",
+  "address": "0x7afA2BbC06Dad88487b5171EA2bcDF938A6b7Ff9",
+  "blockchain": "ethereum",
+  "name": "TramsToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7afA2BbC06Dad88487b5171EA2bcDF938A6b7Ff9",
+  "research": null,
+  "symbol": "TRAMS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

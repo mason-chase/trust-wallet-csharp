@@ -1,0 +1,18 @@
+{
+  "id": "0x6F8591c960f41591097E9199E61441beA28D776A",
+  "address": "0x6F8591c960f41591097E9199E61441beA28D776A",
+  "blockchain": "ethereum",
+  "name": "Eco Care Organic Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6F8591c960f41591097E9199E61441beA28D776A",
+  "research": null,
+  "symbol": "ECOT",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

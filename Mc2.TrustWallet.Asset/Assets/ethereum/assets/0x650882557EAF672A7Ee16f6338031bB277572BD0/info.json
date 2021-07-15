@@ -1,0 +1,18 @@
+{
+  "id": "0x650882557EAF672A7Ee16f6338031bB277572BD0",
+  "address": "0x650882557EAF672A7Ee16f6338031bB277572BD0",
+  "blockchain": "ethereum",
+  "name": "Hydra Protocol",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x650882557EAF672A7Ee16f6338031bB277572BD0",
+  "research": null,
+  "symbol": "HPL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

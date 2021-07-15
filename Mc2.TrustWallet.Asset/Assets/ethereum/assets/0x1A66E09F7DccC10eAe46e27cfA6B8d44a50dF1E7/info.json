@@ -1,0 +1,18 @@
+{
+  "id": "0x1A66E09F7DccC10eAe46e27cfA6B8d44a50dF1E7",
+  "address": "0x1A66E09F7DccC10eAe46e27cfA6B8d44a50dF1E7",
+  "blockchain": "ethereum",
+  "name": "PRASM",
+  "website": "http://prasm.io/",
+  "description": "AI-Based Decentralized Bioinformatic Network.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1A66E09F7DccC10eAe46e27cfA6B8d44a50dF1E7",
+  "research": null,
+  "symbol": "PSM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

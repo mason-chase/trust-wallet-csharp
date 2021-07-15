@@ -1,0 +1,18 @@
+{
+  "id": "0xE5e7695964B3dDef08aFc666c615Fe2Ef1B16B0b",
+  "address": "0xE5e7695964B3dDef08aFc666c615Fe2Ef1B16B0b",
+  "blockchain": "ethereum",
+  "name": "GaeaToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE5e7695964B3dDef08aFc666c615Fe2Ef1B16B0b",
+  "research": null,
+  "symbol": "GAEA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

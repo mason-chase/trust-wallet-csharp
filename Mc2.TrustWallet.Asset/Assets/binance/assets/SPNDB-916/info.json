@@ -1,0 +1,18 @@
+{
+  "id": "SPNDB-916",
+  "address": "SPNDB-916",
+  "blockchain": "binance",
+  "name": "Spendcoin",
+  "website": "https://spendcoin.org/",
+  "description": "Spendcoin is a decentralized cryptocurrency that powers the Spend.com ecosystem of products. Spend has two financial services products, the Spend App and Spend Card, which are products of Spend.com that give our users a multi-currency digital wallet that they are able to store fiat and digital assets/currencies.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/SPNDB-916",
+  "research": null,
+  "symbol": "SPNDB",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

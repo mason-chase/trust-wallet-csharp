@@ -1,0 +1,18 @@
+{
+  "id": "0x68909e586eeAC8F47315e84B4c9788DD54Ef65Bb",
+  "address": "0x68909e586eeAC8F47315e84B4c9788DD54Ef65Bb",
+  "blockchain": "ethereum",
+  "name": "EvenCoin",
+  "website": "http://evencoin.io",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x68909e586eeAC8F47315e84B4c9788DD54Ef65Bb",
+  "research": null,
+  "symbol": "EVN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

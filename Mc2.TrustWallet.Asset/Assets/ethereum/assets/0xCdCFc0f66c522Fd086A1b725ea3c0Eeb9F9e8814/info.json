@@ -1,0 +1,18 @@
+{
+  "id": "0xCdCFc0f66c522Fd086A1b725ea3c0Eeb9F9e8814",
+  "address": "0xCdCFc0f66c522Fd086A1b725ea3c0Eeb9F9e8814",
+  "blockchain": "ethereum",
+  "name": "Aurora DAO",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xCdCFc0f66c522Fd086A1b725ea3c0Eeb9F9e8814",
+  "research": null,
+  "symbol": "AURA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

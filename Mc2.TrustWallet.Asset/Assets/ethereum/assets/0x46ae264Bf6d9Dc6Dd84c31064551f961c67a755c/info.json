@@ -1,0 +1,18 @@
+{
+  "id": "0x46ae264Bf6d9Dc6Dd84c31064551f961c67a755c",
+  "address": "0x46ae264Bf6d9Dc6Dd84c31064551f961c67a755c",
+  "blockchain": "ethereum",
+  "name": "HOT",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x46ae264Bf6d9Dc6Dd84c31064551f961c67a755c",
+  "research": null,
+  "symbol": "HTX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

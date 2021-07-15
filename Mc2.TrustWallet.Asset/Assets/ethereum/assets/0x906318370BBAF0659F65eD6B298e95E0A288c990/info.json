@@ -1,0 +1,18 @@
+{
+  "id": "0x906318370BBAF0659F65eD6B298e95E0A288c990",
+  "address": "0x906318370BBAF0659F65eD6B298e95E0A288c990",
+  "blockchain": "ethereum",
+  "name": "ADCC",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x906318370BBAF0659F65eD6B298e95E0A288c990",
+  "research": null,
+  "symbol": "ADCC",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

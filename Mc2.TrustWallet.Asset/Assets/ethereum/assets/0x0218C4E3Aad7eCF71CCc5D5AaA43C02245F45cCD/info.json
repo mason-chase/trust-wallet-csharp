@@ -1,0 +1,18 @@
+{
+  "id": "0x0218C4E3Aad7eCF71CCc5D5AaA43C02245F45cCD",
+  "address": "0x0218C4E3Aad7eCF71CCc5D5AaA43C02245F45cCD",
+  "blockchain": "ethereum",
+  "name": "Erosion",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0218C4E3Aad7eCF71CCc5D5AaA43C02245F45cCD",
+  "research": null,
+  "symbol": "EROS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

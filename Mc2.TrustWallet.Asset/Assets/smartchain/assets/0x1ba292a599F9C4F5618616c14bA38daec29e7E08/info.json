@@ -1,0 +1,18 @@
+{
+  "id": "0x1ba292a599F9C4F5618616c14bA38daec29e7E08",
+  "address": "0x1ba292a599F9C4F5618616c14bA38daec29e7E08",
+  "blockchain": "smartchain",
+  "name": "JBPTOKEN ",
+  "website": "https://jbprotocol.com/",
+  "description": "JBPToken is 100% community driven audited deflationary token ",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x1ba292a599F9C4F5618616c14bA38daec29e7E08",
+  "research": null,
+  "symbol": "JBP",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

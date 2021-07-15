@@ -1,0 +1,18 @@
+{
+  "id": "0xDB9EA477A2E1985B437e02c2Cd84d72E6Bf72c76",
+  "address": "0xDB9EA477A2E1985B437e02c2Cd84d72E6Bf72c76",
+  "blockchain": "ethereum",
+  "name": "Dabdragon Tokens",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDB9EA477A2E1985B437e02c2Cd84d72E6Bf72c76",
+  "research": null,
+  "symbol": "DABER",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

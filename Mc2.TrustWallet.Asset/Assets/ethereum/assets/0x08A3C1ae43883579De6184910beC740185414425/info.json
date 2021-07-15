@@ -1,0 +1,18 @@
+{
+  "id": "0x08A3C1ae43883579De6184910beC740185414425",
+  "address": "0x08A3C1ae43883579De6184910beC740185414425",
+  "blockchain": "ethereum",
+  "name": "Cabo",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x08A3C1ae43883579De6184910beC740185414425",
+  "research": null,
+  "symbol": "CABO",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xBDCFbf5C4D91Abc0bC9709C7286d00063c0e6F22",
+  "address": "0xBDCFbf5C4D91Abc0bC9709C7286d00063c0e6F22",
+  "blockchain": "ethereum",
+  "name": "GUESS",
+  "website": "https://peerguess.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xBDCFbf5C4D91Abc0bC9709C7286d00063c0e6F22",
+  "research": null,
+  "symbol": "GUESS",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

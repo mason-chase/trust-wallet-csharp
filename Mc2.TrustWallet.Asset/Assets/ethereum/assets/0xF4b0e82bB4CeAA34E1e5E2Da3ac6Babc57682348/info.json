@@ -1,0 +1,18 @@
+{
+  "id": "0xF4b0e82bB4CeAA34E1e5E2Da3ac6Babc57682348",
+  "address": "0xF4b0e82bB4CeAA34E1e5E2Da3ac6Babc57682348",
+  "blockchain": "ethereum",
+  "name": "Nordic Energy",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF4b0e82bB4CeAA34E1e5E2Da3ac6Babc57682348",
+  "research": null,
+  "symbol": "NET",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x694cC11c7b749B4D19aAfE5B7543A8A7C2f14687",
+  "address": "0x694cC11c7b749B4D19aAfE5B7543A8A7C2f14687",
+  "blockchain": "ethereum",
+  "name": "CRYPTOTRADER",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x694cC11c7b749B4D19aAfE5B7543A8A7C2f14687",
+  "research": null,
+  "symbol": "CTT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

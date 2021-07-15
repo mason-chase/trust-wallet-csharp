@@ -1,0 +1,18 @@
+{
+  "id": "0xdB096cC19b8227E2115855c5B39Dcc247470013C",
+  "address": "0xdB096cC19b8227E2115855c5B39Dcc247470013C",
+  "blockchain": "ethereum",
+  "name": "BITFEX",
+  "website": "https://www.bitfex.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xdB096cC19b8227E2115855c5B39Dcc247470013C",
+  "research": null,
+  "symbol": "BFX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

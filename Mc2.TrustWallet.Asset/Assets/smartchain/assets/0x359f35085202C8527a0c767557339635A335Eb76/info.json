@@ -1,0 +1,18 @@
+{
+  "id": "0x359f35085202C8527a0c767557339635A335Eb76",
+  "address": "0x359f35085202C8527a0c767557339635A335Eb76",
+  "blockchain": "smartchain",
+  "name": "PitJupiter",
+  "website": "https://pitjupitertoken.com/",
+  "description": "PitJupiter is a community-driven and run token with charity goals & governance with a strong tokeneconomics base, with ownership renounced",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x359f35085202C8527a0c767557339635A335Eb76",
+  "research": null,
+  "symbol": "PITJUPITER",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

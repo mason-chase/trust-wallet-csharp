@@ -1,0 +1,18 @@
+{
+  "id": "0x3BD183046cf51acC807D1f0680029Fa764f17BEE",
+  "address": "0x3BD183046cf51acC807D1f0680029Fa764f17BEE",
+  "blockchain": "ethereum",
+  "name": "ULTRON",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3BD183046cf51acC807D1f0680029Fa764f17BEE",
+  "research": null,
+  "symbol": "UTRN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

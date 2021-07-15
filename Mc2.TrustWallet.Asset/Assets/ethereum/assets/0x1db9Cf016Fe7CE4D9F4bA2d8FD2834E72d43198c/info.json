@@ -1,0 +1,18 @@
+{
+  "id": "0x1db9Cf016Fe7CE4D9F4bA2d8FD2834E72d43198c",
+  "address": "0x1db9Cf016Fe7CE4D9F4bA2d8FD2834E72d43198c",
+  "blockchain": "ethereum",
+  "name": "Luno COIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1db9Cf016Fe7CE4D9F4bA2d8FD2834E72d43198c",
+  "research": null,
+  "symbol": "LUNO",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

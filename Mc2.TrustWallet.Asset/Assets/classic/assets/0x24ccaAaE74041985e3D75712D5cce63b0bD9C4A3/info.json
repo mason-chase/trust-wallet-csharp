@@ -1,0 +1,18 @@
+{
+  "id": "0x24ccaAaE74041985e3D75712D5cce63b0bD9C4A3",
+  "address": "0x24ccaAaE74041985e3D75712D5cce63b0bD9C4A3",
+  "blockchain": "classic",
+  "name": "BitUnits Brazil",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://blockscout.com/etc/mainnet/tokens/0x24ccaAaE74041985e3D75712D5cce63b0bD9C4A3",
+  "research": null,
+  "symbol": "BRZL",
+  "type": "ETC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x3E6eC3A0A995d3c58d3854AaE41C77C687C07E7f",
+  "address": "0x3E6eC3A0A995d3c58d3854AaE41C77C687C07E7f",
+  "blockchain": "classic",
+  "name": "42 Coin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://blockscout.com/etc/mainnet/tokens/0x3E6eC3A0A995d3c58d3854AaE41C77C687C07E7f",
+  "research": null,
+  "symbol": "42",
+  "type": "ETC20",
+  "decimals": 0,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

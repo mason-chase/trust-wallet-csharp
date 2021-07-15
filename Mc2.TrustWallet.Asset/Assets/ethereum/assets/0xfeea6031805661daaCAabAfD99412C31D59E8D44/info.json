@@ -1,0 +1,18 @@
+{
+  "id": "0xfeea6031805661daaCAabAfD99412C31D59E8D44",
+  "address": "0xfeea6031805661daaCAabAfD99412C31D59E8D44",
+  "blockchain": "ethereum",
+  "name": "GAY$",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xfeea6031805661daaCAabAfD99412C31D59E8D44",
+  "research": null,
+  "symbol": "GAY$",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

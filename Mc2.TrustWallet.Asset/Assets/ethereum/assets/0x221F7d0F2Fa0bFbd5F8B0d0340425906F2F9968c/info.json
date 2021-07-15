@@ -1,0 +1,18 @@
+{
+  "id": "0x221F7d0F2Fa0bFbd5F8B0d0340425906F2F9968c",
+  "address": "0x221F7d0F2Fa0bFbd5F8B0d0340425906F2F9968c",
+  "blockchain": "ethereum",
+  "name": "Super Running Coin",
+  "website": "https://superrunningcoin.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x221F7d0F2Fa0bFbd5F8B0d0340425906F2F9968c",
+  "research": null,
+  "symbol": "SRC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

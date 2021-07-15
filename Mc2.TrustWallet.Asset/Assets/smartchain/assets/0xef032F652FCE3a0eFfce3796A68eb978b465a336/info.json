@@ -1,0 +1,18 @@
+{
+  "id": "0xef032F652FCE3a0eFfce3796A68eb978b465a336",
+  "address": "0xef032F652FCE3a0eFfce3796A68eb978b465a336",
+  "blockchain": "smartchain",
+  "name": "MOOCHII",
+  "website": "https://moochii.net/",
+  "description": "Moochii is one of the fastest growing cryptocurrency communities, with over 1000+ initial investors within the first week. ",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xef032F652FCE3a0eFfce3796A68eb978b465a336",
+  "research": null,
+  "symbol": "MOOCHII",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

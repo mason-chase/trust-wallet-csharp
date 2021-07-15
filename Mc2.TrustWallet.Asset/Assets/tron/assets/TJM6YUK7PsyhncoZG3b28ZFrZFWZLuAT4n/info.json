@@ -1,0 +1,18 @@
+{
+  "id": "TJM6YUK7PsyhncoZG3b28ZFrZFWZLuAT4n",
+  "address": "TJM6YUK7PsyhncoZG3b28ZFrZFWZLuAT4n",
+  "blockchain": "tron",
+  "name": "DTIToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TJM6YUK7PsyhncoZG3b28ZFrZFWZLuAT4n",
+  "research": null,
+  "symbol": "DTI",
+  "type": "TRC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

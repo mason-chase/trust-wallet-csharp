@@ -1,0 +1,18 @@
+{
+  "id": "0x95eFD1Fe6099F65a7ED524DEF487483221094947",
+  "address": "0x95eFD1Fe6099F65a7ED524DEF487483221094947",
+  "blockchain": "ethereum",
+  "name": "CryptoBonusMiles",
+  "website": "https://cryptobonusmiles.com/",
+  "description": "CryptoBonusMiles helps to save on travelling even more, by adding CBM reward points to standard airline loyalty programs. CryptoBonusMiles expands Aeron solution to the mass market for millions of people who have ever flown, bringing convenience to the air travelers.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x95eFD1Fe6099F65a7ED524DEF487483221094947",
+  "research": null,
+  "symbol": "CBM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

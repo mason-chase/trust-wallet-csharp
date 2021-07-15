@@ -1,0 +1,18 @@
+{
+  "id": "0xe5bC04919C2B373417B303d488Ac3fee75dbE3a6",
+  "address": "0xe5bC04919C2B373417B303d488Ac3fee75dbE3a6",
+  "blockchain": "ethereum",
+  "name": "Dollar Lending Protocol",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe5bC04919C2B373417B303d488Ac3fee75dbE3a6",
+  "research": null,
+  "symbol": "DLP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

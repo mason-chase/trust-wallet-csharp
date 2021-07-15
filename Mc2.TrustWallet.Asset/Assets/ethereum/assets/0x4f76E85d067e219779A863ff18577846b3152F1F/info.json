@@ -1,0 +1,18 @@
+{
+  "id": "0x4f76E85d067e219779A863ff18577846b3152F1F",
+  "address": "0x4f76E85d067e219779A863ff18577846b3152F1F",
+  "blockchain": "ethereum",
+  "name": "KUBO COIN",
+  "website": "https://kubocoin.org/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4f76E85d067e219779A863ff18577846b3152F1F",
+  "research": null,
+  "symbol": "KUBO",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

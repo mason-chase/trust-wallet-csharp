@@ -1,0 +1,18 @@
+{
+  "id": "0x9EA085bc45639372e7389e5C5069a86cAC5a03bF",
+  "address": "0x9EA085bc45639372e7389e5C5069a86cAC5a03bF",
+  "blockchain": "ethereum",
+  "name": "Vaporware",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9EA085bc45639372e7389e5C5069a86cAC5a03bF",
+  "research": null,
+  "symbol": "VAP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

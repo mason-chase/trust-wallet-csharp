@@ -1,0 +1,18 @@
+{
+  "id": "0x9108cbDb89017221EE6eA7eE48EaE4a06842c75f",
+  "address": "0x9108cbDb89017221EE6eA7eE48EaE4a06842c75f",
+  "blockchain": "ethereum",
+  "name": "LmexToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9108cbDb89017221EE6eA7eE48EaE4a06842c75f",
+  "research": null,
+  "symbol": "LMT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

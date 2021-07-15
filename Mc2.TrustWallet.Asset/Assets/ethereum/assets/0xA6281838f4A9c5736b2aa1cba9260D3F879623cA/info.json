@@ -1,0 +1,18 @@
+{
+  "id": "0xA6281838f4A9c5736b2aa1cba9260D3F879623cA",
+  "address": "0xA6281838f4A9c5736b2aa1cba9260D3F879623cA",
+  "blockchain": "ethereum",
+  "name": "Decentralize Currency Assets",
+  "website": "https://decentralizecurrency.net",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA6281838f4A9c5736b2aa1cba9260D3F879623cA",
+  "research": null,
+  "symbol": "DCA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

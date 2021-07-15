@@ -1,0 +1,18 @@
+{
+  "id": "0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134",
+  "address": "0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134",
+  "blockchain": "ethereum",
+  "name": "Bob Token",
+  "website": "https://www.bobsrepair.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134",
+  "research": null,
+  "symbol": "BOB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xC78593C17482EA5de44Fdd84896fFd903972878E",
+  "address": "0xC78593C17482EA5de44Fdd84896fFd903972878E",
+  "blockchain": "ethereum",
+  "name": "EtherBB",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xC78593C17482EA5de44Fdd84896fFd903972878E",
+  "research": null,
+  "symbol": "BB",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

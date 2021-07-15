@@ -1,0 +1,18 @@
+{
+  "id": "0x6e0BEF56b648b3eEBaE3808B8cBe7EFE8755AD9C",
+  "address": "0x6e0BEF56b648b3eEBaE3808B8cBe7EFE8755AD9C",
+  "blockchain": "smartchain",
+  "name": "gabecoin",
+  "website": "https://gabecoin.io",
+  "description": "RIP Gabe, forever in our hearts.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x6e0bef56b648b3eebae3808b8cbe7efe8755ad9c",
+  "research": null,
+  "symbol": "GABECOIN",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

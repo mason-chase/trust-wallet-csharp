@@ -1,0 +1,18 @@
+{
+  "id": "0x3C55b99c58a1Dc7001Dd96B902212d11c8eC7e15",
+  "address": "0x3C55b99c58a1Dc7001Dd96B902212d11c8eC7e15",
+  "blockchain": "ethereum",
+  "name": "JS Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3C55b99c58a1Dc7001Dd96B902212d11c8eC7e15",
+  "research": null,
+  "symbol": "JST",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

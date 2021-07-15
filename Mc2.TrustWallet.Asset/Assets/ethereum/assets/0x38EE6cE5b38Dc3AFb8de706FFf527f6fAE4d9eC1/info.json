@@ -1,0 +1,18 @@
+{
+  "id": "0x38EE6cE5b38Dc3AFb8de706FFf527f6fAE4d9eC1",
+  "address": "0x38EE6cE5b38Dc3AFb8de706FFf527f6fAE4d9eC1",
+  "blockchain": "ethereum",
+  "name": "DogeFi.finance",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x38EE6cE5b38Dc3AFb8de706FFf527f6fAE4d9eC1",
+  "research": null,
+  "symbol": "DogeFi",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

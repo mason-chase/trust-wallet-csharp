@@ -1,0 +1,18 @@
+{
+  "id": "0x49589163f5C6bBDC65d459fD8FEC1371BAE4215a",
+  "address": "0x49589163f5C6bBDC65d459fD8FEC1371BAE4215a",
+  "blockchain": "ethereum",
+  "name": "Navate AI",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x49589163f5C6bBDC65d459fD8FEC1371BAE4215a",
+  "research": null,
+  "symbol": "NAT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

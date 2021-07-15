@@ -1,0 +1,18 @@
+{
+  "id": "0x990f341946A3fdB507aE7e52d17851B87168017c",
+  "address": "0x990f341946A3fdB507aE7e52d17851B87168017c",
+  "blockchain": "ethereum",
+  "name": "Strong",
+  "website": "https://strongblock.io",
+  "description": "Strong (STRONG) is a cryptocurrency and operates on the Ethereum platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x990f341946A3fdB507aE7e52d17851B87168017c",
+  "research": null,
+  "symbol": "STRONG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

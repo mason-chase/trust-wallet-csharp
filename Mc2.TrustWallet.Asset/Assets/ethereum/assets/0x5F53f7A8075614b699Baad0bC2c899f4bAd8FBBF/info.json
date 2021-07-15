@@ -1,0 +1,18 @@
+{
+  "id": "0x5F53f7A8075614b699Baad0bC2c899f4bAd8FBBF",
+  "address": "0x5F53f7A8075614b699Baad0bC2c899f4bAd8FBBF",
+  "blockchain": "ethereum",
+  "name": "Rebellious",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5F53f7A8075614b699Baad0bC2c899f4bAd8FBBF",
+  "research": null,
+  "symbol": "REBL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

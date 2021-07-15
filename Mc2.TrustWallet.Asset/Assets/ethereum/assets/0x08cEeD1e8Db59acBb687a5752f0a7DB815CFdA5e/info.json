@@ -1,0 +1,18 @@
+{
+  "id": "0x08cEeD1e8Db59acBb687a5752f0a7DB815CFdA5e",
+  "address": "0x08cEeD1e8Db59acBb687a5752f0a7DB815CFdA5e",
+  "blockchain": "ethereum",
+  "name": "Electronic Energy Coin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x08cEeD1e8Db59acBb687a5752f0a7DB815CFdA5e",
+  "research": null,
+  "symbol": "E2C",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

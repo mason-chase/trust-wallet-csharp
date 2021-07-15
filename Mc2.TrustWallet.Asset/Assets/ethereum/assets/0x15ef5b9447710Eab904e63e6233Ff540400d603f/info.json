@@ -1,0 +1,18 @@
+{
+  "id": "0x15ef5b9447710Eab904e63e6233Ff540400d603f",
+  "address": "0x15ef5b9447710Eab904e63e6233Ff540400d603f",
+  "blockchain": "ethereum",
+  "name": "Bitcoin2X",
+  "website": "http://bitcoin-2x.org/",
+  "description": "Bitcoin2x is Faster, safer and cheaper transactions than Bitcoin.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x15ef5b9447710Eab904e63e6233Ff540400d603f",
+  "research": null,
+  "symbol": "BTC2X",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x81311Be50efd05ee4501d884F0152f942015508b",
+  "address": "0x81311Be50efd05ee4501d884F0152f942015508b",
+  "blockchain": "ethereum",
+  "name": "World Wide Trade Coin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x81311Be50efd05ee4501d884F0152f942015508b",
+  "research": null,
+  "symbol": "WWTC",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

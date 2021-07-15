@@ -1,0 +1,18 @@
+{
+  "id": "0x7841B2A48D1F6e78ACeC359FEd6D874Eb8a0f63c",
+  "address": "0x7841B2A48D1F6e78ACeC359FEd6D874Eb8a0f63c",
+  "blockchain": "ethereum",
+  "name": "KERMAN",
+  "website": "https://app.tryroll.com/rewards/KERMAN",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7841B2A48D1F6e78ACeC359FEd6D874Eb8a0f63c",
+  "research": null,
+  "symbol": "KERMAN",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x6aCf5940974E2a935f3F4e4FEDAc798583eEE826",
+  "address": "0x6aCf5940974E2a935f3F4e4FEDAc798583eEE826",
+  "blockchain": "ethereum",
+  "name": "CNAC",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6aCf5940974E2a935f3F4e4FEDAc798583eEE826",
+  "research": null,
+  "symbol": "cnacoin",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xBa5160Ba66b286f1B9B6f3a57A6ABCFa440E7aA2",
+  "address": "0xBa5160Ba66b286f1B9B6f3a57A6ABCFa440E7aA2",
+  "blockchain": "ethereum",
+  "name": "HUB Coin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xBa5160Ba66b286f1B9B6f3a57A6ABCFa440E7aA2",
+  "research": null,
+  "symbol": "HUB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

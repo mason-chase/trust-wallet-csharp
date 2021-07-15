@@ -1,0 +1,18 @@
+{
+  "id": "0xeD351575b9869AADA94435e0066ba38E08800b60",
+  "address": "0xeD351575b9869AADA94435e0066ba38E08800b60",
+  "blockchain": "ethereum",
+  "name": "Mcr Stablecoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xeD351575b9869AADA94435e0066ba38E08800b60",
+  "research": null,
+  "symbol": "MCR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

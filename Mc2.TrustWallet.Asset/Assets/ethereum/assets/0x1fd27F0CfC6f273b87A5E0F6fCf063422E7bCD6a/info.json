@@ -1,0 +1,18 @@
+{
+  "id": "0x1fd27F0CfC6f273b87A5E0F6fCf063422E7bCD6a",
+  "address": "0x1fd27F0CfC6f273b87A5E0F6fCf063422E7bCD6a",
+  "blockchain": "ethereum",
+  "name": "Agrocoin",
+  "website": "https://bitagro.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1fd27F0CfC6f273b87A5E0F6fCf063422E7bCD6a",
+  "research": null,
+  "symbol": "AGRO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x39AB32006Afe65A0B4D6A9A89877c2c33ad19EB5",
+  "address": "0x39AB32006Afe65A0B4D6A9A89877c2c33ad19EB5",
+  "blockchain": "ethereum",
+  "name": "CTether USD",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x39AB32006Afe65A0B4D6A9A89877c2c33ad19EB5",
+  "research": null,
+  "symbol": "CUSDT",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

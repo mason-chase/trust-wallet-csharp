@@ -1,0 +1,18 @@
+{
+  "id": "0x578B49C45961f98d8DF92854b53F1641AF0A5036",
+  "address": "0x578B49C45961f98d8DF92854b53F1641AF0A5036",
+  "blockchain": "ethereum",
+  "name": "LinkaToken",
+  "website": "https://www.linka.io",
+  "description": "Enrich your everyday life with. Fintech on Blockchain.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x578B49C45961f98d8DF92854b53F1641AF0A5036",
+  "research": null,
+  "symbol": "LINKA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

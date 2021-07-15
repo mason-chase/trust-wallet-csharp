@@ -1,0 +1,18 @@
+{
+  "id": "0xd48F5F8bAFC473cE7611d3c915050d2e78A0AF3E",
+  "address": "0xd48F5F8bAFC473cE7611d3c915050d2e78A0AF3E",
+  "blockchain": "ethereum",
+  "name": "TITANIUM NETWORKS",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd48F5F8bAFC473cE7611d3c915050d2e78A0AF3E",
+  "research": null,
+  "symbol": "$TTN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

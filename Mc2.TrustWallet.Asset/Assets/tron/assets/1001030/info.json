@@ -1,0 +1,18 @@
+{
+  "id": "1001030",
+  "address": "1001030",
+  "blockchain": "tron",
+  "name": "StarWars",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1001030",
+  "research": null,
+  "symbol": "Cred",
+  "type": "TRC10",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

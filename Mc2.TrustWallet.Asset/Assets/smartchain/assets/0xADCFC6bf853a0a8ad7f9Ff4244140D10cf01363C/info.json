@@ -1,0 +1,31 @@
+{
+  "id": "0xADCFC6bf853a0a8ad7f9Ff4244140D10cf01363C",
+  "address": "0xADCFC6bf853a0a8ad7f9Ff4244140D10cf01363C",
+  "blockchain": "smartchain",
+  "name": "TrustPad",
+  "website": "https://trustpad.io/",
+  "description": "TrustPad is a decentralized multi-chain fundraising platform enabling projects to raise capital and promise safety to early stage investors.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xadcfc6bf853a0a8ad7f9ff4244140d10cf01363c",
+  "research": null,
+  "symbol": "TPAD",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/TrustPad"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/TrustPad"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/@TrustPad"
+    }
+  ],
+  "tags": null
+}

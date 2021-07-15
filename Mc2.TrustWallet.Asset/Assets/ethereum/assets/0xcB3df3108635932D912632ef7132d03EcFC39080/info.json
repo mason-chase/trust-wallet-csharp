@@ -1,0 +1,18 @@
+{
+  "id": "0xcB3df3108635932D912632ef7132d03EcFC39080",
+  "address": "0xcB3df3108635932D912632ef7132d03EcFC39080",
+  "blockchain": "ethereum",
+  "name": "Wings",
+  "website": "https://wingshop.io/",
+  "description": "Hyper deflationary token with unique rewards and burning protocol.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xcB3df3108635932D912632ef7132d03EcFC39080",
+  "research": null,
+  "symbol": "WING",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

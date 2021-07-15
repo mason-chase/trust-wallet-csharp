@@ -1,0 +1,18 @@
+{
+  "id": "0x5B322514FF727253292637D9054301600c2C81e8",
+  "address": "0x5B322514FF727253292637D9054301600c2C81e8",
+  "blockchain": "ethereum",
+  "name": "DAD",
+  "website": "https://dad.one",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5B322514FF727253292637D9054301600c2C81e8",
+  "research": null,
+  "symbol": "DAD",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

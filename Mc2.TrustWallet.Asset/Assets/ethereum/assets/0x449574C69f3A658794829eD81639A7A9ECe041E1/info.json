@@ -1,0 +1,18 @@
+{
+  "id": "0x449574C69f3A658794829eD81639A7A9ECe041E1",
+  "address": "0x449574C69f3A658794829eD81639A7A9ECe041E1",
+  "blockchain": "ethereum",
+  "name": "NEOG",
+  "website": "https://neo-gold.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x449574C69f3A658794829eD81639A7A9ECe041E1",
+  "research": null,
+  "symbol": "NEOG",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

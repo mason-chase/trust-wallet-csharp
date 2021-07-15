@@ -1,0 +1,18 @@
+{
+  "id": "0x07f89875b1F142AbCba60FF1D7FCFb7Fe404d4ed",
+  "address": "0x07f89875b1F142AbCba60FF1D7FCFb7Fe404d4ed",
+  "blockchain": "ethereum",
+  "name": "Chinese Yuan Renminbi",
+  "website": "https://dollarprotocol.com",
+  "description": "Dollar Protocol is a suite of algorithmic synthetics governed by Share",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x07f89875b1F142AbCba60FF1D7FCFb7Fe404d4ed",
+  "research": null,
+  "symbol": "CNYx",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

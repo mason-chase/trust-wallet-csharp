@@ -1,0 +1,18 @@
+{
+  "id": "0x4263A2f0456305d7d10F8a4555f8c3B593b3b895",
+  "address": "0x4263A2f0456305d7d10F8a4555f8c3B593b3b895",
+  "blockchain": "ethereum",
+  "name": "Quantum Proof (3FA)",
+  "website": "https://3fa.app/",
+  "description": "3FA utilizes a hybrid pin-code generating algorithm when computer and human logics are intertwined together in such a way that the resulting verification password is mathematically impossible to decrypt.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4263A2f0456305d7d10F8a4555f8c3B593b3b895",
+  "research": null,
+  "symbol": "3FA",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

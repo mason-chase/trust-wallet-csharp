@@ -1,0 +1,18 @@
+{
+  "id": "0xB6957bf56805FaeD7f1bAe30EAEbE918B8baFF71",
+  "address": "0xB6957bf56805FaeD7f1bAe30EAEbE918B8baFF71",
+  "blockchain": "ethereum",
+  "name": "JILT ",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB6957bf56805FaeD7f1bAe30EAEbE918B8baFF71",
+  "research": null,
+  "symbol": "JLT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

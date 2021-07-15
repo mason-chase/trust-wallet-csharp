@@ -1,0 +1,18 @@
+{
+  "id": "0x53066cdDBc0099eb6c96785d9b3DF2AAeEDE5DA3",
+  "address": "0x53066cdDBc0099eb6c96785d9b3DF2AAeEDE5DA3",
+  "blockchain": "ethereum",
+  "name": "Penta Network Token",
+  "website": "https://www.penta.global",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x53066cdDBc0099eb6c96785d9b3DF2AAeEDE5DA3",
+  "research": null,
+  "symbol": "PNT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xFBFb153343f9f8330A2777c2b0DA5216E5b5626d",
+  "address": "0xFBFb153343f9f8330A2777c2b0DA5216E5b5626d",
+  "blockchain": "ethereum",
+  "name": "Artemischain",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xFBFb153343f9f8330A2777c2b0DA5216E5b5626d",
+  "research": null,
+  "symbol": "ATC",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x621E0D4E21683459A1fc4784A525095677461DbE",
+  "address": "0x621E0D4E21683459A1fc4784A525095677461DbE",
+  "blockchain": "ethereum",
+  "name": "wetoken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x621E0D4E21683459A1fc4784A525095677461DbE",
+  "research": null,
+  "symbol": "WET",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

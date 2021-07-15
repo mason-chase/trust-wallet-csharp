@@ -1,0 +1,18 @@
+{
+  "id": "0x0442BC99441F55244131CC13A2E717C493DDbF01",
+  "address": "0x0442BC99441F55244131CC13A2E717C493DDbF01",
+  "blockchain": "ethereum",
+  "name": "REVI",
+  "website": "http://revi.network",
+  "description": "V2.0 of REVO",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0442BC99441F55244131CC13A2E717C493DDbF01",
+  "research": null,
+  "symbol": "REVI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xd152C6AABF7B6736bb345A2e3E8E1E956241fdb1",
+  "address": "0xd152C6AABF7B6736bb345A2e3E8E1E956241fdb1",
+  "blockchain": "ethereum",
+  "name": "Xena",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd152C6AABF7B6736bb345A2e3E8E1E956241fdb1",
+  "research": null,
+  "symbol": "XENA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

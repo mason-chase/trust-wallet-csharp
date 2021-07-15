@@ -1,0 +1,18 @@
+{
+  "id": "BLINK-9C6",
+  "address": "BLINK-9C6",
+  "blockchain": "binance",
+  "name": "Blockmason Link",
+  "website": "https://blockmason.link/",
+  "description": "Blockmason Link aims to create conventional web-based APIs for any smart contract written on a programmatic blockchain. Any software capable of using a web API can reportedly use the Link app with no special libraries, tools, or blockchain knowledge required.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/BLINK-9C6",
+  "research": null,
+  "symbol": "BLINK",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

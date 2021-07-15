@@ -1,0 +1,18 @@
+{
+  "id": "0x1183F92A5624D68e85FFB9170F16BF0443B4c242",
+  "address": "0x1183F92A5624D68e85FFB9170F16BF0443B4c242",
+  "blockchain": "ethereum",
+  "name": "QVT",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1183F92A5624D68e85FFB9170F16BF0443B4c242",
+  "research": null,
+  "symbol": "QVT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

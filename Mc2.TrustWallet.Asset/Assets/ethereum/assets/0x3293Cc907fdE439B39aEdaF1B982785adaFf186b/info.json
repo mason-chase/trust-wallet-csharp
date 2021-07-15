@@ -1,0 +1,18 @@
+{
+  "id": "0x3293Cc907fdE439B39aEdaF1B982785adaFf186b",
+  "address": "0x3293Cc907fdE439B39aEdaF1B982785adaFf186b",
+  "blockchain": "ethereum",
+  "name": "TriaToken",
+  "website": "https://triaconta.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3293Cc907fdE439B39aEdaF1B982785adaFf186b",
+  "research": null,
+  "symbol": "TRIA",
+  "type": "ERC20",
+  "decimals": 10,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

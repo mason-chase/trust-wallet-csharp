@@ -1,0 +1,18 @@
+{
+  "id": "0xDffD82C8c82f2721aa801097801Da54eE97cf607",
+  "address": "0xDffD82C8c82f2721aa801097801Da54eE97cf607",
+  "blockchain": "ethereum",
+  "name": "Planetagro-Exchange",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDffD82C8c82f2721aa801097801Da54eE97cf607",
+  "research": null,
+  "symbol": "FEEDER CATTLE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

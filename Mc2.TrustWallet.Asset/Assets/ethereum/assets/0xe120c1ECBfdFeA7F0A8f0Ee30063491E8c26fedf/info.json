@@ -1,0 +1,18 @@
+{
+  "id": "0xe120c1ECBfdFeA7F0A8f0Ee30063491E8c26fedf",
+  "address": "0xe120c1ECBfdFeA7F0A8f0Ee30063491E8c26fedf",
+  "blockchain": "ethereum",
+  "name": "Suretly",
+  "website": "https://www.suretly.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe120c1ECBfdFeA7F0A8f0Ee30063491E8c26fedf",
+  "research": null,
+  "symbol": "SUR",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

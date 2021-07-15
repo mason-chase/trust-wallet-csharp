@@ -1,0 +1,18 @@
+{
+  "id": "0x28e9C2F30b5e935b2eD38Fe8d796e1B39C4EFc91",
+  "address": "0x28e9C2F30b5e935b2eD38Fe8d796e1B39C4EFc91",
+  "blockchain": "ethereum",
+  "name": "wield.finance",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x28e9C2F30b5e935b2eD38Fe8d796e1B39C4EFc91",
+  "research": null,
+  "symbol": "WFI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

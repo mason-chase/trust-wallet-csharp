@@ -1,0 +1,18 @@
+{
+  "id": "0xa9aa40627C6B989F97A6656a4AD658275479361C",
+  "address": "0xa9aa40627C6B989F97A6656a4AD658275479361C",
+  "blockchain": "ethereum",
+  "name": "MAFER",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa9aa40627C6B989F97A6656a4AD658275479361C",
+  "research": null,
+  "symbol": "MFR",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

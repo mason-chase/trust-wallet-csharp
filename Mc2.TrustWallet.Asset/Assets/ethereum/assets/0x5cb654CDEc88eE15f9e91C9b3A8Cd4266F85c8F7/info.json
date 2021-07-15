@@ -1,0 +1,18 @@
+{
+  "id": "0x5cb654CDEc88eE15f9e91C9b3A8Cd4266F85c8F7",
+  "address": "0x5cb654CDEc88eE15f9e91C9b3A8Cd4266F85c8F7",
+  "blockchain": "ethereum",
+  "name": "COINVR",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5cb654CDEc88eE15f9e91C9b3A8Cd4266F85c8F7",
+  "research": null,
+  "symbol": "COVR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

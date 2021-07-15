@@ -1,0 +1,18 @@
+{
+  "id": "0xCB35e52bEbFE06909C216bE822fa982EfDD60F95",
+  "address": "0xCB35e52bEbFE06909C216bE822fa982EfDD60F95",
+  "blockchain": "smartchain",
+  "name": "BabyApe",
+  "website": "https://babyape.org/",
+  "description": "Ride the baby wave. You’ve seen baby doge, baby sanshu, and baby kishu, but not baby ape! This is a coin made by apes for apes, and we have big plans in store.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xCB35e52bEbFE06909C216bE822fa982EfDD60F95",
+  "research": null,
+  "symbol": "BAPE",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x23EaaAD4B368F846C7a62759BAa086478D6EA5F1",
+  "address": "0x23EaaAD4B368F846C7a62759BAa086478D6EA5F1",
+  "blockchain": "ethereum",
+  "name": "RESERVE USD",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x23EaaAD4B368F846C7a62759BAa086478D6EA5F1",
+  "research": null,
+  "symbol": "RZE",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

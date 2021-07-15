@@ -1,0 +1,18 @@
+{
+  "id": "1000475",
+  "address": "1000475",
+  "blockchain": "tron",
+  "name": "TronWeeklyJournal",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1000475",
+  "research": null,
+  "symbol": "TRWJ",
+  "type": "TRC10",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

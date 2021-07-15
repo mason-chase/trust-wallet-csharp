@@ -1,0 +1,18 @@
+{
+  "id": "0x78F5bBC74fb9137A75D85f3C9C3c599Be49f0A56",
+  "address": "0x78F5bBC74fb9137A75D85f3C9C3c599Be49f0A56",
+  "blockchain": "ethereum",
+  "name": "smartup",
+  "website": "https://www.smartup.global/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x78F5bBC74fb9137A75D85f3C9C3c599Be49f0A56",
+  "research": null,
+  "symbol": "SmartUp",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

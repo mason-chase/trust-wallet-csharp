@@ -1,0 +1,18 @@
+{
+  "id": "0xF88951D7B676798705fd3a362ba5B1DBca2B233b",
+  "address": "0xF88951D7B676798705fd3a362ba5B1DBca2B233b",
+  "blockchain": "ethereum",
+  "name": "Pixel",
+  "website": "https://piction.network/en/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF88951D7B676798705fd3a362ba5B1DBca2B233b",
+  "research": null,
+  "symbol": "PXL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

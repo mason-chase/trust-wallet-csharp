@@ -1,0 +1,18 @@
+{
+  "id": "0x26B3038a7Fc10b36c426846a9086Ef87328dA702",
+  "address": "0x26B3038a7Fc10b36c426846a9086Ef87328dA702",
+  "blockchain": "ethereum",
+  "name": "YFT",
+  "website": "https://yft.finance",
+  "description": "Yield Farming Token (YFT). A most profitable way to farm with next generation yield farming and high yield rewards.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x26B3038a7Fc10b36c426846a9086Ef87328dA702",
+  "research": null,
+  "symbol": "YFT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

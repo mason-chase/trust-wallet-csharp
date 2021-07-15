@@ -1,0 +1,47 @@
+{
+  "id": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+  "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+  "blockchain": "smartchain",
+  "name": "KIRA Network",
+  "website": "https://kira.network",
+  "description": "Maintain 100% liquidity of your capital, trade and use DeFi while simultaneously earning block and fee rewards by staking ANY digital asset",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+  "research": null,
+  "symbol": "KEX",
+  "type": "BEP20",
+  "decimals": 6,
+  "status": "active",
+  "links": [
+    {
+      "name": "source_code",
+      "url": "https://git.kira.network"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/kira_core"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/kirainterex"
+    },
+    {
+      "name": "blog",
+      "url": "https://blog.kira.network"
+    },
+    {
+      "name": "white_paper",
+      "url": "https://wp.kira.network/"
+    },
+    {
+      "name": "coinmarketcap",
+      "url": "https://coinmarketcap.com/currencies/kira-network/"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://coingecko.com/en/coins/kira-network/"
+    }
+  ],
+  "tags": null
+}

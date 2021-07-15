@@ -1,0 +1,18 @@
+{
+  "id": "0xfcA47962D45ADFdfd1Ab2D972315dB4ce7CCf094",
+  "address": "0xfcA47962D45ADFdfd1Ab2D972315dB4ce7CCf094",
+  "blockchain": "ethereum",
+  "name": "iXledger",
+  "website": "https://www.ixledger.com",
+  "description": "InsureX is a marketplace for insurers, reinsurers and brokers to trade insurance products directly.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xfcA47962D45ADFdfd1Ab2D972315dB4ce7CCf094",
+  "research": null,
+  "symbol": "IXT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A",
+  "address": "0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A",
+  "blockchain": "ethereum",
+  "name": "Jobchain",
+  "website": "https://www.jobchain.com/",
+  "description": "Jobchain is an ecosystem that enables anybody to find jobs or hire personnel anytime, anywhere while earning salary in cryptocurrency.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xdfbc9050F5B01DF53512DCC39B4f2B2BBaCD517A",
+  "research": null,
+  "symbol": "JOB",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

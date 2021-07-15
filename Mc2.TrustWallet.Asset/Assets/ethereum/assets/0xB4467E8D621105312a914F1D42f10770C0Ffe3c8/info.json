@@ -1,0 +1,23 @@
+{
+  "id": "0xB4467E8D621105312a914F1D42f10770C0Ffe3c8",
+  "address": "0xB4467E8D621105312a914F1D42f10770C0Ffe3c8",
+  "blockchain": "ethereum",
+  "name": "FLASH (old)",
+  "website": "https://flashstake.io",
+  "description": "FLASH - The time travel of money.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB4467E8D621105312a914F1D42f10770C0Ffe3c8",
+  "research": null,
+  "symbol": "FLASH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Flashstake"
+    }
+  ],
+  "tags": null
+}

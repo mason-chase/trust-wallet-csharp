@@ -1,0 +1,18 @@
+{
+  "id": "0x8C8cCB81D436B0f3017664441C39cbeFbD64650F",
+  "address": "0x8C8cCB81D436B0f3017664441C39cbeFbD64650F",
+  "blockchain": "ethereum",
+  "name": "ThaneCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8C8cCB81D436B0f3017664441C39cbeFbD64650F",
+  "research": null,
+  "symbol": "TPI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

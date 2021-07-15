@@ -1,0 +1,18 @@
+{
+  "id": "0xaC9749c854b31bBa3B3e71B30FDd7AEa4fCC0db9",
+  "address": "0xaC9749c854b31bBa3B3e71B30FDd7AEa4fCC0db9",
+  "blockchain": "ethereum",
+  "name": "FightBackCoin",
+  "website": "https://fightbackcoin.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xaC9749c854b31bBa3B3e71B30FDd7AEa4fCC0db9",
+  "research": null,
+  "symbol": "FBC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

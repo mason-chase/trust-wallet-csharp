@@ -1,0 +1,18 @@
+{
+  "id": "0x17540494Ad5E39AEFD49901774528e9ff17FE40B",
+  "address": "0x17540494Ad5E39AEFD49901774528e9ff17FE40B",
+  "blockchain": "ethereum",
+  "name": "Buccaneer",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x17540494Ad5E39AEFD49901774528e9ff17FE40B",
+  "research": null,
+  "symbol": "PRIVATE",
+  "type": "ERC20",
+  "decimals": 3,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

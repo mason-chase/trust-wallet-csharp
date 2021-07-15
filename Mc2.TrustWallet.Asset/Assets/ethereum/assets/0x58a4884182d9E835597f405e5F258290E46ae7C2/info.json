@@ -1,0 +1,18 @@
+{
+  "id": "0x58a4884182d9E835597f405e5F258290E46ae7C2",
+  "address": "0x58a4884182d9E835597f405e5F258290E46ae7C2",
+  "blockchain": "ethereum",
+  "name": "NOAHCOIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x58a4884182d9E835597f405e5F258290E46ae7C2",
+  "research": null,
+  "symbol": "NOAH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

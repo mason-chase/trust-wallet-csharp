@@ -1,0 +1,31 @@
+{
+  "id": "0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f",
+  "address": "0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f",
+  "blockchain": "ethereum",
+  "name": "RAMP DEFI",
+  "website": "https://rampdefi.com/",
+  "description": "Unlocking Liquid Capital From Staked Assets",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f",
+  "research": null,
+  "symbol": "RAMP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/RampDefi"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/rampdefiofficial"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/rampdefi"
+    }
+  ],
+  "tags": null
+}

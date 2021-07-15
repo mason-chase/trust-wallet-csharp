@@ -1,0 +1,18 @@
+{
+  "id": "0xAA855D6ECf41dd5cF29DAd369fB9400231979Af8",
+  "address": "0xAA855D6ECf41dd5cF29DAd369fB9400231979Af8",
+  "blockchain": "ethereum",
+  "name": "Sakuya Coin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xAA855D6ECf41dd5cF29DAd369fB9400231979Af8",
+  "research": null,
+  "symbol": "SC",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

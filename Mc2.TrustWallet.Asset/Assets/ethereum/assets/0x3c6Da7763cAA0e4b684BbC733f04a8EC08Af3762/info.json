@@ -1,0 +1,18 @@
+{
+  "id": "0x3c6Da7763cAA0e4b684BbC733f04a8EC08Af3762",
+  "address": "0x3c6Da7763cAA0e4b684BbC733f04a8EC08Af3762",
+  "blockchain": "ethereum",
+  "name": "MODEL-X-coin",
+  "website": "https://model-x.net/",
+  "description": "MODEL-X-coin (MODX) is a cryptocurrency and operates on the Ethereum platform. ",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3c6Da7763cAA0e4b684BbC733f04a8EC08Af3762",
+  "research": null,
+  "symbol": "MODX",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

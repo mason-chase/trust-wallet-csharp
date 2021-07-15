@@ -1,0 +1,18 @@
+{
+  "id": "1000010",
+  "address": "1000010",
+  "blockchain": "tron",
+  "name": "CharityCompassionCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1000010",
+  "research": null,
+  "symbol": "CCC",
+  "type": "TRC10",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

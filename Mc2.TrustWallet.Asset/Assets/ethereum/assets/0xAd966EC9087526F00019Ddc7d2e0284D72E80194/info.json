@@ -1,0 +1,18 @@
+{
+  "id": "0xAd966EC9087526F00019Ddc7d2e0284D72E80194",
+  "address": "0xAd966EC9087526F00019Ddc7d2e0284D72E80194",
+  "blockchain": "ethereum",
+  "name": "FoPay",
+  "website": "https://fpay.cash/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xAd966EC9087526F00019Ddc7d2e0284D72E80194",
+  "research": null,
+  "symbol": "FOPAY",
+  "type": "ERC20",
+  "decimals": 3,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

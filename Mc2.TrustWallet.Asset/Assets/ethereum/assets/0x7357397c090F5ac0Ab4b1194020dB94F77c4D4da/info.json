@@ -1,0 +1,18 @@
+{
+  "id": "0x7357397c090F5ac0Ab4b1194020dB94F77c4D4da",
+  "address": "0x7357397c090F5ac0Ab4b1194020dB94F77c4D4da",
+  "blockchain": "ethereum",
+  "name": "MySmartProperty Tokens",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7357397c090F5ac0Ab4b1194020dB94F77c4D4da",
+  "research": null,
+  "symbol": "MSPT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

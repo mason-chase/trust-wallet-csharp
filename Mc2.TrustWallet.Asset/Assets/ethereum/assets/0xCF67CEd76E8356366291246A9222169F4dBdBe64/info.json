@@ -1,0 +1,27 @@
+{
+  "id": "0xCF67CEd76E8356366291246A9222169F4dBdBe64",
+  "address": "0xCF67CEd76E8356366291246A9222169F4dBdBe64",
+  "blockchain": "ethereum",
+  "name": "DICE.FINANCE",
+  "website": "https://dice.finance/",
+  "description": "An unstoppable bankroll drives casino for thousands of users and hundreds of applications. DICE.FINANCE empowers players, developers, game providers and agency to participate in a game marketplace that is open and accessible to all.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xCF67CEd76E8356366291246A9222169F4dBdBe64",
+  "research": null,
+  "symbol": "DICE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/DiceFinance"
+    },
+    {
+      "name": "white_paper",
+      "url": "https://github.com/dice-finance/Whitepaper/blob/master/Dice.FinanceWP.md"
+    }
+  ],
+  "tags": null
+}

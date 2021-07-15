@@ -1,0 +1,18 @@
+{
+  "id": "0xDd6C68bb32462e01705011a4e2Ad1a60740f217F",
+  "address": "0xDd6C68bb32462e01705011a4e2Ad1a60740f217F",
+  "blockchain": "ethereum",
+  "name": "Hubiits",
+  "website": "https://www.hubii.network/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDd6C68bb32462e01705011a4e2Ad1a60740f217F",
+  "research": null,
+  "symbol": "HBT",
+  "type": "ERC20",
+  "decimals": 15,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

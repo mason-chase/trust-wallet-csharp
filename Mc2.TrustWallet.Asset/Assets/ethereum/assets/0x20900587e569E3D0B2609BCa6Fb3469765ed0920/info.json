@@ -1,0 +1,18 @@
+{
+  "id": "0x20900587e569E3D0B2609BCa6Fb3469765ed0920",
+  "address": "0x20900587e569E3D0B2609BCa6Fb3469765ed0920",
+  "blockchain": "ethereum",
+  "name": "Bitpoint",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x20900587e569E3D0B2609BCa6Fb3469765ed0920",
+  "research": null,
+  "symbol": "BTP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

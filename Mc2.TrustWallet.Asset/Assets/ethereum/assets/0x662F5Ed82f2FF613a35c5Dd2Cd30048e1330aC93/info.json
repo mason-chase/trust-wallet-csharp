@@ -1,0 +1,18 @@
+{
+  "id": "0x662F5Ed82f2FF613a35c5Dd2Cd30048e1330aC93",
+  "address": "0x662F5Ed82f2FF613a35c5Dd2Cd30048e1330aC93",
+  "blockchain": "ethereum",
+  "name": "SG30013(ACE)",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x662F5Ed82f2FF613a35c5Dd2Cd30048e1330aC93",
+  "research": null,
+  "symbol": "ACE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

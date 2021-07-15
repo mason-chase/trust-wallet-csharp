@@ -1,0 +1,18 @@
+{
+  "id": "0xbf05571988dAaB22D33C28bbB13566eae9DeE626",
+  "address": "0xbf05571988dAaB22D33C28bbB13566eae9DeE626",
+  "blockchain": "ethereum",
+  "name": "999",
+  "website": "https://coin999.cash/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xbf05571988dAaB22D33C28bbB13566eae9DeE626",
+  "research": null,
+  "symbol": "999",
+  "type": "ERC20",
+  "decimals": 3,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

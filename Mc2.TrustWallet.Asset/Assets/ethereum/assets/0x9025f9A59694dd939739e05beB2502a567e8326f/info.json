@@ -1,0 +1,18 @@
+{
+  "id": "0x9025f9A59694dd939739e05beB2502a567e8326f",
+  "address": "0x9025f9A59694dd939739e05beB2502a567e8326f",
+  "blockchain": "ethereum",
+  "name": "NamTanToken",
+  "website": "https://namtancoin.cash",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9025f9A59694dd939739e05beB2502a567e8326f",
+  "research": null,
+  "symbol": "NAMTT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x60a41Dcc8D48a32dDE8ef4cCA4Ef044E8304df38",
+  "address": "0x60a41Dcc8D48a32dDE8ef4cCA4Ef044E8304df38",
+  "blockchain": "ethereum",
+  "name": "Assam",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x60a41Dcc8D48a32dDE8ef4cCA4Ef044E8304df38",
+  "research": null,
+  "symbol": "AXM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

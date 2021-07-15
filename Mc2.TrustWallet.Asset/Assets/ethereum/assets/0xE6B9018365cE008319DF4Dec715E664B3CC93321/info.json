@@ -1,0 +1,18 @@
+{
+  "id": "0xE6B9018365cE008319DF4Dec715E664B3CC93321",
+  "address": "0xE6B9018365cE008319DF4Dec715E664B3CC93321",
+  "blockchain": "ethereum",
+  "name": "BoldDax",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE6B9018365cE008319DF4Dec715E664B3CC93321",
+  "research": null,
+  "symbol": "BDAX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

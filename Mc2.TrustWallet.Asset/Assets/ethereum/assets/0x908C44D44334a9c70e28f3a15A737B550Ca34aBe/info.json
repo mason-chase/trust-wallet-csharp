@@ -1,0 +1,18 @@
+{
+  "id": "0x908C44D44334a9c70e28f3a15A737B550Ca34aBe",
+  "address": "0x908C44D44334a9c70e28f3a15A737B550Ca34aBe",
+  "blockchain": "ethereum",
+  "name": "BEE CASHBACK HOME",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x908C44D44334a9c70e28f3a15A737B550Ca34aBe",
+  "research": null,
+  "symbol": "BCH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

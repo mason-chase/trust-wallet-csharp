@@ -1,0 +1,18 @@
+{
+  "id": "0x138fd9A2B4b283676109d5E76cf3b83de7d15F25",
+  "address": "0x138fd9A2B4b283676109d5E76cf3b83de7d15F25",
+  "blockchain": "ethereum",
+  "name": "Zero Protocol Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x138fd9A2B4b283676109d5E76cf3b83de7d15F25",
+  "research": null,
+  "symbol": "ZNT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

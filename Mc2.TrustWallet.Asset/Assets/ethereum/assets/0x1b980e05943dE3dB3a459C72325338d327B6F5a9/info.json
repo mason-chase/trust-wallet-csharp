@@ -1,0 +1,18 @@
+{
+  "id": "0x1b980e05943dE3dB3a459C72325338d327B6F5a9",
+  "address": "0x1b980e05943dE3dB3a459C72325338d327B6F5a9",
+  "blockchain": "ethereum",
+  "name": "Bitgear",
+  "website": "https://bitgear.io",
+  "description": "Bitgear aims to create a bridge and aggregate decentralized and centralized exchanges all in one platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1b980e05943dE3dB3a459C72325338d327B6F5a9",
+  "research": null,
+  "symbol": "GEAR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

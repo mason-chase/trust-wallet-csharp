@@ -1,0 +1,18 @@
+{
+  "id": "0x8d80de8A78198396329dfA769aD54d24bF90E7aa",
+  "address": "0x8d80de8A78198396329dfA769aD54d24bF90E7aa",
+  "blockchain": "ethereum",
+  "name": "Nami ICO",
+  "website": "https://nami.trade/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8d80de8A78198396329dfA769aD54d24bF90E7aa",
+  "research": null,
+  "symbol": "NAC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

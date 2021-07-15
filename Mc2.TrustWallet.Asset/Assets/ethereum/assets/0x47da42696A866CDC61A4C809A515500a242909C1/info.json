@@ -1,0 +1,18 @@
+{
+  "id": "0x47da42696A866CDC61A4C809A515500a242909C1",
+  "address": "0x47da42696A866CDC61A4C809A515500a242909C1",
+  "blockchain": "ethereum",
+  "name": "BitRewards Token",
+  "website": "https://bitrewards.network/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x47da42696A866CDC61A4C809A515500a242909C1",
+  "research": null,
+  "symbol": "BIT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

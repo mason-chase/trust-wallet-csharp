@@ -1,0 +1,35 @@
+{
+  "id": "0x1E1aFE9D9c5f290d8F6996dDB190bd111908A43D",
+  "address": "0x1E1aFE9D9c5f290d8F6996dDB190bd111908A43D",
+  "blockchain": "smartchain",
+  "name": "Ape Swap LP BNB-BTCB",
+  "website": "https://apeswap.finance",
+  "description": "ApeSwap is an Automated Market Maker, Yield Farming, and Staking platform on Binance Smart Chain (forked from PancakeSwap). ApeSwap was built by DeFi Apes, for DeFi Apes. We have a dedicated team of experienced monkeys, who have been in the crypto space for years.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x1E1aFE9D9c5f290d8F6996dDB190bd111908A43D",
+  "research": "https://obiedobo.gitbook.io/apeswap-finance/",
+  "symbol": "APE-LP",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/ApeSwapFinance"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/ape_swap"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/ape_swap"
+    },
+    {
+      "name": "medium",
+      "url": "https://ape-swap.medium.com/"
+    }
+  ],
+  "tags": null
+}

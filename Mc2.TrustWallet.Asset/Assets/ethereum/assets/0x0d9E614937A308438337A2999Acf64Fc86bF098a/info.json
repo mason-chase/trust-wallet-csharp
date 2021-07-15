@@ -1,0 +1,18 @@
+{
+  "id": "0x0d9E614937A308438337A2999Acf64Fc86bF098a",
+  "address": "0x0d9E614937A308438337A2999Acf64Fc86bF098a",
+  "blockchain": "ethereum",
+  "name": "Saturn",
+  "website": "https://saturn.black/",
+  "description": "Saturn.Black – liquidity provider for crypto markets. Cross-chain Exchange & OTC trading Platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0d9E614937A308438337A2999Acf64Fc86bF098a",
+  "research": null,
+  "symbol": "XSAT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

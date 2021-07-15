@@ -1,0 +1,18 @@
+{
+  "id": "0x1d086b868d78040635CB8600bA733f12DB48cB42",
+  "address": "0x1d086b868d78040635CB8600bA733f12DB48cB42",
+  "blockchain": "ethereum",
+  "name": "XLXPay",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1d086b868d78040635CB8600bA733f12DB48cB42",
+  "research": null,
+  "symbol": "XLX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

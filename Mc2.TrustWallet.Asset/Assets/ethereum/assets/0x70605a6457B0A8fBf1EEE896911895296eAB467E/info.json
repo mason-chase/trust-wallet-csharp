@@ -1,0 +1,18 @@
+{
+  "id": "0x70605a6457B0A8fBf1EEE896911895296eAB467E",
+  "address": "0x70605a6457B0A8fBf1EEE896911895296eAB467E",
+  "blockchain": "ethereum",
+  "name": "IchiStake",
+  "website": "https://ichi.org",
+  "description": "xICHI is the staking coin of the ICHI community.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x70605a6457B0A8fBf1EEE896911895296eAB467E",
+  "research": null,
+  "symbol": "xICHI",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

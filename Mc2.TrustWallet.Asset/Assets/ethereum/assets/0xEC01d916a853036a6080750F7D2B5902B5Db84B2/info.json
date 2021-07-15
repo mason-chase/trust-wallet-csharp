@@ -1,0 +1,18 @@
+{
+  "id": "0xEC01d916a853036a6080750F7D2B5902B5Db84B2",
+  "address": "0xEC01d916a853036a6080750F7D2B5902B5Db84B2",
+  "blockchain": "ethereum",
+  "name": "Arcoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xEC01d916a853036a6080750F7D2B5902B5Db84B2",
+  "research": null,
+  "symbol": "AR2",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

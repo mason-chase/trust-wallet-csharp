@@ -1,0 +1,18 @@
+{
+  "id": "0xC83e0B5110f94C45739FB4995566f57c2542eAF8",
+  "address": "0xC83e0B5110f94C45739FB4995566f57c2542eAF8",
+  "blockchain": "ethereum",
+  "name": "Black Dollar Coin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xC83e0B5110f94C45739FB4995566f57c2542eAF8",
+  "research": null,
+  "symbol": "BDC",
+  "type": "ERC20",
+  "decimals": 3,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

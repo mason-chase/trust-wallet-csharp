@@ -1,0 +1,18 @@
+{
+  "id": "0x3c9d6c1C73b31c837832c72E04D3152f051fc1A9",
+  "address": "0x3c9d6c1C73b31c837832c72E04D3152f051fc1A9",
+  "blockchain": "ethereum",
+  "name": "BoringDAO",
+  "website": "https://www.boringdao.com/",
+  "description": "BoringDAO is a decentralized asset bridge that uses tunnel mechanism to move tokens cross different chains.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3c9d6c1C73b31c837832c72E04D3152f051fc1A9",
+  "research": null,
+  "symbol": "BOR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

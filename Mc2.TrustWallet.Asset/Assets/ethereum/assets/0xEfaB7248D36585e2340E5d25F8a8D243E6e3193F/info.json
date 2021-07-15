@@ -1,0 +1,18 @@
+{
+  "id": "0xEfaB7248D36585e2340E5d25F8a8D243E6e3193F",
+  "address": "0xEfaB7248D36585e2340E5d25F8a8D243E6e3193F",
+  "blockchain": "ethereum",
+  "name": "Dacxi Coin",
+  "website": "https://dacxi.com/",
+  "description": "Trade, learn, and build crypto wealth with Dacxi.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xEfaB7248D36585e2340E5d25F8a8D243E6e3193F",
+  "research": null,
+  "symbol": "DACXI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

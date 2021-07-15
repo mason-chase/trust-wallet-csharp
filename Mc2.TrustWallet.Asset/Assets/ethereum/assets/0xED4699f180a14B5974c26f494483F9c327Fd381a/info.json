@@ -1,0 +1,18 @@
+{
+  "id": "0xED4699f180a14B5974c26f494483F9c327Fd381a",
+  "address": "0xED4699f180a14B5974c26f494483F9c327Fd381a",
+  "blockchain": "ethereum",
+  "name": "Synth sAUD",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xED4699f180a14B5974c26f494483F9c327Fd381a",
+  "research": null,
+  "symbol": "sAUD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

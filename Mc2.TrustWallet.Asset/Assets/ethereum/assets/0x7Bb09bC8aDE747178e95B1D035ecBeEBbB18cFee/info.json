@@ -1,0 +1,18 @@
+{
+  "id": "0x7Bb09bC8aDE747178e95B1D035ecBeEBbB18cFee",
+  "address": "0x7Bb09bC8aDE747178e95B1D035ecBeEBbB18cFee",
+  "blockchain": "ethereum",
+  "name": "Crypto Valley Alliance",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7Bb09bC8aDE747178e95B1D035ecBeEBbB18cFee",
+  "research": null,
+  "symbol": "CVA",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

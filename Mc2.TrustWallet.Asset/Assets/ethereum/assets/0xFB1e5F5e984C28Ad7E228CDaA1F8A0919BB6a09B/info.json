@@ -1,0 +1,18 @@
+{
+  "id": "0xFB1e5F5e984C28Ad7E228CDaA1F8A0919BB6a09B",
+  "address": "0xFB1e5F5e984C28Ad7E228CDaA1F8A0919BB6a09B",
+  "blockchain": "ethereum",
+  "name": "Galaxy eSolutions",
+  "website": "https://galaxy-esolutions.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xFB1e5F5e984C28Ad7E228CDaA1F8A0919BB6a09B",
+  "research": null,
+  "symbol": "GES",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

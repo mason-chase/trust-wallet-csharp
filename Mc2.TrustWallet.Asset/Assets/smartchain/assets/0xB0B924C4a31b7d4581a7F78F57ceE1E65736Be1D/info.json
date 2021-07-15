@@ -1,0 +1,27 @@
+{
+  "id": "0xB0B924C4a31b7d4581a7F78F57ceE1E65736Be1D",
+  "address": "0xB0B924C4a31b7d4581a7F78F57ceE1E65736Be1D",
+  "blockchain": "smartchain",
+  "name": "HappyCoin",
+  "website": "https://thehappycoin.co",
+  "description": "HappyCoin is a BEP20 charity-oriented token that is helping to fight mental illness across the world.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xb0b924c4a31b7d4581a7f78f57cee1e65736be1d",
+  "research": null,
+  "symbol": "HAPPY",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/the_happy_coin"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/happy_coinTG"
+    }
+  ],
+  "tags": null
+}

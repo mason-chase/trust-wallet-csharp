@@ -1,0 +1,18 @@
+{
+  "id": "0xe0D95530820aAfc51b1d98023AA1Ff000b78d8b2",
+  "address": "0xe0D95530820aAfc51b1d98023AA1Ff000b78d8b2",
+  "blockchain": "ethereum",
+  "name": "PressOne Token",
+  "website": "https://press.one",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe0D95530820aAfc51b1d98023AA1Ff000b78d8b2",
+  "research": null,
+  "symbol": "PRS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

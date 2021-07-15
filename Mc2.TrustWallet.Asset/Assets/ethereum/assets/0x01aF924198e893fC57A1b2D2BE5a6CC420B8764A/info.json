@@ -1,0 +1,18 @@
+{
+  "id": "0x01aF924198e893fC57A1b2D2BE5a6CC420B8764A",
+  "address": "0x01aF924198e893fC57A1b2D2BE5a6CC420B8764A",
+  "blockchain": "ethereum",
+  "name": "RaiseEntertainmentToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x01aF924198e893fC57A1b2D2BE5a6CC420B8764A",
+  "research": null,
+  "symbol": "RET",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

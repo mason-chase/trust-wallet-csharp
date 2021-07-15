@@ -1,0 +1,18 @@
+{
+  "id": "0xf60cc637D2C501aD6935ffC8C8032963b0Fc419a",
+  "address": "0xf60cc637D2C501aD6935ffC8C8032963b0Fc419a",
+  "blockchain": "ethereum",
+  "name": "SSAL TOKEN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf60cc637D2C501aD6935ffC8C8032963b0Fc419a",
+  "research": null,
+  "symbol": "RICE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

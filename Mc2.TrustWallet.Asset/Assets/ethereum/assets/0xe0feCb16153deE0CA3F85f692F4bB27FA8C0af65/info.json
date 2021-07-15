@@ -1,0 +1,18 @@
+{
+  "id": "0xe0feCb16153deE0CA3F85f692F4bB27FA8C0af65",
+  "address": "0xe0feCb16153deE0CA3F85f692F4bB27FA8C0af65",
+  "blockchain": "ethereum",
+  "name": "GroupAd Dollar",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe0feCb16153deE0CA3F85f692F4bB27FA8C0af65",
+  "research": null,
+  "symbol": "GAD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

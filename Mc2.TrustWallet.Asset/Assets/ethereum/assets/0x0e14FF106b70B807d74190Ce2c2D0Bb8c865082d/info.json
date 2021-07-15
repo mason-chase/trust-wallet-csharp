@@ -1,0 +1,18 @@
+{
+  "id": "0x0e14FF106b70B807d74190Ce2c2D0Bb8c865082d",
+  "address": "0x0e14FF106b70B807d74190Ce2c2D0Bb8c865082d",
+  "blockchain": "ethereum",
+  "name": "Xin Tai Bi (薪抬幣)",
+  "website": "https://www.stbi-coin.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0e14FF106b70B807d74190Ce2c2D0Bb8c865082d",
+  "research": null,
+  "symbol": "STBI",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

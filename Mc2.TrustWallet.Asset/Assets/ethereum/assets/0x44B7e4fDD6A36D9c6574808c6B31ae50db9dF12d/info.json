@@ -1,0 +1,18 @@
+{
+  "id": "0x44B7e4fDD6A36D9c6574808c6B31ae50db9dF12d",
+  "address": "0x44B7e4fDD6A36D9c6574808c6B31ae50db9dF12d",
+  "blockchain": "ethereum",
+  "name": "CPH MQA",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x44B7e4fDD6A36D9c6574808c6B31ae50db9dF12d",
+  "research": null,
+  "symbol": "CMQA",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

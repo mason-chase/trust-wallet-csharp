@@ -1,0 +1,18 @@
+{
+  "id": "0xB1d62534F7BDD98A8DEAae9bDe8294ae3490e6f7",
+  "address": "0xB1d62534F7BDD98A8DEAae9bDe8294ae3490e6f7",
+  "blockchain": "ethereum",
+  "name": "FIlmNeverDie",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB1d62534F7BDD98A8DEAae9bDe8294ae3490e6f7",
+  "research": null,
+  "symbol": "FND",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

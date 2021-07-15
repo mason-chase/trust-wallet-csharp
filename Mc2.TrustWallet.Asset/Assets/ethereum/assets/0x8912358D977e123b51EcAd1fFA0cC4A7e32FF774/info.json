@@ -1,0 +1,18 @@
+{
+  "id": "0x8912358D977e123b51EcAd1fFA0cC4A7e32FF774",
+  "address": "0x8912358D977e123b51EcAd1fFA0cC4A7e32FF774",
+  "blockchain": "ethereum",
+  "name": "Wisdom chain",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8912358D977e123b51EcAd1fFA0cC4A7e32FF774",
+  "research": null,
+  "symbol": "Wdc",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x998b3B82bC9dBA173990Be7afb772788B5aCB8Bd",
+  "address": "0x998b3B82bC9dBA173990Be7afb772788B5aCB8Bd",
+  "blockchain": "ethereum",
+  "name": "BANCA Token",
+  "website": "https://www.banca.world/",
+  "description": "Banca is a type of an investment bank community which uses AI and expert system to achieve the dynamics of Banca's eco-chain and the automatic management.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x998b3B82bC9dBA173990Be7afb772788B5aCB8Bd",
+  "research": null,
+  "symbol": "BANCA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

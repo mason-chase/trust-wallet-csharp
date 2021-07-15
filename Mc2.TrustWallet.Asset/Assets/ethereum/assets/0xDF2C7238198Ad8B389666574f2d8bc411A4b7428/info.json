@@ -1,0 +1,18 @@
+{
+  "id": "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428",
+  "address": "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428",
+  "blockchain": "ethereum",
+  "name": "Mainframe Token",
+  "website": "https://mainframe.com/",
+  "description": "Mainframe is the platform for decentralized applications. Resistant to censorship, surveillance, and disruption, the Mainframe network enables any application to send data, store files, manage payments, run tasks, and more.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDF2C7238198Ad8B389666574f2d8bc411A4b7428",
+  "research": null,
+  "symbol": "MFT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

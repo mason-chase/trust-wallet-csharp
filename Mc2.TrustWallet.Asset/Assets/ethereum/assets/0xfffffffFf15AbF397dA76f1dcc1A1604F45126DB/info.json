@@ -1,0 +1,18 @@
+{
+  "id": "0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB",
+  "address": "0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB",
+  "blockchain": "ethereum",
+  "name": "FalconSwap Token",
+  "website": "https://falconswap.com",
+  "description": "The Powerhouse for DeFi",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB",
+  "research": null,
+  "symbol": "FSW",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "MVL-7B0",
+  "address": "MVL-7B0",
+  "blockchain": "binance",
+  "name": "Mass Vehicle Ledger",
+  "website": "https://mvlchain.io/",
+  "description": "It is a blockchain-based ecosystem that connects all services, like the car dealer shops, mechanic shops and car rental companies, that touch your car to collect its lifetime data.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/MVL-7B0",
+  "research": null,
+  "symbol": "MVL",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

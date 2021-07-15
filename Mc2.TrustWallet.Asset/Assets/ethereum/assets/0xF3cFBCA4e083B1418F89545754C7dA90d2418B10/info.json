@@ -1,0 +1,18 @@
+{
+  "id": "0xF3cFBCA4e083B1418F89545754C7dA90d2418B10",
+  "address": "0xF3cFBCA4e083B1418F89545754C7dA90d2418B10",
+  "blockchain": "ethereum",
+  "name": "G-Mbel",
+  "website": "https://www.g-mbel.info/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF3cFBCA4e083B1418F89545754C7dA90d2418B10",
+  "research": null,
+  "symbol": "GMBEL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

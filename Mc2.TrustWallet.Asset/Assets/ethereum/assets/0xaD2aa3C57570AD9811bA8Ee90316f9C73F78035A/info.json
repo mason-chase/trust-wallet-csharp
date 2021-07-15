@@ -1,0 +1,18 @@
+{
+  "id": "0xaD2aa3C57570AD9811bA8Ee90316f9C73F78035A",
+  "address": "0xaD2aa3C57570AD9811bA8Ee90316f9C73F78035A",
+  "blockchain": "ethereum",
+  "name": "Casino Land Network",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xaD2aa3C57570AD9811bA8Ee90316f9C73F78035A",
+  "research": null,
+  "symbol": "CLN",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

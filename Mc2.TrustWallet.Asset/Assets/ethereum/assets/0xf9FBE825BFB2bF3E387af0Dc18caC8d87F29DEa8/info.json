@@ -1,0 +1,31 @@
+{
+  "id": "0xf9FBE825BFB2bF3E387af0Dc18caC8d87F29DEa8",
+  "address": "0xf9FBE825BFB2bF3E387af0Dc18caC8d87F29DEa8",
+  "blockchain": "ethereum",
+  "name": "BotOcean",
+  "website": "https://botocean.com",
+  "description": "Bot Ocean democratizes the algorithmic trading market by giving you the tools to navigate your way through the market and earn assets while our bots do their job.",
+  "short_description": "Accessible algorithmic trading",
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf9fbe825bfb2bf3e387af0dc18cac8d87f29dea8",
+  "research": "https://botocean.com/",
+  "symbol": "BOTS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/BotOcean"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/botoceaninc"
+    },
+    {
+      "name": "white_paper",
+      "url": "https://botocean.com/static/media/whitepaper.aff921dc.pdf"
+    }
+  ],
+  "tags": null
+}

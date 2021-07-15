@@ -1,0 +1,18 @@
+{
+  "id": "0x9Cb2f26A23b8d89973F08c957C4d7cdf75CD341c",
+  "address": "0x9Cb2f26A23b8d89973F08c957C4d7cdf75CD341c",
+  "blockchain": "ethereum",
+  "name": "Digital Rand",
+  "website": "https://digitalrand.co.za/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9Cb2f26A23b8d89973F08c957C4d7cdf75CD341c",
+  "research": null,
+  "symbol": "DZAR",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

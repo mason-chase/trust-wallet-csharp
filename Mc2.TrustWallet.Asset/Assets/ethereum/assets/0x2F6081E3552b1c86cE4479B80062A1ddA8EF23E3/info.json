@@ -1,0 +1,18 @@
+{
+  "id": "0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3",
+  "address": "0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3",
+  "blockchain": "ethereum",
+  "name": "Dollars",
+  "website": "https://dollarprotocol.com",
+  "description": "Dollar Protocol is a suite of algorithmic synthetics governed by Share",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3",
+  "research": null,
+  "symbol": "USDx",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

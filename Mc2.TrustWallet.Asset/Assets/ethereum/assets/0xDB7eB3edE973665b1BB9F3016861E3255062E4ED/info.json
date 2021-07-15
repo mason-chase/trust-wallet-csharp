@@ -1,0 +1,18 @@
+{
+  "id": "0xDB7eB3edE973665b1BB9F3016861E3255062E4ED",
+  "address": "0xDB7eB3edE973665b1BB9F3016861E3255062E4ED",
+  "blockchain": "ethereum",
+  "name": "MNFT",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDB7eB3edE973665b1BB9F3016861E3255062E4ED",
+  "research": null,
+  "symbol": "MNFT",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

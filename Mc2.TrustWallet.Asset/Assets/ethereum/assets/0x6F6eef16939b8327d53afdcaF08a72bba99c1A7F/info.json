@@ -1,0 +1,18 @@
+{
+  "id": "0x6F6eef16939b8327d53afdcaF08a72bba99c1A7F",
+  "address": "0x6F6eef16939b8327d53afdcaF08a72bba99c1A7F",
+  "blockchain": "ethereum",
+  "name": "KANGB INTL",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6F6eef16939b8327d53afdcaF08a72bba99c1A7F",
+  "research": null,
+  "symbol": "KBI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

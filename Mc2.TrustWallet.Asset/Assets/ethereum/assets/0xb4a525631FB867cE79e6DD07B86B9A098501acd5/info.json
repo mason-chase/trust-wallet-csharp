@@ -1,0 +1,18 @@
+{
+  "id": "0xb4a525631FB867cE79e6DD07B86B9A098501acd5",
+  "address": "0xb4a525631FB867cE79e6DD07B86B9A098501acd5",
+  "blockchain": "ethereum",
+  "name": "CryptoMarketCloud",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb4a525631FB867cE79e6DD07B86B9A098501acd5",
+  "research": null,
+  "symbol": "CMC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

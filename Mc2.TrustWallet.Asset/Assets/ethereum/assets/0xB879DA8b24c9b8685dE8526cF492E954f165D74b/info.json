@@ -1,0 +1,18 @@
+{
+  "id": "0xB879DA8b24c9b8685dE8526cF492E954f165D74b",
+  "address": "0xB879DA8b24c9b8685dE8526cF492E954f165D74b",
+  "blockchain": "ethereum",
+  "name": "MovieBloc",
+  "website": "http://moviebloc.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB879DA8b24c9b8685dE8526cF492E954f165D74b",
+  "research": null,
+  "symbol": "MBL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

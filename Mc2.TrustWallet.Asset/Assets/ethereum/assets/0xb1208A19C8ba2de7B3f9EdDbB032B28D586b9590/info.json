@@ -1,0 +1,18 @@
+{
+  "id": "0xb1208A19C8ba2de7B3f9EdDbB032B28D586b9590",
+  "address": "0xb1208A19C8ba2de7B3f9EdDbB032B28D586b9590",
+  "blockchain": "ethereum",
+  "name": "BLASTSCRYPT",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb1208A19C8ba2de7B3f9EdDbB032B28D586b9590",
+  "research": null,
+  "symbol": "BLAST",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

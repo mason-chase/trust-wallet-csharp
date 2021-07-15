@@ -1,0 +1,18 @@
+{
+  "id": "0xfa05A73FfE78ef8f1a739473e462c54bae6567D9",
+  "address": "0xfa05A73FfE78ef8f1a739473e462c54bae6567D9",
+  "blockchain": "ethereum",
+  "name": "Lunyr Token",
+  "website": "https://lunyr.com/",
+  "description": "Lunyr is an Ethereum-based decentralized world knowledge base which rewards users with app tokens for peer-reviewing and contributing information.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xfa05A73FfE78ef8f1a739473e462c54bae6567D9",
+  "research": null,
+  "symbol": "LUN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

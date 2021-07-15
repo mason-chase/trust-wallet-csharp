@@ -15,7 +15,8 @@ namespace Mc2.TrustWallet.Asset.Utilities
     {
         private static char DS { get; } = Path.DirectorySeparatorChar;
         private static string BuildPath { get; } = Directory.GetCurrentDirectory();
-
+        public static string AssetBlockchainsRoot { get; } = PathUtilities.RemoveFolder(BuildPath, 4) +
+                                          $"{DS}assets{DS}blockchains";
         #region Parse json settings
         /// <summary>
         /// Parse json settings
@@ -41,179 +42,71 @@ namespace Mc2.TrustWallet.Asset.Utilities
             Formatting = Formatting.Indented,
             MissingMemberHandling = MissingMemberHandling.Error
         };
-
-        public static IDictionary<string, Blockchain> GetBlockchains(IDictionary<string, BlockchainFolder> coins)
-        {
-            var coinsArray = coins.ToArray();
-            string assetBlockchainsRoot = PathUtilities.RemoveFolder(BuildPath, 4) +
-                                          $"{DS}assets{DS}blockchains";
-
-            var folders = Directory.GetDirectories(assetBlockchainsRoot, "*.*", SearchOption.TopDirectoryOnly).ToArray();
-
-
-            IDictionary<string, IAsset> assetsDict = new Dictionary<string, IAsset>();
-
-            foreach (KeyValuePair<string, BlockchainFolder> assetKey in coinsArray)
-            {
-                // Blockchain Coin no longer needs additional listing
-                //assetKey.Value.Coin.TokenListings = new List<ITokenListing> { new BlockchainListing(assetKey.Value.Coin.Code, assetKey.Value.Coin.Name) };
-                assetsDict.Add(GetAssetsSymbol(assetKey.Value.Coin), assetKey.Value.Coin);
-            }
-
-            foreach (KeyValuePair<string, BlockchainFolder> coin in coinsArray)
-            {
-                foreach (Token token in coin.Value.Coin.TokenAsset)
-                {
-                    token.Symbol = GetAssetsSymbol(token);
-
-                    if (assetsDict.ContainsKey(token.SymbolConst))
-                    {
-                        assetsDict.First(x => x.Key == token.Symbol)
-                                  .Value
-                                  .TokenListings.Add( new TokenListing(token.Blockchain, token.Type, token.Id) );
-                    }
-                    else
-                    {
-                        token.TokenListings = new List<TokenListing>() { new TokenListing( token.Blockchain, token.Type, token.Id) };
-                        assetsDict.Add(token.SymbolConst, token);
-                    }
-                }
-            }
-            return assetsDict;
-        }
-
-        public static string GetAssetsSymbol(Coin coin)
-        {
-            string symbolConst = coin.Name.ToConstantCase();
-
-            if (symbolConst.Length == 0)
-                throw new BadSymbolNameException(coin.Name);
-
-            return $"{symbolConst}_{coin.Name.ToConstantCase()}";
-        }
         #endregion
-
-        /// <summary>
-        /// Tuple of Coins with Symbol and second is without symbol,
-        /// simplifying <see cref="TrustWalletDataParse.TrustWalletJsonParseTest()">Parsing Blockchain folder</see>
-        /// </summary>
-        /// <returns></returns>
-        public static (IDictionary<string, BlockchainFolder>, 
-            IDictionary<string, BlockchainFolder>) 
-            GetBlockChainFolder()
+        public static IDictionary<string, Blockchain> GetBlockchains()
         {
             string assetBlockchainsRoot = PathUtilities.RemoveFolder(BuildPath, 4) +
                                           $"{DS}assets{DS}blockchains";
 
-            var folders = Directory.GetDirectories(assetBlockchainsRoot, "*.*", SearchOption.TopDirectoryOnly).ToArray();
+            var blockchainsPath = Directory.GetDirectories(assetBlockchainsRoot, "*.*", SearchOption.TopDirectoryOnly).ToArray();
 
-            Dictionary<string, BlockchainFolder> blockChainFolders = new();
 
-            foreach (string blockChainPath in folders)
+            IDictionary<string, Blockchain> blockchainsDict = new Dictionary<string, Blockchain>();
+
+            foreach (string blockchainPath in blockchainsPath)
             {
-                string[] blockChainFiles = Directory.EnumerateFiles(blockChainPath, "*.json", SearchOption.AllDirectories).ToArray();
-                string fileFullPath = $"{blockChainPath}{DS}info{DS}info.json";
-                string infoJson = File.ReadAllText(fileFullPath);
-
-                CoinFolder coinFolder;
-                try
+                Blockchain blockchain = new()
                 {
-                    coinFolder = JsonConvert.DeserializeObject<CoinFolder>(infoJson, JsonSettingsSnakeCase);
-
-                }
-                catch (JsonSerializationException ex)
-                {
-                    throw new BadJsonFileException(ex.Message, fileFullPath, infoJson);
-                }
-
-                if (coinFolder is null)
-                    throw new NullReferenceException($"Check json file: {blockChainPath}{DS}info{DS}info.json \n" +
-                                                     $"content was parsed as : {infoJson}");
-
-                coinFolder = GetBlockchainCode(blockChainPath);
-                coinFolder.LogoPng = File.ReadAllBytes($"{blockChainPath}{DS}info{DS}logo.png");
-                if (!string.IsNullOrEmpty(coinFolder.Symbol))
-                {
-                    if (Directory.Exists($"{blockChainPath}{DS}validators"))
-                    {
-                        coinFolder.Validators = GetValidators($"{blockChainPath}{DS}validators");
-                    }
-
-                    if (Directory.Exists($"{blockChainPath}{DS}assets"))
-                    {
-                        if (File.Exists($"{blockChainPath}{DS}assets{DS}info"))
-                        {
-                            TokenList tokenFolder = GetTokenList($"{blockChainPath}");
-                            coinFolder.Tokens = tokenFolder.Tokens;
-                        }
-                        coinFolder.TokenAsset = GetTokenAssetList(blockChainPath);
-                    }
-                    else
-                        coinFolder.TokenAsset = new List<Token>();
-
-                    blockChainFolders.Add(
-                    coinFolder.Name.ToLower(),
-                    new BlockchainFolder
-                    {
-                        Coin = coinFolder,
-                        FolderName = coinFolder.Code,
-                        Files = blockChainFiles,
-                        Info = infoJson
-                    });
-                }
-                else
-                {
-                    blockChainFoldersPending.Add(
-                        coinFolder.Code,
-                        new BlockchainFolder
-                        {
-                            Coin = coinFolder,
-                            FolderName = blockChainPath,
-                            Files = blockChainFiles,
-                            Info = infoJson
-                        });
-                }
+                    Code = GetBlockchainCode(blockchainPath),
+                    Coin = GetCoin(blockchainPath),
+                    Tokens = GetTokenAssetList(blockchainPath),
+                    Validators = GetValidators(blockchainPath),
+                    AllowList = GetAllowList(blockchainPath),
+                    DenyList = GetDenyList(blockchainPath),
+                    TokenList = GetTokenList(blockchainPath),
+                };
+                blockchainsDict.Add(blockchain.Code, blockchain);
             }
 
-            return (blockChainFolders, blockChainFoldersPending);
+            return blockchainsDict;
         }
+
 
         /// <summary>
-        /// Parsing list.json within blockchain folder,
-        /// simple static function to simplify shape of <see cref=GetBlockChainFolder/>
+        /// Parse Coin from blockchain/info/asset.json and attach logo.png
         /// </summary>
-        /// <param name="path"></param>
+        /// <param name="blockchainPath"></param>
         /// <returns></returns>
-        public static List<Validator> GetValidators(string path)
+        private static Coin GetCoin(string blockchainPath)
         {
-            var validatorJson = File.ReadAllText($"{path}{DS}list.json");
-            List<Validator> validators = JsonConvert.DeserializeObject<List<Validator>>(validatorJson, JsonSettingsCamelCase);
-
-            foreach (Validator validator in validators)
+            string fileFullPath = $"{blockchainPath}{DS}info{DS}info.json";
+            string infoJson = File.ReadAllText(fileFullPath);
+            Coin coin;
+            try
             {
-                validator.LogoPng = File.ReadAllBytes($"{path}{DS}assets{DS}{validator.Id}{DS}logo.png");
+                coin = JsonConvert.DeserializeObject<Coin>(infoJson, JsonSettingsSnakeCase);
             }
-            return validators;
-        }
+            catch (JsonSerializationException ex)
+            {
+                throw new BadJsonFileException(ex.Message, fileFullPath, infoJson);
+            }
 
-        public static TokenList GetTokenList(string path)
-        {
-
-            var tokenListJson = File.ReadAllText($"{path}{DS}tokenlist.json");
-            TokenList tokenList = JsonConvert.DeserializeObject<TokenList>(tokenListJson, JsonSettingsCamelCase);
-
-            return tokenList;
+            coin.LogoPng = File.ReadAllBytes($"{blockchainPath}{DS}info{DS}logo.png");
+            return coin;
         }
 
         /// <summary>
         /// Read info.json and attach png and get address through folderpath.
         /// </summary>
-        /// <param name="path"></param>
+        /// <param name="blockchainPath"></param>
         /// <returns></returns>
-        public static List<Token> GetTokenAssetList(string path)
+        private static List<Token> GetTokenAssetList(string blockchainPath)
         {
+            string assetsPath = $"{blockchainPath}{DS}assets";
+            if (!Directory.Exists(assetsPath))
+                return null;
 
-            var tokenAssetFiles = Directory.EnumerateFiles($"{path}{DS}assets", "info.json", SearchOption.AllDirectories).ToArray();
+            string[] tokenAssetFiles = Directory.EnumerateFiles(assetsPath, "info.json", SearchOption.AllDirectories).ToArray();
             List<Token> tokenAssetList = new();
             string infoJson;
             string basePath;
@@ -239,6 +132,79 @@ namespace Mc2.TrustWallet.Asset.Utilities
                 tokenAssetList.Add(token);
             }
             return tokenAssetList;
+        }
+
+
+        /// <summary>
+        /// Get list of Validators if the folder exists.
+        /// </summary>
+        /// <param name="blockchainPath"></param>
+        /// <returns></returns>
+        private static List<Validator> GetValidators(string blockchainPath)
+        {
+            string validatorPath = $"{blockchainPath}{DS}validators";
+            if (!Directory.Exists(validatorPath))
+                return null;
+
+            var validatorJson = File.ReadAllText($"{validatorPath}{DS}list.json");
+            List<Validator> validators = JsonConvert.DeserializeObject<List<Validator>>(validatorJson, JsonSettingsCamelCase);
+
+            foreach (Validator validator in validators)
+            {
+                validator.LogoPng = File.ReadAllBytes($"{validatorPath}{DS}assets{DS}{validator.Id}{DS}logo.png");
+            }
+            return validators;
+        }
+
+        /// <summary>
+        /// Parse TokenList object from tokenlist.json at blockchain's root folder (if exists).
+        /// </summary>
+        /// <param name="path"></param>
+        /// <returns></returns>
+        private static TokenList GetTokenList(string path)
+        {
+            string tokenListPath = $"{path}{DS}tokenlist.json";
+            if (!Directory.Exists(tokenListPath))
+                return null;
+
+            var tokenListJson = File.ReadAllText(tokenListPath);
+            TokenList tokenList = JsonConvert.DeserializeObject<TokenList>(tokenListJson, JsonSettingsCamelCase);
+
+            return tokenList;
+        }
+
+
+
+        /// <summary>
+        /// Parse `allowlist.json` if exists
+        /// </summary>
+        /// <param name="blockchainPath"></param>
+        /// <returns></returns>
+        private static IList<string> GetAllowList(string blockchainPath)
+        {
+            string allowlistPath = $"{blockchainPath}{DS}allowlist.json";
+            if (!File.Exists(allowlistPath))
+                return null;
+
+            string allowListJson = File.ReadAllText(allowlistPath);
+            IList<string> denyList = JsonConvert.DeserializeObject<IList<string>>(allowListJson, JsonSettingsSnakeCase);
+            return denyList;
+        }
+
+        /// <summary>
+        /// Parse `denylist.json`
+        /// </summary>
+        /// <param name="blockchainPath"></param>
+        /// <returns></returns>
+        private static IList<string> GetDenyList(string blockchainPath)
+        {
+            string denylistPath = $"{blockchainPath}{DS}denylist.json";
+            if (!File.Exists(denylistPath))
+                return null;
+
+            string allowListJson = File.ReadAllText(denylistPath);
+            IList<string> denyList = JsonConvert.DeserializeObject<IList<string>>(allowListJson, JsonSettingsSnakeCase);
+            return denyList;
         }
 
         private static string GetBlockchainCode(string filepath)

@@ -1,0 +1,18 @@
+{
+  "id": "8inca5fv4xr6KZtRMRPYr7vADfk8fd6G2z1gMoRkbUYS",
+  "address": "8inca5fv4xr6KZtRMRPYr7vADfk8fd6G2z1gMoRkbUYS",
+  "blockchain": "waves",
+  "name": "Neutrino JPY",
+  "website": null,
+  "description": "-",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://wavesexplorer.com/assets/8inca5fv4xr6KZtRMRPYr7vADfk8fd6G2z1gMoRkbUYS",
+  "research": null,
+  "symbol": "NeutrinoJPY",
+  "type": "WAVES",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

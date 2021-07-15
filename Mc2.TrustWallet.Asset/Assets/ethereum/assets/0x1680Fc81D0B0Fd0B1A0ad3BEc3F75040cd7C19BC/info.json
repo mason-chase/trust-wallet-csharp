@@ -1,0 +1,18 @@
+{
+  "id": "0x1680Fc81D0B0Fd0B1A0ad3BEc3F75040cd7C19BC",
+  "address": "0x1680Fc81D0B0Fd0B1A0ad3BEc3F75040cd7C19BC",
+  "blockchain": "ethereum",
+  "name": "SMOOA",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1680Fc81D0B0Fd0B1A0ad3BEc3F75040cd7C19BC",
+  "research": null,
+  "symbol": "SMO",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

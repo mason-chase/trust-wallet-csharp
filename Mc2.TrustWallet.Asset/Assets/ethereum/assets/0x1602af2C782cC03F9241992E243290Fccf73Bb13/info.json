@@ -1,0 +1,18 @@
+{
+  "id": "0x1602af2C782cC03F9241992E243290Fccf73Bb13",
+  "address": "0x1602af2C782cC03F9241992E243290Fccf73Bb13",
+  "blockchain": "ethereum",
+  "name": "Qubitica",
+  "website": "https://www.qubitica.net/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1602af2C782cC03F9241992E243290Fccf73Bb13",
+  "research": null,
+  "symbol": "QBIT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

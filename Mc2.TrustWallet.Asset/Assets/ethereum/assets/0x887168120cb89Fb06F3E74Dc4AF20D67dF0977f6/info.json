@@ -1,0 +1,18 @@
+{
+  "id": "0x887168120cb89Fb06F3E74Dc4AF20D67dF0977f6",
+  "address": "0x887168120cb89Fb06F3E74Dc4AF20D67dF0977f6",
+  "blockchain": "ethereum",
+  "name": "Sekuritance",
+  "website": "https://www.sekuritance.com/",
+  "description": "A CeFi and DeFi RegTech ecosystem delivering top compliance, regulatory, transaction monitoring and identity management.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x887168120cb89fb06f3e74dc4af20d67df0977f6",
+  "research": null,
+  "symbol": "SKRT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

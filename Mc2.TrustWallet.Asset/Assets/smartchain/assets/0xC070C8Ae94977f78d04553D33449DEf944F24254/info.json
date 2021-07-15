@@ -1,0 +1,18 @@
+{
+  "id": "0xC070C8Ae94977f78d04553D33449DEf944F24254",
+  "address": "0xC070C8Ae94977f78d04553D33449DEf944F24254",
+  "blockchain": "smartchain",
+  "name": "TCGCoin",
+  "website": "https://www.tcgcoin.tech",
+  "description": "Buy, Sell, Trade, or use our Trade and Grade service for Pokémon, Yu-Gi-Oh, Magic The Gathering, and other TCG Cards or any Sports Memorabilia and NFT’s through the TCG Trading platform and pay with our own cryptocurrency TCGCoin",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xC070C8Ae94977f78d04553D33449DEf944F24254",
+  "research": null,
+  "symbol": "TCGCoin",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

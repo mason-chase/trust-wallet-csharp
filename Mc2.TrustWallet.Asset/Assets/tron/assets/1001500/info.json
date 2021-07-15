@@ -1,0 +1,18 @@
+{
+  "id": "1001500",
+  "address": "1001500",
+  "blockchain": "tron",
+  "name": "HaloSocialMeetup",
+  "website": "https://www.halosocialmeetup.com/",
+  "description": "Halo Social Meetup is social media simplified.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1001500",
+  "research": null,
+  "symbol": "Halo",
+  "type": "TRC10",
+  "decimals": 0,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xe7beA371284F7091D836172e8c7e006FC21347ce",
+  "address": "0xe7beA371284F7091D836172e8c7e006FC21347ce",
+  "blockchain": "ethereum",
+  "name": "Malaysia Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe7beA371284F7091D836172e8c7e006FC21347ce",
+  "research": null,
+  "symbol": "MYRT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x8377ee6d3545Bc6ff1425ee3015DC648B149C7B2",
+  "address": "0x8377ee6d3545Bc6ff1425ee3015DC648B149C7B2",
+  "blockchain": "ethereum",
+  "name": "ProChain",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8377ee6d3545Bc6ff1425ee3015DC648B149C7B2",
+  "research": null,
+  "symbol": "PRO",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

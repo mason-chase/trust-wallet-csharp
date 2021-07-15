@@ -1,0 +1,18 @@
+{
+  "id": "CBIX-3C9",
+  "address": "CBIX-3C9",
+  "blockchain": "binance",
+  "name": "Cubiex",
+  "website": "https://www.cubiex.com/",
+  "description": "European-based next-generation tokenized streaming network for eSports & gaming enthusiasts",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/CBIX-3C9",
+  "research": null,
+  "symbol": "CBIX",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

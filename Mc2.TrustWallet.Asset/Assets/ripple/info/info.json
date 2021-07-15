@@ -1,0 +1,32 @@
+{
+  "name": "XRP",
+  "website": "https://ripple.com/xrp/",
+  "description": "Instantly move money to all corners of the world.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://xrpcharts.ripple.com/#/graph/",
+  "research": "https://research.binance.com/en/projects/xrp",
+  "symbol": "XRP",
+  "type": "coin",
+  "decimals": 6,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/ripple"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Ripple"
+    },
+    {
+      "name": "reddit",
+      "url": "https://reddit.com/r/Ripple"
+    },
+    {
+      "name": "white_paper",
+      "url": "https://ripple.com/files/ripple_consensus_whitepaper.pdf"
+    }
+  ],
+  "tags": null
+}

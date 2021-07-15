@@ -1,0 +1,18 @@
+{
+  "id": "0x8a64c0Bd7146710Aa5C2773365Bb620FaF11BEd4",
+  "address": "0x8a64c0Bd7146710Aa5C2773365Bb620FaF11BEd4",
+  "blockchain": "ethereum",
+  "name": "PHTTOKENX",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8a64c0Bd7146710Aa5C2773365Bb620FaF11BEd4",
+  "research": null,
+  "symbol": "PHTTX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

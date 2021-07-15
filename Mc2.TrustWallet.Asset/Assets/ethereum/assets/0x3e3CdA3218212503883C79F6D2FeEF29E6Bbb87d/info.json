@@ -1,0 +1,27 @@
+{
+  "id": "0x3e3CdA3218212503883C79F6D2FeEF29E6Bbb87d",
+  "address": "0x3e3CdA3218212503883C79F6D2FeEF29E6Bbb87d",
+  "blockchain": "ethereum",
+  "name": "GoldenPyrex",
+  "website": "https://gpyx.money",
+  "description": "GPYX is the native token of gpyx.money DeFi platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3e3CdA3218212503883C79F6D2FeEF29E6Bbb87d",
+  "research": null,
+  "symbol": "GPYX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/gpyxmoney"
+    },
+    {
+      "name": "white_paper",
+      "url": "https://gpyx.money/gpyxlitepaper.pdf"
+    }
+  ],
+  "tags": null
+}

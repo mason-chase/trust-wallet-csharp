@@ -1,0 +1,18 @@
+{
+  "id": "0x6b193e107A773967bD821bCf8218f3548Cfa2503",
+  "address": "0x6b193e107A773967bD821bCf8218f3548Cfa2503",
+  "blockchain": "ethereum",
+  "name": "Posscoin",
+  "website": "https://www.posscoin.org",
+  "description": "Posscoin (POSS) is a cryptocurrency and operates on the Ethereum platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6b193e107A773967bD821bCf8218f3548Cfa2503",
+  "research": null,
+  "symbol": "POSS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

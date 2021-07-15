@@ -1,0 +1,18 @@
+{
+  "id": "NPXSXEM-89C",
+  "address": "NPXSXEM-89C",
+  "blockchain": "binance",
+  "name": "Pundi X NEM",
+  "website": "https://pundix.com/",
+  "description": "We have been deploying our blockchain-based point-of-sale (POS) solution and solidifying partnerships with governments, payment companies, and retailers.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/NPXSXEM-89C",
+  "research": null,
+  "symbol": "NPXSXEM",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x8AAA0D43cc86ed98b7aA9c8e1f87A319Cd873DC4",
+  "address": "0x8AAA0D43cc86ed98b7aA9c8e1f87A319Cd873DC4",
+  "blockchain": "ethereum",
+  "name": "SCB",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8AAA0D43cc86ed98b7aA9c8e1f87A319Cd873DC4",
+  "research": null,
+  "symbol": "SCB",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

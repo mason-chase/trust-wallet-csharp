@@ -1,0 +1,18 @@
+{
+  "id": "0x63DcaD9E5F2d784Fc4F12ABf61eC47236FABA895",
+  "address": "0x63DcaD9E5F2d784Fc4F12ABf61eC47236FABA895",
+  "blockchain": "ethereum",
+  "name": "BigTorum Stake",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x63DcaD9E5F2d784Fc4F12ABf61eC47236FABA895",
+  "research": null,
+  "symbol": "BTS",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

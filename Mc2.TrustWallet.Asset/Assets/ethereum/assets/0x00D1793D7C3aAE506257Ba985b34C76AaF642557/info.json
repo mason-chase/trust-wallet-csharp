@@ -1,0 +1,18 @@
+{
+  "id": "0x00D1793D7C3aAE506257Ba985b34C76AaF642557",
+  "address": "0x00D1793D7C3aAE506257Ba985b34C76AaF642557",
+  "blockchain": "ethereum",
+  "name": "Tacos",
+  "website": "https://www.taconomics.io",
+  "description": "TACO claims to be an NFT Platform for taco related art created by mostly latino artists. It is claimed that this project serves as a launchpad for aspiring artists to connect with NFT collectors around the world.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x00D1793D7C3aAE506257Ba985b34C76AaF642557",
+  "research": null,
+  "symbol": "TACO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xa698EbA92D194aB36A32EA3337c9976636f39dED",
+  "address": "0xa698EbA92D194aB36A32EA3337c9976636f39dED",
+  "blockchain": "ethereum",
+  "name": "EtherCash",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa698EbA92D194aB36A32EA3337c9976636f39dED",
+  "research": null,
+  "symbol": "ETHC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

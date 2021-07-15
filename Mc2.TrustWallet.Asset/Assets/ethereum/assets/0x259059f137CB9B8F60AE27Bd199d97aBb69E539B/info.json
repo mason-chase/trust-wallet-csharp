@@ -1,0 +1,18 @@
+{
+  "id": "0x259059f137CB9B8F60AE27Bd199d97aBb69E539B",
+  "address": "0x259059f137CB9B8F60AE27Bd199d97aBb69E539B",
+  "blockchain": "ethereum",
+  "name": "SpectrumNetwork",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x259059f137CB9B8F60AE27Bd199d97aBb69E539B",
+  "research": null,
+  "symbol": "SPEC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

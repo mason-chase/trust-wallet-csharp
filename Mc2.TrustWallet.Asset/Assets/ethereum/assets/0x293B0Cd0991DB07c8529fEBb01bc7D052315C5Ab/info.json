@@ -1,0 +1,18 @@
+{
+  "id": "0x293B0Cd0991DB07c8529fEBb01bc7D052315C5Ab",
+  "address": "0x293B0Cd0991DB07c8529fEBb01bc7D052315C5Ab",
+  "blockchain": "ethereum",
+  "name": "InTime",
+  "website": "https://www.intimefoundation.org/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x293B0Cd0991DB07c8529fEBb01bc7D052315C5Ab",
+  "research": null,
+  "symbol": "ITO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

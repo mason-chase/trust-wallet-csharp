@@ -1,0 +1,18 @@
+{
+  "id": "0xA7ADC14fc624617a18E5A476d80A7FeFE90A11B7",
+  "address": "0xA7ADC14fc624617a18E5A476d80A7FeFE90A11B7",
+  "blockchain": "ethereum",
+  "name": "Edustars Lite",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA7ADC14fc624617a18E5A476d80A7FeFE90A11B7",
+  "research": null,
+  "symbol": "EDSLTE",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

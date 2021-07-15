@@ -1,0 +1,18 @@
+{
+  "id": "0x5B9dbeBbad94b8C6467Af9e8A851Bb120F9601c6",
+  "address": "0x5B9dbeBbad94b8C6467Af9e8A851Bb120F9601c6",
+  "blockchain": "smartchain",
+  "name": "SLOTHI",
+  "website": "https://slothi.net/",
+  "description": "Slothi is a Deflationary token 13% slipp (5% holder 4% Burn 4%LP Fee)we are a community token, which was created by a strong community. We are pulling the project with voting in the community! here it is not the team that decides, but the investors.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x5B9dbeBbad94b8C6467Af9e8A851Bb120F9601c6",
+  "research": null,
+  "symbol": "SLTH",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

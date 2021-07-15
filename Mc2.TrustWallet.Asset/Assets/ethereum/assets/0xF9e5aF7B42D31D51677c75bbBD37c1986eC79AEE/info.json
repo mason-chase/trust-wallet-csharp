@@ -1,0 +1,18 @@
+{
+  "id": "0xF9e5aF7B42D31D51677c75bbBD37c1986eC79AEE",
+  "address": "0xF9e5aF7B42D31D51677c75bbBD37c1986eC79AEE",
+  "blockchain": "ethereum",
+  "name": "QuickX Protocol",
+  "website": "https://www.quickx.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF9e5aF7B42D31D51677c75bbBD37c1986eC79AEE",
+  "research": null,
+  "symbol": "QCX",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

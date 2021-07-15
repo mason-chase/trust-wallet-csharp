@@ -1,0 +1,18 @@
+{
+  "id": "0x7641b2Ca9DDD58adDf6e3381c1F994Aac5f1A32f",
+  "address": "0x7641b2Ca9DDD58adDf6e3381c1F994Aac5f1A32f",
+  "blockchain": "ethereum",
+  "name": "Purpose",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7641b2Ca9DDD58adDf6e3381c1F994Aac5f1A32f",
+  "research": null,
+  "symbol": "PRPS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

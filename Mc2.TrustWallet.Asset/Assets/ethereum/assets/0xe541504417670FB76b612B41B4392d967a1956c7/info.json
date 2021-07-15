@@ -1,0 +1,18 @@
+{
+  "id": "0xe541504417670FB76b612B41B4392d967a1956c7",
+  "address": "0xe541504417670FB76b612B41B4392d967a1956c7",
+  "blockchain": "ethereum",
+  "name": "BSC",
+  "website": "https://bitsonic.co.kr",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe541504417670FB76b612B41B4392d967a1956c7",
+  "research": null,
+  "symbol": "BSC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

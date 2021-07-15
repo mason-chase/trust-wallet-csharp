@@ -1,0 +1,18 @@
+{
+  "id": "0x020C710646e23AB868dbE5B88004892797fE4eFb",
+  "address": "0x020C710646e23AB868dbE5B88004892797fE4eFb",
+  "blockchain": "ethereum",
+  "name": "Golfcoin",
+  "website": "https://www.golfcoin.cc/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x020C710646e23AB868dbE5B88004892797fE4eFb",
+  "research": null,
+  "symbol": "GOLF",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

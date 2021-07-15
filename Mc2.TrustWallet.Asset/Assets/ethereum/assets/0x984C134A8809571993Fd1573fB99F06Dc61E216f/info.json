@@ -1,0 +1,18 @@
+{
+  "id": "0x984C134A8809571993Fd1573fB99F06Dc61E216f",
+  "address": "0x984C134A8809571993Fd1573fB99F06Dc61E216f",
+  "blockchain": "ethereum",
+  "name": "Artchain Global Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x984C134A8809571993Fd1573fB99F06Dc61E216f",
+  "research": null,
+  "symbol": "ACG",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

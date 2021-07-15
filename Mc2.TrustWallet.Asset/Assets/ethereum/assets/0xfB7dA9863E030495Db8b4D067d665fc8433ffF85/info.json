@@ -1,0 +1,18 @@
+{
+  "id": "0xfB7dA9863E030495Db8b4D067d665fc8433ffF85",
+  "address": "0xfB7dA9863E030495Db8b4D067d665fc8433ffF85",
+  "blockchain": "ethereum",
+  "name": "PCC Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xfB7dA9863E030495Db8b4D067d665fc8433ffF85",
+  "research": null,
+  "symbol": "PCC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

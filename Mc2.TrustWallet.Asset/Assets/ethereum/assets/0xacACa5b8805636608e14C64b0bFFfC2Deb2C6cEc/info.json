@@ -1,0 +1,18 @@
+{
+  "id": "0xacACa5b8805636608e14C64b0bFFfC2Deb2C6cEc",
+  "address": "0xacACa5b8805636608e14C64b0bFFfC2Deb2C6cEc",
+  "blockchain": "ethereum",
+  "name": "ROMToken",
+  "website": "https://romchain.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xacACa5b8805636608e14C64b0bFFfC2Deb2C6cEc",
+  "research": null,
+  "symbol": "ROM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

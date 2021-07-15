@@ -1,0 +1,18 @@
+{
+  "id": "0x68eb95Dc9934E19B86687A10DF8e364423240E94",
+  "address": "0x68eb95Dc9934E19B86687A10DF8e364423240E94",
+  "blockchain": "ethereum",
+  "name": " 3X Long Bitcoin Token",
+  "website": "https://ftx.com/tokens/BULL",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x68eb95Dc9934E19B86687A10DF8e364423240E94",
+  "research": null,
+  "symbol": "BULL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

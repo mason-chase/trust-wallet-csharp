@@ -1,0 +1,18 @@
+{
+  "id": "0xDF02C0d054fB4F01D8f7E2fCF61A4837CB6d868E",
+  "address": "0xDF02C0d054fB4F01D8f7E2fCF61A4837CB6d868E",
+  "blockchain": "ethereum",
+  "name": "Brianex Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDF02C0d054fB4F01D8f7E2fCF61A4837CB6d868E",
+  "research": null,
+  "symbol": "BRXT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

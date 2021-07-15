@@ -1,0 +1,18 @@
+{
+  "id": "0xa105C740BC012A43a342Ab4A0Ef40143452C8E89",
+  "address": "0xa105C740BC012A43a342Ab4A0Ef40143452C8E89",
+  "blockchain": "ethereum",
+  "name": "Litbinex Coin",
+  "website": "https://www.litbinex.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa105C740BC012A43a342Ab4A0Ef40143452C8E89",
+  "research": null,
+  "symbol": "LTB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

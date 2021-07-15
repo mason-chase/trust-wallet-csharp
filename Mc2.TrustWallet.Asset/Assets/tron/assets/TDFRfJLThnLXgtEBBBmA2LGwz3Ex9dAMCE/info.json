@@ -1,0 +1,18 @@
+{
+  "id": "TDFRfJLThnLXgtEBBBmA2LGwz3Ex9dAMCE",
+  "address": "TDFRfJLThnLXgtEBBBmA2LGwz3Ex9dAMCE",
+  "blockchain": "tron",
+  "name": "CryptoBharatCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TDFRfJLThnLXgtEBBBmA2LGwz3Ex9dAMCE",
+  "research": null,
+  "symbol": "CBC",
+  "type": "TRC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

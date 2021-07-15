@@ -1,0 +1,18 @@
+{
+  "id": "0x9f55dEb6f98D27e6eBff8CFcE9826CE2610AaE5B",
+  "address": "0x9f55dEb6f98D27e6eBff8CFcE9826CE2610AaE5B",
+  "blockchain": "ethereum",
+  "name": "FASToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9f55dEb6f98D27e6eBff8CFcE9826CE2610AaE5B",
+  "research": null,
+  "symbol": "FAST",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

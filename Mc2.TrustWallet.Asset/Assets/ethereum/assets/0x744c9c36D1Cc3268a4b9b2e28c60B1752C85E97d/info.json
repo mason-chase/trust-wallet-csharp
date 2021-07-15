@@ -1,0 +1,18 @@
+{
+  "id": "0x744c9c36D1Cc3268a4b9b2e28c60B1752C85E97d",
+  "address": "0x744c9c36D1Cc3268a4b9b2e28c60B1752C85E97d",
+  "blockchain": "ethereum",
+  "name": "Alluva",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x744c9c36D1Cc3268a4b9b2e28c60B1752C85E97d",
+  "research": null,
+  "symbol": "ALV",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

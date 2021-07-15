@@ -1,0 +1,18 @@
+{
+  "id": "TJSBUFSe2E1Ncp5jo9ERD8LajjzpMa7F3C",
+  "address": "TJSBUFSe2E1Ncp5jo9ERD8LajjzpMa7F3C",
+  "blockchain": "tron",
+  "name": "Bestswap Community Token",
+  "website": "https://bestswap.com/",
+  "description": "BETC is the community token of Bestswap. BETC issued based on TRC-20 and is mainly used for community ecological incentives, DEX ecology, voting, KOL, project listing, etc..",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TJSBUFSe2E1Ncp5jo9ERD8LajjzpMa7F3C",
+  "research": null,
+  "symbol": "BETC",
+  "type": "TRC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

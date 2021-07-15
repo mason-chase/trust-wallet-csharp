@@ -1,0 +1,18 @@
+{
+  "id": "0x2d71983E810B9e95258966B9c164C4d61a829bA9",
+  "address": "0x2d71983E810B9e95258966B9c164C4d61a829bA9",
+  "blockchain": "ethereum",
+  "name": "ICOCalendar.Today",
+  "website": "https://www.icocalendar.today",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2d71983E810B9e95258966B9c164C4d61a829bA9",
+  "research": null,
+  "symbol": "ICT",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

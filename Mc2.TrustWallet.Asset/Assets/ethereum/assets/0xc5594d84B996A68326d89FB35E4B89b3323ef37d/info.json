@@ -1,0 +1,18 @@
+{
+  "id": "0xc5594d84B996A68326d89FB35E4B89b3323ef37d",
+  "address": "0xc5594d84B996A68326d89FB35E4B89b3323ef37d",
+  "blockchain": "ethereum",
+  "name": "Epocum",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc5594d84B996A68326d89FB35E4B89b3323ef37d",
+  "research": null,
+  "symbol": "EPM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

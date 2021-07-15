@@ -1,0 +1,18 @@
+{
+  "id": "0xa8c573cd88De2265B39954b4fA2Da72038582616",
+  "address": "0xa8c573cd88De2265B39954b4fA2Da72038582616",
+  "blockchain": "smartchain",
+  "name": "Stealth Shiba Token",
+  "website": "https://stealthshiba.com",
+  "description": "Stealth Shiba is a Community-based defi token that aims to provide a safe, trusted and seamless crypto investing and trading environment.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xa8c573cd88De2265B39954b4fA2Da72038582616",
+  "research": null,
+  "symbol": "SHIBA",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

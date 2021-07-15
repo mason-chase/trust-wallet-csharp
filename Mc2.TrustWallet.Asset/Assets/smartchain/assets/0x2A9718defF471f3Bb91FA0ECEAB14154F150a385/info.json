@@ -1,0 +1,18 @@
+{
+  "id": "0x2A9718defF471f3Bb91FA0ECEAB14154F150a385",
+  "address": "0x2A9718defF471f3Bb91FA0ECEAB14154F150a385",
+  "blockchain": "smartchain",
+  "name": "$ElonGate",
+  "website": "https://elongate.cc",
+  "description": "$ElonGate is a deflationary cryptocurrency on the Binance Smart Chain, using the power of memes to make huge impacts for charity. ",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x2A9718defF471f3Bb91FA0ECEAB14154F150a385",
+  "research": null,
+  "symbol": "ELG",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

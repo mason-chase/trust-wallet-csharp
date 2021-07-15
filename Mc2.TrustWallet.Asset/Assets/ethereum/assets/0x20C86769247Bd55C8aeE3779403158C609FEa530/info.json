@@ -1,0 +1,18 @@
+{
+  "id": "0x20C86769247Bd55C8aeE3779403158C609FEa530",
+  "address": "0x20C86769247Bd55C8aeE3779403158C609FEa530",
+  "blockchain": "ethereum",
+  "name": "Kryptonian",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x20C86769247Bd55C8aeE3779403158C609FEa530",
+  "research": null,
+  "symbol": "SPMN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

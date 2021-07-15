@@ -1,0 +1,18 @@
+{
+  "id": "0xAFbe02AbE65aB5c0CA1AdC04848028Cc97a8Ea70",
+  "address": "0xAFbe02AbE65aB5c0CA1AdC04848028Cc97a8Ea70",
+  "blockchain": "ethereum",
+  "name": "Bolivar Soberano",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xAFbe02AbE65aB5c0CA1AdC04848028Cc97a8Ea70",
+  "research": null,
+  "symbol": "EBS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

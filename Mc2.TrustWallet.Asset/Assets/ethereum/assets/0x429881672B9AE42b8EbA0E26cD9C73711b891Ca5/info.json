@@ -1,0 +1,27 @@
+{
+  "id": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
+  "address": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
+  "blockchain": "ethereum",
+  "name": "PICKLE",
+  "website": "https://pickle.finance/",
+  "description": "An experiment in bringing stablecoins closer to their pegs using farming incentives, jars, and governance",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
+  "research": null,
+  "symbol": "PICKLE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/pickle-finance/contracts"
+    },
+    {
+      "name": "white_paper",
+      "url": "https://pickle.finance/pickle-pico-paper-en.pdf"
+    }
+  ],
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x8D3437e683004bD36BF21D4d075cC10165A863E8",
+  "address": "0x8D3437e683004bD36BF21D4d075cC10165A863E8",
+  "blockchain": "smartchain",
+  "name": "hybrix",
+  "website": "https://hybrix.io",
+  "description": "Every distributed ledger and blockchain has its own strengths. The hybrix token gives access to all these benefits as it exists on top of all distributed ledger systems. The open hybrix protocol enables free transport of value between all distributed ledgers. A welcoming addition next to the possibilities of atomic swaps and decentralized exchanges.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x8D3437e683004bD36BF21D4d075cC10165A863E8",
+  "research": null,
+  "symbol": "HY",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

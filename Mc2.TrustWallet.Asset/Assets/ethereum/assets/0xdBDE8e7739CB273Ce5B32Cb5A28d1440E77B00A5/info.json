@@ -1,0 +1,18 @@
+{
+  "id": "0xdBDE8e7739CB273Ce5B32Cb5A28d1440E77B00A5",
+  "address": "0xdBDE8e7739CB273Ce5B32Cb5A28d1440E77B00A5",
+  "blockchain": "ethereum",
+  "name": "Relentless",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xdBDE8e7739CB273Ce5B32Cb5A28d1440E77B00A5",
+  "research": null,
+  "symbol": "RLSS",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

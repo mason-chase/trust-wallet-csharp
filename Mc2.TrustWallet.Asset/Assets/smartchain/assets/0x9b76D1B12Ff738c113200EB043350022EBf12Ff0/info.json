@@ -1,0 +1,18 @@
+{
+  "id": "0x9b76D1B12Ff738c113200EB043350022EBf12Ff0",
+  "address": "0x9b76D1B12Ff738c113200EB043350022EBf12Ff0",
+  "blockchain": "smartchain",
+  "name": "TIKI",
+  "website": "https://tikitoken.finance/",
+  "description": "The biggest BNB reflection token and the only one with auto-claim feature. Simply hold $TIKI tokens in your wallet and you'll earn BNB.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x9b76D1B12Ff738c113200EB043350022EBf12Ff0",
+  "research": null,
+  "symbol": "TIKI",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

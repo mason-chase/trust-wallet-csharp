@@ -1,0 +1,18 @@
+{
+  "id": "0x76d0184CF511788032A74a1FB91146e63F43dd53",
+  "address": "0x76d0184CF511788032A74a1FB91146e63F43dd53",
+  "blockchain": "classic",
+  "name": "UniversalCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://blockscout.com/etc/mainnet/tokens/0x76d0184CF511788032A74a1FB91146e63F43dd53",
+  "research": null,
+  "symbol": "UVC",
+  "type": "ETC20",
+  "decimals": 5,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xaC6Df26a590F08dcC95D5a4705ae8abbc88509Ef",
+  "address": "0xaC6Df26a590F08dcC95D5a4705ae8abbc88509Ef",
+  "blockchain": "ethereum",
+  "name": "Aave ENJ",
+  "website": "https://aave.com",
+  "description": "Aave ENJ is an interest bearing token pegged 1:1 to the underlying ENJ deposited in Aave. aENJ accrue interest in real time in your wallet.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xaC6Df26a590F08dcC95D5a4705ae8abbc88509Ef",
+  "research": null,
+  "symbol": "aENJ",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

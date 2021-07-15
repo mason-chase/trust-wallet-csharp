@@ -1,0 +1,18 @@
+{
+  "id": "0x8cACd0Fa3b9A4B0A8734f0F1c1da162690a50Ab1",
+  "address": "0x8cACd0Fa3b9A4B0A8734f0F1c1da162690a50Ab1",
+  "blockchain": "ethereum",
+  "name": "Barthor",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8cACd0Fa3b9A4B0A8734f0F1c1da162690a50Ab1",
+  "research": null,
+  "symbol": "BRC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

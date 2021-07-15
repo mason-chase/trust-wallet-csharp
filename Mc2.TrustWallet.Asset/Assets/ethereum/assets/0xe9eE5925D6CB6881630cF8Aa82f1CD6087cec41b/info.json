@@ -1,0 +1,18 @@
+{
+  "id": "0xe9eE5925D6CB6881630cF8Aa82f1CD6087cec41b",
+  "address": "0xe9eE5925D6CB6881630cF8Aa82f1CD6087cec41b",
+  "blockchain": "ethereum",
+  "name": "Gold FX",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe9eE5925D6CB6881630cF8Aa82f1CD6087cec41b",
+  "research": null,
+  "symbol": "GFX",
+  "type": "ERC20",
+  "decimals": 3,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

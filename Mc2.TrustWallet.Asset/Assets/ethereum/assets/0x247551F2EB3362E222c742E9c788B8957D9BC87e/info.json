@@ -1,0 +1,18 @@
+{
+  "id": "0x247551F2EB3362E222c742E9c788B8957D9BC87e",
+  "address": "0x247551F2EB3362E222c742E9c788B8957D9BC87e",
+  "blockchain": "ethereum",
+  "name": "GNY",
+  "website": "http://www.gny.io",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x247551F2EB3362E222c742E9c788B8957D9BC87e",
+  "research": null,
+  "symbol": "GNY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

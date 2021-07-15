@@ -1,0 +1,18 @@
+{
+  "id": "0x70968FEAF13299d0dBf78f66860bAb9DbE3856bc",
+  "address": "0x70968FEAF13299d0dBf78f66860bAb9DbE3856bc",
+  "blockchain": "ethereum",
+  "name": "Treelion",
+  "website": "http://treelion.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x70968FEAF13299d0dBf78f66860bAb9DbE3856bc",
+  "research": null,
+  "symbol": "TRN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xcb33BA014340AAc7644184772c4C5f431b3e1aD9",
+  "address": "0xcb33BA014340AAc7644184772c4C5f431b3e1aD9",
+  "blockchain": "ethereum",
+  "name": "Basic business chain",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xcb33BA014340AAc7644184772c4C5f431b3e1aD9",
+  "research": null,
+  "symbol": "BBC",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

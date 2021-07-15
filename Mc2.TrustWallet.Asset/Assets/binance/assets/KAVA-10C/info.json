@@ -1,0 +1,31 @@
+{
+  "id": "KAVA-10C",
+  "address": "KAVA-10C",
+  "blockchain": "binance",
+  "name": "Kava BEP2 Token",
+  "website": "https://www.kava.io/",
+  "description": "Kava is a cross-chain DeFi Lending platform enabling stablecoin loans for users of major cryptocurrencies.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/KAVA-10C",
+  "research": null,
+  "symbol": "KAVA",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/kava-labs"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/kava_labs"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/kavalabs"
+    }
+  ],
+  "tags": null
+}

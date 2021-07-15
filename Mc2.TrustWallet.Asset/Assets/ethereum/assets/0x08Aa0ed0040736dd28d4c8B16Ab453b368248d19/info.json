@@ -1,0 +1,18 @@
+{
+  "id": "0x08Aa0ed0040736dd28d4c8B16Ab453b368248d19",
+  "address": "0x08Aa0ed0040736dd28d4c8B16Ab453b368248d19",
+  "blockchain": "ethereum",
+  "name": "Cryptobuyer Token",
+  "website": "https://cryptobuyer.io",
+  "description": "At Cryptobuyer we offer multiple financial services in the same place, with the security, privacy and speed you deserve.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x08Aa0ed0040736dd28d4c8B16Ab453b368248d19",
+  "research": null,
+  "symbol": "XPT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x9216707C81438d9593c4e215BCBb0E7bB10d07F5",
+  "address": "0x9216707C81438d9593c4e215BCBb0E7bB10d07F5",
+  "blockchain": "ethereum",
+  "name": "Real Estate Coupon Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9216707C81438d9593c4e215BCBb0E7bB10d07F5",
+  "research": null,
+  "symbol": "RECT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

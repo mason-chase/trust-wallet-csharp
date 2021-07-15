@@ -1,0 +1,18 @@
+{
+  "id": "0xafCBd4b0132FEbAaeeb9C8288E1E2a2Bae63e21B",
+  "address": "0xafCBd4b0132FEbAaeeb9C8288E1E2a2Bae63e21B",
+  "blockchain": "ethereum",
+  "name": "SALAM COIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xafCBd4b0132FEbAaeeb9C8288E1E2a2Bae63e21B",
+  "research": null,
+  "symbol": "SLC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

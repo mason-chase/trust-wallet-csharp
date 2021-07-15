@@ -1,0 +1,18 @@
+{
+  "id": "0x1F01Dc57C66C2f87D8eab9C625D335e9defE6912",
+  "address": "0x1F01Dc57C66C2f87D8eab9C625D335e9defE6912",
+  "blockchain": "smartchain",
+  "name": "Wrapped ZCore",
+  "website": "https://zcore.network",
+  "description": "Wrapped ZCore (WZCR) is a tokenized version of ZCore (ZCR) that runs on the Binance Smart Chain (BSC) blockchain.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x1f01dc57c66c2f87d8eab9c625d335e9defe6912",
+  "research": null,
+  "symbol": "WZCR",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xA00425D3e2D3E9FF74F3e112B4D3A7978d7D88c2",
+  "address": "0xA00425D3e2D3E9FF74F3e112B4D3A7978d7D88c2",
+  "blockchain": "ethereum",
+  "name": "GoPower Token",
+  "website": "https://tokengoplatform.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA00425D3e2D3E9FF74F3e112B4D3A7978d7D88c2",
+  "research": null,
+  "symbol": "GPT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

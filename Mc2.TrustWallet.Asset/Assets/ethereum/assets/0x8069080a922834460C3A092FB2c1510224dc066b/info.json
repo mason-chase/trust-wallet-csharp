@@ -1,0 +1,18 @@
+{
+  "id": "0x8069080a922834460C3A092FB2c1510224dc066b",
+  "address": "0x8069080a922834460C3A092FB2c1510224dc066b",
+  "blockchain": "ethereum",
+  "name": "SpaceChain",
+  "website": "http://spacechain.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8069080a922834460C3A092FB2c1510224dc066b",
+  "research": null,
+  "symbol": "SPC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

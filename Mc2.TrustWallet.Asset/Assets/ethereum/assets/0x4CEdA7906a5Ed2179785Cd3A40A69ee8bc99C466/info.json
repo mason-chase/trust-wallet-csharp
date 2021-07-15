@@ -1,0 +1,18 @@
+{
+  "id": "0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466",
+  "address": "0x4CEdA7906a5Ed2179785Cd3A40A69ee8bc99C466",
+  "blockchain": "ethereum",
+  "name": "AION",
+  "website": null,
+  "description": "-",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4ceda7906a5ed2179785cd3a40a69ee8bc99c466",
+  "research": null,
+  "symbol": "AION",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

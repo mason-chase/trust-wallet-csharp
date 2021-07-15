@@ -1,0 +1,18 @@
+{
+  "id": "0x0c3ae89AF1fd1d855379C99a270De5675d009c4e",
+  "address": "0x0c3ae89AF1fd1d855379C99a270De5675d009c4e",
+  "blockchain": "ethereum",
+  "name": "True Coin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0c3ae89AF1fd1d855379C99a270De5675d009c4e",
+  "research": null,
+  "symbol": "TRC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

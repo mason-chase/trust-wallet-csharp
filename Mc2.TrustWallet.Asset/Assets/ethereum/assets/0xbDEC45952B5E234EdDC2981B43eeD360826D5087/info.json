@@ -1,0 +1,18 @@
+{
+  "id": "0xbDEC45952B5E234EdDC2981B43eeD360826D5087",
+  "address": "0xbDEC45952B5E234EdDC2981B43eeD360826D5087",
+  "blockchain": "ethereum",
+  "name": "Mogu Token",
+  "website": "https://mogutech.io/",
+  "description": "The Mogu Token(MOGX) is the blockchain-based medium in the Mogu ecosystem, that is fully optimised for distribution, finance, shopping, security by using blockchain technology.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xbDEC45952B5E234EdDC2981B43eeD360826D5087",
+  "research": null,
+  "symbol": "MOGX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

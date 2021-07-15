@@ -1,0 +1,18 @@
+{
+  "id": "0x82e5497347eC3d9a98632b7d5A844b645F0bA8c6",
+  "address": "0x82e5497347eC3d9a98632b7d5A844b645F0bA8c6",
+  "blockchain": "ethereum",
+  "name": "RESCALTA",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x82e5497347eC3d9a98632b7d5A844b645F0bA8c6",
+  "research": null,
+  "symbol": "RES",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

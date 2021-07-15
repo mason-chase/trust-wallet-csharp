@@ -1,0 +1,18 @@
+{
+  "id": "0xe8414CB00b804A55B41dad0ACBbAd71c6179dFBB",
+  "address": "0xe8414CB00b804A55B41dad0ACBbAd71c6179dFBB",
+  "blockchain": "ethereum",
+  "name": "EQR TESTmg22",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe8414CB00b804A55B41dad0ACBbAd71c6179dFBB",
+  "research": null,
+  "symbol": "EQR",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x96B0bF939D9460095C15251F71Fda11e41DcBddB",
+  "address": "0x96B0bF939D9460095C15251F71Fda11e41DcBddB",
+  "blockchain": "ethereum",
+  "name": "Sharpay",
+  "website": "https://sharpay.io",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x96B0bF939D9460095C15251F71Fda11e41DcBddB",
+  "research": null,
+  "symbol": "S",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

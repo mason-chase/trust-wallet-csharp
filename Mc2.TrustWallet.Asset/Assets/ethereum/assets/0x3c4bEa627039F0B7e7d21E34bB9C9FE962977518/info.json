@@ -1,0 +1,18 @@
+{
+  "id": "0x3c4bEa627039F0B7e7d21E34bB9C9FE962977518",
+  "address": "0x3c4bEa627039F0B7e7d21E34bB9C9FE962977518",
+  "blockchain": "ethereum",
+  "name": "UCOT",
+  "website": "https://www.ucot.world",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3c4bEa627039F0B7e7d21E34bB9C9FE962977518",
+  "research": null,
+  "symbol": "UCT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

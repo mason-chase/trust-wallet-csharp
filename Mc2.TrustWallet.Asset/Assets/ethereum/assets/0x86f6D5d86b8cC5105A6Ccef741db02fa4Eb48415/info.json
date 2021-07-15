@@ -1,0 +1,18 @@
+{
+  "id": "0x86f6D5d86b8cC5105A6Ccef741db02fa4Eb48415",
+  "address": "0x86f6D5d86b8cC5105A6Ccef741db02fa4Eb48415",
+  "blockchain": "ethereum",
+  "name": "LONDONCOIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x86f6D5d86b8cC5105A6Ccef741db02fa4Eb48415",
+  "research": null,
+  "symbol": "LONDON",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

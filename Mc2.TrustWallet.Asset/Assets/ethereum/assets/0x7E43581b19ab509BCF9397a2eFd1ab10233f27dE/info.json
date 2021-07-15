@@ -1,0 +1,18 @@
+{
+  "id": "0x7E43581b19ab509BCF9397a2eFd1ab10233f27dE",
+  "address": "0x7E43581b19ab509BCF9397a2eFd1ab10233f27dE",
+  "blockchain": "ethereum",
+  "name": "BitGuild PLAT",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7E43581b19ab509BCF9397a2eFd1ab10233f27dE",
+  "research": null,
+  "symbol": "PLAT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

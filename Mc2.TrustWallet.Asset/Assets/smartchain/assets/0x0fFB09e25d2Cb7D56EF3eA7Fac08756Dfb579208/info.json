@@ -1,0 +1,18 @@
+{
+  "id": "0x0fFB09e25d2Cb7D56EF3eA7Fac08756Dfb579208",
+  "address": "0x0fFB09e25d2Cb7D56EF3eA7Fac08756Dfb579208",
+  "blockchain": "smartchain",
+  "name": "CLOUT",
+  "website": "https://cloutdefi.app",
+  "description": "Clout is a token that backs the Clout Network, a smart-contract IPFS powered content decentralization and democratization protocol.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x0fFB09e25d2Cb7D56EF3eA7Fac08756Dfb579208",
+  "research": null,
+  "symbol": "CLOUT",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

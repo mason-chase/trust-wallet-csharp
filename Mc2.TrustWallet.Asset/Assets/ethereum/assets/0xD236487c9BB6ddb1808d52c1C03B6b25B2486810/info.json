@@ -1,0 +1,18 @@
+{
+  "id": "0xD236487c9BB6ddb1808d52c1C03B6b25B2486810",
+  "address": "0xD236487c9BB6ddb1808d52c1C03B6b25B2486810",
+  "blockchain": "ethereum",
+  "name": "LPChain",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xD236487c9BB6ddb1808d52c1C03B6b25B2486810",
+  "research": null,
+  "symbol": "LP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

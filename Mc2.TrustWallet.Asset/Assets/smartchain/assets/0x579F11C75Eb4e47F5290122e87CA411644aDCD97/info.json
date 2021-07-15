@@ -1,0 +1,31 @@
+{
+  "id": "0x579F11C75Eb4e47F5290122e87CA411644aDCD97",
+  "address": "0x579F11C75Eb4e47F5290122e87CA411644aDCD97",
+  "blockchain": "smartchain",
+  "name": "CleanOcean",
+  "website": "https://cleanocean.io/",
+  "description": "CleanOcean is a crypto project to raise money and clean the ocean. Our goal is to remove over 90% of floating ocean plastic. We give 5% of the transactions to holders and 5% are added to the locked liquidity automatically.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x579F11C75Eb4e47F5290122e87CA411644aDCD97",
+  "research": null,
+  "symbol": "CLEANOCEAN",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/cleanoceantoken"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/cleanocean"
+    },
+    {
+      "name": "reddit",
+      "url": "https://reddit.com/r/CLEANOCEAN/"
+    }
+  ],
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x8711CF7764d23D32092C0DCEdfDAc63eCe1E6cF3",
+  "address": "0x8711CF7764d23D32092C0DCEdfDAc63eCe1E6cF3",
+  "blockchain": "ethereum",
+  "name": "Textil",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8711CF7764d23D32092C0DCEdfDAc63eCe1E6cF3",
+  "research": null,
+  "symbol": "TXL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

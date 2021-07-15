@@ -1,0 +1,18 @@
+{
+  "id": "SBC-5D4",
+  "address": "SBC-5D4",
+  "blockchain": "binance",
+  "name": "SB Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/SBC-5D4",
+  "research": null,
+  "symbol": "SBC",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x1c48f86ae57291F7686349F12601910BD8D470bb",
+  "address": "0x1c48f86ae57291F7686349F12601910BD8D470bb",
+  "blockchain": "ethereum",
+  "name": "USDK",
+  "website": "https://www.oklink.com",
+  "description": "USDK (USDK) is a cryptocurrency and operates on the Ethereum platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1c48f86ae57291F7686349F12601910BD8D470bb",
+  "research": null,
+  "symbol": "USDK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

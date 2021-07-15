@@ -1,0 +1,18 @@
+{
+  "id": "0xAAE81c0194D6459F320b70CA0CEdf88e11a242CE",
+  "address": "0xAAE81c0194D6459F320b70CA0CEdf88e11a242CE",
+  "blockchain": "ethereum",
+  "name": "WeToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xAAE81c0194D6459F320b70CA0CEdf88e11a242CE",
+  "research": null,
+  "symbol": "WT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

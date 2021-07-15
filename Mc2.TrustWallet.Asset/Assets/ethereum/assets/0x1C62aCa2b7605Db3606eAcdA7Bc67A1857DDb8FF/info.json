@@ -1,0 +1,18 @@
+{
+  "id": "0x1C62aCa2b7605Db3606eAcdA7Bc67A1857DDb8FF",
+  "address": "0x1C62aCa2b7605Db3606eAcdA7Bc67A1857DDb8FF",
+  "blockchain": "ethereum",
+  "name": "Soniq Token",
+  "website": "https://soniqproject.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1C62aCa2b7605Db3606eAcdA7Bc67A1857DDb8FF",
+  "research": null,
+  "symbol": "SONIQ",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

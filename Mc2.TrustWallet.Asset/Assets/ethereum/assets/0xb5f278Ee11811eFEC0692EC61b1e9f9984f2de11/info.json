@@ -1,0 +1,18 @@
+{
+  "id": "0xb5f278Ee11811eFEC0692EC61b1e9f9984f2de11",
+  "address": "0xb5f278Ee11811eFEC0692EC61b1e9f9984f2de11",
+  "blockchain": "ethereum",
+  "name": "SmartMint BondFiat StableToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb5f278Ee11811eFEC0692EC61b1e9f9984f2de11",
+  "research": null,
+  "symbol": "EMIT",
+  "type": "ERC20",
+  "decimals": 3,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

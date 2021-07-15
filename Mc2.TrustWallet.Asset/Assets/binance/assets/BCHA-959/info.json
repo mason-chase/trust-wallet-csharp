@@ -1,0 +1,18 @@
+{
+  "id": "BCHA-959",
+  "address": "BCHA-959",
+  "blockchain": "binance",
+  "name": "Bitcoin Cash ABC",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/BCHA-959",
+  "research": null,
+  "symbol": "BCHA",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

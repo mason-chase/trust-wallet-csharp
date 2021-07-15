@@ -1,0 +1,18 @@
+{
+  "id": "0x3d438870DBeBCdD03C85Cf5beBA9ac562d7D6721",
+  "address": "0x3d438870DBeBCdD03C85Cf5beBA9ac562d7D6721",
+  "blockchain": "ethereum",
+  "name": "Tps Network",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3d438870DBeBCdD03C85Cf5beBA9ac562d7D6721",
+  "research": null,
+  "symbol": "TPS7",
+  "type": "ERC20",
+  "decimals": 3,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

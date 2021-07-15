@@ -1,0 +1,18 @@
+{
+  "id": "0x54A9ed327F2614316914c3F3a782a77d0AA47AEe",
+  "address": "0x54A9ed327F2614316914c3F3a782a77d0AA47AEe",
+  "blockchain": "ethereum",
+  "name": "CONNECT",
+  "website": "https://connectplatformlimited.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x54A9ed327F2614316914c3F3a782a77d0AA47AEe",
+  "research": null,
+  "symbol": "CNCT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

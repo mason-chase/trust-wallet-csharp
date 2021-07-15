@@ -1,0 +1,18 @@
+{
+  "id": "0xCd64aA18dDbCe84411aDBfe6da49354ba5187a45",
+  "address": "0xCd64aA18dDbCe84411aDBfe6da49354ba5187a45",
+  "blockchain": "ethereum",
+  "name": "Korbot",
+  "website": "https://www.korbot.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xCd64aA18dDbCe84411aDBfe6da49354ba5187a45",
+  "research": null,
+  "symbol": "KBOT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

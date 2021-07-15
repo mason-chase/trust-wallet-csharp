@@ -1,0 +1,18 @@
+{
+  "id": "0x4fAC0ccD9e2ed9fD462D42B66Fb81bA9A1f6F25E",
+  "address": "0x4fAC0ccD9e2ed9fD462D42B66Fb81bA9A1f6F25E",
+  "blockchain": "ethereum",
+  "name": "AXiaL Entertainment Digital Asset",
+  "website": "https://axl.team/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4fAC0ccD9e2ed9fD462D42B66Fb81bA9A1f6F25E",
+  "research": null,
+  "symbol": "AXL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x490c95bE16384E1f28B9e864e98fFEcFCBfF386d",
+  "address": "0x490c95bE16384E1f28B9e864e98fFEcFCBfF386d",
+  "blockchain": "ethereum",
+  "name": "REPME",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x490c95bE16384E1f28B9e864e98fFEcFCBfF386d",
+  "research": null,
+  "symbol": "RPM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

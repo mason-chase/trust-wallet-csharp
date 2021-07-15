@@ -1,0 +1,18 @@
+{
+  "id": "0xFf19138b039D938db46bDDA0067DC4BA132ec71C",
+  "address": "0xFf19138b039D938db46bDDA0067DC4BA132ec71C",
+  "blockchain": "ethereum",
+  "name": "Snetwork",
+  "website": "http://snetwork.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xFf19138b039D938db46bDDA0067DC4BA132ec71C",
+  "research": null,
+  "symbol": "SNET",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

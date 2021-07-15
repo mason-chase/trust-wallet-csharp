@@ -1,0 +1,18 @@
+{
+  "id": "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
+  "address": "0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
+  "blockchain": "ethereum",
+  "name": "pNetwork",
+  "website": "https://p.network",
+  "description": "The heartbeat of cross-chain composability.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x89Ab32156e46F46D02ade3FEcbe5Fc4243B9AAeD",
+  "research": "https://research.binance.com/en/projects/pnetwork",
+  "symbol": "PNT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

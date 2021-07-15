@@ -1,0 +1,18 @@
+{
+  "id": "0x6e8908cfa881C9f6f2C64d3436E7b80b1bf0093F",
+  "address": "0x6e8908cfa881C9f6f2C64d3436E7b80b1bf0093F",
+  "blockchain": "ethereum",
+  "name": "Bistroo",
+  "website": "https://bistroo.io",
+  "description": "The community-powered food delivery platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6e8908cfa881c9f6f2c64d3436e7b80b1bf0093f",
+  "research": null,
+  "symbol": "BIST",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

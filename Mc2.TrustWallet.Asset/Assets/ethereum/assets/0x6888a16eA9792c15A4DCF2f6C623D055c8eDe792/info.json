@@ -1,0 +1,18 @@
+{
+  "id": "0x6888a16eA9792c15A4DCF2f6C623D055c8eDe792",
+  "address": "0x6888a16eA9792c15A4DCF2f6C623D055c8eDe792",
+  "blockchain": "ethereum",
+  "name": "Signals",
+  "website": "https://www.spectivvr.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6888a16eA9792c15A4DCF2f6C623D055c8eDe792",
+  "research": null,
+  "symbol": "SIG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

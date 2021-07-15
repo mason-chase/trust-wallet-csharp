@@ -1,0 +1,18 @@
+{
+  "id": "0x2eb86e8fC520E0F6Bb5D9Af08F924fe70558Ab89",
+  "address": "0x2eb86e8fC520E0F6Bb5D9Af08F924fe70558Ab89",
+  "blockchain": "ethereum",
+  "name": "Logarithm",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2eb86e8fC520E0F6Bb5D9Af08F924fe70558Ab89",
+  "research": null,
+  "symbol": "LGR",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

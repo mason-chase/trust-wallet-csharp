@@ -1,0 +1,18 @@
+{
+  "id": "0x73489CE024bF775498D6eEC5dC56688f66Db48e1",
+  "address": "0x73489CE024bF775498D6eEC5dC56688f66Db48e1",
+  "blockchain": "ethereum",
+  "name": "Dollar Blocknote",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x73489CE024bF775498D6eEC5dC56688f66Db48e1",
+  "research": null,
+  "symbol": "DOLLARBLOCKNOTE",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

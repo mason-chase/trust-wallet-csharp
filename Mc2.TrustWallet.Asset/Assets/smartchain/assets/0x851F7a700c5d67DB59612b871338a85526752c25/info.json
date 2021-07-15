@@ -1,0 +1,18 @@
+{
+  "id": "0x851F7a700c5d67DB59612b871338a85526752c25",
+  "address": "0x851F7a700c5d67DB59612b871338a85526752c25",
+  "blockchain": "smartchain",
+  "name": "ArgonToken",
+  "website": "https://argon.run",
+  "description": "Worlds first and only blockchain-based freelancer platform on the Binance Chain network, working with fully decentralized and smart contracts.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x851f7a700c5d67db59612b871338a85526752c25",
+  "research": null,
+  "symbol": "ARGON",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

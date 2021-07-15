@@ -1,0 +1,18 @@
+{
+  "id": "DEEP-9D3",
+  "address": "DEEP-9D3",
+  "blockchain": "binance",
+  "name": "DeepCloud",
+  "website": "https://www.deepcloudai.com/",
+  "description": "Decentralized cloud for decentralized applications.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/DEEP-9D3",
+  "research": null,
+  "symbol": "DEEP",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

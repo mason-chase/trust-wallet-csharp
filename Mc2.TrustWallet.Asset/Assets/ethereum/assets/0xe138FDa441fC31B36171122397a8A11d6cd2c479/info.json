@@ -1,0 +1,18 @@
+{
+  "id": "0xe138FDa441fC31B36171122397a8A11d6cd2c479",
+  "address": "0xe138FDa441fC31B36171122397a8A11d6cd2c479",
+  "blockchain": "ethereum",
+  "name": "GTIB",
+  "website": "https://gtibcoin.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe138FDa441fC31B36171122397a8A11d6cd2c479",
+  "research": null,
+  "symbol": "GTC",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

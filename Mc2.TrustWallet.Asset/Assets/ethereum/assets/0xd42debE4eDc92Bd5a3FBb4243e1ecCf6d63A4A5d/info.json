@@ -1,0 +1,18 @@
+{
+  "id": "0xd42debE4eDc92Bd5a3FBb4243e1ecCf6d63A4A5d",
+  "address": "0xd42debE4eDc92Bd5a3FBb4243e1ecCf6d63A4A5d",
+  "blockchain": "ethereum",
+  "name": "Carboneum",
+  "website": "https://www.carboneum.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd42debE4eDc92Bd5a3FBb4243e1ecCf6d63A4A5d",
+  "research": null,
+  "symbol": "C8",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x60C24407d01782C2175D32fe7C8921ed732371D1",
+  "address": "0x60C24407d01782C2175D32fe7C8921ed732371D1",
+  "blockchain": "ethereum",
+  "name": "Lemo",
+  "website": "https://www.lemochain.com/#/",
+  "description": "LemoChain is a cross-application ecosystem for business data circulation, based on secure multi-party computation.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x60C24407d01782C2175D32fe7C8921ed732371D1",
+  "research": null,
+  "symbol": "LEMO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

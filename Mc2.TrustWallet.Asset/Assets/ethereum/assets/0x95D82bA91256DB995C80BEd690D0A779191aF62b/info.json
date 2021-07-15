@@ -1,0 +1,18 @@
+{
+  "id": "0x95D82bA91256DB995C80BEd690D0A779191aF62b",
+  "address": "0x95D82bA91256DB995C80BEd690D0A779191aF62b",
+  "blockchain": "ethereum",
+  "name": "AlrightCoin",
+  "website": "https://alrightcoin.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x95D82bA91256DB995C80BEd690D0A779191aF62b",
+  "research": null,
+  "symbol": "ALC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

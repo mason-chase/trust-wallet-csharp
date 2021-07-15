@@ -1,0 +1,18 @@
+{
+  "id": "0x45F2aB0ca2116b2e1a70BF5e13293947b25d0272",
+  "address": "0x45F2aB0ca2116b2e1a70BF5e13293947b25d0272",
+  "blockchain": "ethereum",
+  "name": "GLOBAL RESERVE SYSTEM",
+  "website": "https://globreserve.github.io/",
+  "description": "GLOB aims to solve the problems of the modern economy using the decentralized emission and distribution algorithm, Proof of Transaction.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x45F2aB0ca2116b2e1a70BF5e13293947b25d0272",
+  "research": null,
+  "symbol": "GLOB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

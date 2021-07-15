@@ -1,0 +1,27 @@
+{
+  "id": "0xB81D70802a816B5DacBA06D708B5acF19DcD436D",
+  "address": "0xB81D70802a816B5DacBA06D708B5acF19DcD436D",
+  "blockchain": "ethereum",
+  "name": "Dextoken Governance",
+  "website": "https://flowchain.co/",
+  "description": "Dextoken is a DeFi infrastructure and is managed by the Dextoken Governance (DEXG) holders. Dextoken proposed Speculative AMM, one of the simplest price conversion algorithm, to build decentralized exchanges.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB81D70802a816B5DacBA06D708B5acF19DcD436D",
+  "research": null,
+  "symbol": "DEXG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/flowchain"
+    },
+    {
+      "name": "white_paper",
+      "url": "https://flowchain.co/publication.html"
+    }
+  ],
+  "tags": null
+}

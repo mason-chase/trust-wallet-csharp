@@ -1,0 +1,18 @@
+{
+  "id": "0xC9aFDea326c109D441519d355756f4e88465f94d",
+  "address": "0xC9aFDea326c109D441519d355756f4e88465f94d",
+  "blockchain": "ethereum",
+  "name": "Doblone",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xC9aFDea326c109D441519d355756f4e88465f94d",
+  "research": null,
+  "symbol": "DOB",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

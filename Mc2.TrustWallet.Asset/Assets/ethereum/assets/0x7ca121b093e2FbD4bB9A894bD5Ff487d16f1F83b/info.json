@@ -1,0 +1,18 @@
+{
+  "id": "0x7ca121b093e2FbD4bB9A894bD5Ff487d16f1F83b",
+  "address": "0x7ca121b093e2FbD4bB9A894bD5Ff487d16f1F83b",
+  "blockchain": "ethereum",
+  "name": "LORDLESS TOKEN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7ca121b093e2FbD4bB9A894bD5Ff487d16f1F83b",
+  "research": null,
+  "symbol": "LESS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

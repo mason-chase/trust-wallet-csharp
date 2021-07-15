@@ -1,0 +1,18 @@
+{
+  "id": "XRPBEAR-00B",
+  "address": "XRPBEAR-00B",
+  "blockchain": "binance",
+  "name": "3X Short XRP Token",
+  "website": "https://ftx.com/",
+  "description": "3X Short XRP Token (XRPBEAR) is a token which seeks a return that corresponds to -3 times the daily return of XRP.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/XRPBEAR-00B",
+  "research": null,
+  "symbol": "XRPBEAR",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

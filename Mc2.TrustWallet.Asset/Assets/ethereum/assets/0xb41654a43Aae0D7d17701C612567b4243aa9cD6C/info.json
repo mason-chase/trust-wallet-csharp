@@ -1,0 +1,18 @@
+{
+  "id": "0xb41654a43Aae0D7d17701C612567b4243aa9cD6C",
+  "address": "0xb41654a43Aae0D7d17701C612567b4243aa9cD6C",
+  "blockchain": "ethereum",
+  "name": "Play Win Collect Protocol",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb41654a43Aae0D7d17701C612567b4243aa9cD6C",
+  "research": null,
+  "symbol": "PWCP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

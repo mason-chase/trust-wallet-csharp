@@ -1,0 +1,18 @@
+{
+  "id": "0x1c4b7d0e1885bd7667Af3378E0c538F74E712006",
+  "address": "0x1c4b7d0e1885bd7667Af3378E0c538F74E712006",
+  "blockchain": "ethereum",
+  "name": "IOGToken",
+  "website": "http://www.playgroundz.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1c4b7d0e1885bd7667Af3378E0c538F74E712006",
+  "research": null,
+  "symbol": "IOG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "TNZXVQUKQ8Gnjq2BqLvt2kC5WbeDQc1q3j",
+  "address": "TNZXVQUKQ8Gnjq2BqLvt2kC5WbeDQc1q3j",
+  "blockchain": "tron",
+  "name": "DXNToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TNZXVQUKQ8Gnjq2BqLvt2kC5WbeDQc1q3j",
+  "research": null,
+  "symbol": "DXN",
+  "type": "TRC20",
+  "decimals": 6,
+  "status": "spam",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xbc194e6f748a222754C3E8b9946922c09E7d4e91",
+  "address": "0xbc194e6f748a222754C3E8b9946922c09E7d4e91",
+  "blockchain": "smartchain",
+  "name": "Lever Token",
+  "website": "https://lever.network/",
+  "description": "Lever is the world's first AMM-based decentralized margin trading protocol. Lever allows users to lend, borrow and carry out leveraged trading without needing to transfer assets to other third-party platforms. Lever aims to significantly increase capital efficiency in DeFi.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xbc194e6f748a222754C3E8b9946922c09E7d4e91",
+  "research": null,
+  "symbol": "LEV",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

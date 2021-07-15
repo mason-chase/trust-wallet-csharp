@@ -1,0 +1,18 @@
+{
+  "id": "8HGyAAB1yoM1ttS7pXjHMa3dukTFGQggnFFH3hJZgzQh",
+  "address": "8HGyAAB1yoM1ttS7pXjHMa3dukTFGQggnFFH3hJZgzQh",
+  "blockchain": "solana",
+  "name": "COPE",
+  "website": "https://www.unlimitedcope.com/",
+  "description": "Acquire COPE in a fun and low risk way, by unlocking your cope report and reaching the top of the COPE Index",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.solana.com/address/8HGyAAB1yoM1ttS7pXjHMa3dukTFGQggnFFH3hJZgzQh",
+  "research": null,
+  "symbol": "COPE",
+  "type": "SPL",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

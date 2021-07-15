@@ -1,0 +1,18 @@
+{
+  "id": "0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C",
+  "address": "0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C",
+  "blockchain": "smartchain",
+  "name": "Spartan Protocol Token",
+  "website": "https://spartanprotocol.org",
+  "description": "A protocol for incentivised liquidity and synthetic assets on Binance Smart Chain.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C",
+  "research": "https://research.binance.com/en/projects/spartan-protocol",
+  "symbol": "SPARTA",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

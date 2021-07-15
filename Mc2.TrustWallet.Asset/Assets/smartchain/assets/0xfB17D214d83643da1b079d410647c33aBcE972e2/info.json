@@ -1,0 +1,18 @@
+{
+  "id": "0xfB17D214d83643da1b079d410647c33aBcE972e2",
+  "address": "0xfB17D214d83643da1b079d410647c33aBcE972e2",
+  "blockchain": "smartchain",
+  "name": "FEG Wrapped DOGE",
+  "website": "https://fegtoken.com",
+  "description": "FEG Wrapped DOGE",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xfb17d214d83643da1b079d410647c33abce972e2",
+  "research": null,
+  "symbol": "fDOGE",
+  "type": "BEP20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

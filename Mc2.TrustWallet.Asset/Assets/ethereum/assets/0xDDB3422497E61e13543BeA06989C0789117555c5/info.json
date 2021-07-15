@@ -1,0 +1,18 @@
+{
+  "id": "0xDDB3422497E61e13543BeA06989C0789117555c5",
+  "address": "0xDDB3422497E61e13543BeA06989C0789117555c5",
+  "blockchain": "ethereum",
+  "name": "COTI",
+  "website": "https://coti.io/",
+  "description": "COTI a fixed-supply DAG-based cryptocurrency.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDDB3422497E61e13543BeA06989C0789117555c5",
+  "research": "https://coti.io/technology",
+  "symbol": "COTI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

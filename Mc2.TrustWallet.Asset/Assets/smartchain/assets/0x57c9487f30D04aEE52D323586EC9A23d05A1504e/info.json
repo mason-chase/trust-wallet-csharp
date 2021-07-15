@@ -1,0 +1,18 @@
+{
+  "id": "0x57c9487f30D04aEE52D323586EC9A23d05A1504e",
+  "address": "0x57c9487f30D04aEE52D323586EC9A23d05A1504e",
+  "blockchain": "smartchain",
+  "name": "HomeCoin",
+  "website": "https://www.thehomecoin.co/",
+  "description": "A charity-oriented token that is focused on decreasing the rate of homelessness around the world.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x57c9487f30D04aEE52D323586EC9A23d05A1504e",
+  "research": null,
+  "symbol": "HOME",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

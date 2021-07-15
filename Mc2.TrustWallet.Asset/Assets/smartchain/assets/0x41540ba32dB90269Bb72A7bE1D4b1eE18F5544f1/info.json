@@ -1,0 +1,18 @@
+{
+  "id": "0x41540ba32dB90269Bb72A7bE1D4b1eE18F5544f1",
+  "address": "0x41540ba32dB90269Bb72A7bE1D4b1eE18F5544f1",
+  "blockchain": "smartchain",
+  "name": "Flat Earth Token",
+  "website": "https://flatearthtoken.com/",
+  "description": "A peer to peer Internet currency of Flat Earth.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x41540ba32dB90269Bb72A7bE1D4b1eE18F5544f1",
+  "research": null,
+  "symbol": "FLAT",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

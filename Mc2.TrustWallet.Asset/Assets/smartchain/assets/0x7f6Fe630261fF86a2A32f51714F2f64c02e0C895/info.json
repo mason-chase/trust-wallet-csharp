@@ -1,0 +1,18 @@
+{
+  "id": "0x7f6Fe630261fF86a2A32f51714F2f64c02e0C895",
+  "address": "0x7f6Fe630261fF86a2A32f51714F2f64c02e0C895",
+  "blockchain": "smartchain",
+  "name": "BITCOIN Plus+",
+  "website": "https://bitcoinp.io/",
+  "description": "BITCOIN PLUS offers a comprehensive solution to the major problems faced by the traditional, fiat-driven monetary system. Building a crypto powered ecosystem comprising BITCOIN PLUS Token.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x7f6Fe630261fF86a2A32f51714F2f64c02e0C895",
+  "research": null,
+  "symbol": "BTCP",
+  "type": "BEP20",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x25fe9c458Eb3f74C2c6B5398cF1aE0d302c84768",
+  "address": "0x25fe9c458Eb3f74C2c6B5398cF1aE0d302c84768",
+  "blockchain": "ethereum",
+  "name": "CouponOne",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x25fe9c458Eb3f74C2c6B5398cF1aE0d302c84768",
+  "research": null,
+  "symbol": "CPU",
+  "type": "ERC20",
+  "decimals": 10,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

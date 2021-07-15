@@ -1,0 +1,18 @@
+{
+  "id": "0xA0637d954dA80323876dEfE1eb48B75BC33953e5",
+  "address": "0xA0637d954dA80323876dEfE1eb48B75BC33953e5",
+  "blockchain": "ethereum",
+  "name": "GlobalCitizenPay",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA0637d954dA80323876dEfE1eb48B75BC33953e5",
+  "research": null,
+  "symbol": "GCP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

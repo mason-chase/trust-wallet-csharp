@@ -1,0 +1,18 @@
+{
+  "id": "0x46BB4576993f50302Bb0d5F7440aEffBABFDBB78",
+  "address": "0x46BB4576993f50302Bb0d5F7440aEffBABFDBB78",
+  "blockchain": "ethereum",
+  "name": "Fulcrum Perpetual Short ETH-DAI 4x v2",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x46BB4576993f50302Bb0d5F7440aEffBABFDBB78",
+  "research": null,
+  "symbol": "dsETH4x",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x4B742b5bdb1D252907AE7F399a891d4a178DBC24",
+  "address": "0x4B742b5bdb1D252907AE7F399a891d4a178DBC24",
+  "blockchain": "ethereum",
+  "name": "B One Payment",
+  "website": "https://www.bonepayment.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4B742b5bdb1D252907AE7F399a891d4a178DBC24",
+  "research": null,
+  "symbol": "B1P",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

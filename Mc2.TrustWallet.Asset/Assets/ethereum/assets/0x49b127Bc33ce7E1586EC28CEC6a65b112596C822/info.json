@@ -1,0 +1,18 @@
+{
+  "id": "0x49b127Bc33ce7E1586EC28CEC6a65b112596C822",
+  "address": "0x49b127Bc33ce7E1586EC28CEC6a65b112596C822",
+  "blockchain": "ethereum",
+  "name": "ALX",
+  "website": "https://alax.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x49b127Bc33ce7E1586EC28CEC6a65b112596C822",
+  "research": null,
+  "symbol": "ALX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

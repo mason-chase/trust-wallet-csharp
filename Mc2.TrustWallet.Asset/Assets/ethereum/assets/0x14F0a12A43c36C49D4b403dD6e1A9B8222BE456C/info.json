@@ -1,0 +1,18 @@
+{
+  "id": "0x14F0a12A43c36C49D4b403dD6e1A9B8222BE456C",
+  "address": "0x14F0a12A43c36C49D4b403dD6e1A9B8222BE456C",
+  "blockchain": "ethereum",
+  "name": "VINX Coin",
+  "website": "https://vinxcoin.com/",
+  "description": "The world's first utility token for fine wine buying. VXC revolutionizes how you buy wine, both retail and wholesale.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x14F0a12A43c36C49D4b403dD6e1A9B8222BE456C",
+  "research": null,
+  "symbol": "VXC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

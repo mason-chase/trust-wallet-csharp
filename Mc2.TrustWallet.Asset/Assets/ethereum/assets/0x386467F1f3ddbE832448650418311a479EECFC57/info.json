@@ -1,0 +1,18 @@
+{
+  "id": "0x386467F1f3ddbE832448650418311a479EECFC57",
+  "address": "0x386467F1f3ddbE832448650418311a479EECFC57",
+  "blockchain": "ethereum",
+  "name": "Embers",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x386467F1f3ddbE832448650418311a479EECFC57",
+  "research": null,
+  "symbol": "EMB",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

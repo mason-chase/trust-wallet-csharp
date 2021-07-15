@@ -1,0 +1,18 @@
+{
+  "id": "0x5c4E325d2c570443f4ea3Ed5623c58dE221E9475",
+  "address": "0x5c4E325d2c570443f4ea3Ed5623c58dE221E9475",
+  "blockchain": "ethereum",
+  "name": "BestOne",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5c4E325d2c570443f4ea3Ed5623c58dE221E9475",
+  "research": null,
+  "symbol": "BOF",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

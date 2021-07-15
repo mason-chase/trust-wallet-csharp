@@ -1,0 +1,18 @@
+{
+  "id": "0xc429E7B63dc30B51f5A7E4BE23Fd5eB4BAF8A1C3",
+  "address": "0xc429E7B63dc30B51f5A7E4BE23Fd5eB4BAF8A1C3",
+  "blockchain": "ethereum",
+  "name": "Bitibu",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc429E7B63dc30B51f5A7E4BE23Fd5eB4BAF8A1C3",
+  "research": null,
+  "symbol": "BTB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xdd7eD58e68F31c1478b59aBA156F61795EEb232a",
+  "address": "0xdd7eD58e68F31c1478b59aBA156F61795EEb232a",
+  "blockchain": "ethereum",
+  "name": "Radincacoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xdd7eD58e68F31c1478b59aBA156F61795EEb232a",
+  "research": null,
+  "symbol": "RDC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

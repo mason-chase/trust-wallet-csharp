@@ -1,0 +1,18 @@
+{
+  "id": "0xb9b5467B8F8ce1e4E48796E4c24758EfFf512352",
+  "address": "0xb9b5467B8F8ce1e4E48796E4c24758EfFf512352",
+  "blockchain": "ethereum",
+  "name": "NLC Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb9b5467B8F8ce1e4E48796E4c24758EfFf512352",
+  "research": null,
+  "symbol": "NLC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

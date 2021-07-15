@@ -1,0 +1,18 @@
+{
+  "id": "0xD01DB73E047855Efb414e6202098C4Be4Cd2423B",
+  "address": "0xD01DB73E047855Efb414e6202098C4Be4Cd2423B",
+  "blockchain": "ethereum",
+  "name": "Uquid Coin",
+  "website": "https://uquidcoin.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xD01DB73E047855Efb414e6202098C4Be4Cd2423B",
+  "research": null,
+  "symbol": "UQC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

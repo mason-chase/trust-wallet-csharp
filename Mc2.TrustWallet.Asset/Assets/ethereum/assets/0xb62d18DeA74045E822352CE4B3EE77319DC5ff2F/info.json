@@ -1,0 +1,18 @@
+{
+  "id": "0xb62d18DeA74045E822352CE4B3EE77319DC5ff2F",
+  "address": "0xb62d18DeA74045E822352CE4B3EE77319DC5ff2F",
+  "blockchain": "ethereum",
+  "name": "EventChain",
+  "website": "https://eventchain.io",
+  "description": "EventChain (EVC) is a cryptocurrency and operates on the Ethereum platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb62d18DeA74045E822352CE4B3EE77319DC5ff2F",
+  "research": null,
+  "symbol": "EVC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

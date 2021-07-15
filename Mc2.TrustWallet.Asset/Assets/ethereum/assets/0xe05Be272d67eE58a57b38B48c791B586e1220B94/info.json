@@ -1,0 +1,18 @@
+{
+  "id": "0xe05Be272d67eE58a57b38B48c791B586e1220B94",
+  "address": "0xe05Be272d67eE58a57b38B48c791B586e1220B94",
+  "blockchain": "ethereum",
+  "name": "RH123456",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe05Be272d67eE58a57b38B48c791B586e1220B94",
+  "research": null,
+  "symbol": "RH",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

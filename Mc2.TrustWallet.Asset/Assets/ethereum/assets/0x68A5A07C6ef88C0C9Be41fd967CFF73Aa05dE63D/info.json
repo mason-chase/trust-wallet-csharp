@@ -1,0 +1,18 @@
+{
+  "id": "0x68A5A07C6ef88C0C9Be41fd967CFF73Aa05dE63D",
+  "address": "0x68A5A07C6ef88C0C9Be41fd967CFF73Aa05dE63D",
+  "blockchain": "ethereum",
+  "name": "BTEApplication",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x68A5A07C6ef88C0C9Be41fd967CFF73Aa05dE63D",
+  "research": null,
+  "symbol": "BTEA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x905E337c6c8645263D3521205Aa37bf4d034e745",
+  "address": "0x905E337c6c8645263D3521205Aa37bf4d034e745",
+  "blockchain": "ethereum",
+  "name": "Medical Token Currency",
+  "website": "https://doc.com",
+  "description": "Doc.com began with the mission to provide accessible basic healthcare to the world, and to create a new paradigm in primary care globally.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x905E337c6c8645263D3521205Aa37bf4d034e745",
+  "research": null,
+  "symbol": "MTC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

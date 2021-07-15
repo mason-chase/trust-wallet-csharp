@@ -1,0 +1,18 @@
+{
+  "id": "0xBeB6fdF4ef6CEb975157be43cBE0047B248a8922",
+  "address": "0xBeB6fdF4ef6CEb975157be43cBE0047B248a8922",
+  "blockchain": "ethereum",
+  "name": "ARP",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xBeB6fdF4ef6CEb975157be43cBE0047B248a8922",
+  "research": null,
+  "symbol": "ARP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

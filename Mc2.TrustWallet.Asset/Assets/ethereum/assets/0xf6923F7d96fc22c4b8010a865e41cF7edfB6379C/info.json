@@ -1,0 +1,18 @@
+{
+  "id": "0xf6923F7d96fc22c4b8010a865e41cF7edfB6379C",
+  "address": "0xf6923F7d96fc22c4b8010a865e41cF7edfB6379C",
+  "blockchain": "ethereum",
+  "name": "ioox",
+  "website": "https://www.ioox.me/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf6923F7d96fc22c4b8010a865e41cF7edfB6379C",
+  "research": null,
+  "symbol": "ioox",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x5554e04e76533E1d14c52f05beEF6c9d329E1E30",
+  "address": "0x5554e04e76533E1d14c52f05beEF6c9d329E1E30",
+  "blockchain": "ethereum",
+  "name": "Autonio",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5554e04e76533E1d14c52f05beEF6c9d329E1E30",
+  "research": null,
+  "symbol": "NIO",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

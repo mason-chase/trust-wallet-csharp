@@ -1,0 +1,18 @@
+{
+  "id": "0xA891CF72AEDa692570928eFe1A832342e9783CDC",
+  "address": "0xA891CF72AEDa692570928eFe1A832342e9783CDC",
+  "blockchain": "ethereum",
+  "name": "Interfinex Bills",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA891CF72AEDa692570928eFe1A832342e9783CDC",
+  "research": null,
+  "symbol": "IFEX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

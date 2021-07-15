@@ -1,0 +1,18 @@
+{
+  "id": "0x61dF1FD3454185A66B03C27F84ffB7e4D478553E",
+  "address": "0x61dF1FD3454185A66B03C27F84ffB7e4D478553E",
+  "blockchain": "ethereum",
+  "name": "Junto",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x61dF1FD3454185A66B03C27F84ffB7e4D478553E",
+  "research": null,
+  "symbol": "JUNTO",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

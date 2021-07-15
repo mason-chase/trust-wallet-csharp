@@ -1,0 +1,18 @@
+{
+  "id": "0x8f7b0B40E27E357540F90f187d90CE06366aC5A5",
+  "address": "0x8f7b0B40E27E357540F90f187d90CE06366aC5A5",
+  "blockchain": "ethereum",
+  "name": "Value Chain",
+  "website": "http://valuechain.biz/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8f7b0B40E27E357540F90f187d90CE06366aC5A5",
+  "research": null,
+  "symbol": "VLC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

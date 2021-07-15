@@ -1,0 +1,18 @@
+{
+  "id": "0x9aF7c46A4ebdfB1e11B5F94196C288c885F37bCD",
+  "address": "0x9aF7c46A4ebdfB1e11B5F94196C288c885F37bCD",
+  "blockchain": "ethereum",
+  "name": "BakerKingSwap",
+  "website": "https://bakerkingswap.com/",
+  "description": "Bakerking is fork from bakeryswap to make more secured, low fees, faster, easily earn from farming.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9aF7c46A4ebdfB1e11B5F94196C288c885F37bCD",
+  "research": null,
+  "symbol": "BAKER",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

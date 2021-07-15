@@ -1,0 +1,18 @@
+{
+  "id": "0x44197A4c44D6A059297cAf6be4F7e172BD56Caaf",
+  "address": "0x44197A4c44D6A059297cAf6be4F7e172BD56Caaf",
+  "blockchain": "ethereum",
+  "name": "ELTCOIN",
+  "website": "https://www.eltcoin.tech/",
+  "description": "A community-driven currency that powers an open-sourced library of cool dapps built on Ethereum.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x44197A4c44D6A059297cAf6be4F7e172BD56Caaf",
+  "research": null,
+  "symbol": "ELTCOIN",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x47dd8AEF9015d8e5a91d5B9062828BBCcd5fEFcc",
+  "address": "0x47dd8AEF9015d8e5a91d5B9062828BBCcd5fEFcc",
+  "blockchain": "smartchain",
+  "name": "TANTAN Token",
+  "website": "https://tantantoken.com",
+  "description": "TANTAN is Memes Token",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x47dd8AEF9015d8e5a91d5B9062828BBCcd5fEFcc",
+  "research": null,
+  "symbol": "TANTAN",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

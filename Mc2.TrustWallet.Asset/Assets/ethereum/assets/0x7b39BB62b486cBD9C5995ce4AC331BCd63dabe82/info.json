@@ -1,0 +1,18 @@
+{
+  "id": "0x7b39BB62b486cBD9C5995ce4AC331BCd63dabe82",
+  "address": "0x7b39BB62b486cBD9C5995ce4AC331BCd63dabe82",
+  "blockchain": "ethereum",
+  "name": "BITWOX",
+  "website": "http://www.bitwox.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7b39BB62b486cBD9C5995ce4AC331BCd63dabe82",
+  "research": null,
+  "symbol": "WOX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

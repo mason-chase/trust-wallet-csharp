@@ -1,0 +1,18 @@
+{
+  "id": "0xB29678a4805a7d787dc9589E179D27F7575bB9f7",
+  "address": "0xB29678a4805a7d787dc9589E179D27F7575bB9f7",
+  "blockchain": "ethereum",
+  "name": "ArubaCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB29678a4805a7d787dc9589E179D27F7575bB9f7",
+  "research": null,
+  "symbol": "AUA",
+  "type": "ERC20",
+  "decimals": 5,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

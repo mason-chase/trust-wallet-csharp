@@ -1,0 +1,18 @@
+{
+  "id": "0xD589699b20903fC061701Ad6A35Cb78Bb5Dd734E",
+  "address": "0xD589699b20903fC061701Ad6A35Cb78Bb5Dd734E",
+  "blockchain": "smartchain",
+  "name": "Dare Token",
+  "website": "https://www.daretoken.io/",
+  "description": "DareToken is a revolutionary funtech market project aimed at decentralizing online competitions and challenges",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xD589699b20903fC061701Ad6A35Cb78Bb5Dd734E",
+  "research": null,
+  "symbol": "DRE",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

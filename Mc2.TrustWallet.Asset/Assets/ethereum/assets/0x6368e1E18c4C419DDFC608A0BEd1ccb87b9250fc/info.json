@@ -1,0 +1,18 @@
+{
+  "id": "0x6368e1E18c4C419DDFC608A0BEd1ccb87b9250fc",
+  "address": "0x6368e1E18c4C419DDFC608A0BEd1ccb87b9250fc",
+  "blockchain": "ethereum",
+  "name": "Tap",
+  "website": "https://www.tap.global",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6368e1E18c4C419DDFC608A0BEd1ccb87b9250fc",
+  "research": null,
+  "symbol": "XTP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

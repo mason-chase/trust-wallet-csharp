@@ -1,0 +1,18 @@
+{
+  "id": "0xA0008F510fE9eE696E7E320C9e5cbf61E27791Ee",
+  "address": "0xA0008F510fE9eE696E7E320C9e5cbf61E27791Ee",
+  "blockchain": "ethereum",
+  "name": "GMB",
+  "website": "https://gamb.io",
+  "description": "GAMB is the decentralized marketplace of the future with no decision making unit other than the owners of the marketplace themselves.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA0008F510fE9eE696E7E320C9e5cbf61E27791Ee",
+  "research": null,
+  "symbol": "GMB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

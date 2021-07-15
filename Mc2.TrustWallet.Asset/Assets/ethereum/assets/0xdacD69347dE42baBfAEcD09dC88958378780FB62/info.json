@@ -1,0 +1,18 @@
+{
+  "id": "0xdacD69347dE42baBfAEcD09dC88958378780FB62",
+  "address": "0xdacD69347dE42baBfAEcD09dC88958378780FB62",
+  "blockchain": "ethereum",
+  "name": "ATARI Token",
+  "website": "https://atarichain.com",
+  "description": "It was designed by Atari Chain Ltd. — a subsidiary of the video game and consumer electronics firm Atari Interactive — specifically for the needs of the interactive entertainment industry.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xdacD69347dE42baBfAEcD09dC88958378780FB62",
+  "research": null,
+  "symbol": "ATRI",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x7bf878a25f7d34D392EBC8d14E33478966c7CA75",
+  "address": "0x7bf878a25f7d34D392EBC8d14E33478966c7CA75",
+  "blockchain": "ethereum",
+  "name": "Pornvisory",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7bf878a25f7d34D392EBC8d14E33478966c7CA75",
+  "research": null,
+  "symbol": "PVY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

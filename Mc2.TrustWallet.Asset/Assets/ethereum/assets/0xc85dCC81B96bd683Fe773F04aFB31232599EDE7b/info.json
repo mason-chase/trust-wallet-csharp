@@ -1,0 +1,18 @@
+{
+  "id": "0xc85dCC81B96bd683Fe773F04aFB31232599EDE7b",
+  "address": "0xc85dCC81B96bd683Fe773F04aFB31232599EDE7b",
+  "blockchain": "ethereum",
+  "name": "Global Crypto Gate",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc85dCC81B96bd683Fe773F04aFB31232599EDE7b",
+  "research": null,
+  "symbol": "GCG",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

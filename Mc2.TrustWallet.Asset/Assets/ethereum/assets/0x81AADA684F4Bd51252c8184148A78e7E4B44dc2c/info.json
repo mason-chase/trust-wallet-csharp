@@ -1,0 +1,18 @@
+{
+  "id": "0x81AADA684F4Bd51252c8184148A78e7E4B44dc2c",
+  "address": "0x81AADA684F4Bd51252c8184148A78e7E4B44dc2c",
+  "blockchain": "ethereum",
+  "name": "ARUKU COIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x81AADA684F4Bd51252c8184148A78e7E4B44dc2c",
+  "research": null,
+  "symbol": "ARUK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

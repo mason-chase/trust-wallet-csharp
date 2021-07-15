@@ -1,0 +1,18 @@
+{
+  "id": "0xB07ec2c28834B889b1CE527Ca0F19364cD38935c",
+  "address": "0xB07ec2c28834B889b1CE527Ca0F19364cD38935c",
+  "blockchain": "ethereum",
+  "name": "Cardstack",
+  "website": null,
+  "description": "-",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb07ec2c28834b889b1ce527ca0f19364cd38935c",
+  "research": null,
+  "symbol": "CARD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

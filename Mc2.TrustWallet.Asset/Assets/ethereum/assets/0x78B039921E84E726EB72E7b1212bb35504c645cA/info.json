@@ -1,0 +1,18 @@
+{
+  "id": "0x78B039921E84E726EB72E7b1212bb35504c645cA",
+  "address": "0x78B039921E84E726EB72E7b1212bb35504c645cA",
+  "blockchain": "ethereum",
+  "name": "Sether",
+  "website": "https://www.sether.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x78B039921E84E726EB72E7b1212bb35504c645cA",
+  "research": null,
+  "symbol": "SETH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

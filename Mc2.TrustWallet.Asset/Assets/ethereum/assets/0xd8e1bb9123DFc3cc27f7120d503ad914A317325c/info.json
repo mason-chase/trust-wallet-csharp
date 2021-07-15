@@ -1,0 +1,18 @@
+{
+  "id": "0xd8e1bb9123DFc3cc27f7120d503ad914A317325c",
+  "address": "0xd8e1bb9123DFc3cc27f7120d503ad914A317325c",
+  "blockchain": "ethereum",
+  "name": "XE Currency Converter",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd8e1bb9123DFc3cc27f7120d503ad914A317325c",
+  "research": null,
+  "symbol": "XCC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

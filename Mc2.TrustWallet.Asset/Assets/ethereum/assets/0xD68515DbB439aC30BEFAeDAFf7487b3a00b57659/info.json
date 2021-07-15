@@ -1,0 +1,18 @@
+{
+  "id": "0xD68515DbB439aC30BEFAeDAFf7487b3a00b57659",
+  "address": "0xD68515DbB439aC30BEFAeDAFf7487b3a00b57659",
+  "blockchain": "ethereum",
+  "name": "Reearn Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xD68515DbB439aC30BEFAeDAFf7487b3a00b57659",
+  "research": null,
+  "symbol": "RET",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

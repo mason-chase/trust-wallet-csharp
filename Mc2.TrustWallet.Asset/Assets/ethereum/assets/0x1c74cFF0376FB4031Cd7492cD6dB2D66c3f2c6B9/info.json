@@ -1,0 +1,18 @@
+{
+  "id": "0x1c74cFF0376FB4031Cd7492cD6dB2D66c3f2c6B9",
+  "address": "0x1c74cFF0376FB4031Cd7492cD6dB2D66c3f2c6B9",
+  "blockchain": "ethereum",
+  "name": "bZx Protocol Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1c74cFF0376FB4031Cd7492cD6dB2D66c3f2c6B9",
+  "research": null,
+  "symbol": "BZRX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

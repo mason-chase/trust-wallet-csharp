@@ -1,0 +1,18 @@
+{
+  "id": "0x5F401A460FC931a7E6D4141188501F3B91ed1A95",
+  "address": "0x5F401A460FC931a7E6D4141188501F3B91ed1A95",
+  "blockchain": "ethereum",
+  "name": "GRAND",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5F401A460FC931a7E6D4141188501F3B91ed1A95",
+  "research": null,
+  "symbol": "G",
+  "type": "ERC20",
+  "decimals": 15,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

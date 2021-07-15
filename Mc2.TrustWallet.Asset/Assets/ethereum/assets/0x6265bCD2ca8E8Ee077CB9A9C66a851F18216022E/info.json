@@ -1,0 +1,18 @@
+{
+  "id": "0x6265bCD2ca8E8Ee077CB9A9C66a851F18216022E",
+  "address": "0x6265bCD2ca8E8Ee077CB9A9C66a851F18216022E",
+  "blockchain": "ethereum",
+  "name": "EtherCare",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6265bCD2ca8E8Ee077CB9A9C66a851F18216022E",
+  "research": null,
+  "symbol": "ETCR",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

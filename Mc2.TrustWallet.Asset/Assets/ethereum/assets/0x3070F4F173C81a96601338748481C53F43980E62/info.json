@@ -1,0 +1,18 @@
+{
+  "id": "0x3070F4F173C81a96601338748481C53F43980E62",
+  "address": "0x3070F4F173C81a96601338748481C53F43980E62",
+  "blockchain": "ethereum",
+  "name": "Vnix Network",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3070F4F173C81a96601338748481C53F43980E62",
+  "research": null,
+  "symbol": "VNX",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

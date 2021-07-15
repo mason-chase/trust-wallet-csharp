@@ -1,0 +1,18 @@
+{
+  "id": "0x35E446a313369F2CCa5592E62dB9edBB23233Dd2",
+  "address": "0x35E446a313369F2CCa5592E62dB9edBB23233Dd2",
+  "blockchain": "smartchain",
+  "name": "Jigsaw",
+  "website": "https://www.ghostface.finance/jigsaw",
+  "description": "Jigsaw - Hold $JIGSAW and earn $BNB while you sleep!",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x35E446a313369F2CCa5592E62dB9edBB23233Dd2",
+  "research": null,
+  "symbol": "JIGSAW",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

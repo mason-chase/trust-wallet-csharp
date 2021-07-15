@@ -1,0 +1,18 @@
+{
+  "id": "0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E",
+  "address": "0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E",
+  "blockchain": "ethereum",
+  "name": "TrueUSD (OLD)",
+  "website": null,
+  "description": "-",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8dd5fbce2f6a956c3022ba3663759011dd51e73e",
+  "research": null,
+  "symbol": "TUSD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

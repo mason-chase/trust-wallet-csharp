@@ -1,0 +1,18 @@
+{
+  "id": "UGAS-B0C",
+  "address": "UGAS-B0C",
+  "blockchain": "binance",
+  "name": "Ultrain Coin",
+  "website": "https://www.ultrain.io/",
+  "description": "Ultrain is committed to construct a responsible and sustainable commercial ecosystem that enables all industrial applications.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/UGAS-B0C",
+  "research": null,
+  "symbol": "UGAS",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

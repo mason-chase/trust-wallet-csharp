@@ -1,0 +1,18 @@
+{
+  "id": "0x049399a6B048D52971F7D122aE21A1532722285F",
+  "address": "0x049399a6B048D52971F7D122aE21A1532722285F",
+  "blockchain": "ethereum",
+  "name": "Fire Lotto",
+  "website": "https://firelotto.io/",
+  "description": "Fire Lotto is a modern blockchain lottery as simple and understandable as traditional lotteries are.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x049399a6B048D52971F7D122aE21A1532722285F",
+  "research": null,
+  "symbol": "FLOT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

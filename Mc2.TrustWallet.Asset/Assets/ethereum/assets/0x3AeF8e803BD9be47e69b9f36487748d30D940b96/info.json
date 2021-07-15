@@ -1,0 +1,23 @@
+{
+  "id": "0x3AeF8e803BD9be47e69b9f36487748d30D940b96",
+  "address": "0x3AeF8e803BD9be47e69b9f36487748d30D940b96",
+  "blockchain": "ethereum",
+  "name": "Vesta",
+  "website": "https://vtp.network",
+  "description": "Vesta Is The Next Generation Liquidity Generator.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3AeF8e803BD9be47e69b9f36487748d30D940b96",
+  "research": null,
+  "symbol": "vesta",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "white_paper",
+      "url": "https://vtp.network/static/VestaProtocolWhitepaper.pdf"
+    }
+  ],
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x1845461382adc4c677cBa93073f7849a7947b629",
+  "address": "0x1845461382adc4c677cBa93073f7849a7947b629",
+  "blockchain": "ethereum",
+  "name": "HANbBEAsset",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1845461382adc4c677cBa93073f7849a7947b629",
+  "research": null,
+  "symbol": "HBA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xD7B729ef857Aa773f47D37088A1181bB3fbF0099",
+  "address": "0xD7B729ef857Aa773f47D37088A1181bB3fbF0099",
+  "blockchain": "smartchain",
+  "name": "OLD BOG Token",
+  "website": "https://bogtools.io/",
+  "description": "The old BOG token has been deprecated, you may sell or burn this token.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xD7B729ef857Aa773f47D37088A1181bB3fbF0099",
+  "research": null,
+  "symbol": "BOG",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

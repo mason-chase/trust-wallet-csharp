@@ -1,0 +1,18 @@
+{
+  "id": "0x0C6E8a8358cBde54F8e4Cd7f07D5ac38aec8C5a4",
+  "address": "0x0C6E8a8358cBde54F8e4Cd7f07D5ac38aec8C5a4",
+  "blockchain": "ethereum",
+  "name": "PlatonCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0C6E8a8358cBde54F8e4Cd7f07D5ac38aec8C5a4",
+  "research": null,
+  "symbol": "PLTC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

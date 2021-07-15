@@ -1,0 +1,18 @@
+{
+  "id": "0x29F20242051AccDA50D52a7E272A5F23237e4696",
+  "address": "0x29F20242051AccDA50D52a7E272A5F23237e4696",
+  "blockchain": "ethereum",
+  "name": "Identity Hub Token",
+  "website": "http://www.idhub.network/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x29F20242051AccDA50D52a7E272A5F23237e4696",
+  "research": null,
+  "symbol": "IDHUB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

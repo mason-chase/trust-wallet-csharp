@@ -1,0 +1,18 @@
+{
+  "id": "0x062e3Be6a7C56A395b1881A0cD69A4923Ade4fa2",
+  "address": "0x062e3Be6a7C56A395b1881A0cD69A4923Ade4fa2",
+  "blockchain": "ethereum",
+  "name": "Bowl A Coin",
+  "website": "https://bowlacoin.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x062e3Be6a7C56A395b1881A0cD69A4923Ade4fa2",
+  "research": null,
+  "symbol": "BAC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

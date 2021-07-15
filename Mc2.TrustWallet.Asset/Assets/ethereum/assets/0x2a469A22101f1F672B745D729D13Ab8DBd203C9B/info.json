@@ -1,0 +1,18 @@
+{
+  "id": "0x2a469A22101f1F672B745D729D13Ab8DBd203C9B",
+  "address": "0x2a469A22101f1F672B745D729D13Ab8DBd203C9B",
+  "blockchain": "ethereum",
+  "name": "COINSTO",
+  "website": "https://coinstoplatform.com/",
+  "description": "Coinsto is a Cryptocurrency project helping people to learn by others' experiences. Coinsto is focused on giving value to the people by the people, the platform will only act as a slate to help individuals and organizations learn about cryptocurrency",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2a469A22101f1F672B745D729D13Ab8DBd203C9B",
+  "research": null,
+  "symbol": "CSO",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

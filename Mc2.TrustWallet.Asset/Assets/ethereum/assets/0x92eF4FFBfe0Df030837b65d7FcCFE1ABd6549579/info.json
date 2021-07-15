@@ -1,0 +1,23 @@
+{
+  "id": "0x92eF4FFBfe0Df030837b65d7FcCFE1ABd6549579",
+  "address": "0x92eF4FFBfe0Df030837b65d7FcCFE1ABd6549579",
+  "blockchain": "ethereum",
+  "name": "Swirge coin",
+  "website": "https://swirgepay.com",
+  "description": "Swirge is an ecosystem that embodies a decentralized social media, a decentralized financial system, and a marketplace built on the blockchain technology.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x92ef4ffbfe0df030837b65d7fccfe1abd6549579",
+  "research": "https://swirgepay.com",
+  "symbol": "SWG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "white_paper",
+      "url": "https://swirgepay.com/docs/not-so-whitepaper.pdf"
+    }
+  ],
+  "tags": null
+}

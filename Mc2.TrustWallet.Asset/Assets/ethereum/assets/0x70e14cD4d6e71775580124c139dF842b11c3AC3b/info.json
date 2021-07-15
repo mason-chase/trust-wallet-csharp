@@ -1,0 +1,18 @@
+{
+  "id": "0x70e14cD4d6e71775580124c139dF842b11c3AC3b",
+  "address": "0x70e14cD4d6e71775580124c139dF842b11c3AC3b",
+  "blockchain": "ethereum",
+  "name": "ETHER CASH",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x70e14cD4d6e71775580124c139dF842b11c3AC3b",
+  "research": null,
+  "symbol": "ETCA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

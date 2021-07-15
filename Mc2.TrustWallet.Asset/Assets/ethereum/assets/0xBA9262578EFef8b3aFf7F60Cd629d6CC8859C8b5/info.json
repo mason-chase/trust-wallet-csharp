@@ -1,0 +1,18 @@
+{
+  "id": "0xBA9262578EFef8b3aFf7F60Cd629d6CC8859C8b5",
+  "address": "0xBA9262578EFef8b3aFf7F60Cd629d6CC8859C8b5",
+  "blockchain": "ethereum",
+  "name": "bZx WBTC iToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xBA9262578EFef8b3aFf7F60Cd629d6CC8859C8b5",
+  "research": null,
+  "symbol": "iWBTC",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

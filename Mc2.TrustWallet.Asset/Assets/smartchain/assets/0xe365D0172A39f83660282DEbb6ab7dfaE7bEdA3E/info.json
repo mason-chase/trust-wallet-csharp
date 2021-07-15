@@ -1,0 +1,18 @@
+{
+  "id": "0xe365D0172A39f83660282DEbb6ab7dfaE7bEdA3E",
+  "address": "0xe365D0172A39f83660282DEbb6ab7dfaE7bEdA3E",
+  "blockchain": "smartchain",
+  "name": "Electra",
+  "website": "https://electrachain.io/",
+  "description": "Next Generation of Hybrid Payment Chain",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xe365D0172A39f83660282DEbb6ab7dfaE7bEdA3E",
+  "research": null,
+  "symbol": "ELECTRA",
+  "type": "BEP20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

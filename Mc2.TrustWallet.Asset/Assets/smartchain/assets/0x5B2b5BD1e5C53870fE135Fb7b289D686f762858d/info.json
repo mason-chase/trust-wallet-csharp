@@ -1,0 +1,18 @@
+{
+  "id": "0x5B2b5BD1e5C53870fE135Fb7b289D686f762858d",
+  "address": "0x5B2b5BD1e5C53870fE135Fb7b289D686f762858d",
+  "blockchain": "smartchain",
+  "name": "PIXL",
+  "website": "https://pixl.one/",
+  "description": "Leading the world in blockchain advertisement.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x5b2b5bd1e5c53870fe135fb7b289d686f762858d",
+  "research": null,
+  "symbol": "PXL",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

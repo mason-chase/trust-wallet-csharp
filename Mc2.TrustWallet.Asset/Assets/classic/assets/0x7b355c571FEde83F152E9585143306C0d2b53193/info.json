@@ -1,0 +1,18 @@
+{
+  "id": "0x7b355c571FEde83F152E9585143306C0d2b53193",
+  "address": "0x7b355c571FEde83F152E9585143306C0d2b53193",
+  "blockchain": "classic",
+  "name": "BitUnits Proof of Work Reward",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://blockscout.com/etc/mainnet/tokens/0x7b355c571FEde83F152E9585143306C0d2b53193",
+  "research": null,
+  "symbol": "BPOWR",
+  "type": "ETC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

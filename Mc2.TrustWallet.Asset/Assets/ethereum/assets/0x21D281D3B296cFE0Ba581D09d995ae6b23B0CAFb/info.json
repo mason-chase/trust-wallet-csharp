@@ -1,0 +1,18 @@
+{
+  "id": "0x21D281D3B296cFE0Ba581D09d995ae6b23B0CAFb",
+  "address": "0x21D281D3B296cFE0Ba581D09d995ae6b23B0CAFb",
+  "blockchain": "ethereum",
+  "name": "COALCOIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x21D281D3B296cFE0Ba581D09d995ae6b23B0CAFb",
+  "research": null,
+  "symbol": "CIC",
+  "type": "ERC20",
+  "decimals": 10,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

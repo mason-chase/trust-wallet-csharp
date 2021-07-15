@@ -1,0 +1,18 @@
+{
+  "id": "0x6B01c3170ae1EFEBEe1a3159172CB3F7A5ECf9E5",
+  "address": "0x6B01c3170ae1EFEBEe1a3159172CB3F7A5ECf9E5",
+  "blockchain": "ethereum",
+  "name": "BOOTY",
+  "website": "https://bank.spankchain.com/",
+  "description": "Platform and payment services for the adult industry.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6B01c3170ae1EFEBEe1a3159172CB3F7A5ECf9E5",
+  "research": null,
+  "symbol": "BOOTY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "0x3C03b4EC9477809072FF9CC9292C9B25d4A8e6c6",
+  "address": "0x3C03b4EC9477809072FF9CC9292C9B25d4A8e6c6",
+  "blockchain": "ethereum",
+  "name": "PolkaCover",
+  "website": "https://www.polkacover.com/",
+  "description": "PolkaCover is an Insurance platform for crypto world",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3C03b4EC9477809072FF9CC9292C9B25d4A8e6c6",
+  "research": "https://polkacover.medium.com/",
+  "symbol": "CVR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/Polkacover"
+    },
+    {
+      "name": "white_paper",
+      "url": "https://www.polkacover.com/pdf/whitepaper.pdf"
+    }
+  ],
+  "tags": null
+}

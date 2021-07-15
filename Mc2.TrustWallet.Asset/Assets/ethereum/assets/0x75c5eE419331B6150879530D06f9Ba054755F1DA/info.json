@@ -1,0 +1,18 @@
+{
+  "id": "0x75c5eE419331B6150879530D06f9Ba054755F1DA",
+  "address": "0x75c5eE419331B6150879530D06f9Ba054755F1DA",
+  "blockchain": "ethereum",
+  "name": "SalPay",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x75c5eE419331B6150879530D06f9Ba054755F1DA",
+  "research": null,
+  "symbol": "SAL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

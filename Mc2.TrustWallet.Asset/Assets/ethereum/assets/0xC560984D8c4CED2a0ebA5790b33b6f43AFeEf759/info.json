@@ -1,0 +1,18 @@
+{
+  "id": "0xC560984D8c4CED2a0ebA5790b33b6f43AFeEf759",
+  "address": "0xC560984D8c4CED2a0ebA5790b33b6f43AFeEf759",
+  "blockchain": "ethereum",
+  "name": "SpritzCoin",
+  "website": "https://www.spritzcoin.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xC560984D8c4CED2a0ebA5790b33b6f43AFeEf759",
+  "research": null,
+  "symbol": "SPRTZ",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

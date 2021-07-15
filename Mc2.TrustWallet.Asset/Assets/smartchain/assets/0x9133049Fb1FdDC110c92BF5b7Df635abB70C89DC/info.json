@@ -1,0 +1,18 @@
+{
+  "id": "0x9133049Fb1FdDC110c92BF5b7Df635abB70C89DC",
+  "address": "0x9133049Fb1FdDC110c92BF5b7Df635abB70C89DC",
+  "blockchain": "smartchain",
+  "name": "Pink token",
+  "website": "https://dot.finance",
+  "description": "Dot.Finance is a new DeFi platform designed to incentivize the growth of the Polkadot ecosystem.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x9133049Fb1FdDC110c92BF5b7Df635abB70C89DC",
+  "research": null,
+  "symbol": "PINK",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x466912bAA9430a4a460b141ee8C580D817441449",
+  "address": "0x466912bAA9430a4a460b141ee8C580D817441449",
+  "blockchain": "ethereum",
+  "name": "Ocbtoken - Blockmax",
+  "website": "https://blockmax.io/",
+  "description": "Blockmax (OCB) claims to be a Startup project with the goal of retail payment mobilizing capital and developing services in the Crypto field and payment in life.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x466912bAA9430a4a460b141ee8C580D817441449",
+  "research": null,
+  "symbol": "OCB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

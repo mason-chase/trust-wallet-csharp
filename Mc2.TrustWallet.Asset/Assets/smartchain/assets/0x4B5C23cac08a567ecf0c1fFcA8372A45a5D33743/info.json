@@ -1,0 +1,18 @@
+{
+  "id": "0x4B5C23cac08a567ecf0c1fFcA8372A45a5D33743",
+  "address": "0x4B5C23cac08a567ecf0c1fFcA8372A45a5D33743",
+  "blockchain": "smartchain",
+  "name": "Harvest Reward Token",
+  "website": "https://harvest.finance",
+  "description": "Harvest automatically farms the newest DeFi protocols, optimizing yields using the latest farming techniques.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x4B5C23cac08a567ecf0c1fFcA8372A45a5D33743",
+  "research": null,
+  "symbol": "FARM",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

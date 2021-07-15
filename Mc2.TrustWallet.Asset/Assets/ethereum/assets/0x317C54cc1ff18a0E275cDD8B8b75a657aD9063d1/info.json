@@ -1,0 +1,18 @@
+{
+  "id": "0x317C54cc1ff18a0E275cDD8B8b75a657aD9063d1",
+  "address": "0x317C54cc1ff18a0E275cDD8B8b75a657aD9063d1",
+  "blockchain": "ethereum",
+  "name": "aibi token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x317C54cc1ff18a0E275cDD8B8b75a657aD9063d1",
+  "research": null,
+  "symbol": "IBL",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

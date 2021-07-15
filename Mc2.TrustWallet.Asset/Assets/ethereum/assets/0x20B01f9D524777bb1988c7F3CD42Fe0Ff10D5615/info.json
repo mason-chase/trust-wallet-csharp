@@ -1,0 +1,18 @@
+{
+  "id": "0x20B01f9D524777bb1988c7F3CD42Fe0Ff10D5615",
+  "address": "0x20B01f9D524777bb1988c7F3CD42Fe0Ff10D5615",
+  "blockchain": "ethereum",
+  "name": "Payback",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x20B01f9D524777bb1988c7F3CD42Fe0Ff10D5615",
+  "research": null,
+  "symbol": "PYB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

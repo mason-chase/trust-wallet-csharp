@@ -1,0 +1,18 @@
+{
+  "id": "0x1Bec42771E74088bA106CF9Dcb864f0fA24A1e57",
+  "address": "0x1Bec42771E74088bA106CF9Dcb864f0fA24A1e57",
+  "blockchain": "ethereum",
+  "name": "LHC",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1Bec42771E74088bA106CF9Dcb864f0fA24A1e57",
+  "research": null,
+  "symbol": "LHC",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

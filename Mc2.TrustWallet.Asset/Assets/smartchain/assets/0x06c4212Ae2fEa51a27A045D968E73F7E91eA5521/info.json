@@ -1,0 +1,18 @@
+{
+  "id": "0x06c4212Ae2fEa51a27A045D968E73F7E91eA5521",
+  "address": "0x06c4212Ae2fEa51a27A045D968E73F7E91eA5521",
+  "blockchain": "smartchain",
+  "name": "Baby EverDoge",
+  "website": "https://www.babyEverDoge.com",
+  "description": "Logo update for this coin",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x06c4212Ae2fEa51a27A045D968E73F7E91eA5521",
+  "research": null,
+  "symbol": "Baby EverDoge",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x12480E24eb5bec1a9D4369CaB6a80caD3c0A377A",
+  "address": "0x12480E24eb5bec1a9D4369CaB6a80caD3c0A377A",
+  "blockchain": "ethereum",
+  "name": "Substratum",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x12480E24eb5bec1a9D4369CaB6a80caD3c0A377A",
+  "research": null,
+  "symbol": "SUB",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

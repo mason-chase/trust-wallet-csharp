@@ -1,0 +1,18 @@
+{
+  "id": "0x24C13e5Fef0157ee5BF61cD75363044927bab8cd",
+  "address": "0x24C13e5Fef0157ee5BF61cD75363044927bab8cd",
+  "blockchain": "smartchain",
+  "name": "Panther Coin",
+  "website": "https://panthercoin.net/",
+  "description": "Panther Coin is based on proof-of-stake consensus and built on Binance Smart Chain. Panther Coin Smart contract is based on BEP-20 algorithm.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x24C13e5Fef0157ee5BF61cD75363044927bab8cd",
+  "research": null,
+  "symbol": "PTC",
+  "type": "BEP20",
+  "decimals": 0,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

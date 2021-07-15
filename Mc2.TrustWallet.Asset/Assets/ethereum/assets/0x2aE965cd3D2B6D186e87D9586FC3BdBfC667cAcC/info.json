@@ -1,0 +1,18 @@
+{
+  "id": "0x2aE965cd3D2B6D186e87D9586FC3BdBfC667cAcC",
+  "address": "0x2aE965cd3D2B6D186e87D9586FC3BdBfC667cAcC",
+  "blockchain": "ethereum",
+  "name": "GJC",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2aE965cd3D2B6D186e87D9586FC3BdBfC667cAcC",
+  "research": null,
+  "symbol": "GJC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

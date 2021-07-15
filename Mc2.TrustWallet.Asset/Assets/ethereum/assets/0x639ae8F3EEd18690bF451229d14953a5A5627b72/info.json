@@ -1,0 +1,18 @@
+{
+  "id": "0x639ae8F3EEd18690bF451229d14953a5A5627b72",
+  "address": "0x639ae8F3EEd18690bF451229d14953a5A5627b72",
+  "blockchain": "ethereum",
+  "name": "GNBU",
+  "website": "https://nimbusplatform.io",
+  "description": "Nimbus - Creating Value Based on Real Use cases for Digital Assets.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x639ae8F3EEd18690bF451229d14953a5A5627b72",
+  "research": null,
+  "symbol": "GNBU",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

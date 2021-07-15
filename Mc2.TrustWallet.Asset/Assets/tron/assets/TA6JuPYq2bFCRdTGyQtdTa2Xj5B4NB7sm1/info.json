@@ -1,0 +1,18 @@
+{
+  "id": "TA6JuPYq2bFCRdTGyQtdTa2Xj5B4NB7sm1",
+  "address": "TA6JuPYq2bFCRdTGyQtdTa2Xj5B4NB7sm1",
+  "blockchain": "tron",
+  "name": "Power Cash",
+  "website": "https://PrCh.One/",
+  "description": "Power Cash is a low-fee consensus platform designed for real estate asset management.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TA6JuPYq2bFCRdTGyQtdTa2Xj5B4NB7sm1",
+  "research": null,
+  "symbol": "PRCH",
+  "type": "TRC20",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

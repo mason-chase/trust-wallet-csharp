@@ -1,0 +1,18 @@
+{
+  "id": "0x1d8cA7baf0895Da8afcf153657bE064b5092a274",
+  "address": "0x1d8cA7baf0895Da8afcf153657bE064b5092a274",
+  "blockchain": "ethereum",
+  "name": "EthLyteToken",
+  "website": "https://ethlyte.tech",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1d8cA7baf0895Da8afcf153657bE064b5092a274",
+  "research": null,
+  "symbol": "EtLyteT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

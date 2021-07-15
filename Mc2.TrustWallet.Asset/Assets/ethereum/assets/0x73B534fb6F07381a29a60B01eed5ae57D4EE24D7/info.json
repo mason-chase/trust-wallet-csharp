@@ -1,0 +1,18 @@
+{
+  "id": "0x73B534fb6F07381a29a60B01eed5ae57D4EE24D7",
+  "address": "0x73B534fb6F07381a29a60B01eed5ae57D4EE24D7",
+  "blockchain": "ethereum",
+  "name": "SENDERON",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x73B534fb6F07381a29a60B01eed5ae57D4EE24D7",
+  "research": null,
+  "symbol": "SDRN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

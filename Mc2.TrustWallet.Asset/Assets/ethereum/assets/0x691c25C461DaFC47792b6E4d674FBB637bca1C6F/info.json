@@ -1,0 +1,18 @@
+{
+  "id": "0x691c25C461DaFC47792b6E4d674FBB637bca1C6F",
+  "address": "0x691c25C461DaFC47792b6E4d674FBB637bca1C6F",
+  "blockchain": "ethereum",
+  "name": "iBBT Utility Token",
+  "website": "https://ibbt.io",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x691c25C461DaFC47792b6E4d674FBB637bca1C6F",
+  "research": null,
+  "symbol": "iBBT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

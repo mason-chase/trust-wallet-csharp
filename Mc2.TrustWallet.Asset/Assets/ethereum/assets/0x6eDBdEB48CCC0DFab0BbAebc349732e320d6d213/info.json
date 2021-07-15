@@ -1,0 +1,18 @@
+{
+  "id": "0x6eDBdEB48CCC0DFab0BbAebc349732e320d6d213",
+  "address": "0x6eDBdEB48CCC0DFab0BbAebc349732e320d6d213",
+  "blockchain": "ethereum",
+  "name": "YesManCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6eDBdEB48CCC0DFab0BbAebc349732e320d6d213",
+  "research": null,
+  "symbol": "YESM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

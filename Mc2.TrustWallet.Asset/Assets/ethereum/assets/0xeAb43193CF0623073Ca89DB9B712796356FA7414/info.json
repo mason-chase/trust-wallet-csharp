@@ -1,0 +1,18 @@
+{
+  "id": "0xeAb43193CF0623073Ca89DB9B712796356FA7414",
+  "address": "0xeAb43193CF0623073Ca89DB9B712796356FA7414",
+  "blockchain": "ethereum",
+  "name": "GOLDX",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xeAb43193CF0623073Ca89DB9B712796356FA7414",
+  "research": null,
+  "symbol": "GOLDX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x60db53521c1563C89E55D9FcEDa8D47F55c14d0e",
+  "address": "0x60db53521c1563C89E55D9FcEDa8D47F55c14d0e",
+  "blockchain": "ethereum",
+  "name": "e-Money DKK stablecoin",
+  "website": "https://e-money.com",
+  "description": "ERC20 version of the e-Money DKK stablecoin",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x60db53521c1563C89E55D9FcEDa8D47F55c14d0e",
+  "research": null,
+  "symbol": "EDKK",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

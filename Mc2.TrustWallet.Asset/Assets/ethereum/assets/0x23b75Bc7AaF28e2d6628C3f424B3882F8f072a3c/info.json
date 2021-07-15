@@ -1,0 +1,18 @@
+{
+  "id": "0x23b75Bc7AaF28e2d6628C3f424B3882F8f072a3c",
+  "address": "0x23b75Bc7AaF28e2d6628C3f424B3882F8f072a3c",
+  "blockchain": "ethereum",
+  "name": "Vice",
+  "website": "https://www.visionindustry.com",
+  "description": "Adult Entertainment Platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x23b75Bc7AaF28e2d6628C3f424B3882F8f072a3c",
+  "research": null,
+  "symbol": "VIT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x667bEbFf5cda3C4A460B514aB478Da0A8cF80910",
+  "address": "0x667bEbFf5cda3C4A460B514aB478Da0A8cF80910",
+  "blockchain": "smartchain",
+  "name": "Bitcoin And Ethereum Standard Token",
+  "website": "https://bestokens.network",
+  "description": "Hashrate 2.0 ecosystem token. Link traditional crypto assets mining industry and cutting-edge Defi tech.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x667bEbFf5cda3C4A460B514aB478Da0A8cF80910",
+  "research": null,
+  "symbol": "BEST",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

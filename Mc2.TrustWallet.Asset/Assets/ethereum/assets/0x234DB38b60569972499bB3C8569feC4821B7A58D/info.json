@@ -1,0 +1,18 @@
+{
+  "id": "0x234DB38b60569972499bB3C8569feC4821B7A58D",
+  "address": "0x234DB38b60569972499bB3C8569feC4821B7A58D",
+  "blockchain": "ethereum",
+  "name": "Easybit",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x234DB38b60569972499bB3C8569feC4821B7A58D",
+  "research": null,
+  "symbol": "ESYT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

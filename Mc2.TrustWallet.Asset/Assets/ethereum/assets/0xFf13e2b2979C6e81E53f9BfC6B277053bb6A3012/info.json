@@ -1,0 +1,18 @@
+{
+  "id": "0xFf13e2b2979C6e81E53f9BfC6B277053bb6A3012",
+  "address": "0xFf13e2b2979C6e81E53f9BfC6B277053bb6A3012",
+  "blockchain": "ethereum",
+  "name": "yamCRV.org",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xFf13e2b2979C6e81E53f9BfC6B277053bb6A3012",
+  "research": null,
+  "symbol": "yamCRV",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xb96207E0a45a953953109B6E2DCB8F4b72eC7462",
+  "address": "0xb96207E0a45a953953109B6E2DCB8F4b72eC7462",
+  "blockchain": "ethereum",
+  "name": "Insure Network",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb96207E0a45a953953109B6E2DCB8F4b72eC7462",
+  "research": null,
+  "symbol": "ISNK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

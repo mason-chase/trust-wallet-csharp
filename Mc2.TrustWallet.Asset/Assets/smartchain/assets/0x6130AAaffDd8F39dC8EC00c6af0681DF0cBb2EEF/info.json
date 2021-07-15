@@ -1,0 +1,18 @@
+{
+  "id": "0x6130AAaffDd8F39dC8EC00c6af0681DF0cBb2EEF",
+  "address": "0x6130AAaffDd8F39dC8EC00c6af0681DF0cBb2EEF",
+  "blockchain": "smartchain",
+  "name": "PRYZ",
+  "website": "https://pryz.io",
+  "description": "PRYZ is a new community driven protocol, offering holders rewards with a difference.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x6130AAaffDd8F39dC8EC00c6af0681DF0cBb2EEF",
+  "research": null,
+  "symbol": "PRYZ",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

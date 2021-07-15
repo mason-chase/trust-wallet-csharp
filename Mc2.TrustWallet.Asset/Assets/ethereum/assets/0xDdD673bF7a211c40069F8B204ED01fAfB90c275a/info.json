@@ -1,0 +1,18 @@
+{
+  "id": "0xDdD673bF7a211c40069F8B204ED01fAfB90c275a",
+  "address": "0xDdD673bF7a211c40069F8B204ED01fAfB90c275a",
+  "blockchain": "ethereum",
+  "name": "Chanel",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDdD673bF7a211c40069F8B204ED01fAfB90c275a",
+  "research": null,
+  "symbol": "CHANEL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "BAT-07A",
+  "address": "BAT-07A",
+  "blockchain": "binance",
+  "name": "Basic Attention Token",
+  "website": "https://basicattentiontoken.org",
+  "description": "Basic Attention Token (BAT) project is an open-source, decentralized ad exchange platform built, on the Ethereum platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/BAT-07A",
+  "research": "https://research.binance.com/en/projects/basic-attention-token",
+  "symbol": "BAT",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

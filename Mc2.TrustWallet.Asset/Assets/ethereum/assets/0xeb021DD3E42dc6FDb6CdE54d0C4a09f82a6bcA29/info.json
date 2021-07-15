@@ -1,0 +1,18 @@
+{
+  "id": "0xeb021DD3E42dc6FDb6CdE54d0C4a09f82a6bcA29",
+  "address": "0xeb021DD3E42dc6FDb6CdE54d0C4a09f82a6bcA29",
+  "blockchain": "ethereum",
+  "name": "FNKOSToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xeb021DD3E42dc6FDb6CdE54d0C4a09f82a6bcA29",
+  "research": null,
+  "symbol": "FNKOS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

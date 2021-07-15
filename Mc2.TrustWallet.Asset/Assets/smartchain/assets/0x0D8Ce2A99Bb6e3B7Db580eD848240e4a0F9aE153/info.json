@@ -1,0 +1,18 @@
+{
+  "id": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
+  "address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
+  "blockchain": "smartchain",
+  "name": "Filecoin",
+  "website": "https://filecoin.io",
+  "description": "Filecoin provides a blockchain-based marketplace that aims to revolutionize the global storage economy.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
+  "research": "https://research.binance.com/en/projects/filecoin",
+  "symbol": "FIL",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

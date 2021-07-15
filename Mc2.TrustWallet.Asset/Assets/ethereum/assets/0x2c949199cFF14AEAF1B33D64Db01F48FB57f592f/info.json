@@ -1,0 +1,18 @@
+{
+  "id": "0x2c949199cFF14AEAF1B33D64Db01F48FB57f592f",
+  "address": "0x2c949199cFF14AEAF1B33D64Db01F48FB57f592f",
+  "blockchain": "ethereum",
+  "name": "CoinBene Coin",
+  "website": "https://www.coinbene.com/#/coni",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2c949199cFF14AEAF1B33D64Db01F48FB57f592f",
+  "research": null,
+  "symbol": "CONI",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

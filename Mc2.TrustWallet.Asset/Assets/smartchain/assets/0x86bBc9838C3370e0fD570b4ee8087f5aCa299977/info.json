@@ -1,0 +1,18 @@
+{
+  "id": "0x86bBc9838C3370e0fD570b4ee8087f5aCa299977",
+  "address": "0x86bBc9838C3370e0fD570b4ee8087f5aCa299977",
+  "blockchain": "smartchain",
+  "name": "Blackberry token",
+  "website": "https://www.blackberrytoken.com/",
+  "description": "BlackBerry token is an innovative Binance Smart Chain token that is designed for maximizing profits in the DeFI yield generation.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x86bBc9838C3370e0fD570b4ee8087f5aCa299977",
+  "research": null,
+  "symbol": "BB",
+  "type": "BEP20",
+  "decimals": 0,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

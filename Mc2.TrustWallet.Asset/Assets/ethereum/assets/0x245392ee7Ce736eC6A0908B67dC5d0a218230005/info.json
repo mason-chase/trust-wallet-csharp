@@ -1,0 +1,18 @@
+{
+  "id": "0x245392ee7Ce736eC6A0908B67dC5d0a218230005",
+  "address": "0x245392ee7Ce736eC6A0908B67dC5d0a218230005",
+  "blockchain": "ethereum",
+  "name": "YAPSTONE",
+  "website": "http://www.yapstone.pro/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x245392ee7Ce736eC6A0908B67dC5d0a218230005",
+  "research": null,
+  "symbol": "YAP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

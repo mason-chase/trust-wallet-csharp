@@ -1,0 +1,18 @@
+{
+  "id": "0x395f7bC771DB53732025547458f96Ee217aF6aD1",
+  "address": "0x395f7bC771DB53732025547458f96Ee217aF6aD1",
+  "blockchain": "ethereum",
+  "name": "ieo services",
+  "website": "https://ieoservicetoken.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x395f7bC771DB53732025547458f96Ee217aF6aD1",
+  "research": null,
+  "symbol": "ieos",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

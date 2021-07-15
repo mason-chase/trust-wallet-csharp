@@ -1,0 +1,18 @@
+{
+  "id": "0x182A603541a4483c308475147D621bbB4E2587c6",
+  "address": "0x182A603541a4483c308475147D621bbB4E2587c6",
+  "blockchain": "ethereum",
+  "name": "ZBToken",
+  "website": "https://zerobank.cash/",
+  "description": "Zerobank is a legal ecosystem utilizing blockchain and smart contract.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x182A603541a4483c308475147D621bbB4E2587c6",
+  "research": null,
+  "symbol": "ZB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

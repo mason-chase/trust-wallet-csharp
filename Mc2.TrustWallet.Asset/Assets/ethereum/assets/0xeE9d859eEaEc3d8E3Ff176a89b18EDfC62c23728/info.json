@@ -1,0 +1,18 @@
+{
+  "id": "0xeE9d859eEaEc3d8E3Ff176a89b18EDfC62c23728",
+  "address": "0xeE9d859eEaEc3d8E3Ff176a89b18EDfC62c23728",
+  "blockchain": "ethereum",
+  "name": "Flippers",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xeE9d859eEaEc3d8E3Ff176a89b18EDfC62c23728",
+  "research": null,
+  "symbol": "PEEP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

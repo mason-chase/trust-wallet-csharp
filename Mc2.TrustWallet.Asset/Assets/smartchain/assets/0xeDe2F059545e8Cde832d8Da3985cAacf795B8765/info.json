@@ -1,0 +1,18 @@
+{
+  "id": "0xeDe2F059545e8Cde832d8Da3985cAacf795B8765",
+  "address": "0xeDe2F059545e8Cde832d8Da3985cAacf795B8765",
+  "blockchain": "smartchain",
+  "name": "Ormeus Ecosystem",
+  "website": "https://eco-system.io/",
+  "description": "The World’s First Business-Backed Blockchain Smart Economy.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xeDe2F059545e8Cde832d8Da3985cAacf795B8765",
+  "research": null,
+  "symbol": "ECO",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

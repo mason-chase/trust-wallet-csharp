@@ -1,0 +1,18 @@
+{
+  "id": "0x6fFF3806Bbac52A20e0d79BC538d527f6a22c96b",
+  "address": "0x6fFF3806Bbac52A20e0d79BC538d527f6a22c96b",
+  "blockchain": "ethereum",
+  "name": "0x0000000000000000000000000000000000000000000000000000000000000020",
+  "website": "https://cdxnet.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6fFF3806Bbac52A20e0d79BC538d527f6a22c96b",
+  "research": null,
+  "symbol": "CDX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

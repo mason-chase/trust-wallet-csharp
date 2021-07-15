@@ -1,0 +1,18 @@
+{
+  "id": "QBX-38C",
+  "address": "QBX-38C",
+  "blockchain": "binance",
+  "name": "qiibeeToken",
+  "website": "https://qiibee.com/",
+  "description": "Through qiibee’s plug & play solutions, businesses worldwide are running and operating loyalty programs on the blockchain in a few hours, while reducing costs and maximizing customer lifetime value.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/QBX-38C",
+  "research": null,
+  "symbol": "QBX",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

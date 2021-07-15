@@ -1,0 +1,18 @@
+{
+  "id": "INJ-FAE",
+  "address": "INJ-FAE",
+  "blockchain": "binance",
+  "name": "Injective Protocol",
+  "website": "https://injectiveprotocol.com/",
+  "description": "The Injective Chain is a fully-decentralized sidechain relayer network which serves as a layer- 2 derivatives platform, trade execution coordinator(TEC), and decentralized orderbook.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/INJ-FAE",
+  "research": null,
+  "symbol": "INJ",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

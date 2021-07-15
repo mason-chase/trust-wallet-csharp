@@ -1,0 +1,35 @@
+{
+  "id": "0x4a621d9f1b19296d1C0f87637b3A8D4978e9bf82",
+  "address": "0x4a621d9f1b19296d1C0f87637b3A8D4978e9bf82",
+  "blockchain": "ethereum",
+  "name": "CyberFM Radio",
+  "website": "https://cyber-fm.com",
+  "description": "Utility token to reward Radio listeners and is 1 of 2 in the DLPRO Dual Token Economy.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4a621d9f1b19296d1C0f87637b3A8D4978e9bf82",
+  "research": null,
+  "symbol": "CYFM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/CyberFM/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/CyberFM"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/mftudotnet"
+    },
+    {
+      "name": "facebook",
+      "url": "https://facebook.com/cyberfm"
+    }
+  ],
+  "tags": null
+}

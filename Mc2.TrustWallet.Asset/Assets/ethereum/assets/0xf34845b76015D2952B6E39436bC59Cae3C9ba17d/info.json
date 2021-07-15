@@ -1,0 +1,18 @@
+{
+  "id": "0xf34845b76015D2952B6E39436bC59Cae3C9ba17d",
+  "address": "0xf34845b76015D2952B6E39436bC59Cae3C9ba17d",
+  "blockchain": "ethereum",
+  "name": "GIGS",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf34845b76015D2952B6E39436bC59Cae3C9ba17d",
+  "research": null,
+  "symbol": "GIGS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

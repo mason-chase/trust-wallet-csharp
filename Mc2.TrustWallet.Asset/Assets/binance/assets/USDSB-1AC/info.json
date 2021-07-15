@@ -1,0 +1,18 @@
+{
+  "id": "USDSB-1AC",
+  "address": "USDSB-1AC",
+  "blockchain": "binance",
+  "name": "USDS",
+  "website": "https://www.stably.io",
+  "description": "Our mission is to make financial transactions faster, cheaper and more transparent through a Borderless Neobanking platform powered by blockchain, stablecoins and open finance APIs.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/USDSB-1AC",
+  "research": null,
+  "symbol": "USDSB",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

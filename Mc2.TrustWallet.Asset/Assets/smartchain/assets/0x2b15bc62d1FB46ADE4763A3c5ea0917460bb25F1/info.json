@@ -1,0 +1,18 @@
+{
+  "id": "0x2b15bc62d1FB46ADE4763A3c5ea0917460bb25F1",
+  "address": "0x2b15bc62d1FB46ADE4763A3c5ea0917460bb25F1",
+  "blockchain": "smartchain",
+  "name": "Morphose",
+  "website": "https://morphose.cash",
+  "description": "Fully Decentralized Protocol for Private Transactions on Binance Smart Chain",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x2b15bc62d1FB46ADE4763A3c5ea0917460bb25F1",
+  "research": null,
+  "symbol": "MORPH",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

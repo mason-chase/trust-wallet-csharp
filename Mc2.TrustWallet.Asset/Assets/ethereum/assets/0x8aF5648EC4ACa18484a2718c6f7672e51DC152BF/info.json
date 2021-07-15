@@ -1,0 +1,18 @@
+{
+  "id": "0x8aF5648EC4ACa18484a2718c6f7672e51DC152BF",
+  "address": "0x8aF5648EC4ACa18484a2718c6f7672e51DC152BF",
+  "blockchain": "ethereum",
+  "name": "Payeer KRW",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8aF5648EC4ACa18484a2718c6f7672e51DC152BF",
+  "research": null,
+  "symbol": "PKRW",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

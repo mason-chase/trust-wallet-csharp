@@ -1,0 +1,18 @@
+{
+  "id": "0x229B239b7d00AA2A41C8B74B1dB50a821f58D31a",
+  "address": "0x229B239b7d00AA2A41C8B74B1dB50a821f58D31a",
+  "blockchain": "ethereum",
+  "name": "FRUITS",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x229B239b7d00AA2A41C8B74B1dB50a821f58D31a",
+  "research": null,
+  "symbol": "FRTS",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

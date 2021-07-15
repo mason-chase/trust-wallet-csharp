@@ -1,0 +1,23 @@
+{
+  "id": "0xAB7aaf9e485a3bc885985184ABE9FC6Aba727bD6",
+  "address": "0xAB7aaf9e485a3bc885985184ABE9FC6Aba727bD6",
+  "blockchain": "ethereum",
+  "name": "MANY",
+  "website": "https://many.global",
+  "description": "MANY is a community born and operated project combining YF and NFT.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xAB7aaf9e485a3bc885985184ABE9FC6Aba727bD6",
+  "research": null,
+  "symbol": "MANY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/MANYToken"
+    }
+  ],
+  "tags": null
+}

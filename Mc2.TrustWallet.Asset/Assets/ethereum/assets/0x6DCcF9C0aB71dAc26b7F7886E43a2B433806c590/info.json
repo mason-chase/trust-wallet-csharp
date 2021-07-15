@@ -1,0 +1,18 @@
+{
+  "id": "0x6DCcF9C0aB71dAc26b7F7886E43a2B433806c590",
+  "address": "0x6DCcF9C0aB71dAc26b7F7886E43a2B433806c590",
+  "blockchain": "ethereum",
+  "name": "vibrant",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6DCcF9C0aB71dAc26b7F7886E43a2B433806c590",
+  "research": null,
+  "symbol": "VBX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

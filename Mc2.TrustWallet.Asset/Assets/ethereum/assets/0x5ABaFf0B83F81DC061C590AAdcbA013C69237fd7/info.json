@@ -1,0 +1,18 @@
+{
+  "id": "0x5ABaFf0B83F81DC061C590AAdcbA013C69237fd7",
+  "address": "0x5ABaFf0B83F81DC061C590AAdcbA013C69237fd7",
+  "blockchain": "ethereum",
+  "name": "Jade Token",
+  "website": "https://www.jadecurrency.com/",
+  "description": "Jade Currency aims to change the world the world by allowing the public to pay for Jade with our token safely and easily.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5ABaFf0B83F81DC061C590AAdcbA013C69237fd7",
+  "research": null,
+  "symbol": "JADE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

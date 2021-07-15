@@ -1,0 +1,18 @@
+{
+  "id": "0xe1F4328DEF6AE4aE2EEAc62D58BaEaEcF05E8d30",
+  "address": "0xe1F4328DEF6AE4aE2EEAc62D58BaEaEcF05E8d30",
+  "blockchain": "ethereum",
+  "name": "Serve",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe1F4328DEF6AE4aE2EEAc62D58BaEaEcF05E8d30",
+  "research": null,
+  "symbol": "SERV",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

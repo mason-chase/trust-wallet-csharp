@@ -1,0 +1,18 @@
+{
+  "id": "0xD7b3669C7d3E38aB5a441383D41F25E003e02148",
+  "address": "0xD7b3669C7d3E38aB5a441383D41F25E003e02148",
+  "blockchain": "ethereum",
+  "name": "SealToken",
+  "website": "https://seal.network/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xD7b3669C7d3E38aB5a441383D41F25E003e02148",
+  "research": null,
+  "symbol": "SEAL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

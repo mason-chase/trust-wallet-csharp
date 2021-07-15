@@ -1,0 +1,18 @@
+{
+  "id": "0x2A5e6368d6711979B333E2db8707b4C5b1AaF7C2",
+  "address": "0x2A5e6368d6711979B333E2db8707b4C5b1AaF7C2",
+  "blockchain": "ethereum",
+  "name": "AsianCapitalChain",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2A5e6368d6711979B333E2db8707b4C5b1AaF7C2",
+  "research": null,
+  "symbol": "ACC",
+  "type": "ERC20",
+  "decimals": 7,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

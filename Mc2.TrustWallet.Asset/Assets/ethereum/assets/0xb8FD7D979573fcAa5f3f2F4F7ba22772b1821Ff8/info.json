@@ -1,0 +1,18 @@
+{
+  "id": "0xb8FD7D979573fcAa5f3f2F4F7ba22772b1821Ff8",
+  "address": "0xb8FD7D979573fcAa5f3f2F4F7ba22772b1821Ff8",
+  "blockchain": "ethereum",
+  "name": "KingCoinMaster",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb8FD7D979573fcAa5f3f2F4F7ba22772b1821Ff8",
+  "research": null,
+  "symbol": "KCM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

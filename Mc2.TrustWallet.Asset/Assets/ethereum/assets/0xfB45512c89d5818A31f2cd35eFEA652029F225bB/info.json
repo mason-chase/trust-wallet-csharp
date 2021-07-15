@@ -1,0 +1,18 @@
+{
+  "id": "0xfB45512c89d5818A31f2cd35eFEA652029F225bB",
+  "address": "0xfB45512c89d5818A31f2cd35eFEA652029F225bB",
+  "blockchain": "ethereum",
+  "name": "Financebull",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xfB45512c89d5818A31f2cd35eFEA652029F225bB",
+  "research": null,
+  "symbol": "FB",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xA858bC1b71a895Ee83B92F149616F9B3F6Afa0FB",
+  "address": "0xA858bC1b71a895Ee83B92F149616F9B3F6Afa0FB",
+  "blockchain": "ethereum",
+  "name": "Kambria Token",
+  "website": "https://kambria.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA858bC1b71a895Ee83B92F149616F9B3F6Afa0FB",
+  "research": null,
+  "symbol": "KAT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x500d15aA5b01E7eb77e4D4C8283Df3E6c49Da754",
+  "address": "0x500d15aA5b01E7eb77e4D4C8283Df3E6c49Da754",
+  "blockchain": "ethereum",
+  "name": "Hashthereum",
+  "website": "https://hashthereum.info/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x500d15aA5b01E7eb77e4D4C8283Df3E6c49Da754",
+  "research": null,
+  "symbol": "HETH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

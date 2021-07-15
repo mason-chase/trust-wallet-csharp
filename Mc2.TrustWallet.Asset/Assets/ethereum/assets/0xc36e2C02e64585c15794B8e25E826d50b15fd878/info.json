@@ -1,0 +1,18 @@
+{
+  "id": "0xc36e2C02e64585c15794B8e25E826d50b15fd878",
+  "address": "0xc36e2C02e64585c15794B8e25E826d50b15fd878",
+  "blockchain": "ethereum",
+  "name": "Animeyen",
+  "website": "https://animeyen.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc36e2C02e64585c15794B8e25E826d50b15fd878",
+  "research": null,
+  "symbol": "ANIME",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

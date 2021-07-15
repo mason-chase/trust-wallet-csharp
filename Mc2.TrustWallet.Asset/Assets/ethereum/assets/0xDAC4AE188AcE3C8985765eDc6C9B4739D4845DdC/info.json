@@ -1,0 +1,18 @@
+{
+  "id": "0xDAC4AE188AcE3C8985765eDc6C9B4739D4845DdC",
+  "address": "0xDAC4AE188AcE3C8985765eDc6C9B4739D4845DdC",
+  "blockchain": "ethereum",
+  "name": "InterValue",
+  "website": "http://www.inve.one",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDAC4AE188AcE3C8985765eDc6C9B4739D4845DdC",
+  "research": null,
+  "symbol": "INVE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

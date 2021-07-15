@@ -1,0 +1,18 @@
+{
+  "id": "0x80640db285Cc63496bdd8c1980A7f4526A4D477F",
+  "address": "0x80640db285Cc63496bdd8c1980A7f4526A4D477F",
+  "blockchain": "ethereum",
+  "name": "BeatzCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x80640db285Cc63496bdd8c1980A7f4526A4D477F",
+  "research": null,
+  "symbol": "BTZC",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

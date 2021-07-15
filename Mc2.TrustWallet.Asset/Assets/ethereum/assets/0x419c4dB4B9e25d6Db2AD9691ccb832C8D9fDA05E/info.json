@@ -1,0 +1,18 @@
+{
+  "id": "0x419c4dB4B9e25d6Db2AD9691ccb832C8D9fDA05E",
+  "address": "0x419c4dB4B9e25d6Db2AD9691ccb832C8D9fDA05E",
+  "blockchain": "ethereum",
+  "name": "Dragon",
+  "website": "https://dragonchain.com/",
+  "description": "Dragonchain is a hybrid blockchain platform, where sensitive business logic and smart contract functionality is held by the owner. Its cryptocurrency is denoted by the symbol DGRN.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x419c4dB4B9e25d6Db2AD9691ccb832C8D9fDA05E",
+  "research": null,
+  "symbol": "DRGN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x6984337918DdDD917c36456facE3a73f1b27BC38",
+  "address": "0x6984337918DdDD917c36456facE3a73f1b27BC38",
+  "blockchain": "ethereum",
+  "name": "MakersProtocol",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6984337918DdDD917c36456facE3a73f1b27BC38",
+  "research": null,
+  "symbol": "MP",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

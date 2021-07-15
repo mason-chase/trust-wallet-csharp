@@ -1,0 +1,18 @@
+{
+  "id": "0xe984ADE4D5daFA623180460759F4073b6a470656",
+  "address": "0xe984ADE4D5daFA623180460759F4073b6a470656",
+  "blockchain": "ethereum",
+  "name": "0xzx",
+  "website": "https://0xzx.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe984ADE4D5daFA623180460759F4073b6a470656",
+  "research": null,
+  "symbol": "0xzx",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

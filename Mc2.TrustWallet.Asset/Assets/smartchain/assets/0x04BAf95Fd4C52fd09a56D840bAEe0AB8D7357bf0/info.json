@@ -1,0 +1,18 @@
+{
+  "id": "0x04BAf95Fd4C52fd09a56D840bAEe0AB8D7357bf0",
+  "address": "0x04BAf95Fd4C52fd09a56D840bAEe0AB8D7357bf0",
+  "blockchain": "smartchain",
+  "name": "ONE Token",
+  "website": "https://bigone.com/en",
+  "description": "ONE is a token issued by the BigONE trading platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x04BAf95Fd4C52fd09a56D840bAEe0AB8D7357bf0",
+  "research": null,
+  "symbol": "ONE",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

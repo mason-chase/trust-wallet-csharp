@@ -1,0 +1,18 @@
+{
+  "id": "0x5565E9824e9d4a9F4175D912A7376d3A10e187Ba",
+  "address": "0x5565E9824e9d4a9F4175D912A7376d3A10e187Ba",
+  "blockchain": "ethereum",
+  "name": "PWCC",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5565E9824e9d4a9F4175D912A7376d3A10e187Ba",
+  "research": null,
+  "symbol": "PWCC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

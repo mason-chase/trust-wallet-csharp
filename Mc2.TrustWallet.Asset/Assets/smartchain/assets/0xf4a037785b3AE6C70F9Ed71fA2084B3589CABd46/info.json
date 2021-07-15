@@ -1,0 +1,18 @@
+{
+  "id": "0xf4a037785b3AE6C70F9Ed71fA2084B3589CABd46",
+  "address": "0xf4a037785b3AE6C70F9Ed71fA2084B3589CABd46",
+  "blockchain": "smartchain",
+  "name": "MEMEX.EXCHANGE",
+  "website": "https://memex.exchange",
+  "description": "The first multi-chain DEX for MEME tokens with an entire ecosystem around meme tokens.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xf4a037785b3AE6C70F9Ed71fA2084B3589CABd46",
+  "research": null,
+  "symbol": "MEMEX",
+  "type": "BEP20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

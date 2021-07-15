@@ -1,0 +1,18 @@
+{
+  "id": "0xDC4A7A6632b1aF0e4E0A3C424936563A08503126",
+  "address": "0xDC4A7A6632b1aF0e4E0A3C424936563A08503126",
+  "blockchain": "ethereum",
+  "name": "StarlightToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDC4A7A6632b1aF0e4E0A3C424936563A08503126",
+  "research": null,
+  "symbol": "STRT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x720c2c93F5f9A6b82226e84095558B10F399b0FA",
+  "address": "0x720c2c93F5f9A6b82226e84095558B10F399b0FA",
+  "blockchain": "ethereum",
+  "name": "Gric Coin",
+  "website": "https://agric.io/",
+  "description": "Gric Coin (GC) is an Agricultural Blockchain Project that is focused on improving agricultural practice and increase agricultural output globally with the major focus on Africa.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x720c2c93F5f9A6b82226e84095558B10F399b0FA",
+  "research": null,
+  "symbol": "GC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

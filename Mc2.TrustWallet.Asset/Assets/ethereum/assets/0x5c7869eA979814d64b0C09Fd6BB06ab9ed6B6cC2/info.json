@@ -1,0 +1,18 @@
+{
+  "id": "0x5c7869eA979814d64b0C09Fd6BB06ab9ed6B6cC2",
+  "address": "0x5c7869eA979814d64b0C09Fd6BB06ab9ed6B6cC2",
+  "blockchain": "ethereum",
+  "name": "Kaze Coin Group",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5c7869eA979814d64b0C09Fd6BB06ab9ed6B6cC2",
+  "research": null,
+  "symbol": "KCG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

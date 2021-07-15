@@ -1,0 +1,18 @@
+{
+  "id": "0xEdF44412B47A76e452FD133794e45d9485E4cd4b",
+  "address": "0xEdF44412B47A76e452FD133794e45d9485E4cd4b",
+  "blockchain": "ethereum",
+  "name": "Kingcuan",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xEdF44412B47A76e452FD133794e45d9485E4cd4b",
+  "research": null,
+  "symbol": "CUAN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x1D4cCC31dAB6EA20f461d329a0562C1c58412515",
+  "address": "0x1D4cCC31dAB6EA20f461d329a0562C1c58412515",
+  "blockchain": "ethereum",
+  "name": "Talao",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1D4cCC31dAB6EA20f461d329a0562C1c58412515",
+  "research": null,
+  "symbol": "TALAO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

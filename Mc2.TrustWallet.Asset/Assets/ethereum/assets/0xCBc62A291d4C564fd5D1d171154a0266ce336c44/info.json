@@ -1,0 +1,27 @@
+{
+  "id": "0xCBc62A291d4C564fd5D1d171154a0266ce336c44",
+  "address": "0xCBc62A291d4C564fd5D1d171154a0266ce336c44",
+  "blockchain": "ethereum",
+  "name": "ZYTH",
+  "website": "https://uzyth.com/",
+  "description": "ZYTH is used to lower commission fees on the exchange, currency pairing, casino games, marketplace and even to pay members ads on our social platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xCBc62A291d4C564fd5D1d171154a0266ce336c44",
+  "research": null,
+  "symbol": "ZYTH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/zythtech"
+    },
+    {
+      "name": "white_paper",
+      "url": "https://18.190.113.58//api.uzyth.com/uploaded_media/downloads/1591291137645_download.pdf"
+    }
+  ],
+  "tags": null
+}

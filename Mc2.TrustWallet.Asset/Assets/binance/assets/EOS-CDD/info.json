@@ -1,0 +1,18 @@
+{
+  "id": "EOS-CDD",
+  "address": "EOS-CDD",
+  "blockchain": "binance",
+  "name": "EOS BEP2",
+  "website": "https://binance.org",
+  "description": "EOS BEP2 is a token on Binance Chain issued by Binance, where the price is pegged to EOS at a rate of 1 EOS BEP2 = 1 EOS",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/EOS-CDD",
+  "research": null,
+  "symbol": "EOS",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "0x9b9D617D3445f0147Ece2322BaCe8db2768D2770",
+  "address": "0x9b9D617D3445f0147Ece2322BaCe8db2768D2770",
+  "blockchain": "smartchain",
+  "name": "CUE Protocol",
+  "website": "https://cuep.io/",
+  "description": "CUE Protocol is a deflationary asset with actual use cases through dapps.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x9b9D617D3445f0147Ece2322BaCe8db2768D2770",
+  "research": null,
+  "symbol": "CUE",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/cueprotocol"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/cueprotolchat"
+    }
+  ],
+  "tags": null
+}

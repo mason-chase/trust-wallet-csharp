@@ -1,0 +1,18 @@
+{
+  "id": "0xB4DA9B3a8c3DA21Cd2d3D5656d12E8EB6d6934Ee",
+  "address": "0xB4DA9B3a8c3DA21Cd2d3D5656d12E8EB6d6934Ee",
+  "blockchain": "ethereum",
+  "name": "EQR V3/3561",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB4DA9B3a8c3DA21Cd2d3D5656d12E8EB6d6934Ee",
+  "research": null,
+  "symbol": "EQR",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

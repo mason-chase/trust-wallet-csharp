@@ -1,0 +1,18 @@
+{
+  "id": "0x94056dc6d570fD9132b028Bb3F3064AD141cF5D0",
+  "address": "0x94056dc6d570fD9132b028Bb3F3064AD141cF5D0",
+  "blockchain": "ethereum",
+  "name": "THE GLOBAL CHAIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x94056dc6d570fD9132b028Bb3F3064AD141cF5D0",
+  "research": null,
+  "symbol": "AGP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

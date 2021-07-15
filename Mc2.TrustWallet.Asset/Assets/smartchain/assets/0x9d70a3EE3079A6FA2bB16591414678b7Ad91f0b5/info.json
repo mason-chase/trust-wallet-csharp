@@ -1,0 +1,18 @@
+{
+  "id": "0x9d70a3EE3079A6FA2bB16591414678b7Ad91f0b5",
+  "address": "0x9d70a3EE3079A6FA2bB16591414678b7Ad91f0b5",
+  "blockchain": "smartchain",
+  "name": "MemePad",
+  "website": "https://memepad.co",
+  "description": "MemePad is an IDO launchpad that focuses primarily on Meme Coins and Micro-Cap projects.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x9d70a3EE3079A6FA2bB16591414678b7Ad91f0b5",
+  "research": null,
+  "symbol": "MEPAD",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xBCD2Eac03b41c8afb199455fDe76F11f5249A7b1",
+  "address": "0xBCD2Eac03b41c8afb199455fDe76F11f5249A7b1",
+  "blockchain": "ethereum",
+  "name": "ATIS Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xBCD2Eac03b41c8afb199455fDe76F11f5249A7b1",
+  "research": null,
+  "symbol": "ATIS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

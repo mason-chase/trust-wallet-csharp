@@ -1,0 +1,18 @@
+{
+  "id": "0xdb0F69306FF8F949f258E83f6b87ee5D052d0b23",
+  "address": "0xdb0F69306FF8F949f258E83f6b87ee5D052d0b23",
+  "blockchain": "ethereum",
+  "name": "GlobCoin Crypto Platform",
+  "website": "https://globcoin.io",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xdb0F69306FF8F949f258E83f6b87ee5D052d0b23",
+  "research": null,
+  "symbol": "GCP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

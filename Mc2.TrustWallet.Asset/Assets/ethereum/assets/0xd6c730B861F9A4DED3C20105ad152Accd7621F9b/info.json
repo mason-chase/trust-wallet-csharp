@@ -1,0 +1,18 @@
+{
+  "id": "0xd6c730B861F9A4DED3C20105ad152Accd7621F9b",
+  "address": "0xd6c730B861F9A4DED3C20105ad152Accd7621F9b",
+  "blockchain": "ethereum",
+  "name": "TTX",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd6c730B861F9A4DED3C20105ad152Accd7621F9b",
+  "research": null,
+  "symbol": "TTX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

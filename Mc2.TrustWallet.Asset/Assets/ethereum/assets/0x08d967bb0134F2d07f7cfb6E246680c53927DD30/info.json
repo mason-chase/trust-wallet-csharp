@@ -1,0 +1,18 @@
+{
+  "id": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
+  "address": "0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
+  "blockchain": "ethereum",
+  "name": "MATH Token",
+  "website": "https://mathwallet.org/",
+  "description": "65+ Popular public chains supported",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x08d967bb0134F2d07f7cfb6E246680c53927DD30",
+  "research": null,
+  "symbol": "MATH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

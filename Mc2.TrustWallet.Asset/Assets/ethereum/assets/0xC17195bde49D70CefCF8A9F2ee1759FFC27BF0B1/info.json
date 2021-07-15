@@ -1,0 +1,18 @@
+{
+  "id": "0xC17195bde49D70CefCF8A9F2ee1759FFC27BF0B1",
+  "address": "0xC17195bde49D70CefCF8A9F2ee1759FFC27BF0B1",
+  "blockchain": "ethereum",
+  "name": "Groocoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xC17195bde49D70CefCF8A9F2ee1759FFC27BF0B1",
+  "research": null,
+  "symbol": "GROO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

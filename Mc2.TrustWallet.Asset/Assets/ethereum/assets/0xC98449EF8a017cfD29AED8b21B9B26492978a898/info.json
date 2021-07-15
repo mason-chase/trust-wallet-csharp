@@ -1,0 +1,18 @@
+{
+  "id": "0xC98449EF8a017cfD29AED8b21B9B26492978a898",
+  "address": "0xC98449EF8a017cfD29AED8b21B9B26492978a898",
+  "blockchain": "ethereum",
+  "name": "Fitness Chain",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xC98449EF8a017cfD29AED8b21B9B26492978a898",
+  "research": null,
+  "symbol": "FIT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

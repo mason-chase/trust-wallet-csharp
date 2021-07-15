@@ -1,0 +1,18 @@
+{
+  "id": "0x1C9e21A437B9e98a6Bb66c0fF862864523513135",
+  "address": "0x1C9e21A437B9e98a6Bb66c0fF862864523513135",
+  "blockchain": "ethereum",
+  "name": "The Big Bang",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1C9e21A437B9e98a6Bb66c0fF862864523513135",
+  "research": null,
+  "symbol": "BANG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

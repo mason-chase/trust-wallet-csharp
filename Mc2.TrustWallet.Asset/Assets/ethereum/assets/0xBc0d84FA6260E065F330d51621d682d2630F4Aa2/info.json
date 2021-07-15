@@ -1,0 +1,18 @@
+{
+  "id": "0xBc0d84FA6260E065F330d51621d682d2630F4Aa2",
+  "address": "0xBc0d84FA6260E065F330d51621d682d2630F4Aa2",
+  "blockchain": "ethereum",
+  "name": "BeatBind",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xBc0d84FA6260E065F330d51621d682d2630F4Aa2",
+  "research": null,
+  "symbol": "BBND",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

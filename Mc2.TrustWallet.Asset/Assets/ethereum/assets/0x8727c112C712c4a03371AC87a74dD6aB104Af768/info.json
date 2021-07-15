@@ -1,0 +1,18 @@
+{
+  "id": "0x8727c112C712c4a03371AC87a74dD6aB104Af768",
+  "address": "0x8727c112C712c4a03371AC87a74dD6aB104Af768",
+  "blockchain": "ethereum",
+  "name": "Jetcoin",
+  "website": "http://www.jetcoininstitute.com",
+  "description": "Jetcoin (JET) is a cryptocurrency and operates on the Ethereum platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8727c112C712c4a03371AC87a74dD6aB104Af768",
+  "research": null,
+  "symbol": "JET",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

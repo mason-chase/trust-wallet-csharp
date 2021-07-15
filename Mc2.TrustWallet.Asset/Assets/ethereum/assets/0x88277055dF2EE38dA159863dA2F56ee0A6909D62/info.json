@@ -1,0 +1,18 @@
+{
+  "id": "0x88277055dF2EE38dA159863dA2F56ee0A6909D62",
+  "address": "0x88277055dF2EE38dA159863dA2F56ee0A6909D62",
+  "blockchain": "ethereum",
+  "name": "ANALYSX",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x88277055dF2EE38dA159863dA2F56ee0A6909D62",
+  "research": null,
+  "symbol": "XYS",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

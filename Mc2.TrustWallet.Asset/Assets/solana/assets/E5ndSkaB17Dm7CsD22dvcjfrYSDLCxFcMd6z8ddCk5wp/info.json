@@ -1,0 +1,18 @@
+{
+  "id": "E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp",
+  "address": "E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp",
+  "blockchain": "solana",
+  "name": "Cryptocurrencies.Ai",
+  "website": "https://cryptocurrencies.ai",
+  "description": "Next Generation crypto exchange $CCAI with DeFi products on Solana and CEX with Smart trading.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.solana.com/address/E5ndSkaB17Dm7CsD22dvcjfrYSDLCxFcMd6z8ddCk5wp",
+  "research": null,
+  "symbol": "CCAI",
+  "type": "SPL",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

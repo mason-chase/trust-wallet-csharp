@@ -1,0 +1,18 @@
+{
+  "id": "0xCc34366E3842cA1BD36c1f324d15257960fCC801",
+  "address": "0xCc34366E3842cA1BD36c1f324d15257960fCC801",
+  "blockchain": "ethereum",
+  "name": "Bonpay Token",
+  "website": "https://bonpay.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xCc34366E3842cA1BD36c1f324d15257960fCC801",
+  "research": null,
+  "symbol": "BON",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

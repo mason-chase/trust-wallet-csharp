@@ -1,0 +1,18 @@
+{
+  "id": "0xb0dFd28d3CF7A5897C694904Ace292539242f858",
+  "address": "0xb0dFd28d3CF7A5897C694904Ace292539242f858",
+  "blockchain": "ethereum",
+  "name": "Lotto",
+  "website": "https://www.lotto.finance/",
+  "description": "A massive lottery between everyone in the DeFi space where tokens are automatically removed from all wallets, pooled together, and given to one user at random!",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb0dfd28d3cf7a5897c694904ace292539242f858",
+  "research": null,
+  "symbol": "LOTTO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

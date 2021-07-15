@@ -1,0 +1,18 @@
+{
+  "id": "0x0396340f16Bbec973280AB053efc3f208fA37795",
+  "address": "0x0396340f16Bbec973280AB053efc3f208fA37795",
+  "blockchain": "ethereum",
+  "name": "BigONE Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0396340f16Bbec973280AB053efc3f208fA37795",
+  "research": null,
+  "symbol": "BIG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

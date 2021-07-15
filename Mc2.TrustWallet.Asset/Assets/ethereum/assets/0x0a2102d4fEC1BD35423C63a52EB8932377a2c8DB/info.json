@@ -1,0 +1,18 @@
+{
+  "id": "0x0a2102d4fEC1BD35423C63a52EB8932377a2c8DB",
+  "address": "0x0a2102d4fEC1BD35423C63a52EB8932377a2c8DB",
+  "blockchain": "ethereum",
+  "name": "VIGO Network",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0a2102d4fEC1BD35423C63a52EB8932377a2c8DB",
+  "research": null,
+  "symbol": "VIGO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

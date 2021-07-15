@@ -1,0 +1,18 @@
+{
+  "id": "0x2ba6b1E4424e19816382d15937739959F7DA5fD8",
+  "address": "0x2ba6b1E4424e19816382d15937739959F7DA5fD8",
+  "blockchain": "ethereum",
+  "name": "MEX",
+  "website": "http://introduce.mex.link/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2ba6b1E4424e19816382d15937739959F7DA5fD8",
+  "research": null,
+  "symbol": "MEX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

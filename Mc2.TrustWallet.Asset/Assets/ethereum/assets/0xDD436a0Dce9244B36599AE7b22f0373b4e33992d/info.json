@@ -1,0 +1,18 @@
+{
+  "id": "0xDD436a0Dce9244B36599AE7b22f0373b4e33992d",
+  "address": "0xDD436a0Dce9244B36599AE7b22f0373b4e33992d",
+  "blockchain": "ethereum",
+  "name": "TrustUSD",
+  "website": "https://unitedtrust.co/",
+  "description": "A true token only becomes a currency once it’s used by markets as a store of value and means of exchange. TrustUSD is a stable asset protected against inflation and market volatiltiy while also serving the world’s underbanked.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDD436a0Dce9244B36599AE7b22f0373b4e33992d",
+  "research": null,
+  "symbol": "TRUSD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

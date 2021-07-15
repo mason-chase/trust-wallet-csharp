@@ -1,0 +1,18 @@
+{
+  "id": "0x14094949152EDDBFcd073717200DA82fEd8dC960",
+  "address": "0x14094949152EDDBFcd073717200DA82fEd8dC960",
+  "blockchain": "ethereum",
+  "name": "bZx DAI iToken",
+  "website": "https://bzx.network",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x14094949152EDDBFcd073717200DA82fEd8dC960",
+  "research": null,
+  "symbol": "iDAI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x1876c969027b4A4f95937e93E0Db2Ac2dE152009",
+  "address": "0x1876c969027b4A4f95937e93E0Db2Ac2dE152009",
+  "blockchain": "ethereum",
+  "name": "ViralToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1876c969027b4A4f95937e93E0Db2Ac2dE152009",
+  "research": null,
+  "symbol": "VTO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

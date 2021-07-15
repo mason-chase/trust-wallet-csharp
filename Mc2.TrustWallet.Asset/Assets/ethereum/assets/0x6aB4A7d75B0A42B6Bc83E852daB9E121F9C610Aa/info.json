@@ -1,0 +1,18 @@
+{
+  "id": "0x6aB4A7d75B0A42B6Bc83E852daB9E121F9C610Aa",
+  "address": "0x6aB4A7d75B0A42B6Bc83E852daB9E121F9C610Aa",
+  "blockchain": "ethereum",
+  "name": "Elitium",
+  "website": "https://www.elitium.io/",
+  "description": "Elitium provides a luxury lifestyle platform for its clientele using a sustainable cryptocurrency solution.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6aB4A7d75B0A42B6Bc83E852daB9E121F9C610Aa",
+  "research": null,
+  "symbol": "EUM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

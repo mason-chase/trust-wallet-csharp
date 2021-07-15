@@ -1,0 +1,18 @@
+{
+  "id": "0x3a07572568f1B0B07Aa1A31d01377AA433FE4658",
+  "address": "0x3a07572568f1B0B07Aa1A31d01377AA433FE4658",
+  "blockchain": "ethereum",
+  "name": "Neon Finance",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3a07572568f1B0B07Aa1A31d01377AA433FE4658",
+  "research": null,
+  "symbol": "NFC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

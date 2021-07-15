@@ -1,0 +1,18 @@
+{
+  "id": "1002234",
+  "address": "1002234",
+  "blockchain": "tron",
+  "name": "BOOK",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1002234",
+  "research": null,
+  "symbol": "ART",
+  "type": "TRC10",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

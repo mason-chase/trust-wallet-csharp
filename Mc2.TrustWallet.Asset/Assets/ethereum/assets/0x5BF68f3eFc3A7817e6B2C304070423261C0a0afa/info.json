@@ -1,0 +1,18 @@
+{
+  "id": "0x5BF68f3eFc3A7817e6B2C304070423261C0a0afa",
+  "address": "0x5BF68f3eFc3A7817e6B2C304070423261C0a0afa",
+  "blockchain": "ethereum",
+  "name": "OkNodeToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5BF68f3eFc3A7817e6B2C304070423261C0a0afa",
+  "research": null,
+  "symbol": "OKNC",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

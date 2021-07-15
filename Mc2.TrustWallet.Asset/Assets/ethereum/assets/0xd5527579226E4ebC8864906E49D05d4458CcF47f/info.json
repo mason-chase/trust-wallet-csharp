@@ -1,0 +1,18 @@
+{
+  "id": "0xd5527579226E4ebC8864906E49D05d4458CcF47f",
+  "address": "0xd5527579226E4ebC8864906E49D05d4458CcF47f",
+  "blockchain": "ethereum",
+  "name": "Kubera token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd5527579226E4ebC8864906E49D05d4458CcF47f",
+  "research": null,
+  "symbol": "KBR",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

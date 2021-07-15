@@ -1,0 +1,18 @@
+{
+  "id": "NODE-F3A",
+  "address": "NODE-F3A",
+  "blockchain": "binance",
+  "name": "NODE",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/NODE-F3A",
+  "research": null,
+  "symbol": "NODE",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

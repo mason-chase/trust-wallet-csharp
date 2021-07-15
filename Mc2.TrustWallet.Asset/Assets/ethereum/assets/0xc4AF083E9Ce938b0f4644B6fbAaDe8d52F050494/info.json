@@ -1,0 +1,18 @@
+{
+  "id": "0xc4AF083E9Ce938b0f4644B6fbAaDe8d52F050494",
+  "address": "0xc4AF083E9Ce938b0f4644B6fbAaDe8d52F050494",
+  "blockchain": "ethereum",
+  "name": "Daniubi",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc4AF083E9Ce938b0f4644B6fbAaDe8d52F050494",
+  "research": null,
+  "symbol": "DNB",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

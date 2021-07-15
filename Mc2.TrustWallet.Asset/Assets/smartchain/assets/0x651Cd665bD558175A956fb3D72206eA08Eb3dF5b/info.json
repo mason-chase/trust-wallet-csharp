@@ -1,0 +1,18 @@
+{
+  "id": "0x651Cd665bD558175A956fb3D72206eA08Eb3dF5b",
+  "address": "0x651Cd665bD558175A956fb3D72206eA08Eb3dF5b",
+  "blockchain": "smartchain",
+  "name": "Roseon Finance",
+  "website": "https://roseon.finance/",
+  "description": "Roseon Finance is a mobile yield aggregator that manages your crypto + NFT portfolio and optimizes yield across DeFi and CeFi networks.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x651Cd665bD558175A956fb3D72206eA08Eb3dF5b",
+  "research": null,
+  "symbol": "ROSN",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

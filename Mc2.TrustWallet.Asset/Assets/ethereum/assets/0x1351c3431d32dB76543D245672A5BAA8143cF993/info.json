@@ -1,0 +1,18 @@
+{
+  "id": "0x1351c3431d32dB76543D245672A5BAA8143cF993",
+  "address": "0x1351c3431d32dB76543D245672A5BAA8143cF993",
+  "blockchain": "ethereum",
+  "name": "LMT COIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1351c3431d32dB76543D245672A5BAA8143cF993",
+  "research": null,
+  "symbol": "LMT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

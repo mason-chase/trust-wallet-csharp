@@ -1,0 +1,18 @@
+{
+  "id": "0x2915ACAa744e36BEfB3c539c3d99A7f82AD8E6c9",
+  "address": "0x2915ACAa744e36BEfB3c539c3d99A7f82AD8E6c9",
+  "blockchain": "ethereum",
+  "name": "Greek Drachma",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2915ACAa744e36BEfB3c539c3d99A7f82AD8E6c9",
+  "research": null,
+  "symbol": "GRD",
+  "type": "ERC20",
+  "decimals": 7,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

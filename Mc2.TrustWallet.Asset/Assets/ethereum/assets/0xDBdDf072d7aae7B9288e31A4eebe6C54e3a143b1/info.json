@@ -1,0 +1,18 @@
+{
+  "id": "0xDBdDf072d7aae7B9288e31A4eebe6C54e3a143b1",
+  "address": "0xDBdDf072d7aae7B9288e31A4eebe6C54e3a143b1",
+  "blockchain": "ethereum",
+  "name": "Crowny Token (CRWNY)",
+  "website": "https://crowny.io",
+  "description": "Token to support the Crowny marketing platform that allows users to interact and engage with their favorite brands",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDBdDf072d7aae7B9288e31A4eebe6C54e3a143b1",
+  "research": null,
+  "symbol": "CRWNY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

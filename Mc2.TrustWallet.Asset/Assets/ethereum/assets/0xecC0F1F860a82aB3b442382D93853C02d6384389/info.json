@@ -1,0 +1,18 @@
+{
+  "id": "0xecC0F1F860a82aB3b442382D93853C02d6384389",
+  "address": "0xecC0F1F860a82aB3b442382D93853C02d6384389",
+  "blockchain": "ethereum",
+  "name": "AXIS DeFi",
+  "website": "https://axisdefi.com",
+  "description": "The World’s First Lightspeed DeFi Dedicated Interoperable Superchain",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xecC0F1F860a82aB3b442382D93853C02d6384389",
+  "research": null,
+  "symbol": "AXIS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

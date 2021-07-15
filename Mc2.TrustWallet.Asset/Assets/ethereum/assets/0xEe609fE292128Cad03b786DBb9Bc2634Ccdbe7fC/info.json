@@ -1,0 +1,18 @@
+{
+  "id": "0xEe609fE292128Cad03b786DBb9Bc2634Ccdbe7fC",
+  "address": "0xEe609fE292128Cad03b786DBb9Bc2634Ccdbe7fC",
+  "blockchain": "ethereum",
+  "name": "PoSToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xEe609fE292128Cad03b786DBb9Bc2634Ccdbe7fC",
+  "research": null,
+  "symbol": "POS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

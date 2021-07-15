@@ -1,0 +1,18 @@
+{
+  "id": "0x58B823abd4b0B5506A60dF6A12Ae681A350dAb4c",
+  "address": "0x58B823abd4b0B5506A60dF6A12Ae681A350dAb4c",
+  "blockchain": "ethereum",
+  "name": "SUREBANQA UTILITY TOKEN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x58B823abd4b0B5506A60dF6A12Ae681A350dAb4c",
+  "research": null,
+  "symbol": "FEX",
+  "type": "ERC20",
+  "decimals": 5,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

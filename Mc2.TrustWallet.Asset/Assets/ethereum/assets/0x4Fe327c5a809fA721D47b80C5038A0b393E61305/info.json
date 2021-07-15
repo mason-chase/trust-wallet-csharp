@@ -1,0 +1,18 @@
+{
+  "id": "0x4Fe327c5a809fA721D47b80C5038A0b393E61305",
+  "address": "0x4Fe327c5a809fA721D47b80C5038A0b393E61305",
+  "blockchain": "ethereum",
+  "name": "IOTW",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4Fe327c5a809fA721D47b80C5038A0b393E61305",
+  "research": null,
+  "symbol": "IOTW",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

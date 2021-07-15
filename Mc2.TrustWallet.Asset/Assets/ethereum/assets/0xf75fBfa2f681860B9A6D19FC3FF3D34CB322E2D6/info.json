@@ -1,0 +1,18 @@
+{
+  "id": "0xf75fBfa2f681860B9A6D19FC3FF3D34CB322E2D6",
+  "address": "0xf75fBfa2f681860B9A6D19FC3FF3D34CB322E2D6",
+  "blockchain": "ethereum",
+  "name": "CRYPTORIYA",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf75fBfa2f681860B9A6D19FC3FF3D34CB322E2D6",
+  "research": null,
+  "symbol": "CIYA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "DOT-64C",
+  "address": "DOT-64C",
+  "blockchain": "binance",
+  "name": "PolkadotBEP2",
+  "website": "https://binance.org",
+  "description": "Polkadot BEP2 is a token on Binance Chain issued by Binance, where the price is pegged to DOT at a rate of 1 DOT BEP2 = 1 DOT",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/DOT-64C",
+  "research": null,
+  "symbol": "DOT",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

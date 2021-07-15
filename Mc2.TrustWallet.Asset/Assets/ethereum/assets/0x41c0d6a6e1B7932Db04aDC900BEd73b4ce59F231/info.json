@@ -1,0 +1,18 @@
+{
+  "id": "0x41c0d6a6e1B7932Db04aDC900BEd73b4ce59F231",
+  "address": "0x41c0d6a6e1B7932Db04aDC900BEd73b4ce59F231",
+  "blockchain": "ethereum",
+  "name": "Keepis",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x41c0d6a6e1B7932Db04aDC900BEd73b4ce59F231",
+  "research": null,
+  "symbol": "KEPIS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

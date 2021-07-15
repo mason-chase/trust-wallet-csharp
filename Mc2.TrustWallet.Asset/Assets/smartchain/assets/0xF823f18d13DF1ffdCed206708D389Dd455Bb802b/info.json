@@ -1,0 +1,18 @@
+{
+  "id": "0xF823f18d13DF1ffdCed206708D389Dd455Bb802b",
+  "address": "0xF823f18d13DF1ffdCed206708D389Dd455Bb802b",
+  "blockchain": "smartchain",
+  "name": "Cashcow Finance",
+  "website": "https://cashcow.finance",
+  "description": "CCF tokens will be operating on Binance Smart Chain's main page, adopting the BEP-20 protocol.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xf823f18d13df1ffdced206708d389dd455bb802b",
+  "research": null,
+  "symbol": "CCF",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

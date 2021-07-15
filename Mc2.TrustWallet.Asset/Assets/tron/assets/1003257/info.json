@@ -1,0 +1,43 @@
+{
+  "id": "1003257",
+  "address": "1003257",
+  "blockchain": "tron",
+  "name": "Vevocoin",
+  "website": "https://vevocoin.com/",
+  "description": "VEVO is an open source platform in which everyone can use the code and token to their needs.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1003257",
+  "research": null,
+  "symbol": "VEVO",
+  "type": "TRC10",
+  "decimals": 6,
+  "status": "active",
+  "links": [
+    {
+      "name": "source_code",
+      "url": "https://github.com/vevodev"
+    },
+    {
+      "name": "white_paper",
+      "url": "https://vevocoin.com/whitepaper.pdf"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/vevodev"
+    },
+    {
+      "name": "white_paper",
+      "url": "https://vevocoin.com/whitepaper.pdf"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/vevonews"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/vevocoin"
+    }
+  ],
+  "tags": null
+}

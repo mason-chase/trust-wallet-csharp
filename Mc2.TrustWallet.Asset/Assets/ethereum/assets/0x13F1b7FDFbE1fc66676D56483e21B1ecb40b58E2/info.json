@@ -1,0 +1,18 @@
+{
+  "id": "0x13F1b7FDFbE1fc66676D56483e21B1ecb40b58E2",
+  "address": "0x13F1b7FDFbE1fc66676D56483e21B1ecb40b58E2",
+  "blockchain": "ethereum",
+  "name": "Accelerator",
+  "website": "https://accelerator.network/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x13F1b7FDFbE1fc66676D56483e21B1ecb40b58E2",
+  "research": null,
+  "symbol": "ACC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

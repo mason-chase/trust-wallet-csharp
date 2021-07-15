@@ -1,0 +1,18 @@
+{
+  "id": "0xDaF88906aC1DE12bA2b1D2f7bfC94E9638Ac40c4",
+  "address": "0xDaF88906aC1DE12bA2b1D2f7bfC94E9638Ac40c4",
+  "blockchain": "ethereum",
+  "name": "EpiK Protocol",
+  "website": "https://www.epik-protocol.io",
+  "description": "EpiK Protocol is a decentralized trusted knowledge graph\ncollaboration platform of the People, by the People, for the People.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xdaf88906ac1de12ba2b1d2f7bfc94e9638ac40c4",
+  "research": null,
+  "symbol": "EPK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

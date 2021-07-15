@@ -1,0 +1,18 @@
+{
+  "id": "0x132b2EDECC3EC84C887fab43B35db7A5F87629D4",
+  "address": "0x132b2EDECC3EC84C887fab43B35db7A5F87629D4",
+  "blockchain": "ethereum",
+  "name": "Newowiyah Buffalo, West MD5: 41e091e14237ab6485bffe77429700b3",
+  "website": null,
+  "description": "-",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x132b2edecc3ec84c887fab43b35db7a5f87629d4",
+  "research": null,
+  "symbol": "BUFF",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

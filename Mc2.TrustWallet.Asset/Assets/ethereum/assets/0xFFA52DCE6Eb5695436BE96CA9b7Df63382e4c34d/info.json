@@ -1,0 +1,18 @@
+{
+  "id": "0xFFA52DCE6Eb5695436BE96CA9b7Df63382e4c34d",
+  "address": "0xFFA52DCE6Eb5695436BE96CA9b7Df63382e4c34d",
+  "blockchain": "ethereum",
+  "name": "Onyx S&P 500 Short",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xFFA52DCE6Eb5695436BE96CA9b7Df63382e4c34d",
+  "research": null,
+  "symbol": "OSPVS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

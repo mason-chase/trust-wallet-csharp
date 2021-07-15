@@ -1,0 +1,18 @@
+{
+  "id": "0xe0089BfD703a711bB211fF62bdD76Cd9032F237A",
+  "address": "0xe0089BfD703a711bB211fF62bdD76Cd9032F237A",
+  "blockchain": "ethereum",
+  "name": "Planetagro-Exchange",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe0089BfD703a711bB211fF62bdD76Cd9032F237A",
+  "research": null,
+  "symbol": "SOYBEAN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

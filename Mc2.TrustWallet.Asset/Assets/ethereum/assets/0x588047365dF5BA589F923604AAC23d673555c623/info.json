@@ -1,0 +1,18 @@
+{
+  "id": "0x588047365dF5BA589F923604AAC23d673555c623",
+  "address": "0x588047365dF5BA589F923604AAC23d673555c623",
+  "blockchain": "ethereum",
+  "name": "NaviToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x588047365dF5BA589F923604AAC23d673555c623",
+  "research": null,
+  "symbol": "NAVI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

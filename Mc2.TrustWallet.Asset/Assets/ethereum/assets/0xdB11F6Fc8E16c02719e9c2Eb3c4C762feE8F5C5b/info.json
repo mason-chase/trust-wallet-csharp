@@ -1,0 +1,18 @@
+{
+  "id": "0xdB11F6Fc8E16c02719e9c2Eb3c4C762feE8F5C5b",
+  "address": "0xdB11F6Fc8E16c02719e9c2Eb3c4C762feE8F5C5b",
+  "blockchain": "ethereum",
+  "name": "Nydronia",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xdB11F6Fc8E16c02719e9c2Eb3c4C762feE8F5C5b",
+  "research": null,
+  "symbol": "NIA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

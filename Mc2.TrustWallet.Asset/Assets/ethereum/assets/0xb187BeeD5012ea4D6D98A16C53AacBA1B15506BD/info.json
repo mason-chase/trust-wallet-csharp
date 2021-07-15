@@ -1,0 +1,18 @@
+{
+  "id": "0xb187BeeD5012ea4D6D98A16C53AacBA1B15506BD",
+  "address": "0xb187BeeD5012ea4D6D98A16C53AacBA1B15506BD",
+  "blockchain": "ethereum",
+  "name": "MybillCash",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb187BeeD5012ea4D6D98A16C53AacBA1B15506BD",
+  "research": null,
+  "symbol": "XSB",
+  "type": "ERC20",
+  "decimals": 11,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

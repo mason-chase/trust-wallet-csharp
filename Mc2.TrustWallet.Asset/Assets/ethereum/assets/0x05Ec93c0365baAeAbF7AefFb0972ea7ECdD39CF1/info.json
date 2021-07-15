@@ -1,0 +1,18 @@
+{
+  "id": "0x05Ec93c0365baAeAbF7AefFb0972ea7ECdD39CF1",
+  "address": "0x05Ec93c0365baAeAbF7AefFb0972ea7ECdD39CF1",
+  "blockchain": "ethereum",
+  "name": "Aave BAT",
+  "website": "https://aave.com",
+  "description": "Aave BAT is an interest bearing token pegged 1:1 to the underlying BAT deposited in Aave. aBAT accrue interest in real time in your wallet.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x05Ec93c0365baAeAbF7AefFb0972ea7ECdD39CF1",
+  "research": null,
+  "symbol": "aBAT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

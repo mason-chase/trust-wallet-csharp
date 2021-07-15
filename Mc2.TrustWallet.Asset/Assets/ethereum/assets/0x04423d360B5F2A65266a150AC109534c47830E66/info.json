@@ -1,0 +1,18 @@
+{
+  "id": "0x04423d360B5F2A65266a150AC109534c47830E66",
+  "address": "0x04423d360B5F2A65266a150AC109534c47830E66",
+  "blockchain": "ethereum",
+  "name": "Fazhan  Chain",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x04423d360B5F2A65266a150AC109534c47830E66",
+  "research": null,
+  "symbol": "FZC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

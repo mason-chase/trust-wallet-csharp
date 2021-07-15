@@ -1,0 +1,18 @@
+{
+  "id": "0x859a9C0b44cb7066D956a958B0b82e54C9e44b4B",
+  "address": "0x859a9C0b44cb7066D956a958B0b82e54C9e44b4B",
+  "blockchain": "ethereum",
+  "name": "iEthereum",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x859a9C0b44cb7066D956a958B0b82e54C9e44b4B",
+  "research": null,
+  "symbol": "iETH",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

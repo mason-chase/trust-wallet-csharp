@@ -1,0 +1,18 @@
+{
+  "id": "0x31024A4C3e9aEeb256B825790F5cb7ac645e7cD5",
+  "address": "0x31024A4C3e9aEeb256B825790F5cb7ac645e7cD5",
+  "blockchain": "ethereum",
+  "name": "XIOT",
+  "website": "https://xiotri.io",
+  "description": "XIOT is the main token of the Xiotri platform, giving fair yields to everyone.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x31024A4C3e9aEeb256B825790F5cb7ac645e7cD5",
+  "research": null,
+  "symbol": "XIOT",
+  "type": "ERC20",
+  "decimals": 3,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

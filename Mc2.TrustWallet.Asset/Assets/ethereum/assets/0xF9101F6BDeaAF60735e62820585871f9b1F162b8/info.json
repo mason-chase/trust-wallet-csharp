@@ -1,0 +1,18 @@
+{
+  "id": "0xF9101F6BDeaAF60735e62820585871f9b1F162b8",
+  "address": "0xF9101F6BDeaAF60735e62820585871f9b1F162b8",
+  "blockchain": "ethereum",
+  "name": "CACHE",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF9101F6BDeaAF60735e62820585871f9b1F162b8",
+  "research": null,
+  "symbol": "CACHE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

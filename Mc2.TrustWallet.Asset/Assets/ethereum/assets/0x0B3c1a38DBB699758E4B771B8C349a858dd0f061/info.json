@@ -1,0 +1,18 @@
+{
+  "id": "0x0B3c1a38DBB699758E4B771B8C349a858dd0f061",
+  "address": "0x0B3c1a38DBB699758E4B771B8C349a858dd0f061",
+  "blockchain": "ethereum",
+  "name": "Gold",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0B3c1a38DBB699758E4B771B8C349a858dd0f061",
+  "research": null,
+  "symbol": "CSC-GO",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

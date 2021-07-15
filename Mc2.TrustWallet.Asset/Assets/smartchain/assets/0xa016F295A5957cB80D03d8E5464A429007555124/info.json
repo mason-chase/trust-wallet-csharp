@@ -1,0 +1,18 @@
+{
+  "id": "0xa016F295A5957cB80D03d8E5464A429007555124",
+  "address": "0xa016F295A5957cB80D03d8E5464A429007555124",
+  "blockchain": "smartchain",
+  "name": "SafeHamsters",
+  "website": "https://safehamsters.io",
+  "description": "Welcome to the hamster army! The time has come when it is worth rewriting history.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xa016F295A5957cB80D03d8E5464A429007555124",
+  "research": null,
+  "symbol": "SAFEHAMSTERS",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

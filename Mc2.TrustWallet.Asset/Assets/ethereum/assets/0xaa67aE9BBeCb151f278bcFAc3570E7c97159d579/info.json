@@ -1,0 +1,18 @@
+{
+  "id": "0xaa67aE9BBeCb151f278bcFAc3570E7c97159d579",
+  "address": "0xaa67aE9BBeCb151f278bcFAc3570E7c97159d579",
+  "blockchain": "ethereum",
+  "name": "V-PALADINI TEST 6",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xaa67aE9BBeCb151f278bcFAc3570E7c97159d579",
+  "research": null,
+  "symbol": "V",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

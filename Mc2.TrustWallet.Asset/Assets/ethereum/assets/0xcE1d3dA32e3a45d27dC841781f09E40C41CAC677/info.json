@@ -1,0 +1,18 @@
+{
+  "id": "0xcE1d3dA32e3a45d27dC841781f09E40C41CAC677",
+  "address": "0xcE1d3dA32e3a45d27dC841781f09E40C41CAC677",
+  "blockchain": "ethereum",
+  "name": "Data link base",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xcE1d3dA32e3a45d27dC841781f09E40C41CAC677",
+  "research": null,
+  "symbol": "DLB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

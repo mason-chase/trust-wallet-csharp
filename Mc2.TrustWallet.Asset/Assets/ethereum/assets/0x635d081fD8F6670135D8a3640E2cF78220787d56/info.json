@@ -1,0 +1,18 @@
+{
+  "id": "0x635d081fD8F6670135D8a3640E2cF78220787d56",
+  "address": "0x635d081fD8F6670135D8a3640E2cF78220787d56",
+  "blockchain": "ethereum",
+  "name": "ADD.xyz",
+  "website": "https://ADD.xyz",
+  "description": "ADD.xyz is a full-stack DeFi aggregator, plugging in multiple products and DeFi applications into one single platform, focusing on User Experience, Design, Privacy and Anonymity.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x635d081fd8f6670135d8a3640e2cf78220787d56",
+  "research": null,
+  "symbol": "ADD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

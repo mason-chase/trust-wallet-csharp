@@ -1,0 +1,18 @@
+{
+  "id": "0x726091d1Dad881fBa95dc8093591bca110f2bf2E",
+  "address": "0x726091d1Dad881fBa95dc8093591bca110f2bf2E",
+  "blockchain": "ethereum",
+  "name": "Planetagro-Exchange",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x726091d1Dad881fBa95dc8093591bca110f2bf2E",
+  "research": null,
+  "symbol": "WHEAT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

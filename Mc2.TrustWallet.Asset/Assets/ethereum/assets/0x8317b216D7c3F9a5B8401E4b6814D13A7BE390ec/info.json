@@ -1,0 +1,18 @@
+{
+  "id": "0x8317b216D7c3F9a5B8401E4b6814D13A7BE390ec",
+  "address": "0x8317b216D7c3F9a5B8401E4b6814D13A7BE390ec",
+  "blockchain": "ethereum",
+  "name": "EXNCE",
+  "website": "https://www.exnce.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8317b216D7c3F9a5B8401E4b6814D13A7BE390ec",
+  "research": null,
+  "symbol": "XNC",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

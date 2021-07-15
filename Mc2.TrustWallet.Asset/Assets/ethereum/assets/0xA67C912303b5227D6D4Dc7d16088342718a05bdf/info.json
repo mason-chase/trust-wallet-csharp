@@ -1,0 +1,18 @@
+{
+  "id": "0xA67C912303b5227D6D4Dc7d16088342718a05bdf",
+  "address": "0xA67C912303b5227D6D4Dc7d16088342718a05bdf",
+  "blockchain": "ethereum",
+  "name": "Gemx",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA67C912303b5227D6D4Dc7d16088342718a05bdf",
+  "research": null,
+  "symbol": "GMX",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

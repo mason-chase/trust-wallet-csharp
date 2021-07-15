@@ -1,0 +1,18 @@
+{
+  "id": "0xA4eA687A2A7F29cF2dc66B39c68e4411C0D00C49",
+  "address": "0xA4eA687A2A7F29cF2dc66B39c68e4411C0D00C49",
+  "blockchain": "ethereum",
+  "name": "IvyKoin Public Network Tokens",
+  "website": "http://www.ivykoin.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA4eA687A2A7F29cF2dc66B39c68e4411C0D00C49",
+  "research": null,
+  "symbol": "IVY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

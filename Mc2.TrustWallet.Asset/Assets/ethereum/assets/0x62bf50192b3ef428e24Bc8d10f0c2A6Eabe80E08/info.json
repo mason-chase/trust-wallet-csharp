@@ -1,0 +1,18 @@
+{
+  "id": "0x62bf50192b3ef428e24Bc8d10f0c2A6Eabe80E08",
+  "address": "0x62bf50192b3ef428e24Bc8d10f0c2A6Eabe80E08",
+  "blockchain": "ethereum",
+  "name": "BITSIFU COIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x62bf50192b3ef428e24Bc8d10f0c2A6Eabe80E08",
+  "research": null,
+  "symbol": "BSF",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

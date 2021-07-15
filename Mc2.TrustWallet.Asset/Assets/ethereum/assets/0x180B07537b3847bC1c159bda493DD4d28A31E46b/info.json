@@ -1,0 +1,18 @@
+{
+  "id": "0x180B07537b3847bC1c159bda493DD4d28A31E46b",
+  "address": "0x180B07537b3847bC1c159bda493DD4d28A31E46b",
+  "blockchain": "ethereum",
+  "name": "Stable USD",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x180B07537b3847bC1c159bda493DD4d28A31E46b",
+  "research": null,
+  "symbol": "USDEX",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

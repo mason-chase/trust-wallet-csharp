@@ -1,0 +1,18 @@
+{
+  "id": "0xcFD6Ae8BF13f42DE14867351eAff7A8A3b9FbBe7",
+  "address": "0xcFD6Ae8BF13f42DE14867351eAff7A8A3b9FbBe7",
+  "blockchain": "ethereum",
+  "name": "SINERGIA",
+  "website": "https://sinergiablockchain.org/ICOPROJECT/ICO.html",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xcFD6Ae8BF13f42DE14867351eAff7A8A3b9FbBe7",
+  "research": null,
+  "symbol": "SNG",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

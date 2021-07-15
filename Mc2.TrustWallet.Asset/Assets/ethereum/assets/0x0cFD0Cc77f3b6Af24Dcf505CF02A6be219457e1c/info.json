@@ -1,0 +1,18 @@
+{
+  "id": "0x0cFD0Cc77f3b6Af24Dcf505CF02A6be219457e1c",
+  "address": "0x0cFD0Cc77f3b6Af24Dcf505CF02A6be219457e1c",
+  "blockchain": "ethereum",
+  "name": "Airconnc",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0cFD0Cc77f3b6Af24Dcf505CF02A6be219457e1c",
+  "research": null,
+  "symbol": "ACNC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

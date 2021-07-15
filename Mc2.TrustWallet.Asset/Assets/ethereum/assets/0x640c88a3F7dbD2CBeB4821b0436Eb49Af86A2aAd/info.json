@@ -1,0 +1,18 @@
+{
+  "id": "0x640c88a3F7dbD2CBeB4821b0436Eb49Af86A2aAd",
+  "address": "0x640c88a3F7dbD2CBeB4821b0436Eb49Af86A2aAd",
+  "blockchain": "ethereum",
+  "name": "PURCOW MILK TOKEN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x640c88a3F7dbD2CBeB4821b0436Eb49Af86A2aAd",
+  "research": null,
+  "symbol": "MILK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

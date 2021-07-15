@@ -1,0 +1,18 @@
+{
+  "id": "0xD2B6C055B915cbA38490b586A9E22AAfCc3a15cc",
+  "address": "0xD2B6C055B915cbA38490b586A9E22AAfCc3a15cc",
+  "blockchain": "ethereum",
+  "name": "Fulcrum Perpetual Short ZRX-DAI 4x v2",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xD2B6C055B915cbA38490b586A9E22AAfCc3a15cc",
+  "research": null,
+  "symbol": "dsZRX4x",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

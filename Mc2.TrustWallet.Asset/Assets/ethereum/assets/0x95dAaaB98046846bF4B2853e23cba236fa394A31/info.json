@@ -1,0 +1,18 @@
+{
+  "id": "0x95dAaaB98046846bF4B2853e23cba236fa394A31",
+  "address": "0x95dAaaB98046846bF4B2853e23cba236fa394A31",
+  "blockchain": "ethereum",
+  "name": "EtheremonToken",
+  "website": "https://ethermon.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x95dAaaB98046846bF4B2853e23cba236fa394A31",
+  "research": null,
+  "symbol": "EMONT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

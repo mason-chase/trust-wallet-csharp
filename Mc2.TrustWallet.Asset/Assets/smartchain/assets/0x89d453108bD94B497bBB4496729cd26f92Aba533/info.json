@@ -1,0 +1,18 @@
+{
+  "id": "0x89d453108bD94B497bBB4496729cd26f92Aba533",
+  "address": "0x89d453108bD94B497bBB4496729cd26f92Aba533",
+  "blockchain": "smartchain",
+  "name": "Supersonic Finance",
+  "website": "https://supersonic.finance",
+  "description": "The Nexus of a multichain DEX and Launchpad for developers.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x89d453108bD94B497bBB4496729cd26f92Aba533",
+  "research": null,
+  "symbol": "SSN",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

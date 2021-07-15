@@ -1,0 +1,18 @@
+{
+  "id": "0xF6276830c265A779A2225B9d2FCbAb790CBEb92B",
+  "address": "0xF6276830c265A779A2225B9d2FCbAb790CBEb92B",
+  "blockchain": "ethereum",
+  "name": "XCELTOKEN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF6276830c265A779A2225B9d2FCbAb790CBEb92B",
+  "research": null,
+  "symbol": "XCEL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

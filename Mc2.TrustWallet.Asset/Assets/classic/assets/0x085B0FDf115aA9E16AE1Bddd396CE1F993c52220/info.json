@@ -1,0 +1,18 @@
+{
+  "id": "0x085B0FDf115aA9E16AE1Bddd396CE1F993c52220",
+  "address": "0x085B0FDf115aA9E16AE1Bddd396CE1F993c52220",
+  "blockchain": "classic",
+  "name": "ONEX Network",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://blockscout.com/etc/mainnet/tokens/0x085B0FDf115aA9E16AE1Bddd396CE1F993c52220",
+  "research": null,
+  "symbol": "ONEX",
+  "type": "ETC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

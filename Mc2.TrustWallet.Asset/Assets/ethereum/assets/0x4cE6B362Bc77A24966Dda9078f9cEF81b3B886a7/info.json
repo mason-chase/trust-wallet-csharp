@@ -1,0 +1,18 @@
+{
+  "id": "0x4cE6B362Bc77A24966Dda9078f9cEF81b3B886a7",
+  "address": "0x4cE6B362Bc77A24966Dda9078f9cEF81b3B886a7",
+  "blockchain": "ethereum",
+  "name": "NPER",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4cE6B362Bc77A24966Dda9078f9cEF81b3B886a7",
+  "research": null,
+  "symbol": "NPER",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

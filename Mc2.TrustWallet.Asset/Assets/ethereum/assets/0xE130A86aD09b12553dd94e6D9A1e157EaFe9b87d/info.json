@@ -1,0 +1,18 @@
+{
+  "id": "0xE130A86aD09b12553dd94e6D9A1e157EaFe9b87d",
+  "address": "0xE130A86aD09b12553dd94e6D9A1e157EaFe9b87d",
+  "blockchain": "ethereum",
+  "name": "BrilliantOilCorporationToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE130A86aD09b12553dd94e6D9A1e157EaFe9b87d",
+  "research": null,
+  "symbol": "BOC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

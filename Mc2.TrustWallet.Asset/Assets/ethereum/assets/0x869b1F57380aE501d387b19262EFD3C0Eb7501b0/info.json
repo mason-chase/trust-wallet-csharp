@@ -1,0 +1,18 @@
+{
+  "id": "0x869b1F57380aE501d387b19262EFD3C0Eb7501b0",
+  "address": "0x869b1F57380aE501d387b19262EFD3C0Eb7501b0",
+  "blockchain": "ethereum",
+  "name": "Oxycoin",
+  "website": "https://oxycoin.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x869b1F57380aE501d387b19262EFD3C0Eb7501b0",
+  "research": null,
+  "symbol": "OXY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

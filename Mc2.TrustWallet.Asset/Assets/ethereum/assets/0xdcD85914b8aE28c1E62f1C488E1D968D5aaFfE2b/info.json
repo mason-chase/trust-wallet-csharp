@@ -1,0 +1,18 @@
+{
+  "id": "0xdcD85914b8aE28c1E62f1C488E1D968D5aaFfE2b",
+  "address": "0xdcD85914b8aE28c1E62f1C488E1D968D5aaFfE2b",
+  "blockchain": "ethereum",
+  "name": "TOP Network",
+  "website": "https://www.topnetwork.org/",
+  "description": "TOP Network is a decentralized open communication network that provides cloud communication services on the blockchain.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xdcD85914b8aE28c1E62f1C488E1D968D5aaFfE2b",
+  "research": null,
+  "symbol": "TOP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

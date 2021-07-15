@@ -1,0 +1,18 @@
+{
+  "id": "0x27Dce1eC4d3f72C3E457Cc50354f1F975dDEf488",
+  "address": "0x27Dce1eC4d3f72C3E457Cc50354f1F975dDEf488",
+  "blockchain": "ethereum",
+  "name": "AirToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x27Dce1eC4d3f72C3E457Cc50354f1F975dDEf488",
+  "research": null,
+  "symbol": "AIR",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

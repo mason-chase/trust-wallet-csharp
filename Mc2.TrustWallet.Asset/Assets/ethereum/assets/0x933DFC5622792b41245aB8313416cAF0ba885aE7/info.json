@@ -1,0 +1,18 @@
+{
+  "id": "0x933DFC5622792b41245aB8313416cAF0ba885aE7",
+  "address": "0x933DFC5622792b41245aB8313416cAF0ba885aE7",
+  "blockchain": "ethereum",
+  "name": "CoinBroker",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x933DFC5622792b41245aB8313416cAF0ba885aE7",
+  "research": null,
+  "symbol": "COBR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

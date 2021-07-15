@@ -1,0 +1,18 @@
+{
+  "id": "0x397a439E0d8fE38Ed3fBf968Ec162751ba100a5F",
+  "address": "0x397a439E0d8fE38Ed3fBf968Ec162751ba100a5F",
+  "blockchain": "smartchain",
+  "name": "YOSHI INU",
+  "website": "https://www.yoshi.win",
+  "description": "YOSHI is an experiment in decentralized spontaneous community building.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x397a439e0d8fe38ed3fbf968ec162751ba100a5f",
+  "research": null,
+  "symbol": "YOSHI",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

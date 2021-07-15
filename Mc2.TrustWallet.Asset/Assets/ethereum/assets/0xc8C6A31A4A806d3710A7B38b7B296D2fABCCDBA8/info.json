@@ -1,0 +1,18 @@
+{
+  "id": "0xc8C6A31A4A806d3710A7B38b7B296D2fABCCDBA8",
+  "address": "0xc8C6A31A4A806d3710A7B38b7B296D2fABCCDBA8",
+  "blockchain": "ethereum",
+  "name": "elixir",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc8C6A31A4A806d3710A7B38b7B296D2fABCCDBA8",
+  "research": null,
+  "symbol": "ELIX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

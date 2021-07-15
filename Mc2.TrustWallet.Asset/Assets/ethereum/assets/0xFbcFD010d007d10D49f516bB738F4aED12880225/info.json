@@ -1,0 +1,18 @@
+{
+  "id": "0xFbcFD010d007d10D49f516bB738F4aED12880225",
+  "address": "0xFbcFD010d007d10D49f516bB738F4aED12880225",
+  "blockchain": "ethereum",
+  "name": "WildLife",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xFbcFD010d007d10D49f516bB738F4aED12880225",
+  "research": null,
+  "symbol": "WILD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

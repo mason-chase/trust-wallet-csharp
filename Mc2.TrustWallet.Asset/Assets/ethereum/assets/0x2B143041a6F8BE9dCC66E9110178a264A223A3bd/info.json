@@ -1,0 +1,18 @@
+{
+  "id": "0x2B143041a6F8BE9dCC66E9110178a264A223A3bd",
+  "address": "0x2B143041a6F8BE9dCC66E9110178a264A223A3bd",
+  "blockchain": "ethereum",
+  "name": "Synth iBTC",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2B143041a6F8BE9dCC66E9110178a264A223A3bd",
+  "research": null,
+  "symbol": "iBTC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

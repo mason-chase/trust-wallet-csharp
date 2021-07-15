@@ -1,0 +1,23 @@
+{
+  "id": "0x22222C03318440305aC3e8a7820563d6A9FD777F",
+  "address": "0x22222C03318440305aC3e8a7820563d6A9FD777F",
+  "blockchain": "ethereum",
+  "name": "Clover",
+  "website": "https://clv.surge.sh/",
+  "description": "A crypto community and group unlike any other. Unrivaled in their authenticity and uniqueness, they are certainly not for the easily offended.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x22222C03318440305aC3e8a7820563d6A9FD777F",
+  "research": null,
+  "symbol": "CLV",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/clvfi"
+    }
+  ],
+  "tags": null
+}

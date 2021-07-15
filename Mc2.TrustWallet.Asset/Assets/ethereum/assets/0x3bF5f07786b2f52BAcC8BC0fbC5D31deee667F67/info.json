@@ -1,0 +1,18 @@
+{
+  "id": "0x3bF5f07786b2f52BAcC8BC0fbC5D31deee667F67",
+  "address": "0x3bF5f07786b2f52BAcC8BC0fbC5D31deee667F67",
+  "blockchain": "ethereum",
+  "name": "ChainKEY",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3bF5f07786b2f52BAcC8BC0fbC5D31deee667F67",
+  "research": null,
+  "symbol": "CKEY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

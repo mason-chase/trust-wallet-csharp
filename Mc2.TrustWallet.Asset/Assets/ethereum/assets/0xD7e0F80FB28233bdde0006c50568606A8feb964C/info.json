@@ -1,0 +1,18 @@
+{
+  "id": "0xD7e0F80FB28233bdde0006c50568606A8feb964C",
+  "address": "0xD7e0F80FB28233bdde0006c50568606A8feb964C",
+  "blockchain": "ethereum",
+  "name": "Australian Dollar",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xD7e0F80FB28233bdde0006c50568606A8feb964C",
+  "research": null,
+  "symbol": "AUDT",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

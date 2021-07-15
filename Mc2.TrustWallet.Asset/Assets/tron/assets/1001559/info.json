@@ -1,0 +1,18 @@
+{
+  "id": "1001559",
+  "address": "1001559",
+  "blockchain": "tron",
+  "name": "TronID",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1001559",
+  "research": null,
+  "symbol": "TronID",
+  "type": "TRC10",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

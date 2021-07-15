@@ -1,0 +1,18 @@
+{
+  "id": "0x72e646b78a2b58CBD9B0282c2E9C812Bc8033293",
+  "address": "0x72e646b78a2b58CBD9B0282c2E9C812Bc8033293",
+  "blockchain": "ethereum",
+  "name": "Lunox",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x72e646b78a2b58CBD9B0282c2E9C812Bc8033293",
+  "research": null,
+  "symbol": "LNX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

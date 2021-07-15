@@ -1,0 +1,18 @@
+{
+  "id": "0x4EB81375d34F493a7879c041BA86098f2AfD4139",
+  "address": "0x4EB81375d34F493a7879c041BA86098f2AfD4139",
+  "blockchain": "ethereum",
+  "name": "Ethereum Note",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4EB81375d34F493a7879c041BA86098f2AfD4139",
+  "research": null,
+  "symbol": "ENOTE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

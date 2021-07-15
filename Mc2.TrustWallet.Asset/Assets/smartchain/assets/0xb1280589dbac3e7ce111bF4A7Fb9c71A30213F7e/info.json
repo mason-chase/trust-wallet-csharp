@@ -1,0 +1,18 @@
+{
+  "id": "0xb1280589dbac3e7ce111bF4A7Fb9c71A30213F7e",
+  "address": "0xb1280589dbac3e7ce111bF4A7Fb9c71A30213F7e",
+  "blockchain": "smartchain",
+  "name": "DEXTools",
+  "website": "https://dextools.io/app",
+  "description": "Ultimate Hub and Defi App For Decentralized exchanges like Uniswap, Pancakeswap, Sushiswap, etc.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xb1280589dbac3e7ce111bF4A7Fb9c71A30213F7e",
+  "research": null,
+  "symbol": "DEXT",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

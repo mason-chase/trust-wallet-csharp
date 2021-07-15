@@ -1,0 +1,18 @@
+{
+  "id": "TYNgrZX2eLPZ8UUoZEWuiUZYn3bh8fHU8f",
+  "address": "TYNgrZX2eLPZ8UUoZEWuiUZYn3bh8fHU8f",
+  "blockchain": "tron",
+  "name": "YLToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TYNgrZX2eLPZ8UUoZEWuiUZYn3bh8fHU8f",
+  "research": null,
+  "symbol": "YL",
+  "type": "TRC20",
+  "decimals": 6,
+  "status": "spam",
+  "links": null,
+  "tags": null
+}

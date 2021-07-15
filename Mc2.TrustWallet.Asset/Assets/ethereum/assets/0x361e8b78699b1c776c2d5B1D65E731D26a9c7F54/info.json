@@ -1,0 +1,18 @@
+{
+  "id": "0x361e8b78699b1c776c2d5B1D65E731D26a9c7F54",
+  "address": "0x361e8b78699b1c776c2d5B1D65E731D26a9c7F54",
+  "blockchain": "ethereum",
+  "name": "FOODCOIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x361e8b78699b1c776c2d5B1D65E731D26a9c7F54",
+  "research": null,
+  "symbol": "FOOD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

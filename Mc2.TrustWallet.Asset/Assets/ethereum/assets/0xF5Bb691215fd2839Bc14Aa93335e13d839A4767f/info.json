@@ -1,0 +1,18 @@
+{
+  "id": "0xF5Bb691215fd2839Bc14Aa93335e13d839A4767f",
+  "address": "0xF5Bb691215fd2839Bc14Aa93335e13d839A4767f",
+  "blockchain": "ethereum",
+  "name": "Bitcollar Max",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF5Bb691215fd2839Bc14Aa93335e13d839A4767f",
+  "research": null,
+  "symbol": "BORX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

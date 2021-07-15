@@ -1,0 +1,18 @@
+{
+  "id": "0xF59ae934f6fe444afC309586cC60a84a0F89Aaea",
+  "address": "0xF59ae934f6fe444afC309586cC60a84a0F89Aaea",
+  "blockchain": "ethereum",
+  "name": "Polkadex ERC-20 Token",
+  "website": "https://polkadex.trade",
+  "description": "Utility token for Polkadex decentralized exchange",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF59ae934f6fe444afC309586cC60a84a0F89Aaea",
+  "research": "https://docs.polkadex.trade",
+  "symbol": "PDEX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

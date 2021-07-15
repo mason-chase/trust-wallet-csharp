@@ -15,8 +15,11 @@ namespace Mc2.TrustWallet.Asset.FolderModels
         [JsonProperty("description")]
         public string Description { get; set; }
 
-        [JsonProperty("description")]
+        [JsonProperty("short_description")]
         public string ShortDescription { get; set; }
+
+        [JsonProperty("audit_report")]
+        public string AuditReport { get; set; }
         
         [JsonProperty("explorer")]
         public Uri Explorer { get; set; }
@@ -41,7 +44,7 @@ namespace Mc2.TrustWallet.Asset.FolderModels
 
         [JsonProperty("tags")]
         public string[] Tags { get; set; }
-        
+        [JsonIgnore]
         public byte[] LogoPng { get; set; }
     }
 }

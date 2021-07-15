@@ -1,0 +1,18 @@
+{
+  "id": "0x9513d8679677Be3D57c7cDD30561105ee1452d69",
+  "address": "0x9513d8679677Be3D57c7cDD30561105ee1452d69",
+  "blockchain": "ethereum",
+  "name": "Python",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9513d8679677Be3D57c7cDD30561105ee1452d69",
+  "research": null,
+  "symbol": "ptn",
+  "type": "ERC20",
+  "decimals": 1,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

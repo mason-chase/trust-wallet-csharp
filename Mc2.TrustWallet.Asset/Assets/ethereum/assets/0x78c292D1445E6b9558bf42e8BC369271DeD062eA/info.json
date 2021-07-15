@@ -1,0 +1,18 @@
+{
+  "id": "0x78c292D1445E6b9558bf42e8BC369271DeD062eA",
+  "address": "0x78c292D1445E6b9558bf42e8BC369271DeD062eA",
+  "blockchain": "ethereum",
+  "name": "CyberMusic",
+  "website": "https://cybermusic.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x78c292D1445E6b9558bf42e8BC369271DeD062eA",
+  "research": null,
+  "symbol": "CYMT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

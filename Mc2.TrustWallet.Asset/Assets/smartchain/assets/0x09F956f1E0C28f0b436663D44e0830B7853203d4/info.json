@@ -1,0 +1,18 @@
+{
+  "id": "0x09F956f1E0C28f0b436663D44e0830B7853203d4",
+  "address": "0x09F956f1E0C28f0b436663D44e0830B7853203d4",
+  "blockchain": "smartchain",
+  "name": "SHIBA KILLER",
+  "website": "https://shibakiller.org",
+  "description": "SHIBA KILLER is Memes Token",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x09F956f1E0C28f0b436663D44e0830B7853203d4",
+  "research": null,
+  "symbol": "SHIBK",
+  "type": "BEP20",
+  "decimals": 0,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xc3EdD7443563bF2D2d1f5a9c286CDDDC70e41587",
+  "address": "0xc3EdD7443563bF2D2d1f5a9c286CDDDC70e41587",
+  "blockchain": "ethereum",
+  "name": "The B Network Group",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc3EdD7443563bF2D2d1f5a9c286CDDDC70e41587",
+  "research": null,
+  "symbol": "TBNG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

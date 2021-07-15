@@ -1,0 +1,18 @@
+{
+  "id": "0x85993bE4EF5BEc00B62BA7e46a8a70f353182b3e",
+  "address": "0x85993bE4EF5BEc00B62BA7e46a8a70f353182b3e",
+  "blockchain": "ethereum",
+  "name": "YiYouBao",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x85993bE4EF5BEc00B62BA7e46a8a70f353182b3e",
+  "research": null,
+  "symbol": "YYB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x3f5DF2F90DF67E10974fBcB1729c00D3f87c0EB4",
+  "address": "0x3f5DF2F90DF67E10974fBcB1729c00D3f87c0EB4",
+  "blockchain": "ethereum",
+  "name": "ShinCoin",
+  "website": "https://www.shincoin.io",
+  "description": "The next-gen luxury asset staking",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3f5df2f90df67e10974fbcb1729c00d3f87c0eb4",
+  "research": null,
+  "symbol": "SCOIN",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

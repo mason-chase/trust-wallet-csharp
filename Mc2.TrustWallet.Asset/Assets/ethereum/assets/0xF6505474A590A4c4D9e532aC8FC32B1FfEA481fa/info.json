@@ -1,0 +1,18 @@
+{
+  "id": "0xF6505474A590A4c4D9e532aC8FC32B1FfEA481fa",
+  "address": "0xF6505474A590A4c4D9e532aC8FC32B1FfEA481fa",
+  "blockchain": "ethereum",
+  "name": "LEU",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF6505474A590A4c4D9e532aC8FC32B1FfEA481fa",
+  "research": null,
+  "symbol": "LEU",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x23aaB5E8cDAFCa91849f0c8Fab42500fbdfed9Bd",
+  "address": "0x23aaB5E8cDAFCa91849f0c8Fab42500fbdfed9Bd",
+  "blockchain": "ethereum",
+  "name": "Ebank Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x23aaB5E8cDAFCa91849f0c8Fab42500fbdfed9Bd",
+  "research": null,
+  "symbol": "EBT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xB2D8e647EE55CC58A2B408e38f433238498853da",
+  "address": "0xB2D8e647EE55CC58A2B408e38f433238498853da",
+  "blockchain": "ethereum",
+  "name": "VITA",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB2D8e647EE55CC58A2B408e38f433238498853da",
+  "research": null,
+  "symbol": "VITA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

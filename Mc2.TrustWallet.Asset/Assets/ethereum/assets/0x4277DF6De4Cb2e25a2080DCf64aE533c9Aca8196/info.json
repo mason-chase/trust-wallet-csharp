@@ -1,0 +1,18 @@
+{
+  "id": "0x4277DF6De4Cb2e25a2080DCf64aE533c9Aca8196",
+  "address": "0x4277DF6De4Cb2e25a2080DCf64aE533c9Aca8196",
+  "blockchain": "ethereum",
+  "name": "CryptoArtCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4277DF6De4Cb2e25a2080DCf64aE533c9Aca8196",
+  "research": null,
+  "symbol": "CRAC",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

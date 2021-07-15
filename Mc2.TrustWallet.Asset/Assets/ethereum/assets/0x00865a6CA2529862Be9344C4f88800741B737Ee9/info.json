@@ -1,0 +1,18 @@
+{
+  "id": "0x00865a6CA2529862Be9344C4f88800741B737Ee9",
+  "address": "0x00865a6CA2529862Be9344C4f88800741B737Ee9",
+  "blockchain": "ethereum",
+  "name": "KOPEX",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x00865a6CA2529862Be9344C4f88800741B737Ee9",
+  "research": null,
+  "symbol": "KPX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

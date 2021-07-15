@@ -1,0 +1,23 @@
+{
+  "id": "0x5Dc02Ea99285E17656b8350722694c35154DB1E8",
+  "address": "0x5Dc02Ea99285E17656b8350722694c35154DB1E8",
+  "blockchain": "ethereum",
+  "name": "BOND",
+  "website": "https://bonded.finance/",
+  "description": "The Bonded platform was created to incubate and deploy experimental, high-yield, smart-contract driven, financial instruments that push the bounds of open finance.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5Dc02Ea99285E17656b8350722694c35154DB1E8",
+  "research": null,
+  "symbol": "BOND",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Bondedfinance"
+    }
+  ],
+  "tags": null
+}

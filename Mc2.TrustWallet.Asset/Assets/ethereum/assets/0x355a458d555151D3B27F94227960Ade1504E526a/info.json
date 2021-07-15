@@ -1,0 +1,18 @@
+{
+  "id": "0x355a458d555151D3B27F94227960Ade1504E526a",
+  "address": "0x355a458d555151D3B27F94227960Ade1504E526a",
+  "blockchain": "ethereum",
+  "name": "StockChain Coin",
+  "website": "http://stockchain.co/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x355a458d555151D3B27F94227960Ade1504E526a",
+  "research": null,
+  "symbol": "SCC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

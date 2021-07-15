@@ -1,0 +1,18 @@
+{
+  "id": "0x511798118E18f0c51aCabF138427d6caaDeccC76",
+  "address": "0x511798118E18f0c51aCabF138427d6caaDeccC76",
+  "blockchain": "ethereum",
+  "name": "BitCareCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x511798118E18f0c51aCabF138427d6caaDeccC76",
+  "research": null,
+  "symbol": "BCARE",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

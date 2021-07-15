@@ -1,0 +1,18 @@
+{
+  "id": "0xac914BfE8cd7CDF89D67549be7225AfAd83E147C",
+  "address": "0xac914BfE8cd7CDF89D67549be7225AfAd83E147C",
+  "blockchain": "ethereum",
+  "name": "FuzeClassic",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xac914BfE8cd7CDF89D67549be7225AfAd83E147C",
+  "research": null,
+  "symbol": "XFZ",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

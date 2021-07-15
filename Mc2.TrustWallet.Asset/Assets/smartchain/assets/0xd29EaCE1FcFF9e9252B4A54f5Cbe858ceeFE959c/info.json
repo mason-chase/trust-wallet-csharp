@@ -1,0 +1,18 @@
+{
+  "id": "0xd29EaCE1FcFF9e9252B4A54f5Cbe858ceeFE959c",
+  "address": "0xd29EaCE1FcFF9e9252B4A54f5Cbe858ceeFE959c",
+  "blockchain": "smartchain",
+  "name": "Dogelon Moon",
+  "website": "https://dogelonmoon.com",
+  "description": "The Memes Token",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xd29EaCE1FcFF9e9252B4A54f5Cbe858ceeFE959c",
+  "research": null,
+  "symbol": "ELON",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

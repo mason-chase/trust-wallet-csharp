@@ -1,0 +1,18 @@
+{
+  "id": "0x0703Fb3CCF77D117Ecbb19774b5f97c5a4875c9D",
+  "address": "0x0703Fb3CCF77D117Ecbb19774b5f97c5a4875c9D",
+  "blockchain": "ethereum",
+  "name": "Digital CHF",
+  "website": "-",
+  "description": "CHF stablecoin",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0703Fb3CCF77D117Ecbb19774b5f97c5a4875c9D",
+  "research": null,
+  "symbol": "DCHF",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

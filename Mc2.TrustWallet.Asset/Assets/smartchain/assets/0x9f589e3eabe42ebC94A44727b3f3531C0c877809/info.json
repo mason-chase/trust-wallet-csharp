@@ -1,0 +1,18 @@
+{
+  "id": "0x9f589e3eabe42ebC94A44727b3f3531C0c877809",
+  "address": "0x9f589e3eabe42ebC94A44727b3f3531C0c877809",
+  "blockchain": "smartchain",
+  "name": "Tokocrypto Token",
+  "website": "http://www.tokocrypto.com/ ",
+  "description": "The first local Indonesian Crypto Asset Project to offer a unique hybrid token model.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x9f589e3eabe42ebC94A44727b3f3531C0c877809",
+  "research": null,
+  "symbol": "TKO",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

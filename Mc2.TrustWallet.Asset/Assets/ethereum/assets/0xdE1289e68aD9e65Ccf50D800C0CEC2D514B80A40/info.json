@@ -1,0 +1,18 @@
+{
+  "id": "0xdE1289e68aD9e65Ccf50D800C0CEC2D514B80A40",
+  "address": "0xdE1289e68aD9e65Ccf50D800C0CEC2D514B80A40",
+  "blockchain": "ethereum",
+  "name": "Krios Token",
+  "website": "https://www.krios.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xdE1289e68aD9e65Ccf50D800C0CEC2D514B80A40",
+  "research": null,
+  "symbol": "KRI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

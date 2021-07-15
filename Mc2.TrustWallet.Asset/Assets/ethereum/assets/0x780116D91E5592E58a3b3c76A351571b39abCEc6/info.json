@@ -1,0 +1,18 @@
+{
+  "id": "0x780116D91E5592E58a3b3c76A351571b39abCEc6",
+  "address": "0x780116D91E5592E58a3b3c76A351571b39abCEc6",
+  "blockchain": "ethereum",
+  "name": "Boxx",
+  "website": "https://www.goblockparty.com/",
+  "description": "Blockparty is designed to solve major pain points in ticketing: ensuring attendee identity, solving ticket fraud, and enabling revenue share in secondary ticket markets.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x780116D91E5592E58a3b3c76A351571b39abCEc6",
+  "research": null,
+  "symbol": "BOXX",
+  "type": "ERC20",
+  "decimals": 15,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

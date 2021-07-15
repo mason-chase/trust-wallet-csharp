@@ -1,0 +1,18 @@
+{
+  "id": "0xA13a41a2349D09C1E3a0dD4d9448Af4aD799fC4A",
+  "address": "0xA13a41a2349D09C1E3a0dD4d9448Af4aD799fC4A",
+  "blockchain": "wanchain",
+  "name": "BlockMedx Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://www.wanscan.org/token/0xa13A41A2349d09c1e3A0Dd4D9448aF4Ad799Fc4a",
+  "research": null,
+  "symbol": "MDX",
+  "type": "WAN20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

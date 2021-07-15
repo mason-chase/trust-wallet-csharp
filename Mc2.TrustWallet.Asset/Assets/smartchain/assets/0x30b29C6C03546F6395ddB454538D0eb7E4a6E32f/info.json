@@ -1,0 +1,18 @@
+{
+  "id": "0x30b29C6C03546F6395ddB454538D0eb7E4a6E32f",
+  "address": "0x30b29C6C03546F6395ddB454538D0eb7E4a6E32f",
+  "blockchain": "smartchain",
+  "name": "RooCoin",
+  "website": "https://roocoin.com",
+  "description": "RooCoin is a ‘charity-oriented’ token that's helping to support community causes across the world.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x30b29C6C03546F6395ddB454538D0eb7E4a6E32f",
+  "research": null,
+  "symbol": "ROO",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

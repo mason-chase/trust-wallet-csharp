@@ -1,0 +1,18 @@
+{
+  "id": "0xF5C00Ff3e26F903a8eea3532a7175Af7b82Accf8",
+  "address": "0xF5C00Ff3e26F903a8eea3532a7175Af7b82Accf8",
+  "blockchain": "ethereum",
+  "name": "Bit-Bet",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF5C00Ff3e26F903a8eea3532a7175Af7b82Accf8",
+  "research": null,
+  "symbol": "BBT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

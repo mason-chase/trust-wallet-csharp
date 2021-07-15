@@ -1,0 +1,18 @@
+{
+  "id": "0xC0D766017141dd4866738C1e704Be6feDc97B904",
+  "address": "0xC0D766017141dd4866738C1e704Be6feDc97B904",
+  "blockchain": "ethereum",
+  "name": "Tree Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xC0D766017141dd4866738C1e704Be6feDc97B904",
+  "research": null,
+  "symbol": "TREE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x9A3619499825fbAe63329Aa8bCb3f10CD5958E1c",
+  "address": "0x9A3619499825fbAe63329Aa8bCb3f10CD5958E1c",
+  "blockchain": "ethereum",
+  "name": "Jubilee Dollar",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9A3619499825fbAe63329Aa8bCb3f10CD5958E1c",
+  "research": null,
+  "symbol": "JBD",
+  "type": "ERC20",
+  "decimals": 10,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xf1aC7A375429719DE0dde33528e2639B9a206ebA",
+  "address": "0xf1aC7A375429719DE0dde33528e2639B9a206ebA",
+  "blockchain": "ethereum",
+  "name": "AMGO - Arena Match Gold",
+  "website": "https://arenamatch.com/amg/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf1aC7A375429719DE0dde33528e2639B9a206ebA",
+  "research": null,
+  "symbol": "AMGO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

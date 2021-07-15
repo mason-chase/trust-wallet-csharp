@@ -1,0 +1,18 @@
+{
+  "id": "1002939",
+  "address": "1002939",
+  "blockchain": "tron",
+  "name": "TRONFamily",
+  "website": "https://TRON-Family.de",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1002939",
+  "research": null,
+  "symbol": "FAT",
+  "type": "TRC10",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

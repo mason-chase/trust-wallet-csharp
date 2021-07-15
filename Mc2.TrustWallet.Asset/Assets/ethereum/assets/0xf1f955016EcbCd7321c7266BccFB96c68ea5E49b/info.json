@@ -1,0 +1,18 @@
+{
+  "id": "0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b",
+  "address": "0xf1f955016EcbCd7321c7266BccFB96c68ea5E49b",
+  "blockchain": "ethereum",
+  "name": "Rally",
+  "website": "https://rally.io/",
+  "description": "Cryptocurrency for Creator Communities",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b",
+  "research": null,
+  "symbol": "RLY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xD9d993FDD6dad5270C0896b364bdBefF38e010CF",
+  "address": "0xD9d993FDD6dad5270C0896b364bdBefF38e010CF",
+  "blockchain": "ethereum",
+  "name": "BIGG CASH",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xD9d993FDD6dad5270C0896b364bdBefF38e010CF",
+  "research": null,
+  "symbol": "BIGG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

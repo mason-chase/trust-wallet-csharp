@@ -1,0 +1,31 @@
+{
+  "id": "0xEc7d0327fC48ef7EfA975A4e3327F28576C3ef96",
+  "address": "0xEc7d0327fC48ef7EfA975A4e3327F28576C3ef96",
+  "blockchain": "smartchain",
+  "name": "Moon Protocol",
+  "website": "https://moonprotocol.finance/",
+  "description": "The Moon Protocol Bridge objective is to provide a tool that connects every single DeFi platform. Thanks to Moon Protocol Bridge, you’ll be able to manage and trade with ease, no matter which protocol your favorite asset is using.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xEc7d0327fC48ef7EfA975A4e3327F28576C3ef96",
+  "research": null,
+  "symbol": "MPF",
+  "type": "BEP20",
+  "decimals": 0,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/ProtocolMoon"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/MoonProtocolGroupTG"
+    },
+    {
+      "name": "telegram_news",
+      "url": "https://t.me/MoonProtocolann"
+    }
+  ],
+  "tags": null
+}

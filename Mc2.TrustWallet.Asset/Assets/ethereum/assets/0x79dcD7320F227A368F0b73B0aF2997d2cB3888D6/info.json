@@ -1,0 +1,18 @@
+{
+  "id": "0x79dcD7320F227A368F0b73B0aF2997d2cB3888D6",
+  "address": "0x79dcD7320F227A368F0b73B0aF2997d2cB3888D6",
+  "blockchain": "ethereum",
+  "name": "Maya",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x79dcD7320F227A368F0b73B0aF2997d2cB3888D6",
+  "research": null,
+  "symbol": "MAYA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

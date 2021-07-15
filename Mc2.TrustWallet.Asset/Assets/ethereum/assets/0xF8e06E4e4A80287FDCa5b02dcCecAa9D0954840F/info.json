@@ -1,0 +1,18 @@
+{
+  "id": "0xF8e06E4e4A80287FDCa5b02dcCecAa9D0954840F",
+  "address": "0xF8e06E4e4A80287FDCa5b02dcCecAa9D0954840F",
+  "blockchain": "ethereum",
+  "name": "TGAME",
+  "website": "https://ico.truegame.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF8e06E4e4A80287FDCa5b02dcCecAa9D0954840F",
+  "research": null,
+  "symbol": "TGAME",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

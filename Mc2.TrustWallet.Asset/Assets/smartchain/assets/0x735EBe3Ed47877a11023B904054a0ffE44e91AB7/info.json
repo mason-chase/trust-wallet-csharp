@@ -1,0 +1,18 @@
+{
+  "id": "0x735EBe3Ed47877a11023B904054a0ffE44e91AB7",
+  "address": "0x735EBe3Ed47877a11023B904054a0ffE44e91AB7",
+  "blockchain": "smartchain",
+  "name": "Alaska Inu",
+  "website": "https://alaskatoken.io/",
+  "description": "Alaska Inu is a 100% decentralized community experiment.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x735ebe3ed47877a11023b904054a0ffe44e91ab7",
+  "research": null,
+  "symbol": "LAS",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

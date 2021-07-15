@@ -1,0 +1,18 @@
+{
+  "id": "0x081F5489A66D3c75d615040FDdd64d9Ba1E74e76",
+  "address": "0x081F5489A66D3c75d615040FDdd64d9Ba1E74e76",
+  "blockchain": "ethereum",
+  "name": "Natretix",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x081F5489A66D3c75d615040FDdd64d9Ba1E74e76",
+  "research": null,
+  "symbol": "NRX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x0ecF0851b2cb945ddbee413C0E23f0C01cD4df7d",
+  "address": "0x0ecF0851b2cb945ddbee413C0E23f0C01cD4df7d",
+  "blockchain": "ethereum",
+  "name": "ARTIDToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0ecF0851b2cb945ddbee413C0E23f0C01cD4df7d",
+  "research": null,
+  "symbol": "ARTID",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x55f6CdC949b6a38d8F549599b3e8c10f10FE6AB1",
+  "address": "0x55f6CdC949b6a38d8F549599b3e8c10f10FE6AB1",
+  "blockchain": "ethereum",
+  "name": "BOST",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x55f6CdC949b6a38d8F549599b3e8c10f10FE6AB1",
+  "research": null,
+  "symbol": "BOST",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

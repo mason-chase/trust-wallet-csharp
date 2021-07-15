@@ -1,0 +1,18 @@
+{
+  "id": "0x1dbED266D20D27d0bd1c4707FC002dEfE7E0267B",
+  "address": "0x1dbED266D20D27d0bd1c4707FC002dEfE7E0267B",
+  "blockchain": "ethereum",
+  "name": "intimate",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1dbED266D20D27d0bd1c4707FC002dEfE7E0267B",
+  "research": null,
+  "symbol": "ITM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

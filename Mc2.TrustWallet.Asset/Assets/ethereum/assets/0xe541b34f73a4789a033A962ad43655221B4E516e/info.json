@@ -1,0 +1,18 @@
+{
+  "id": "0xe541b34f73a4789a033A962ad43655221B4E516e",
+  "address": "0xe541b34f73a4789a033A962ad43655221B4E516e",
+  "blockchain": "ethereum",
+  "name": "Creatanium",
+  "website": "https://www.plmp-fintech.com.sg/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe541b34f73a4789a033A962ad43655221B4E516e",
+  "research": null,
+  "symbol": "CMB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

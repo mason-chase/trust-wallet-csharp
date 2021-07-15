@@ -1,0 +1,39 @@
+{
+  "id": "0xdd690D8824c00C84d64606FFb12640e932C1AF56",
+  "address": "0xdd690D8824c00C84d64606FFb12640e932C1AF56",
+  "blockchain": "ethereum",
+  "name": "Tavittcoin",
+  "website": "https://tavitt.co.jp",
+  "description": "Tavitt builds a platform that allows travelers as Travel Providers to earn income while traveling.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xdd690D8824c00C84d64606FFb12640e932C1AF56",
+  "research": null,
+  "symbol": "TAVITT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "links": [
+    {
+      "name": "white_paper",
+      "url": "https://tavitt.co.jp/TAVITT_WP_En_ver2.01.pdf"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/Tavitt/token"
+    },
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/TavittThailand"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/tavitt_official"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/tavitt_coltd"
+    }
+  ],
+  "tags": null
+}

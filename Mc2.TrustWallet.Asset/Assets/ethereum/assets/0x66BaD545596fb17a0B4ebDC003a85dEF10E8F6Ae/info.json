@@ -1,0 +1,18 @@
+{
+  "id": "0x66BaD545596fb17a0B4ebDC003a85dEF10E8F6Ae",
+  "address": "0x66BaD545596fb17a0B4ebDC003a85dEF10E8F6Ae",
+  "blockchain": "ethereum",
+  "name": "WIKI Token",
+  "website": "https://wikitoken.bitcoinwiki.org/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x66BaD545596fb17a0B4ebDC003a85dEF10E8F6Ae",
+  "research": null,
+  "symbol": "WIKI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

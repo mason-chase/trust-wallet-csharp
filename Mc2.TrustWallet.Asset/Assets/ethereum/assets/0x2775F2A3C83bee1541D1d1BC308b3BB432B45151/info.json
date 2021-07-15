@@ -1,0 +1,18 @@
+{
+  "id": "0x2775F2A3C83bee1541D1d1BC308b3BB432B45151",
+  "address": "0x2775F2A3C83bee1541D1d1BC308b3BB432B45151",
+  "blockchain": "ethereum",
+  "name": "MEMBERSHIP",
+  "website": "https://planetagro.org/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2775F2A3C83bee1541D1d1BC308b3BB432B45151",
+  "research": null,
+  "symbol": "PLANETAGRO.ORG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

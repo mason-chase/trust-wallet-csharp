@@ -1,0 +1,18 @@
+{
+  "id": "0xf485C5E679238f9304D986bb2fC28fE3379200e5",
+  "address": "0xf485C5E679238f9304D986bb2fC28fE3379200e5",
+  "blockchain": "ethereum",
+  "name": "UG Coin",
+  "website": "http://www.ugchain.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf485C5E679238f9304D986bb2fC28fE3379200e5",
+  "research": null,
+  "symbol": "UGC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

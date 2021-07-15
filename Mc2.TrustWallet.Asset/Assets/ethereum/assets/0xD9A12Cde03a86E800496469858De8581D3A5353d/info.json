@@ -1,0 +1,18 @@
+{
+  "id": "0xD9A12Cde03a86E800496469858De8581D3A5353d",
+  "address": "0xD9A12Cde03a86E800496469858De8581D3A5353d",
+  "blockchain": "ethereum",
+  "name": "YUP",
+  "website": "https://www.crowdholding.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xD9A12Cde03a86E800496469858De8581D3A5353d",
+  "research": null,
+  "symbol": "YUP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

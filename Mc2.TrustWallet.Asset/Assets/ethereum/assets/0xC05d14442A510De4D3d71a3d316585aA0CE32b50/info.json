@@ -1,0 +1,18 @@
+{
+  "id": "0xC05d14442A510De4D3d71a3d316585aA0CE32b50",
+  "address": "0xC05d14442A510De4D3d71a3d316585aA0CE32b50",
+  "blockchain": "ethereum",
+  "name": "LINA",
+  "website": "https://lina.network/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xC05d14442A510De4D3d71a3d316585aA0CE32b50",
+  "research": null,
+  "symbol": "LINA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xdA4129919F964a3A526D3182Bb03E6449e5a8872",
+  "address": "0xdA4129919F964a3A526D3182Bb03E6449e5a8872",
+  "blockchain": "ethereum",
+  "name": "1irstgold",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xdA4129919F964a3A526D3182Bb03E6449e5a8872",
+  "research": null,
+  "symbol": "GOLD",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

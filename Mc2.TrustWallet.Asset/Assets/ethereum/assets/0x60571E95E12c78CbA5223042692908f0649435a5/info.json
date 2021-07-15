@@ -1,0 +1,18 @@
+{
+  "id": "0x60571E95E12c78CbA5223042692908f0649435a5",
+  "address": "0x60571E95E12c78CbA5223042692908f0649435a5",
+  "blockchain": "ethereum",
+  "name": "PLAAS FARMERS TOKEN",
+  "website": "https://plaas.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x60571E95E12c78CbA5223042692908f0649435a5",
+  "research": null,
+  "symbol": "PLAAS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x40aEea2e6c280E41cb88eC05673ba6C027C9c30c",
+  "address": "0x40aEea2e6c280E41cb88eC05673ba6C027C9c30c",
+  "blockchain": "ethereum",
+  "name": "Xhuman",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x40aEea2e6c280E41cb88eC05673ba6C027C9c30c",
+  "research": null,
+  "symbol": "XHUMAN",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

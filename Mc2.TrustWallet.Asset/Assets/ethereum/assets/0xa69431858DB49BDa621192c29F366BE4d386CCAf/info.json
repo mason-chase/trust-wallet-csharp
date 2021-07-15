@@ -1,0 +1,18 @@
+{
+  "id": "0xa69431858DB49BDa621192c29F366BE4d386CCAf",
+  "address": "0xa69431858DB49BDa621192c29F366BE4d386CCAf",
+  "blockchain": "ethereum",
+  "name": "Solereum Cash",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa69431858DB49BDa621192c29F366BE4d386CCAf",
+  "research": null,
+  "symbol": "SOLC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x3920123482070C1a2dff73AaD695c60e7c6F6862",
+  "address": "0x3920123482070C1a2dff73AaD695c60e7c6F6862",
+  "blockchain": "smartchain",
+  "name": "Euler",
+  "website": "https://euler.tools",
+  "description": "Eulers can be used both as utility and investment. We created a subscription system that unlocks professional features in our site and a reliable Mining Pool mechanism, that allows holders to receive rewards from each transaction.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x3920123482070C1a2dff73AaD695c60e7c6F6862",
+  "research": null,
+  "symbol": "EULER",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

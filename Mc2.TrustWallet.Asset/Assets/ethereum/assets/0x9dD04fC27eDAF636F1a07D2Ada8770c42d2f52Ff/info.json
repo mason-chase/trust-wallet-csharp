@@ -1,0 +1,18 @@
+{
+  "id": "0x9dD04fC27eDAF636F1a07D2Ada8770c42d2f52Ff",
+  "address": "0x9dD04fC27eDAF636F1a07D2Ada8770c42d2f52Ff",
+  "blockchain": "ethereum",
+  "name": "DIAMOND",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9dD04fC27eDAF636F1a07D2Ada8770c42d2f52Ff",
+  "research": null,
+  "symbol": "DMND",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

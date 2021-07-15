@@ -1,0 +1,18 @@
+{
+  "id": "0xC12D1c73eE7DC3615BA4e37E4ABFdbDDFA38907E",
+  "address": "0xC12D1c73eE7DC3615BA4e37E4ABFdbDDFA38907E",
+  "blockchain": "ethereum",
+  "name": "KickToken",
+  "website": "https://www.kickico.com",
+  "description": "Kick Ecosystem describes itself as a set of FinTech tools that form a “one-stop-shop” for every user from all over the world. These tools aim to cover all financial needs. KickToken acts as a central currency, which resides on the Ethereum platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xC12D1c73eE7DC3615BA4e37E4ABFdbDDFA38907E",
+  "research": null,
+  "symbol": "KICK",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

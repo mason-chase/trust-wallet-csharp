@@ -1,0 +1,18 @@
+{
+  "id": "0x28cb7e841ee97947a86B06fA4090C8451f64c0be",
+  "address": "0x28cb7e841ee97947a86B06fA4090C8451f64c0be",
+  "blockchain": "ethereum",
+  "name": "YFLink",
+  "website": "https://yflink.io",
+  "description": "YF Link is a community DeFi project built around the decentralized exchange Linkswap as a hub and bridge for community DeFi projects.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x28cb7e841ee97947a86B06fA4090C8451f64c0be",
+  "research": null,
+  "symbol": "YFL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x2e91E3e54C5788e9FdD6A181497FDcEa1De1bcc1",
+  "address": "0x2e91E3e54C5788e9FdD6A181497FDcEa1De1bcc1",
+  "blockchain": "ethereum",
+  "name": "Hercules",
+  "website": "https://herc.one/",
+  "description": "Hercules is a decentralized blockchain protocol platform that enables anyone to operate a fully functioning supply chain.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2e91E3e54C5788e9FdD6A181497FDcEa1De1bcc1",
+  "research": null,
+  "symbol": "HERC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

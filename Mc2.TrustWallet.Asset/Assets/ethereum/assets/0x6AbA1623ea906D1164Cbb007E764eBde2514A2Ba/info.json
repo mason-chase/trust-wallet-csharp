@@ -1,0 +1,18 @@
+{
+  "id": "0x6AbA1623ea906D1164Cbb007E764eBde2514A2Ba",
+  "address": "0x6AbA1623ea906D1164Cbb007E764eBde2514A2Ba",
+  "blockchain": "ethereum",
+  "name": "App Alliance Association",
+  "website": "https://aaachain.net/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6AbA1623ea906D1164Cbb007E764eBde2514A2Ba",
+  "research": null,
+  "symbol": "AAA",
+  "type": "ERC20",
+  "decimals": 10,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

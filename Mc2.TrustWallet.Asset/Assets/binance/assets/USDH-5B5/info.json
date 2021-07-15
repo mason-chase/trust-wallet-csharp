@@ -1,0 +1,18 @@
+{
+  "id": "USDH-5B5",
+  "address": "USDH-5B5",
+  "blockchain": "binance",
+  "name": "HonestCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/USDH-5B5",
+  "research": null,
+  "symbol": "USDH",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

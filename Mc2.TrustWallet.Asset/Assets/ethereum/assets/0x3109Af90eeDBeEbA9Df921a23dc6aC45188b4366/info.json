@@ -1,0 +1,18 @@
+{
+  "id": "0x3109Af90eeDBeEbA9Df921a23dc6aC45188b4366",
+  "address": "0x3109Af90eeDBeEbA9Df921a23dc6aC45188b4366",
+  "blockchain": "ethereum",
+  "name": "Seed of wisdom",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3109Af90eeDBeEbA9Df921a23dc6aC45188b4366",
+  "research": null,
+  "symbol": "SOW",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

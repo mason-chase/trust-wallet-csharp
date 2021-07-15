@@ -1,0 +1,18 @@
+{
+  "id": "0x96e6002A97Cd804aDA9E4864AC306CaDDBfeB73B",
+  "address": "0x96e6002A97Cd804aDA9E4864AC306CaDDBfeB73B",
+  "blockchain": "ethereum",
+  "name": "YokiCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x96e6002A97Cd804aDA9E4864AC306CaDDBfeB73B",
+  "research": null,
+  "symbol": "YKI",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

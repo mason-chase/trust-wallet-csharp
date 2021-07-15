@@ -1,0 +1,18 @@
+{
+  "id": "IOTX-0ED",
+  "address": "IOTX-0ED",
+  "blockchain": "binance",
+  "name": "IoTeX Network",
+  "website": "https://iotex.io",
+  "description": "IOTX will be a Decentralized Network for Internet of Things. Powered by a Privacy-Centric Blockchain.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/IOTX-0ED",
+  "research": "https://research.binance.com/en/projects/iotx",
+  "symbol": "IOTX",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

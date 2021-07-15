@@ -1,0 +1,18 @@
+{
+  "id": "0xaF1250fa68D7DECD34fD75dE8742Bc03B29BD58e",
+  "address": "0xaF1250fa68D7DECD34fD75dE8742Bc03B29BD58e",
+  "blockchain": "ethereum",
+  "name": "Invictus Hyperion",
+  "website": "https://invictuscapital.com/en/hyperion",
+  "description": "The Hyperion Fund is a closed-end blockchain-based venture capital fund.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xaF1250fa68D7DECD34fD75dE8742Bc03B29BD58e",
+  "research": null,
+  "symbol": "IHF",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

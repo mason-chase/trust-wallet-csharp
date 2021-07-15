@@ -1,0 +1,18 @@
+{
+  "id": "0xB45a50545bEEAB73F38F31E5973768C421805E5E",
+  "address": "0xB45a50545bEEAB73F38F31E5973768C421805E5E",
+  "blockchain": "ethereum",
+  "name": "TKRToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB45a50545bEEAB73F38F31E5973768C421805E5E",
+  "research": null,
+  "symbol": "TKR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

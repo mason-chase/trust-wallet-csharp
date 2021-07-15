@@ -1,0 +1,18 @@
+{
+  "id": "0x36fF29571Ed2Ff029dF9fA6DA076CA1484CEB9Dc",
+  "address": "0x36fF29571Ed2Ff029dF9fA6DA076CA1484CEB9Dc",
+  "blockchain": "ethereum",
+  "name": "Vioscoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x36fF29571Ed2Ff029dF9fA6DA076CA1484CEB9Dc",
+  "research": null,
+  "symbol": "VIS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

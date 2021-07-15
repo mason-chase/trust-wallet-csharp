@@ -1,0 +1,18 @@
+{
+  "id": "0xD22202d23fE7dE9E3DbE11a2a88F42f4CB9507cf",
+  "address": "0xD22202d23fE7dE9E3DbE11a2a88F42f4CB9507cf",
+  "blockchain": "smartchain",
+  "name": "Minereum BSC",
+  "website": "https://bsc.minereum.com/",
+  "description": "Minereum BSC - First Self Mining Smart Contract on Binance Smart Chain",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xD22202d23fE7dE9E3DbE11a2a88F42f4CB9507cf",
+  "research": null,
+  "symbol": "MNEB",
+  "type": "BEP20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

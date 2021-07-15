@@ -1,0 +1,18 @@
+{
+  "id": "0x3f7D27c41fdCD1Afc660F64290d314e08ea576Ea",
+  "address": "0x3f7D27c41fdCD1Afc660F64290d314e08ea576Ea",
+  "blockchain": "ethereum",
+  "name": "Pomp",
+  "website": "https://pomp.finance",
+  "description": "Pomp - collaborative hedge fund",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3f7D27c41fdCD1Afc660F64290d314e08ea576Ea",
+  "research": null,
+  "symbol": "POMP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x5432C580E34f590f4dd901B825DDeb92e905e826",
+  "address": "0x5432C580E34f590f4dd901B825DDeb92e905e826",
+  "blockchain": "ethereum",
+  "name": "TradeX Token",
+  "website": "https://tradextoken.com/",
+  "description": "TradeX token is created for the projects which are built with its real-life utility.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5432C580E34f590f4dd901B825DDeb92e905e826",
+  "research": null,
+  "symbol": "TXH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

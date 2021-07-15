@@ -1,0 +1,23 @@
+{
+  "id": "0x18a4979bbB4c88275d4575d66B9c9CD6BeA0cD5E",
+  "address": "0x18a4979bbB4c88275d4575d66B9c9CD6BeA0cD5E",
+  "blockchain": "ethereum",
+  "name": "IdexTools",
+  "website": "https://idextools.com/",
+  "description": "Everything you always wanted to know, at one click: Make your own strategies, anticipate the market dumps, search for big spreads, follow and copy the biggest gainer wallets and much more...",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x18a4979bbB4c88275d4575d66B9c9CD6BeA0cD5E",
+  "research": null,
+  "symbol": "IDXT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/IdexTools"
+    }
+  ],
+  "tags": null
+}

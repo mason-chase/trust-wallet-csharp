@@ -1,0 +1,18 @@
+{
+  "id": "0xcCeD5B8288086BE8c38E23567e684C3740be4D48",
+  "address": "0xcCeD5B8288086BE8c38E23567e684C3740be4D48",
+  "blockchain": "ethereum",
+  "name": "Roulette Token",
+  "website": "https://smartplay.tech/#",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xcCeD5B8288086BE8c38E23567e684C3740be4D48",
+  "research": null,
+  "symbol": "RLT",
+  "type": "ERC20",
+  "decimals": 10,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

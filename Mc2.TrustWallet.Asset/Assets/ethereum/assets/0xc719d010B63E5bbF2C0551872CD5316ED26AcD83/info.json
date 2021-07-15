@@ -1,0 +1,18 @@
+{
+  "id": "0xc719d010B63E5bbF2C0551872CD5316ED26AcD83",
+  "address": "0xc719d010B63E5bbF2C0551872CD5316ED26AcD83",
+  "blockchain": "ethereum",
+  "name": "Decentralized Insurance Protocol",
+  "website": "https://etherisc.com",
+  "description": "Etherisc claims to be building a platform for decentralized insurance applications.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc719d010B63E5bbF2C0551872CD5316ED26AcD83",
+  "research": null,
+  "symbol": "DIP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

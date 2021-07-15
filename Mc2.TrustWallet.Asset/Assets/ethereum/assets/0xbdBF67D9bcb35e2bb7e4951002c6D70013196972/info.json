@@ -1,0 +1,18 @@
+{
+  "id": "0xbdBF67D9bcb35e2bb7e4951002c6D70013196972",
+  "address": "0xbdBF67D9bcb35e2bb7e4951002c6D70013196972",
+  "blockchain": "ethereum",
+  "name": "Scott Stevenson Legal Engineering",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xbdBF67D9bcb35e2bb7e4951002c6D70013196972",
+  "research": null,
+  "symbol": "SSLE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

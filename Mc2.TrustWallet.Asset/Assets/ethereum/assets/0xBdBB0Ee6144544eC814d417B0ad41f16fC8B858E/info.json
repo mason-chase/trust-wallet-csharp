@@ -1,0 +1,18 @@
+{
+  "id": "0xBdBB0Ee6144544eC814d417B0ad41f16fC8B858E",
+  "address": "0xBdBB0Ee6144544eC814d417B0ad41f16fC8B858E",
+  "blockchain": "ethereum",
+  "name": "BitKAM",
+  "website": "https://bitkam.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xBdBB0Ee6144544eC814d417B0ad41f16fC8B858E",
+  "research": null,
+  "symbol": "KAM",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

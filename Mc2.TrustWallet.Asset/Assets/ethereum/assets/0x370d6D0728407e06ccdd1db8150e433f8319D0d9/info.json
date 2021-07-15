@@ -1,0 +1,18 @@
+{
+  "id": "0x370d6D0728407e06ccdd1db8150e433f8319D0d9",
+  "address": "0x370d6D0728407e06ccdd1db8150e433f8319D0d9",
+  "blockchain": "ethereum",
+  "name": "LATINOCOIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x370d6D0728407e06ccdd1db8150e433f8319D0d9",
+  "research": null,
+  "symbol": "LATINO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

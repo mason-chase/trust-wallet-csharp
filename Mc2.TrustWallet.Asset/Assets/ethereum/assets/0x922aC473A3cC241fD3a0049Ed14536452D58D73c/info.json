@@ -1,0 +1,18 @@
+{
+  "id": "0x922aC473A3cC241fD3a0049Ed14536452D58D73c",
+  "address": "0x922aC473A3cC241fD3a0049Ed14536452D58D73c",
+  "blockchain": "ethereum",
+  "name": "VALID",
+  "website": "https://vetri.global/",
+  "description": "Authenticate online using your self-sovereign eID and start monetizing your anonymized personal data.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x922aC473A3cC241fD3a0049Ed14536452D58D73c",
+  "research": null,
+  "symbol": "VLD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

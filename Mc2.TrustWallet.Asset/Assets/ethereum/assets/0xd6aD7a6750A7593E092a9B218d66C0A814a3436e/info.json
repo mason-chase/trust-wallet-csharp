@@ -1,0 +1,18 @@
+{
+  "id": "0xd6aD7a6750A7593E092a9B218d66C0A814a3436e",
+  "address": "0xd6aD7a6750A7593E092a9B218d66C0A814a3436e",
+  "blockchain": "ethereum",
+  "name": "iearn USDC",
+  "website": "https://docs.yearn.finance/",
+  "description": "Simple auto interest rate switching tokens for Compound, Fulcrum, Aave, and dYdX.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd6aD7a6750A7593E092a9B218d66C0A814a3436e",
+  "research": null,
+  "symbol": "yUSDC",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x6D7efEB3DF42e6075fa7Cf04E278d2D69e26a623",
+  "address": "0x6D7efEB3DF42e6075fa7Cf04E278d2D69e26a623",
+  "blockchain": "ethereum",
+  "name": "Lucky You",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6D7efEB3DF42e6075fa7Cf04E278d2D69e26a623",
+  "research": null,
+  "symbol": "LKY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

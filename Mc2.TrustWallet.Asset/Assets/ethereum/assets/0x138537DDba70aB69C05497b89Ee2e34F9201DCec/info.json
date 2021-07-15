@@ -1,0 +1,18 @@
+{
+  "id": "0x138537DDba70aB69C05497b89Ee2e34F9201DCec",
+  "address": "0x138537DDba70aB69C05497b89Ee2e34F9201DCec",
+  "blockchain": "ethereum",
+  "name": "ShahinMedical",
+  "website": "https://shaheenfaucet.xyz/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x138537DDba70aB69C05497b89Ee2e34F9201DCec",
+  "research": null,
+  "symbol": "SML",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

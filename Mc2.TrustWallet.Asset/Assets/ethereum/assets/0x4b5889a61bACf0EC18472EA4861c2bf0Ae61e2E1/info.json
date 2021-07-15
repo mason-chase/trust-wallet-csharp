@@ -1,0 +1,18 @@
+{
+  "id": "0x4b5889a61bACf0EC18472EA4861c2bf0Ae61e2E1",
+  "address": "0x4b5889a61bACf0EC18472EA4861c2bf0Ae61e2E1",
+  "blockchain": "ethereum",
+  "name": "United States of America",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4b5889a61bACf0EC18472EA4861c2bf0Ae61e2E1",
+  "research": null,
+  "symbol": "USA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

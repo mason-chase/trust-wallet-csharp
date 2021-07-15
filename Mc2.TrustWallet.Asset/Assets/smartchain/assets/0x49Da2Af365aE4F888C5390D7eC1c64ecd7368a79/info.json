@@ -1,0 +1,18 @@
+{
+  "id": "0x49Da2Af365aE4F888C5390D7eC1c64ecd7368a79",
+  "address": "0x49Da2Af365aE4F888C5390D7eC1c64ecd7368a79",
+  "blockchain": "smartchain",
+  "name": "ShibaSaur INU",
+  "website": "https://shibasaur.finance",
+  "description": "ShibS token is a community driven token with automatic LP and reflective rewards.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x49Da2Af365aE4F888C5390D7eC1c64ecd7368a79",
+  "research": null,
+  "symbol": "ShibS",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

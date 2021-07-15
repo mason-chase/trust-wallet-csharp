@@ -1,0 +1,18 @@
+{
+  "id": "0xFA038e0aC4E64aD3ECcE84A46767be0D434a511a",
+  "address": "0xFA038e0aC4E64aD3ECcE84A46767be0D434a511a",
+  "blockchain": "ethereum",
+  "name": "Fundament",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xFA038e0aC4E64aD3ECcE84A46767be0D434a511a",
+  "research": null,
+  "symbol": "FND",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

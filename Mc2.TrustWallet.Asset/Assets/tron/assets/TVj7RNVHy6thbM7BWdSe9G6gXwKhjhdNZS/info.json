@@ -1,0 +1,18 @@
+{
+  "id": "TVj7RNVHy6thbM7BWdSe9G6gXwKhjhdNZS",
+  "address": "TVj7RNVHy6thbM7BWdSe9G6gXwKhjhdNZS",
+  "blockchain": "tron",
+  "name": "Klever",
+  "website": "https://klever.io",
+  "description": "Klever app is described to be a simple, secure p2p crypto wallet for blockchain.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TVj7RNVHy6thbM7BWdSe9G6gXwKhjhdNZS",
+  "research": null,
+  "symbol": "KLV",
+  "type": "TRC20",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

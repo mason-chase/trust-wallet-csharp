@@ -1,0 +1,18 @@
+{
+  "id": "0x9B39A0B97319a9bd5fed217c1dB7b030453bac91",
+  "address": "0x9B39A0B97319a9bd5fed217c1dB7b030453bac91",
+  "blockchain": "ethereum",
+  "name": "TigerCash",
+  "website": "https://www.cointiger.com/en-us/#/index",
+  "description": "Trustable One-Stop Crypto-Currency Trading Platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9B39A0B97319a9bd5fed217c1dB7b030453bac91",
+  "research": null,
+  "symbol": "TCH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

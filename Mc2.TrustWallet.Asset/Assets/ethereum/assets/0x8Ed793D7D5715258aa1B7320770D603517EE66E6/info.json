@@ -1,0 +1,18 @@
+{
+  "id": "0x8Ed793D7D5715258aa1B7320770D603517EE66E6",
+  "address": "0x8Ed793D7D5715258aa1B7320770D603517EE66E6",
+  "blockchain": "ethereum",
+  "name": "KimchiSoxchain",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8Ed793D7D5715258aa1B7320770D603517EE66E6",
+  "research": null,
+  "symbol": "KSOX",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

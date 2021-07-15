@@ -1,0 +1,18 @@
+{
+  "id": "0x667088b212ce3d06a1b553a7221E1fD19000d9aF",
+  "address": "0x667088b212ce3d06a1b553a7221E1fD19000d9aF",
+  "blockchain": "ethereum",
+  "name": "WINGS",
+  "website": "https://wings.ai/",
+  "description": "WINGS combines several concepts, ranging from attention rewards, forecasting markets, smart contracts, governance models and federated funds security.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x667088b212ce3d06a1b553a7221E1fD19000d9aF",
+  "research": null,
+  "symbol": "WINGS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

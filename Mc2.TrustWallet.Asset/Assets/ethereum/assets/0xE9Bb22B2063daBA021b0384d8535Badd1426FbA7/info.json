@@ -1,0 +1,18 @@
+{
+  "id": "0xE9Bb22B2063daBA021b0384d8535Badd1426FbA7",
+  "address": "0xE9Bb22B2063daBA021b0384d8535Badd1426FbA7",
+  "blockchain": "ethereum",
+  "name": "Pyrabank Private",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE9Bb22B2063daBA021b0384d8535Badd1426FbA7",
+  "research": null,
+  "symbol": "PBPRV",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

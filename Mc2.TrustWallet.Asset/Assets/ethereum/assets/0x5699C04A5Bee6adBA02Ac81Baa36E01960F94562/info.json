@@ -1,0 +1,18 @@
+{
+  "id": "0x5699C04A5Bee6adBA02Ac81Baa36E01960F94562",
+  "address": "0x5699C04A5Bee6adBA02Ac81Baa36E01960F94562",
+  "blockchain": "ethereum",
+  "name": "FX Crypto",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5699C04A5Bee6adBA02Ac81Baa36E01960F94562",
+  "research": null,
+  "symbol": "FXC",
+  "type": "ERC20",
+  "decimals": 16,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

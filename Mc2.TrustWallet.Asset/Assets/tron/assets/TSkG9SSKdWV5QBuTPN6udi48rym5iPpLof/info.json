@@ -1,0 +1,18 @@
+{
+  "id": "TSkG9SSKdWV5QBuTPN6udi48rym5iPpLof",
+  "address": "TSkG9SSKdWV5QBuTPN6udi48rym5iPpLof",
+  "blockchain": "tron",
+  "name": "CraftToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TSkG9SSKdWV5QBuTPN6udi48rym5iPpLof",
+  "research": null,
+  "symbol": "CFT",
+  "type": "TRC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

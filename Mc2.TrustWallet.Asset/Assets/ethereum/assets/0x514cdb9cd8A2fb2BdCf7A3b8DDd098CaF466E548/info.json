@@ -1,0 +1,18 @@
+{
+  "id": "0x514cdb9cd8A2fb2BdCf7A3b8DDd098CaF466E548",
+  "address": "0x514cdb9cd8A2fb2BdCf7A3b8DDd098CaF466E548",
+  "blockchain": "ethereum",
+  "name": "RedPanda Earth ",
+  "website": "https://redpanda.earth",
+  "description": "RedPanda Earth is a deflationary token focused on donating to charitable organizations worldwide to save our endangered species.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x514cdb9cd8A2fb2BdCf7A3b8DDd098CaF466E548",
+  "research": null,
+  "symbol": "REDPANDA",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

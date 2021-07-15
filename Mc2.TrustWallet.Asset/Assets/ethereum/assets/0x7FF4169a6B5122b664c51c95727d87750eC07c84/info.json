@@ -1,0 +1,18 @@
+{
+  "id": "0x7FF4169a6B5122b664c51c95727d87750eC07c84",
+  "address": "0x7FF4169a6B5122b664c51c95727d87750eC07c84",
+  "blockchain": "ethereum",
+  "name": "Tenset",
+  "website": "https://tenset.io/",
+  "description": "The Bridge Between Crypto & Stock Market",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7FF4169a6B5122b664c51c95727d87750eC07c84",
+  "research": null,
+  "symbol": "10SET",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

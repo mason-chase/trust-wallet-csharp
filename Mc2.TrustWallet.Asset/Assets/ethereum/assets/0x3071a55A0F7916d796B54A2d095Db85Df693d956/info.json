@@ -1,0 +1,18 @@
+{
+  "id": "0x3071a55A0F7916d796B54A2d095Db85Df693d956",
+  "address": "0x3071a55A0F7916d796B54A2d095Db85Df693d956",
+  "blockchain": "ethereum",
+  "name": "Walleteum",
+  "website": "https://walleteum.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3071a55A0F7916d796B54A2d095Db85Df693d956",
+  "research": null,
+  "symbol": "EUM",
+  "type": "ERC20",
+  "decimals": 13,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

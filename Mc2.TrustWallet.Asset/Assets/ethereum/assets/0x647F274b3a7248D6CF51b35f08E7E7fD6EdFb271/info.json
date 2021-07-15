@@ -1,0 +1,18 @@
+{
+  "id": "0x647F274b3a7248D6CF51b35f08E7E7fD6EdFb271",
+  "address": "0x647F274b3a7248D6CF51b35f08E7E7fD6EdFb271",
+  "blockchain": "ethereum",
+  "name": "Maggie Token",
+  "website": "http://maggie.vip/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x647F274b3a7248D6CF51b35f08E7E7fD6EdFb271",
+  "research": null,
+  "symbol": "MAG",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xa085edaF9E9688611D5390046eF28f206DfC1dFE",
+  "address": "0xa085edaF9E9688611D5390046eF28f206DfC1dFE",
+  "blockchain": "ethereum",
+  "name": "Health Pass (健康通证)",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa085edaF9E9688611D5390046eF28f206DfC1dFE",
+  "research": null,
+  "symbol": "BTZ",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

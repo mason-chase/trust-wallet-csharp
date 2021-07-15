@@ -1,0 +1,18 @@
+{
+  "id": "0xA2A19165C17B36a5C753A246c1e188489754A693",
+  "address": "0xA2A19165C17B36a5C753A246c1e188489754A693",
+  "blockchain": "ethereum",
+  "name": "P2PG",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA2A19165C17B36a5C753A246c1e188489754A693",
+  "research": null,
+  "symbol": "P2PGO",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

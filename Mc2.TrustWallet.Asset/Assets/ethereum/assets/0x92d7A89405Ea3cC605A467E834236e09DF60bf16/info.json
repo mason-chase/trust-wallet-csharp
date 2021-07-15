@@ -1,0 +1,18 @@
+{
+  "id": "0x92d7A89405Ea3cC605A467E834236e09DF60bf16",
+  "address": "0x92d7A89405Ea3cC605A467E834236e09DF60bf16",
+  "blockchain": "ethereum",
+  "name": "Spirit",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x92d7A89405Ea3cC605A467E834236e09DF60bf16",
+  "research": null,
+  "symbol": "SPIRIT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

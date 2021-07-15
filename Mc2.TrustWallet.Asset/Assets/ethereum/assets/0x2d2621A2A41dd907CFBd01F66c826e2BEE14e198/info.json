@@ -1,0 +1,18 @@
+{
+  "id": "0x2d2621A2A41dd907CFBd01F66c826e2BEE14e198",
+  "address": "0x2d2621A2A41dd907CFBd01F66c826e2BEE14e198",
+  "blockchain": "ethereum",
+  "name": "Joint Alliance Co.",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2d2621A2A41dd907CFBd01F66c826e2BEE14e198",
+  "research": null,
+  "symbol": "JAC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

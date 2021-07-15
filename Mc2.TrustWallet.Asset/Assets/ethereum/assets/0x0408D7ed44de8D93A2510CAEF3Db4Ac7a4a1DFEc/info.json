@@ -1,0 +1,18 @@
+{
+  "id": "0x0408D7ed44de8D93A2510CAEF3Db4Ac7a4a1DFEc",
+  "address": "0x0408D7ed44de8D93A2510CAEF3Db4Ac7a4a1DFEc",
+  "blockchain": "ethereum",
+  "name": "AIECOLOGY",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0408D7ed44de8D93A2510CAEF3Db4Ac7a4a1DFEc",
+  "research": null,
+  "symbol": "AIE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

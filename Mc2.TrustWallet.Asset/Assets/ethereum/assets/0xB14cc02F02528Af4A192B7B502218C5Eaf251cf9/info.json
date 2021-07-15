@@ -1,0 +1,18 @@
+{
+  "id": "0xB14cc02F02528Af4A192B7B502218C5Eaf251cf9",
+  "address": "0xB14cc02F02528Af4A192B7B502218C5Eaf251cf9",
+  "blockchain": "ethereum",
+  "name": "NABS",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB14cc02F02528Af4A192B7B502218C5Eaf251cf9",
+  "research": null,
+  "symbol": "NBS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x6c37Bf4f042712C978A73e3fd56D1F5738dD7C43",
+  "address": "0x6c37Bf4f042712C978A73e3fd56D1F5738dD7C43",
+  "blockchain": "ethereum",
+  "name": "Elementeum",
+  "website": "https://www.etherlegends.io",
+  "description": "Elementeum Games is behind the Ether Legends Trading Card Game, which aims to merge physical and blockchain trading cards with engaging gameplay.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6c37Bf4f042712C978A73e3fd56D1F5738dD7C43",
+  "research": null,
+  "symbol": "ELET",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

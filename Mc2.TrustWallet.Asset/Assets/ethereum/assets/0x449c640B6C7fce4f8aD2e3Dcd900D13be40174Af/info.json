@@ -1,0 +1,18 @@
+{
+  "id": "0x449c640B6C7fce4f8aD2e3Dcd900D13be40174Af",
+  "address": "0x449c640B6C7fce4f8aD2e3Dcd900D13be40174Af",
+  "blockchain": "ethereum",
+  "name": "IGICOIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x449c640B6C7fce4f8aD2e3Dcd900D13be40174Af",
+  "research": null,
+  "symbol": "IGI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

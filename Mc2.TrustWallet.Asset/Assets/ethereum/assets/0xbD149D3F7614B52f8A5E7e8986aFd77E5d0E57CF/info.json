@@ -1,0 +1,18 @@
+{
+  "id": "0xbD149D3F7614B52f8A5E7e8986aFd77E5d0E57CF",
+  "address": "0xbD149D3F7614B52f8A5E7e8986aFd77E5d0E57CF",
+  "blockchain": "ethereum",
+  "name": "BuckHathCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xbD149D3F7614B52f8A5E7e8986aFd77E5d0E57CF",
+  "research": null,
+  "symbol": "BHIG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

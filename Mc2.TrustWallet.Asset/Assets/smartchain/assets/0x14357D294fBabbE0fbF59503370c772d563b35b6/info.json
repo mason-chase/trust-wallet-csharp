@@ -1,0 +1,18 @@
+{
+  "id": "0x14357D294fBabbE0fbF59503370c772d563b35b6",
+  "address": "0x14357D294fBabbE0fbF59503370c772d563b35b6",
+  "blockchain": "smartchain",
+  "name": "HummingBird Finance",
+  "website": "https://www.hummingbirdbsc.org/",
+  "description": "Hummingbird Finance contract is designed to apply 3% tax to every transaction. 1.5% is distributed to the current holders and 1.5 % is burned forever which decreases supply of HMNG. ",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x14357d294fbabbe0fbf59503370c772d563b35b6",
+  "research": null,
+  "symbol": "Hmng",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x83f798e925BcD4017Eb265844FDDAbb448f1707D",
+  "address": "0x83f798e925BcD4017Eb265844FDDAbb448f1707D",
+  "blockchain": "ethereum",
+  "name": "iearn USDT",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x83f798e925BcD4017Eb265844FDDAbb448f1707D",
+  "research": null,
+  "symbol": "yUSDT",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

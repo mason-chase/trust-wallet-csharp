@@ -1,0 +1,18 @@
+{
+  "id": "0xF5BA8A8c87f976b79b17ccd25EE8DC2f8e82FB59",
+  "address": "0xF5BA8A8c87f976b79b17ccd25EE8DC2f8e82FB59",
+  "blockchain": "ethereum",
+  "name": "EtherStone",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF5BA8A8c87f976b79b17ccd25EE8DC2f8e82FB59",
+  "research": null,
+  "symbol": "ETHS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

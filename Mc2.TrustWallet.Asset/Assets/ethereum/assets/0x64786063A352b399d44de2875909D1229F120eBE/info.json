@@ -1,0 +1,18 @@
+{
+  "id": "0x64786063A352b399d44de2875909D1229F120eBE",
+  "address": "0x64786063A352b399d44de2875909D1229F120eBE",
+  "blockchain": "ethereum",
+  "name": "TAUR",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x64786063A352b399d44de2875909D1229F120eBE",
+  "research": null,
+  "symbol": "TAUR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

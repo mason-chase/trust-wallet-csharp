@@ -1,0 +1,18 @@
+{
+  "id": "0x3453769b660b7EE4261AaA043479Aa3CA02243bf",
+  "address": "0x3453769b660b7EE4261AaA043479Aa3CA02243bf",
+  "blockchain": "ethereum",
+  "name": "LaserCoin",
+  "website": "http://lasercoin.io",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3453769b660b7EE4261AaA043479Aa3CA02243bf",
+  "research": null,
+  "symbol": "LZR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

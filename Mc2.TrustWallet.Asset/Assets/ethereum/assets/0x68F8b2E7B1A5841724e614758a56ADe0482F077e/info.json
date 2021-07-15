@@ -1,0 +1,18 @@
+{
+  "id": "0x68F8b2E7B1A5841724e614758a56ADe0482F077e",
+  "address": "0x68F8b2E7B1A5841724e614758a56ADe0482F077e",
+  "blockchain": "ethereum",
+  "name": "LXANK",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x68F8b2E7B1A5841724e614758a56ADe0482F077e",
+  "research": null,
+  "symbol": "LXANK",
+  "type": "ERC20",
+  "decimals": 16,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

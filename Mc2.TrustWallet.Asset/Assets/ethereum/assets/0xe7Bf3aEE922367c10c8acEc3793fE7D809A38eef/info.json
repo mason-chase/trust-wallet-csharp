@@ -1,0 +1,18 @@
+{
+  "id": "0xe7Bf3aEE922367c10c8acEc3793fE7D809A38eef",
+  "address": "0xe7Bf3aEE922367c10c8acEc3793fE7D809A38eef",
+  "blockchain": "ethereum",
+  "name": "BAGS",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe7Bf3aEE922367c10c8acEc3793fE7D809A38eef",
+  "research": null,
+  "symbol": "BAGS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

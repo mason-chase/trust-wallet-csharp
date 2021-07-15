@@ -1,0 +1,18 @@
+{
+  "id": "0x6175f6F85339f1e56AFFAc5A68cBf8297969004D",
+  "address": "0x6175f6F85339f1e56AFFAc5A68cBf8297969004D",
+  "blockchain": "ethereum",
+  "name": "Shopin Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6175f6F85339f1e56AFFAc5A68cBf8297969004D",
+  "research": null,
+  "symbol": "SHOP",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

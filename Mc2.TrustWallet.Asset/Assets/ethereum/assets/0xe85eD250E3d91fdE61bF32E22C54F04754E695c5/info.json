@@ -1,0 +1,18 @@
+{
+  "id": "0xe85eD250E3d91fdE61bF32E22C54F04754E695c5",
+  "address": "0xe85eD250E3d91fdE61bF32E22C54F04754E695c5",
+  "blockchain": "ethereum",
+  "name": "SDC",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe85eD250E3d91fdE61bF32E22C54F04754E695c5",
+  "research": null,
+  "symbol": "SDC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

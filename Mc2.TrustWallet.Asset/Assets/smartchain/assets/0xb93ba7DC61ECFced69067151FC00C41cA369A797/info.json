@@ -1,0 +1,18 @@
+{
+  "id": "0xb93ba7DC61ECFced69067151FC00C41cA369A797",
+  "address": "0xb93ba7DC61ECFced69067151FC00C41cA369A797",
+  "blockchain": "smartchain",
+  "name": "WenMoon Token",
+  "website": "https://wenmoon.space",
+  "description": "High yielding BSC token with 15% transaction fee redistributed to existing wallet holders.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xb93ba7DC61ECFced69067151FC00C41cA369A797",
+  "research": null,
+  "symbol": "WENMOON",
+  "type": "BEP20",
+  "decimals": 7,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

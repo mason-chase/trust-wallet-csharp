@@ -1,0 +1,18 @@
+{
+  "id": "0x91e64F39C1FE14492e8FDf5A8B0f305BD218C8A1",
+  "address": "0x91e64F39C1FE14492e8FDf5A8B0f305BD218C8A1",
+  "blockchain": "ethereum",
+  "name": "Vodi X",
+  "website": "https://vodix.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x91e64F39C1FE14492e8FDf5A8B0f305BD218C8A1",
+  "research": null,
+  "symbol": "VDX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

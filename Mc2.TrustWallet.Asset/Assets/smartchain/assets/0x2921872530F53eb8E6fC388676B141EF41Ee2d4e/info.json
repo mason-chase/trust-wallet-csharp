@@ -1,0 +1,18 @@
+{
+  "id": "0x2921872530F53eb8E6fC388676B141EF41Ee2d4e",
+  "address": "0x2921872530F53eb8E6fC388676B141EF41Ee2d4e",
+  "blockchain": "smartchain",
+  "name": "Space Soldier",
+  "website": "https://www.spacesoldier.finance/",
+  "description": "Space Soldier is the first deflationary token for veterans. Two functions occur during each trade: Reflection & LP Acquisition",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x2921872530F53eb8E6fC388676B141EF41Ee2d4e",
+  "research": null,
+  "symbol": "SOLDIER",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

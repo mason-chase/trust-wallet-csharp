@@ -1,0 +1,23 @@
+{
+  "id": "0x19810559dF63f19cfE88923313250550eDADB743",
+  "address": "0x19810559dF63f19cfE88923313250550eDADB743",
+  "blockchain": "ethereum",
+  "name": "Toast.finance (HOUSE)",
+  "website": "https://toast.finance/",
+  "description": "HOUSE is a fixed-supply token in the Toast.finance ecosystem.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x19810559dF63f19cfE88923313250550eDADB743",
+  "research": null,
+  "symbol": "HOUSE",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/Toast-finance"
+    }
+  ],
+  "tags": null
+}

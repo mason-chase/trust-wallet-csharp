@@ -1,0 +1,18 @@
+{
+  "id": "0xcDd0A6B15B49A9eb3Ce011CCE22FAc2ccf09ecE6",
+  "address": "0xcDd0A6B15B49A9eb3Ce011CCE22FAc2ccf09ecE6",
+  "blockchain": "ethereum",
+  "name": "ARMTOKEN",
+  "website": "https://armtoken.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xcDd0A6B15B49A9eb3Ce011CCE22FAc2ccf09ecE6",
+  "research": null,
+  "symbol": "TARM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

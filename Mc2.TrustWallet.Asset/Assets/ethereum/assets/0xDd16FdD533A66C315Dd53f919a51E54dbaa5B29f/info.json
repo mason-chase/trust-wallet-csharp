@@ -1,0 +1,18 @@
+{
+  "id": "0xDd16FdD533A66C315Dd53f919a51E54dbaa5B29f",
+  "address": "0xDd16FdD533A66C315Dd53f919a51E54dbaa5B29f",
+  "blockchain": "ethereum",
+  "name": "Henfruit",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDd16FdD533A66C315Dd53f919a51E54dbaa5B29f",
+  "research": null,
+  "symbol": "EGG",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

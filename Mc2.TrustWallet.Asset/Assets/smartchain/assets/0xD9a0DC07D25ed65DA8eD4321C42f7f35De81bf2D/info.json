@@ -1,0 +1,18 @@
+{
+  "id": "0xD9a0DC07D25ed65DA8eD4321C42f7f35De81bf2D",
+  "address": "0xD9a0DC07D25ed65DA8eD4321C42f7f35De81bf2D",
+  "blockchain": "smartchain",
+  "name": "FishSwap",
+  "website": "https://FishSwap.App/",
+  "description": "FISH is governance of FishSwap - A Decentralzied Exchange Protocol with Optimized Yield Farming, Pools and Lottery features. ",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xD9a0DC07D25ed65DA8eD4321C42f7f35De81bf2D",
+  "research": null,
+  "symbol": "FISH",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

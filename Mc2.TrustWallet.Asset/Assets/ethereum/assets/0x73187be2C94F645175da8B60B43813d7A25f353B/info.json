@@ -1,0 +1,18 @@
+{
+  "id": "0x73187be2C94F645175da8B60B43813d7A25f353B",
+  "address": "0x73187be2C94F645175da8B60B43813d7A25f353B",
+  "blockchain": "ethereum",
+  "name": "BIG",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x73187be2C94F645175da8B60B43813d7A25f353B",
+  "research": null,
+  "symbol": "BIG",
+  "type": "ERC20",
+  "decimals": 3,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

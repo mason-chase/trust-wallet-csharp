@@ -1,0 +1,18 @@
+{
+  "id": "0x8275eBF521Dc217aa79C88132017A5BCEf001dd9",
+  "address": "0x8275eBF521Dc217aa79C88132017A5BCEf001dd9",
+  "blockchain": "ethereum",
+  "name": "Jewel",
+  "website": "https://jewelpay.org/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8275eBF521Dc217aa79C88132017A5BCEf001dd9",
+  "research": null,
+  "symbol": "JWL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

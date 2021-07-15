@@ -1,0 +1,18 @@
+{
+  "id": "0x8e09FE761f4Eee5DAC56024cC5eF9174231e5F1b",
+  "address": "0x8e09FE761f4Eee5DAC56024cC5eF9174231e5F1b",
+  "blockchain": "ethereum",
+  "name": "Indoaset",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8e09FE761f4Eee5DAC56024cC5eF9174231e5F1b",
+  "research": null,
+  "symbol": "1ai",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

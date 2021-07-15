@@ -1,0 +1,18 @@
+{
+  "id": "0x9faCccc33adD9257F3BD30F8569B8845A8932A70",
+  "address": "0x9faCccc33adD9257F3BD30F8569B8845A8932A70",
+  "blockchain": "ethereum",
+  "name": "ZIVIO",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9faCccc33adD9257F3BD30F8569B8845A8932A70",
+  "research": null,
+  "symbol": "ZIO",
+  "type": "ERC20",
+  "decimals": 16,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

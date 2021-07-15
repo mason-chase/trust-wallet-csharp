@@ -1,0 +1,35 @@
+{
+  "id": "0xC626e0619aC79AFEa9281c8eB9b1a9f9D3Fab532",
+  "address": "0xC626e0619aC79AFEa9281c8eB9b1a9f9D3Fab532",
+  "blockchain": "ethereum",
+  "name": "Freedom Reserve",
+  "website": "https://freedomreserv.eth.link/",
+  "description": "Freedom Reeserve is a Project to build a Store of Value and unit of exchange suitable for the people of the British Isles",
+  "short_description": "Project to build a zero inflation cryptocurrency for the British Isles.",
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc626e0619ac79afea9281c8eb9b1a9f9d3fab532",
+  "research": "https://research.binance.com/",
+  "symbol": "FR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/Freedom-Reserve"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/@freedomreserve1"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/freedomreserve1"
+    },
+    {
+      "name": "white_paper",
+      "url": "https://freedomreserv.eth.link/img/FreedomReserveWhitepaper.pdf"
+    }
+  ],
+  "tags": null
+}

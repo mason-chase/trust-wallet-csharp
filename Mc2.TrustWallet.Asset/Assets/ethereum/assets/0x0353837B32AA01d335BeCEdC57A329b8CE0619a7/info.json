@@ -1,0 +1,18 @@
+{
+  "id": "0x0353837B32AA01d335BeCEdC57A329b8CE0619a7",
+  "address": "0x0353837B32AA01d335BeCEdC57A329b8CE0619a7",
+  "blockchain": "ethereum",
+  "name": "Tacoin",
+  "website": "https://www.tacoinofficial.com/",
+  "description": "Decentralizing taco payments worldwide.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0353837B32AA01d335BeCEdC57A329b8CE0619a7",
+  "research": null,
+  "symbol": "TACO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

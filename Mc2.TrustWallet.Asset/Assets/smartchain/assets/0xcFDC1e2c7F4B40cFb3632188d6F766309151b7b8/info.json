@@ -1,0 +1,18 @@
+{
+  "id": "0xcFDC1e2c7F4B40cFb3632188d6F766309151b7b8",
+  "address": "0xcFDC1e2c7F4B40cFb3632188d6F766309151b7b8",
+  "blockchain": "smartchain",
+  "name": "SAFE & SECURE WALLET",
+  "website": "https://saswallets.com",
+  "description": "SAFE & SECURE WALLET",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xcFDC1e2c7F4B40cFb3632188d6F766309151b7b8",
+  "research": null,
+  "symbol": "SAS",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

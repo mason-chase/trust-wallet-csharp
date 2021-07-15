@@ -1,0 +1,18 @@
+{
+  "id": "0x29536B7Ca7029b5cDDEB03c0451715615AcA35ba",
+  "address": "0x29536B7Ca7029b5cDDEB03c0451715615AcA35ba",
+  "blockchain": "ethereum",
+  "name": "NewOS Token",
+  "website": "http://ne.ws/html/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x29536B7Ca7029b5cDDEB03c0451715615AcA35ba",
+  "research": null,
+  "symbol": "NEWOS",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

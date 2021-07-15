@@ -1,0 +1,18 @@
+{
+  "id": "0xDD5c87abA6DF58e1474eA1Ffb64c36F3F7175a2f",
+  "address": "0xDD5c87abA6DF58e1474eA1Ffb64c36F3F7175a2f",
+  "blockchain": "ethereum",
+  "name": "ViacashToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDD5c87abA6DF58e1474eA1Ffb64c36F3F7175a2f",
+  "research": null,
+  "symbol": "Viacash",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

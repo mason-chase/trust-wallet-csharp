@@ -1,0 +1,18 @@
+{
+  "id": "0x57652Fc91f522f9EFF0b38CDF1D51f5FB5764215",
+  "address": "0x57652Fc91f522f9EFF0b38CDF1D51f5FB5764215",
+  "blockchain": "ethereum",
+  "name": "Buddy",
+  "website": "https://investors.buddy.cloud/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x57652Fc91f522f9EFF0b38CDF1D51f5FB5764215",
+  "research": null,
+  "symbol": "BUD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

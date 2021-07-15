@@ -1,0 +1,18 @@
+{
+  "id": "0x2859021eE7F2Cb10162E67F33Af2D22764B31aFf",
+  "address": "0x2859021eE7F2Cb10162E67F33Af2D22764B31aFf",
+  "blockchain": "ethereum",
+  "name": "Silent Notary Token",
+  "website": "https://silentnotary.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2859021eE7F2Cb10162E67F33Af2D22764B31aFf",
+  "research": null,
+  "symbol": "SNTR",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xF10d9664828e80EeA2F8bf139C3cC6041aE0cBA0",
+  "address": "0xF10d9664828e80EeA2F8bf139C3cC6041aE0cBA0",
+  "blockchain": "ethereum",
+  "name": "COMBO",
+  "website": "https://combocoin.online/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF10d9664828e80EeA2F8bf139C3cC6041aE0cBA0",
+  "research": null,
+  "symbol": "COMBO",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

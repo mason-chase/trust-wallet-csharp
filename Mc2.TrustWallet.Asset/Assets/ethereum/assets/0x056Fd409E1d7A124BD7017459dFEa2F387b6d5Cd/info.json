@@ -1,0 +1,39 @@
+{
+  "id": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
+  "address": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
+  "blockchain": "ethereum",
+  "name": "Gemini dollar",
+  "website": "https://gemini.com/dollar",
+  "description": "The 1:1 USD-backed stablecoin built by a secure, trusted, and regulated cryptocurrency exchange.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
+  "research": null,
+  "symbol": "GUSD",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "active",
+  "links": [
+    {
+      "name": "facebook",
+      "url": "https://facebook.com/GeminiDotCom"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/GeminiDotCom"
+    },
+    {
+      "name": "reddit",
+      "url": "https://reddit.com/r/Gemini/"
+    },
+    {
+      "name": "white_paper",
+      "url": "https://gemini.com/dollar/whitepaper"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://coingecko.com/en/coins/gemini-dollar/"
+    }
+  ],
+  "tags": null
+}

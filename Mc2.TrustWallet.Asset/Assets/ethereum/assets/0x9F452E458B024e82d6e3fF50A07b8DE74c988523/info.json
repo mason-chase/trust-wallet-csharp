@@ -1,0 +1,18 @@
+{
+  "id": "0x9F452E458B024e82d6e3fF50A07b8DE74c988523",
+  "address": "0x9F452E458B024e82d6e3fF50A07b8DE74c988523",
+  "blockchain": "ethereum",
+  "name": "GoatCash",
+  "website": "https://goat.cash",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9F452E458B024e82d6e3fF50A07b8DE74c988523",
+  "research": null,
+  "symbol": "GOAT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x3137619705b5fc22a3048989F983905e456b59Ab",
+  "address": "0x3137619705b5fc22a3048989F983905e456b59Ab",
+  "blockchain": "ethereum",
+  "name": "Everus",
+  "website": "https://everus.org/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3137619705b5fc22a3048989F983905e456b59Ab",
+  "research": null,
+  "symbol": "EVR",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xDc3d56d9f3A2b3cAb5Bd6cA6549229c33cB11AaB",
+  "address": "0xDc3d56d9f3A2b3cAb5Bd6cA6549229c33cB11AaB",
+  "blockchain": "smartchain",
+  "name": "BabYoda",
+  "website": "https://babyoda.net/",
+  "description": "BABYODA was inspired by the idea of joining the forces of cuteness overload and the legacy of Master Yoda in one, ultimate meme token.​ ",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xdc3d56d9f3a2b3cab5bd6ca6549229c33cb11aab",
+  "research": null,
+  "symbol": "BABYODA",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

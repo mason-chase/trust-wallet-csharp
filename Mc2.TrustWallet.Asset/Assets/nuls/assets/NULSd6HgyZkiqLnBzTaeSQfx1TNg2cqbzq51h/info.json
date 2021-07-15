@@ -1,0 +1,18 @@
+{
+  "id": "NULSd6HgyZkiqLnBzTaeSQfx1TNg2cqbzq51h",
+  "address": "NULSd6HgyZkiqLnBzTaeSQfx1TNg2cqbzq51h",
+  "blockchain": "nuls",
+  "name": "aleph.im NRC-20",
+  "website": "https://aleph.im",
+  "description": "Aleph.im is a cross-blockchain layer-2 networkspecifically focused on decentralized applications and their related infrastructure (storage, computing servers, security).",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://nulscan.io/token/info?contractAddress=NULSd6HgyZkiqLnBzTaeSQfx1TNg2cqbzq51h",
+  "research": null,
+  "symbol": "ALEPH",
+  "type": "NRC20",
+  "decimals": 10,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x86e92C595De61FD22C0f0A0458C6EaA63d0B06EF",
+  "address": "0x86e92C595De61FD22C0f0A0458C6EaA63d0B06EF",
+  "blockchain": "ethereum",
+  "name": "ChainBow.io",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x86e92C595De61FD22C0f0A0458C6EaA63d0B06EF",
+  "research": null,
+  "symbol": "CBB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

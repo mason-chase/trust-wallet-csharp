@@ -1,0 +1,18 @@
+{
+  "id": "0x33E89a9db4F5a44d80A3E9d2Bdff6c168cbbd15c",
+  "address": "0x33E89a9db4F5a44d80A3E9d2Bdff6c168cbbd15c",
+  "blockchain": "classic",
+  "name": "Slyike",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://blockscout.com/etc/mainnet/tokens/0x33E89a9db4F5a44d80A3E9d2Bdff6c168cbbd15c",
+  "research": null,
+  "symbol": "SLYG1",
+  "type": "ETC20",
+  "decimals": 0,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

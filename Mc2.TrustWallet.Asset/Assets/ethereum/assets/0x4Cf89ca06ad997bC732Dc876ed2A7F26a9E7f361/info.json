@@ -1,0 +1,18 @@
+{
+  "id": "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361",
+  "address": "0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361",
+  "blockchain": "ethereum",
+  "name": "Mysterium",
+  "website": "https://mysterium.network",
+  "description": "Mysterium is building a decentralised P2P VPN and other tools that allow users to browse the internet freely and earn by sharing their internet connection.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4Cf89ca06ad997bC732Dc876ed2A7F26a9E7f361",
+  "research": null,
+  "symbol": "MYST",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x183069c5EA93136F367ce3c37128429dB8eF1C29",
+  "address": "0x183069c5EA93136F367ce3c37128429dB8eF1C29",
+  "blockchain": "ethereum",
+  "name": "CRYPTOCOIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x183069c5EA93136F367ce3c37128429dB8eF1C29",
+  "research": null,
+  "symbol": "CTC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

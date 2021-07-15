@@ -1,0 +1,18 @@
+{
+  "id": "0x6ff313FB38d53d7A458860b1bf7512f54a03e968",
+  "address": "0x6ff313FB38d53d7A458860b1bf7512f54a03e968",
+  "blockchain": "ethereum",
+  "name": "Mero Currency",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6ff313FB38d53d7A458860b1bf7512f54a03e968",
+  "research": null,
+  "symbol": "MRO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

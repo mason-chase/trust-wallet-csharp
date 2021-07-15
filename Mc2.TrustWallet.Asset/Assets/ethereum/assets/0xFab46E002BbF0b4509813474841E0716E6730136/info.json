@@ -1,0 +1,18 @@
+{
+  "id": "0xFab46E002BbF0b4509813474841E0716E6730136",
+  "address": "0xFab46E002BbF0b4509813474841E0716E6730136",
+  "blockchain": "ethereum",
+  "name": "FaucetToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xFab46E002BbF0b4509813474841E0716E6730136",
+  "research": null,
+  "symbol": "FAU",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

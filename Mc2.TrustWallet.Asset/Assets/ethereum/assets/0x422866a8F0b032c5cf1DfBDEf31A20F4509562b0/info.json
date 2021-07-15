@@ -1,0 +1,18 @@
+{
+  "id": "0x422866a8F0b032c5cf1DfBDEf31A20F4509562b0",
+  "address": "0x422866a8F0b032c5cf1DfBDEf31A20F4509562b0",
+  "blockchain": "ethereum",
+  "name": "Adshares Token",
+  "website": "https://adshares.net/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x422866a8F0b032c5cf1DfBDEf31A20F4509562b0",
+  "research": null,
+  "symbol": "ADST",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

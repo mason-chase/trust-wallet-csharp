@@ -1,0 +1,18 @@
+{
+  "id": "1001652",
+  "address": "1001652",
+  "blockchain": "tron",
+  "name": "ORACLETRX",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1001652",
+  "research": null,
+  "symbol": "OCTX",
+  "type": "TRC10",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

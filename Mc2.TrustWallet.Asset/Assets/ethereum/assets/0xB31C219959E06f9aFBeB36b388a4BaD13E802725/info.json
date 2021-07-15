@@ -1,0 +1,18 @@
+{
+  "id": "0xB31C219959E06f9aFBeB36b388a4BaD13E802725",
+  "address": "0xB31C219959E06f9aFBeB36b388a4BaD13E802725",
+  "blockchain": "ethereum",
+  "name": "ONOT",
+  "website": "https://www.ono.chat/en/",
+  "description": "ONOChain describes itself as a public chain developed on EOS.IO software to provide infrastructure for application distribution, development environment, smart contract development, traffic distribution, and issuance.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB31C219959E06f9aFBeB36b388a4BaD13E802725",
+  "research": null,
+  "symbol": "ONOT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

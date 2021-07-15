@@ -1,0 +1,18 @@
+{
+  "id": "0xB4b1D2C217EC0776584CE08D3DD98F90EDedA44b",
+  "address": "0xB4b1D2C217EC0776584CE08D3DD98F90EDedA44b",
+  "blockchain": "ethereum",
+  "name": "Climatecoin",
+  "website": "https://climatecoin.io",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB4b1D2C217EC0776584CE08D3DD98F90EDedA44b",
+  "research": null,
+  "symbol": "CO2",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

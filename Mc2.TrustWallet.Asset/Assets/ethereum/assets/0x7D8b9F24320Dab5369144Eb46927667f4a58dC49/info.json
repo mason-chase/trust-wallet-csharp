@@ -1,0 +1,18 @@
+{
+  "id": "0x7D8b9F24320Dab5369144Eb46927667f4a58dC49",
+  "address": "0x7D8b9F24320Dab5369144Eb46927667f4a58dC49",
+  "blockchain": "ethereum",
+  "name": "NRC",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7D8b9F24320Dab5369144Eb46927667f4a58dC49",
+  "research": null,
+  "symbol": "R",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

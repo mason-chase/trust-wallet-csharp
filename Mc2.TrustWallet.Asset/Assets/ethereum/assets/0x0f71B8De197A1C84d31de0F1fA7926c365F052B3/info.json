@@ -1,0 +1,18 @@
+{
+  "id": "0x0f71B8De197A1C84d31de0F1fA7926c365F052B3",
+  "address": "0x0f71B8De197A1C84d31de0F1fA7926c365F052B3",
+  "blockchain": "ethereum",
+  "name": "Arcona Distribution Contract",
+  "website": "https://www.arcona.io/index.html",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0f71B8De197A1C84d31de0F1fA7926c365F052B3",
+  "research": null,
+  "symbol": "ARCONA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

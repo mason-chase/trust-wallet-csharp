@@ -1,0 +1,18 @@
+{
+  "id": "0xf3AE5d769e153Ef72b4e3591aC004E89F48107a1",
+  "address": "0xf3AE5d769e153Ef72b4e3591aC004E89F48107a1",
+  "blockchain": "ethereum",
+  "name": "Deeper Network",
+  "website": "https://deeper.network",
+  "description": "The Decentralized Internet Infrastructure for Web3.0: A more secure, private and fairer internet for everyone",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf3AE5d769e153Ef72b4e3591aC004E89F48107a1",
+  "research": null,
+  "symbol": "DPR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

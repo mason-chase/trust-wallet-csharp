@@ -1,0 +1,18 @@
+{
+  "id": "0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
+  "address": "0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
+  "blockchain": "ethereum",
+  "name": "Metis Token",
+  "website": "https://metis.io",
+  "description": "Metis Token",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
+  "research": null,
+  "symbol": "Metis",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

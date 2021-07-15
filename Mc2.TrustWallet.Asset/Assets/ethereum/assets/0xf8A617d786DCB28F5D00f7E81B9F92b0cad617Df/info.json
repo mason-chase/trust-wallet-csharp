@@ -1,0 +1,18 @@
+{
+  "id": "0xf8A617d786DCB28F5D00f7E81B9F92b0cad617Df",
+  "address": "0xf8A617d786DCB28F5D00f7E81B9F92b0cad617Df",
+  "blockchain": "ethereum",
+  "name": "EFINITY Coin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf8A617d786DCB28F5D00f7E81B9F92b0cad617Df",
+  "research": null,
+  "symbol": "ETC",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xB36bCc08cc3f998Ab54ceC6D0996c3c4f6F63666",
+  "address": "0xB36bCc08cc3f998Ab54ceC6D0996c3c4f6F63666",
+  "blockchain": "ethereum",
+  "name": "XSAPPHIRE",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB36bCc08cc3f998Ab54ceC6D0996c3c4f6F63666",
+  "research": null,
+  "symbol": "XSAP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

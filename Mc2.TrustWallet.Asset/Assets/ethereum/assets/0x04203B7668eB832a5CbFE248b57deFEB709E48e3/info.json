@@ -1,0 +1,18 @@
+{
+  "id": "0x04203B7668eB832a5CbFE248b57deFEB709E48e3",
+  "address": "0x04203B7668eB832a5CbFE248b57deFEB709E48e3",
+  "blockchain": "ethereum",
+  "name": "Statera Gold",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x04203B7668eB832a5CbFE248b57deFEB709E48e3",
+  "research": null,
+  "symbol": "STAG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

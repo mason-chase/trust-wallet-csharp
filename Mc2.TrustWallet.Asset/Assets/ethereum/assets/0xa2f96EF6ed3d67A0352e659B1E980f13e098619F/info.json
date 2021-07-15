@@ -1,0 +1,18 @@
+{
+  "id": "0xa2f96EF6ed3d67A0352e659B1E980f13e098619F",
+  "address": "0xa2f96EF6ed3d67A0352e659B1E980f13e098619F",
+  "blockchain": "ethereum",
+  "name": "Random Number Generator",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa2f96EF6ed3d67A0352e659B1E980f13e098619F",
+  "research": null,
+  "symbol": "RNG",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

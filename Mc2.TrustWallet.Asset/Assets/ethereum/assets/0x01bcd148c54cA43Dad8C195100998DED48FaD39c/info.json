@@ -1,0 +1,18 @@
+{
+  "id": "0x01bcd148c54cA43Dad8C195100998DED48FaD39c",
+  "address": "0x01bcd148c54cA43Dad8C195100998DED48FaD39c",
+  "blockchain": "ethereum",
+  "name": "RACECOIN",
+  "website": "https://racecoin.io/",
+  "description": "aceCoin is designed to be a precious possession in the growing cryptocurrency market. We give RaceCoin owners control over their money without compromising on convenience.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x01bcd148c54cA43Dad8C195100998DED48FaD39c",
+  "research": null,
+  "symbol": "RAN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

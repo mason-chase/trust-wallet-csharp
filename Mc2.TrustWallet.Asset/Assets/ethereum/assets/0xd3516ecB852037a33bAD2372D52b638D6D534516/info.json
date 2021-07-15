@@ -1,0 +1,18 @@
+{
+  "id": "0xd3516ecB852037a33bAD2372D52b638D6D534516",
+  "address": "0xd3516ecB852037a33bAD2372D52b638D6D534516",
+  "blockchain": "ethereum",
+  "name": "Auto Make Money",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd3516ecB852037a33bAD2372D52b638D6D534516",
+  "research": null,
+  "symbol": "AMM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

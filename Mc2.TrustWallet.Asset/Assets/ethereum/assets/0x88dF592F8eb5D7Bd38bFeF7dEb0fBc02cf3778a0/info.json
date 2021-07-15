@@ -1,0 +1,18 @@
+{
+  "id": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0",
+  "address": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0",
+  "blockchain": "ethereum",
+  "name": "Tellor",
+  "website": "https://tellor.io",
+  "description": "Tellor (a decentralized oracle) aims to address the Oracle problem on Ethereum.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0",
+  "research": null,
+  "symbol": "TRB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

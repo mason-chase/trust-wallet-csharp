@@ -1,0 +1,18 @@
+{
+  "id": "0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc",
+  "address": "0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc",
+  "blockchain": "ethereum",
+  "name": "Pareto Network Token",
+  "website": "https://pareto.network/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xea5f88E54d982Cbb0c441cde4E79bC305e5b43Bc",
+  "research": null,
+  "symbol": "PARETO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

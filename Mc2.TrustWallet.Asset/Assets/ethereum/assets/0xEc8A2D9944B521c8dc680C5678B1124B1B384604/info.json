@@ -1,0 +1,18 @@
+{
+  "id": "0xEc8A2D9944B521c8dc680C5678B1124B1B384604",
+  "address": "0xEc8A2D9944B521c8dc680C5678B1124B1B384604",
+  "blockchain": "ethereum",
+  "name": "IDIA Alliance",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xEc8A2D9944B521c8dc680C5678B1124B1B384604",
+  "research": null,
+  "symbol": "IDIA",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

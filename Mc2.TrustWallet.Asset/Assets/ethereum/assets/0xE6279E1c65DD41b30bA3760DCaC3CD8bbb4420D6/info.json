@@ -1,0 +1,18 @@
+{
+  "id": "0xE6279E1c65DD41b30bA3760DCaC3CD8bbb4420D6",
+  "address": "0xE6279E1c65DD41b30bA3760DCaC3CD8bbb4420D6",
+  "blockchain": "ethereum",
+  "name": "Rebased",
+  "website": "https://rebased.fi/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE6279E1c65DD41b30bA3760DCaC3CD8bbb4420D6",
+  "research": null,
+  "symbol": "REB",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

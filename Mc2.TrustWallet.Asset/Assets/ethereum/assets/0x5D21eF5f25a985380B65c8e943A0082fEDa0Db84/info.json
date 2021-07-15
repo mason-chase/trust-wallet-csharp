@@ -1,0 +1,18 @@
+{
+  "id": "0x5D21eF5f25a985380B65c8e943A0082fEDa0Db84",
+  "address": "0x5D21eF5f25a985380B65c8e943A0082fEDa0Db84",
+  "blockchain": "ethereum",
+  "name": "ethereumcash",
+  "website": "https://www.ethereumcash.technology/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5D21eF5f25a985380B65c8e943A0082fEDa0Db84",
+  "research": null,
+  "symbol": "ECASH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

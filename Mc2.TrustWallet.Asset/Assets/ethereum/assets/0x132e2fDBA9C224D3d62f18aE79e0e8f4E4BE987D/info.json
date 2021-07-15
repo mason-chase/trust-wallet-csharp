@@ -1,0 +1,23 @@
+{
+  "id": "0x132e2fDBA9C224D3d62f18aE79e0e8f4E4BE987D",
+  "address": "0x132e2fDBA9C224D3d62f18aE79e0e8f4E4BE987D",
+  "blockchain": "ethereum",
+  "name": "DefiFarm",
+  "website": "https://dff.finance",
+  "description": "DefiFarm empowers blockchain networks to have state of the art privacy protection over smart contracts, DeFi, transactions, data.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x132e2fDBA9C224D3d62f18aE79e0e8f4E4BE987D",
+  "research": null,
+  "symbol": "DFF",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "links": [
+    {
+      "name": "white_paper",
+      "url": "https://dff.finance/white-page.pdf"
+    }
+  ],
+  "tags": null
+}

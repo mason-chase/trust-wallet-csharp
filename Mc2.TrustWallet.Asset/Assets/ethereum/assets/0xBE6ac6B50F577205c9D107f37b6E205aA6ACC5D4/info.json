@@ -1,0 +1,18 @@
+{
+  "id": "0xBE6ac6B50F577205c9D107f37b6E205aA6ACC5D4",
+  "address": "0xBE6ac6B50F577205c9D107f37b6E205aA6ACC5D4",
+  "blockchain": "ethereum",
+  "name": "United Network Distribution",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xBE6ac6B50F577205c9D107f37b6E205aA6ACC5D4",
+  "research": null,
+  "symbol": "UND",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

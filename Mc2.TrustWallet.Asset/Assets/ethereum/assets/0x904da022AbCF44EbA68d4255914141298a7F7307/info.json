@@ -1,0 +1,18 @@
+{
+  "id": "0x904da022AbCF44EbA68d4255914141298a7F7307",
+  "address": "0x904da022AbCF44EbA68d4255914141298a7F7307",
+  "blockchain": "ethereum",
+  "name": "Validity",
+  "website": "https://vldy.org/",
+  "description": "A self-governing cryptocurrency evaluation platform achieved by utilising on-chain governance, peer reviews and voting.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x904da022AbCF44EbA68d4255914141298a7F7307",
+  "research": null,
+  "symbol": "VLDY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

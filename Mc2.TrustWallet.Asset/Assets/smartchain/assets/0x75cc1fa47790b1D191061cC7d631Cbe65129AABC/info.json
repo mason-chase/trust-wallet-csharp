@@ -1,0 +1,18 @@
+{
+  "id": "0x75cc1fa47790b1D191061cC7d631Cbe65129AABC",
+  "address": "0x75cc1fa47790b1D191061cC7d631Cbe65129AABC",
+  "blockchain": "smartchain",
+  "name": "Doge DeFi",
+  "website": "https://www.dogedf.com/",
+  "description": "Decentralized financial service system. It is expected to provide the most powerful platform for decentralized trading and borrowing ",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x75cc1fa47790b1D191061cC7d631Cbe65129AABC",
+  "research": null,
+  "symbol": "DogeDF",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

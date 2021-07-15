@@ -1,0 +1,18 @@
+{
+  "id": "0x57700244B20f84799a31c6C96DadFF373ca9D6c5",
+  "address": "0x57700244B20f84799a31c6C96DadFF373ca9D6c5",
+  "blockchain": "ethereum",
+  "name": "TRUST DAO",
+  "website": "https://www.trustdao.network",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x57700244B20f84799a31c6C96DadFF373ca9D6c5",
+  "research": null,
+  "symbol": "TRUST",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

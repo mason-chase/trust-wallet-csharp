@@ -1,0 +1,18 @@
+{
+  "id": "0xF89bA2862dfAE69Bc2546568D56b087d7454c9C9",
+  "address": "0xF89bA2862dfAE69Bc2546568D56b087d7454c9C9",
+  "blockchain": "ethereum",
+  "name": "BaoBoShiCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF89bA2862dfAE69Bc2546568D56b087d7454c9C9",
+  "research": null,
+  "symbol": "BBSC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xd511a64BfC1039Eccf503aC0Ef111c6C1c630B95",
+  "address": "0xd511a64BfC1039Eccf503aC0Ef111c6C1c630B95",
+  "blockchain": "ethereum",
+  "name": "Fort Knox",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd511a64BfC1039Eccf503aC0Ef111c6C1c630B95",
+  "research": null,
+  "symbol": "La-li-lu-le-lo",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

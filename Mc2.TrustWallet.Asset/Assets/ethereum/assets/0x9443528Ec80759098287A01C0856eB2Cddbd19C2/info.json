@@ -1,0 +1,18 @@
+{
+  "id": "0x9443528Ec80759098287A01C0856eB2Cddbd19C2",
+  "address": "0x9443528Ec80759098287A01C0856eB2Cddbd19C2",
+  "blockchain": "ethereum",
+  "name": "ZBCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9443528Ec80759098287A01C0856eB2Cddbd19C2",
+  "research": null,
+  "symbol": "ZBC",
+  "type": "ERC20",
+  "decimals": 3,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

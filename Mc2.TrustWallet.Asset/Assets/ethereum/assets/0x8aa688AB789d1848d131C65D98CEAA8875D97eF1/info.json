@@ -1,0 +1,18 @@
+{
+  "id": "0x8aa688AB789d1848d131C65D98CEAA8875D97eF1",
+  "address": "0x8aa688AB789d1848d131C65D98CEAA8875D97eF1",
+  "blockchain": "ethereum",
+  "name": "MultiVAC",
+  "website": "https://www.mtv.ac",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8aa688AB789d1848d131C65D98CEAA8875D97eF1",
+  "research": null,
+  "symbol": "MTV",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

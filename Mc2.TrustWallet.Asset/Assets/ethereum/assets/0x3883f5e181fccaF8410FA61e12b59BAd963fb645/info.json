@@ -1,0 +1,18 @@
+{
+  "id": "0x3883f5e181fccaF8410FA61e12b59BAd963fb645",
+  "address": "0x3883f5e181fccaF8410FA61e12b59BAd963fb645",
+  "blockchain": "ethereum",
+  "name": "Theta Network",
+  "website": null,
+  "description": "-",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3883f5e181fccaf8410fa61e12b59bad963fb645",
+  "research": null,
+  "symbol": "THETA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

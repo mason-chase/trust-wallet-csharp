@@ -1,0 +1,18 @@
+{
+  "id": "0x9972A0F24194447E73a7e8b6CD26a52e02DDfAD5",
+  "address": "0x9972A0F24194447E73a7e8b6CD26a52e02DDfAD5",
+  "blockchain": "ethereum",
+  "name": "ThoreCash",
+  "website": "https://www.thorecash.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9972A0F24194447E73a7e8b6CD26a52e02DDfAD5",
+  "research": null,
+  "symbol": "TCH",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

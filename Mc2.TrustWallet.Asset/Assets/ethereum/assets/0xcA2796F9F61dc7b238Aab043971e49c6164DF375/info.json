@@ -1,0 +1,18 @@
+{
+  "id": "0xcA2796F9F61dc7b238Aab043971e49c6164DF375",
+  "address": "0xcA2796F9F61dc7b238Aab043971e49c6164DF375",
+  "blockchain": "ethereum",
+  "name": "YGGDRASH",
+  "website": "https://yggdrash.io",
+  "description": "XMCS is thoroughly designed utility token to maximize trader’s profit by presenting privileges and special features to the holders of XMCS on the MCS cryptocurrency derivatives trading platform and the entire MCS Ecosystem.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xcA2796F9F61dc7b238Aab043971e49c6164DF375",
+  "research": null,
+  "symbol": "YEED",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

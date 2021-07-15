@@ -1,0 +1,18 @@
+{
+  "id": "0x298d492e8c1d909D3F63Bc4A36C66c64ACB3d695",
+  "address": "0x298d492e8c1d909D3F63Bc4A36C66c64ACB3d695",
+  "blockchain": "ethereum",
+  "name": "PolkaBridge",
+  "website": "https://polkabridge.org/",
+  "description": "A decentralized all-in-one financial application platform. The PolkaBridge ecosystem is expected to include crosschain AMM, Farming, Lending, Fundraising platform (Launchpad), Prediction, NFT, and more. All products will be developed with Polkadot in center.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x298d492e8c1d909D3F63Bc4A36C66c64ACB3d695",
+  "research": null,
+  "symbol": "PBR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

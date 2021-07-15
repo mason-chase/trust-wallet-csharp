@@ -1,0 +1,18 @@
+{
+  "id": "0x58d0A58E4B165a27E4e1B8C2A3eF39C89b581180",
+  "address": "0x58d0A58E4B165a27E4e1B8C2A3eF39C89b581180",
+  "blockchain": "ethereum",
+  "name": "ShowCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x58d0A58E4B165a27E4e1B8C2A3eF39C89b581180",
+  "research": null,
+  "symbol": "Show",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

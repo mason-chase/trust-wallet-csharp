@@ -1,0 +1,18 @@
+{
+  "id": "0x0573E5acb7D65848564Cd81b69D1046BDf870244",
+  "address": "0x0573E5acb7D65848564Cd81b69D1046BDf870244",
+  "blockchain": "ethereum",
+  "name": "CAMS",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0573E5acb7D65848564Cd81b69D1046BDf870244",
+  "research": null,
+  "symbol": "CAMS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

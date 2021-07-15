@@ -1,0 +1,18 @@
+{
+  "id": "0x6509c95B1AC498390e40eb49e2248c441e78da15",
+  "address": "0x6509c95B1AC498390e40eb49e2248c441e78da15",
+  "blockchain": "smartchain",
+  "name": "BNB Gold",
+  "website": "https://bnbgold.fund",
+  "description": "An experimental liquidity-based DeFi token.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x6509c95B1AC498390e40eb49e2248c441e78da15",
+  "research": null,
+  "symbol": "BNBG",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

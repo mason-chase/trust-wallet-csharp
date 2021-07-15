@@ -1,0 +1,18 @@
+{
+  "id": "0x0BaDD7aF129EFAc1f7bB7253716A589cc5E6c17c",
+  "address": "0x0BaDD7aF129EFAc1f7bB7253716A589cc5E6c17c",
+  "blockchain": "ethereum",
+  "name": "e-Money EUR stablecoin",
+  "website": "https://e-money.com",
+  "description": "ERC20 version of the e-Money EUR stablecoin",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0BaDD7aF129EFAc1f7bB7253716A589cc5E6c17c",
+  "research": null,
+  "symbol": "EEUR",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

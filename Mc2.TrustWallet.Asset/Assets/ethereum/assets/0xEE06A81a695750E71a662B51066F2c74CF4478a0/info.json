@@ -1,0 +1,18 @@
+{
+  "id": "0xEE06A81a695750E71a662B51066F2c74CF4478a0",
+  "address": "0xEE06A81a695750E71a662B51066F2c74CF4478a0",
+  "blockchain": "ethereum",
+  "name": "Decentral Games",
+  "website": "https://decentral.games",
+  "description": "The first community-owned, Metaverse casino",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xEE06A81a695750E71a662B51066F2c74CF4478a0",
+  "research": null,
+  "symbol": "$DG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

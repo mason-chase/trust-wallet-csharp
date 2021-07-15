@@ -1,0 +1,23 @@
+{
+  "id": "0x92298Fa0647b5dcFf6eEaBAb97c9Bd81b5c30D06",
+  "address": "0x92298Fa0647b5dcFf6eEaBAb97c9Bd81b5c30D06",
+  "blockchain": "ethereum",
+  "name": "LikeApp",
+  "website": "-",
+  "description": "popular global platform for creating and sharing original videos.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x92298Fa0647b5dcFf6eEaBAb97c9Bd81b5c30D06",
+  "research": null,
+  "symbol": "LIKE",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "active",
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/likeapptoken"
+    }
+  ],
+  "tags": null
+}

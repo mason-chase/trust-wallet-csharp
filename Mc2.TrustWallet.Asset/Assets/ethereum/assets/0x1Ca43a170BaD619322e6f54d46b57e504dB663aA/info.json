@@ -1,0 +1,18 @@
+{
+  "id": "0x1Ca43a170BaD619322e6f54d46b57e504dB663aA",
+  "address": "0x1Ca43a170BaD619322e6f54d46b57e504dB663aA",
+  "blockchain": "ethereum",
+  "name": "ARTWOOK Coin",
+  "website": "https://www.artwook.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1Ca43a170BaD619322e6f54d46b57e504dB663aA",
+  "research": null,
+  "symbol": "AKC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xAD3b5c8542367ca9650437f33950b4AED067289B",
+  "address": "0xAD3b5c8542367ca9650437f33950b4AED067289B",
+  "blockchain": "ethereum",
+  "name": "BIDCOIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xAD3b5c8542367ca9650437f33950b4AED067289B",
+  "research": null,
+  "symbol": "BID",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

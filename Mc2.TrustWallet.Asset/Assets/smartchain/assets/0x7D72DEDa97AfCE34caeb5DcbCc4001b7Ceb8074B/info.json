@@ -1,0 +1,18 @@
+{
+  "id": "0x7D72DEDa97AfCE34caeb5DcbCc4001b7Ceb8074B",
+  "address": "0x7D72DEDa97AfCE34caeb5DcbCc4001b7Ceb8074B",
+  "blockchain": "smartchain",
+  "name": "MonkeyCoin",
+  "website": "http://monkeycoin.space",
+  "description": "MonkeyMoon - is an automatic liquidity generation protocol.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x7d72deda97afce34caeb5dcbcc4001b7ceb8074b",
+  "research": null,
+  "symbol": "MKMOON",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

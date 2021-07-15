@@ -1,0 +1,18 @@
+{
+  "id": "0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195",
+  "address": "0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195",
+  "blockchain": "ethereum",
+  "name": "EQUUSMiningToken",
+  "website": "https://www.equus.dev",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa462d0E6Bb788c7807B1B1C96992CE1f7069E195",
+  "research": null,
+  "symbol": "EQMT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

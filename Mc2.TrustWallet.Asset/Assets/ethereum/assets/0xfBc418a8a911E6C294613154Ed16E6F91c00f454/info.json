@@ -1,0 +1,18 @@
+{
+  "id": "0xfBc418a8a911E6C294613154Ed16E6F91c00f454",
+  "address": "0xfBc418a8a911E6C294613154Ed16E6F91c00f454",
+  "blockchain": "ethereum",
+  "name": "WOO",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xfBc418a8a911E6C294613154Ed16E6F91c00f454",
+  "research": null,
+  "symbol": "WOO",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

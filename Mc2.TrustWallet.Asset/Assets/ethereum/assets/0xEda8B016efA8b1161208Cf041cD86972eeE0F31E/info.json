@@ -1,0 +1,18 @@
+{
+  "id": "0xEda8B016efA8b1161208Cf041cD86972eeE0F31E",
+  "address": "0xEda8B016efA8b1161208Cf041cD86972eeE0F31E",
+  "blockchain": "ethereum",
+  "name": "I HOUSE TOKEN",
+  "website": "https://ihtcoin.com",
+  "description": "IHT Real Estate Protocol Global Real Estate Blockchain Cloud Platform",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xEda8B016efA8b1161208Cf041cD86972eeE0F31E",
+  "research": null,
+  "symbol": "IHT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

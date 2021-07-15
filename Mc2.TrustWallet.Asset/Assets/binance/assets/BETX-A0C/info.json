@@ -1,0 +1,18 @@
+{
+  "id": "BETX-A0C",
+  "address": "BETX-A0C",
+  "blockchain": "binance",
+  "name": "BETX Token",
+  "website": "https://www.betx.fun",
+  "description": "BETX.FUN provides users with a community autonomous gaming platform with rich entertainment games.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/BETX-A0C",
+  "research": null,
+  "symbol": "BETX",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

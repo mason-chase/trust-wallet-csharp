@@ -1,0 +1,18 @@
+{
+  "id": "0xA6121F235E68fCfb55eF1fC2DE88B60f6dfc2699",
+  "address": "0xA6121F235E68fCfb55eF1fC2DE88B60f6dfc2699",
+  "blockchain": "ethereum",
+  "name": "UNIT",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA6121F235E68fCfb55eF1fC2DE88B60f6dfc2699",
+  "research": null,
+  "symbol": "UNIT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

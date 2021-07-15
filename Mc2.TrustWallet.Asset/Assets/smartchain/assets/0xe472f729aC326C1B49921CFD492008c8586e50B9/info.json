@@ -1,0 +1,18 @@
+{
+  "id": "0xe472f729aC326C1B49921CFD492008c8586e50B9",
+  "address": "0xe472f729aC326C1B49921CFD492008c8586e50B9",
+  "blockchain": "smartchain",
+  "name": "PiggyBank Coins",
+  "website": "https://piggybankdefi.com",
+  "description": "Whoever said pigs can't fly? Let this pig take you to the moon.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xe472f729aC326C1B49921CFD492008c8586e50B9",
+  "research": null,
+  "symbol": "PIGGYBANK",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

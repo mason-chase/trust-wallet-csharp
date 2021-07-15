@@ -1,0 +1,18 @@
+{
+  "id": "0xB6259685685235c1eF4B8529e7105f00BD42b9f8",
+  "address": "0xB6259685685235c1eF4B8529e7105f00BD42b9f8",
+  "blockchain": "ethereum",
+  "name": "RRChain",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB6259685685235c1eF4B8529e7105f00BD42b9f8",
+  "research": null,
+  "symbol": "RRC",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

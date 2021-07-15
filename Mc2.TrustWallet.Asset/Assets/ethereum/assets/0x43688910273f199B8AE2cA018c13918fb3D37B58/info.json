@@ -1,0 +1,18 @@
+{
+  "id": "0x43688910273f199B8AE2cA018c13918fb3D37B58",
+  "address": "0x43688910273f199B8AE2cA018c13918fb3D37B58",
+  "blockchain": "ethereum",
+  "name": "RealToken 5942 Audubon Road Detroit MI",
+  "website": "https://realt.co/product/5942-audubon-rd-detroit-mi-48224/",
+  "description": "Token for classic 1930s home in the Morningside neighborhood of Detroit is the epitome of a promising single-family property investment.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x43688910273f199B8AE2cA018c13918fb3D37B58",
+  "research": null,
+  "symbol": "REALTOKEN-5942-AUDUBON-RD-DETROIT-MI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

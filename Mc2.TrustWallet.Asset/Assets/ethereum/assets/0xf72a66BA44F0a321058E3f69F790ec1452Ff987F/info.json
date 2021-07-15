@@ -1,0 +1,18 @@
+{
+  "id": "0xf72a66BA44F0a321058E3f69F790ec1452Ff987F",
+  "address": "0xf72a66BA44F0a321058E3f69F790ec1452Ff987F",
+  "blockchain": "ethereum",
+  "name": "Marine currency",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf72a66BA44F0a321058E3f69F790ec1452Ff987F",
+  "research": null,
+  "symbol": "MCY ",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

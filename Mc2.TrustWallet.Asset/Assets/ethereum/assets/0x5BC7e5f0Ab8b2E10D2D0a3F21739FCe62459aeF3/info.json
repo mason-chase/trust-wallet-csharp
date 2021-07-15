@@ -1,0 +1,18 @@
+{
+  "id": "0x5BC7e5f0Ab8b2E10D2D0a3F21739FCe62459aeF3",
+  "address": "0x5BC7e5f0Ab8b2E10D2D0a3F21739FCe62459aeF3",
+  "blockchain": "ethereum",
+  "name": "Hut34 Entropy Token",
+  "website": "https://hut34.io/",
+  "description": "Building the tools for the new data economy.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5BC7e5f0Ab8b2E10D2D0a3F21739FCe62459aeF3",
+  "research": null,
+  "symbol": "ENTRP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

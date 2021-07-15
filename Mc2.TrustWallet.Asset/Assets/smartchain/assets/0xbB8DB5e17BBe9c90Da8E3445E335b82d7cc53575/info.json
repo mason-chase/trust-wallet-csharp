@@ -1,0 +1,18 @@
+{
+  "id": "0xbB8DB5e17BBe9c90Da8E3445E335b82d7cc53575",
+  "address": "0xbB8DB5e17BBe9c90Da8E3445E335b82d7cc53575",
+  "blockchain": "smartchain",
+  "name": "Beer",
+  "website": "https://beergarden.finance/",
+  "description": "-",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xbB8DB5e17BBe9c90Da8E3445E335b82d7cc53575",
+  "research": null,
+  "symbol": "Beer",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x6B0359f95796327475ad4F12aE4E1047c3A67fA3",
+  "address": "0x6B0359f95796327475ad4F12aE4E1047c3A67fA3",
+  "blockchain": "ethereum",
+  "name": "FINFINE TOKEN",
+  "website": "https://conin.ai/",
+  "description": "FinFine Tokens is the intermediary cryptocurrency for the CONIN Exchange. We build exchange activitives for cryptocurrencies and index investment funds in the crypto market.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6B0359f95796327475ad4F12aE4E1047c3A67fA3",
+  "research": null,
+  "symbol": "FFT",
+  "type": "ERC20",
+  "decimals": 3,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

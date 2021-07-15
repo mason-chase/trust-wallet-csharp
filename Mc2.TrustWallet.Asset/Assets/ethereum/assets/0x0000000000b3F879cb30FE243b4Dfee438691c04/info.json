@@ -1,0 +1,18 @@
+{
+  "id": "0x0000000000b3F879cb30FE243b4Dfee438691c04",
+  "address": "0x0000000000b3F879cb30FE243b4Dfee438691c04",
+  "blockchain": "ethereum",
+  "name": "Gastoken",
+  "website": null,
+  "description": "-",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0000000000b3f879cb30fe243b4dfee438691c04",
+  "research": null,
+  "symbol": "GST2",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

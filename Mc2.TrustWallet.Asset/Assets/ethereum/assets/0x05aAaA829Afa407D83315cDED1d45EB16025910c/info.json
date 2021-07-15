@@ -1,0 +1,18 @@
+{
+  "id": "0x05aAaA829Afa407D83315cDED1d45EB16025910c",
+  "address": "0x05aAaA829Afa407D83315cDED1d45EB16025910c",
+  "blockchain": "ethereum",
+  "name": "SP8DE Token",
+  "website": "https://sp8de.com/",
+  "description": "Sp8de - implemented within a protocol created and maintained by the scientists - pioneers in the realm of blockchain innovation and cryptography development, has its aim to revolutionize the ever-growing gaming industry as we know it today using the Cardano blockchain.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x05aAaA829Afa407D83315cDED1d45EB16025910c",
+  "research": null,
+  "symbol": "SPX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x45cC3676b2EC557E36ee160D100aA47e4D189637",
+  "address": "0x45cC3676b2EC557E36ee160D100aA47e4D189637",
+  "blockchain": "ethereum",
+  "name": "NOVA",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x45cC3676b2EC557E36ee160D100aA47e4D189637",
+  "research": null,
+  "symbol": "NOVA",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

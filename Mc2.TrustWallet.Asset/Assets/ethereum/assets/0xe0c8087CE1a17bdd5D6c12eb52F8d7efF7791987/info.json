@@ -1,0 +1,18 @@
+{
+  "id": "0xe0c8087CE1a17bdd5D6c12eb52F8d7efF7791987",
+  "address": "0xe0c8087CE1a17bdd5D6c12eb52F8d7efF7791987",
+  "blockchain": "ethereum",
+  "name": "Linfinity",
+  "website": "https://www.linfinity.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe0c8087CE1a17bdd5D6c12eb52F8d7efF7791987",
+  "research": null,
+  "symbol": "LFT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

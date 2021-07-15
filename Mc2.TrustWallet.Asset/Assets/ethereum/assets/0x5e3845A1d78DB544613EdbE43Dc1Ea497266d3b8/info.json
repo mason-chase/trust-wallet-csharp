@@ -1,0 +1,18 @@
+{
+  "id": "0x5e3845A1d78DB544613EdbE43Dc1Ea497266d3b8",
+  "address": "0x5e3845A1d78DB544613EdbE43Dc1Ea497266d3b8",
+  "blockchain": "ethereum",
+  "name": "LNX Protocol",
+  "website": "https://lnxprotocol.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5e3845A1d78DB544613EdbE43Dc1Ea497266d3b8",
+  "research": null,
+  "symbol": "LNX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

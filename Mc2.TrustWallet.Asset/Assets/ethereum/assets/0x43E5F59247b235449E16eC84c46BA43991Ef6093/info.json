@@ -1,0 +1,18 @@
+{
+  "id": "0x43E5F59247b235449E16eC84c46BA43991Ef6093",
+  "address": "0x43E5F59247b235449E16eC84c46BA43991Ef6093",
+  "blockchain": "ethereum",
+  "name": "Coin Bank Int",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x43E5F59247b235449E16eC84c46BA43991Ef6093",
+  "research": null,
+  "symbol": "CBI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

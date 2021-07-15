@@ -1,0 +1,18 @@
+{
+  "id": "0x1350Fbe8Ce27762ec19134bf8FC405a427fe9Bf1",
+  "address": "0x1350Fbe8Ce27762ec19134bf8FC405a427fe9Bf1",
+  "blockchain": "ethereum",
+  "name": "Trips",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1350Fbe8Ce27762ec19134bf8FC405a427fe9Bf1",
+  "research": null,
+  "symbol": "TRIPS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

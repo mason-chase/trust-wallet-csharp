@@ -1,0 +1,18 @@
+{
+  "id": "0x6737fE98389Ffb356F64ebB726aA1a92390D94Fb",
+  "address": "0x6737fE98389Ffb356F64ebB726aA1a92390D94Fb",
+  "blockchain": "ethereum",
+  "name": "ZeroCarbon",
+  "website": "https://www.zerocarbonproject.com/",
+  "description": "Our Zero Carbon Market delivers lower energy prices and rewards consumers with Energis tokens as a catalyst for change, reducing carbon emissions faster than renewable energy.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6737fE98389Ffb356F64ebB726aA1a92390D94Fb",
+  "research": null,
+  "symbol": "ZCC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

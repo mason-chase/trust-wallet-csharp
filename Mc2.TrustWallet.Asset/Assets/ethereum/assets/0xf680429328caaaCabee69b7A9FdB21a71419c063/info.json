@@ -1,0 +1,31 @@
+{
+  "id": "0xf680429328caaaCabee69b7A9FdB21a71419c063",
+  "address": "0xf680429328caaaCabee69b7A9FdB21a71419c063",
+  "blockchain": "ethereum",
+  "name": "Butterfly Protocol Governance Token",
+  "website": "https://www.butterflyprotocol.io",
+  "description": "A Decentralized Name System for the New Internet",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf680429328caaacabee69b7a9fdb21a71419c063",
+  "research": null,
+  "symbol": "BFLY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/butterflyproto"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/butterflyprotocol"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/@bproto"
+    }
+  ],
+  "tags": null
+}

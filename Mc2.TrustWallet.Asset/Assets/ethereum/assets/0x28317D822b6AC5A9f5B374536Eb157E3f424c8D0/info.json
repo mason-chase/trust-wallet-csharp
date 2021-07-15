@@ -1,0 +1,18 @@
+{
+  "id": "0x28317D822b6AC5A9f5B374536Eb157E3f424c8D0",
+  "address": "0x28317D822b6AC5A9f5B374536Eb157E3f424c8D0",
+  "blockchain": "ethereum",
+  "name": "BILLIONS",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x28317D822b6AC5A9f5B374536Eb157E3f424c8D0",
+  "research": null,
+  "symbol": "BLT1",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x0Fed2aca55338d77438797bDf609252Db92313ea",
+  "address": "0x0Fed2aca55338d77438797bDf609252Db92313ea",
+  "blockchain": "ethereum",
+  "name": "Bdb",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0Fed2aca55338d77438797bDf609252Db92313ea",
+  "research": null,
+  "symbol": "BDB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

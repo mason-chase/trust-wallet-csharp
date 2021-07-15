@@ -1,0 +1,18 @@
+{
+  "id": "CAN-677",
+  "address": "CAN-677",
+  "blockchain": "binance",
+  "name": "CanYaCoin",
+  "website": "https://canya.io/",
+  "description": "CanYa is a peer to peer market of skilled services - where users are instantly connected to service providers. Unlike most ICO's we already have a working product, high user growth and an experienced team.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/CAN-677",
+  "research": null,
+  "symbol": "CAN",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

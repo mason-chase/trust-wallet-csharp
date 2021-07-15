@@ -1,0 +1,18 @@
+{
+  "id": "0x89C33Ed4C7f780691444C172eAE9E6F1803be2C7",
+  "address": "0x89C33Ed4C7f780691444C172eAE9E6F1803be2C7",
+  "blockchain": "ethereum",
+  "name": "BRAAI",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x89C33Ed4C7f780691444C172eAE9E6F1803be2C7",
+  "research": null,
+  "symbol": "BRAAI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

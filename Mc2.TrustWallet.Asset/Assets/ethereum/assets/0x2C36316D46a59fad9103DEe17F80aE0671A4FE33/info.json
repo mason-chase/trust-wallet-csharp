@@ -1,0 +1,18 @@
+{
+  "id": "0x2C36316D46a59fad9103DEe17F80aE0671A4FE33",
+  "address": "0x2C36316D46a59fad9103DEe17F80aE0671A4FE33",
+  "blockchain": "ethereum",
+  "name": "REKT",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2C36316D46a59fad9103DEe17F80aE0671A4FE33",
+  "research": null,
+  "symbol": "REKT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

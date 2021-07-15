@@ -1,0 +1,18 @@
+{
+  "id": "0xB2Cf3a438aCf46275839a38dB7594065f64151d3",
+  "address": "0xB2Cf3a438aCf46275839a38dB7594065f64151d3",
+  "blockchain": "ethereum",
+  "name": "TheWorldsAMine",
+  "website": "https://themine.me",
+  "description": "The $WRLD Token was created with the cryptocurrency social media platform community in mind. The $WRLD token project aims to allow users to be a part of a project by merely being a part of the token creator’s social network(s).",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB2Cf3a438aCf46275839a38dB7594065f64151d3",
+  "research": null,
+  "symbol": "WRLD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

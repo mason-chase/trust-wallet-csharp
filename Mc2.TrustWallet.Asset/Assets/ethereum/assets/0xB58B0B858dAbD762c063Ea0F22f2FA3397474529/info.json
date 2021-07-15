@@ -1,0 +1,18 @@
+{
+  "id": "0xB58B0B858dAbD762c063Ea0F22f2FA3397474529",
+  "address": "0xB58B0B858dAbD762c063Ea0F22f2FA3397474529",
+  "blockchain": "ethereum",
+  "name": "i Trade",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB58B0B858dAbD762c063Ea0F22f2FA3397474529",
+  "research": null,
+  "symbol": "ITR",
+  "type": "ERC20",
+  "decimals": 5,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

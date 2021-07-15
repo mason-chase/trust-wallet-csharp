@@ -1,0 +1,18 @@
+{
+  "id": "0x3C9Ca73d5309d38c6F2C21b78b9aE1f4b2441188",
+  "address": "0x3C9Ca73d5309d38c6F2C21b78b9aE1f4b2441188",
+  "blockchain": "ethereum",
+  "name": "RADAR",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3C9Ca73d5309d38c6F2C21b78b9aE1f4b2441188",
+  "research": null,
+  "symbol": "RDR",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

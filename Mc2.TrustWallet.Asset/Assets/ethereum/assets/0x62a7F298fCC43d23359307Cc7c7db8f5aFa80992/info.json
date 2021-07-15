@@ -1,0 +1,18 @@
+{
+  "id": "0x62a7F298fCC43d23359307Cc7c7db8f5aFa80992",
+  "address": "0x62a7F298fCC43d23359307Cc7c7db8f5aFa80992",
+  "blockchain": "ethereum",
+  "name": "Integration Of Credit",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x62a7F298fCC43d23359307Cc7c7db8f5aFa80992",
+  "research": null,
+  "symbol": "IOL",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

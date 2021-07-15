@@ -1,0 +1,18 @@
+{
+  "id": "0x526Ccc90191A9472299323816bD2c784C0A1BCDE",
+  "address": "0x526Ccc90191A9472299323816bD2c784C0A1BCDE",
+  "blockchain": "ethereum",
+  "name": "DataOnBlock",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x526Ccc90191A9472299323816bD2c784C0A1BCDE",
+  "research": null,
+  "symbol": "DBLK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

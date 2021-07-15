@@ -1,0 +1,18 @@
+{
+  "id": "0x9946C9C519638740EAc4Ee3Aa9f20eBe1Ce36c2c",
+  "address": "0x9946C9C519638740EAc4Ee3Aa9f20eBe1Ce36c2c",
+  "blockchain": "classic",
+  "name": "Aim Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://blockscout.com/etc/mainnet/tokens/0x9946C9C519638740EAc4Ee3Aa9f20eBe1Ce36c2c",
+  "research": null,
+  "symbol": "AIM",
+  "type": "ETC20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

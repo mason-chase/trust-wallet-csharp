@@ -1,0 +1,18 @@
+{
+  "id": "0xA823E6722006afe99E91c30FF5295052fe6b8E32",
+  "address": "0xA823E6722006afe99E91c30FF5295052fe6b8E32",
+  "blockchain": "ethereum",
+  "name": "Neumark",
+  "website": "https://neufund.org/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA823E6722006afe99E91c30FF5295052fe6b8E32",
+  "research": null,
+  "symbol": "NEU",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

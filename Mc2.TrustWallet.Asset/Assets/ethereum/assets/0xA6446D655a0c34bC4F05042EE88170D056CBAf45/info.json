@@ -1,0 +1,18 @@
+{
+  "id": "0xA6446D655a0c34bC4F05042EE88170D056CBAf45",
+  "address": "0xA6446D655a0c34bC4F05042EE88170D056CBAf45",
+  "blockchain": "ethereum",
+  "name": "Caspian Token",
+  "website": "https://caspian.tech/",
+  "description": "Caspian is the company to provide institutional and experienced investors with a full-stack crypto trading and risk management platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA6446D655a0c34bC4F05042EE88170D056CBAf45",
+  "research": null,
+  "symbol": "CSP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xa96F31F1C187c28980176C3A27ba7069f48abDE4",
+  "address": "0xa96F31F1C187c28980176C3A27ba7069f48abDE4",
+  "blockchain": "ethereum",
+  "name": "Ethereum Gold Project",
+  "website": "https://www.etgproject.org",
+  "description": "ETGP is the update of ETG project with new roadmap , our vision is to facilitate & decentralize payment of companies & communities.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa96F31F1C187c28980176C3A27ba7069f48abDE4",
+  "research": null,
+  "symbol": "ETGP",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

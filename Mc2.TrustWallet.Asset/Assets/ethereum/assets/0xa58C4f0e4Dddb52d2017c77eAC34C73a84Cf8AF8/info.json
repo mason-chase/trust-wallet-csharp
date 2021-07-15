@@ -1,0 +1,18 @@
+{
+  "id": "0xa58C4f0e4Dddb52d2017c77eAC34C73a84Cf8AF8",
+  "address": "0xa58C4f0e4Dddb52d2017c77eAC34C73a84Cf8AF8",
+  "blockchain": "ethereum",
+  "name": "JoygoEOS",
+  "website": null,
+  "description": "-",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa58c4f0e4dddb52d2017c77eac34c73a84cf8af8",
+  "research": null,
+  "symbol": "JEO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

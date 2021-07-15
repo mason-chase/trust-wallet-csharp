@@ -1,0 +1,18 @@
+{
+  "id": "0xd321Ca7Cd7A233483b8CD5a11a89E9337e70Df84",
+  "address": "0xd321Ca7Cd7A233483b8CD5a11a89E9337e70Df84",
+  "blockchain": "ethereum",
+  "name": "VI",
+  "website": "https://vid.camera/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd321Ca7Cd7A233483b8CD5a11a89E9337e70Df84",
+  "research": null,
+  "symbol": "VI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x8a0ba07B4358dE33eFecff2f09f55c85CDa14670",
+  "address": "0x8a0ba07B4358dE33eFecff2f09f55c85CDa14670",
+  "blockchain": "ethereum",
+  "name": "DriverToken",
+  "website": "https://chromia.com",
+  "description": "Chromia (CHR) is a cryptocurrency and operates on the Ethereum platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8a0ba07B4358dE33eFecff2f09f55c85CDa14670",
+  "research": null,
+  "symbol": "Driver",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

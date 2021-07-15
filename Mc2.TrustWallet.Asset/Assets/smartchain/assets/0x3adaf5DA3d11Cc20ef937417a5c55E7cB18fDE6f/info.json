@@ -1,0 +1,18 @@
+{
+  "id": "0x3adaf5DA3d11Cc20ef937417a5c55E7cB18fDE6f",
+  "address": "0x3adaf5DA3d11Cc20ef937417a5c55E7cB18fDE6f",
+  "blockchain": "smartchain",
+  "name": "Bucky",
+  "website": "https://buckycoin.finance/",
+  "description": "Bucky Coin will be an open-source network for currencies and payments",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x3adaf5da3d11cc20ef937417a5c55e7cb18fde6f",
+  "research": null,
+  "symbol": "BCKY",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

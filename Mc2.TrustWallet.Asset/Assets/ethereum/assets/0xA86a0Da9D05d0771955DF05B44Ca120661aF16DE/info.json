@@ -1,0 +1,18 @@
+{
+  "id": "0xA86a0Da9D05d0771955DF05B44Ca120661aF16DE",
+  "address": "0xA86a0Da9D05d0771955DF05B44Ca120661aF16DE",
+  "blockchain": "ethereum",
+  "name": "OTCBTC Token",
+  "website": "https://otcbtc.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA86a0Da9D05d0771955DF05B44Ca120661aF16DE",
+  "research": null,
+  "symbol": "OTB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

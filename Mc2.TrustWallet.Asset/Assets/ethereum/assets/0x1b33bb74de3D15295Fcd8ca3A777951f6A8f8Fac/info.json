@@ -1,0 +1,18 @@
+{
+  "id": "0x1b33bb74de3D15295Fcd8ca3A777951f6A8f8Fac",
+  "address": "0x1b33bb74de3D15295Fcd8ca3A777951f6A8f8Fac",
+  "blockchain": "ethereum",
+  "name": "WandaBroker",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1b33bb74de3D15295Fcd8ca3A777951f6A8f8Fac",
+  "research": null,
+  "symbol": "WBR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

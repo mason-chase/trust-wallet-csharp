@@ -1,0 +1,18 @@
+{
+  "id": "0x7f288Ff5A8055F5f6103A80Dd806cf8415e035C7",
+  "address": "0x7f288Ff5A8055F5f6103A80Dd806cf8415e035C7",
+  "blockchain": "ethereum",
+  "name": "Chain Finance",
+  "website": "http://www.chainfinance.org/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7f288Ff5A8055F5f6103A80Dd806cf8415e035C7",
+  "research": null,
+  "symbol": "CFC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

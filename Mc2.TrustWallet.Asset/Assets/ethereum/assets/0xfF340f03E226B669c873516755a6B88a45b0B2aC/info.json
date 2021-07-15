@@ -1,0 +1,18 @@
+{
+  "id": "0xfF340f03E226B669c873516755a6B88a45b0B2aC",
+  "address": "0xfF340f03E226B669c873516755a6B88a45b0B2aC",
+  "blockchain": "ethereum",
+  "name": "NSRT BRICS",
+  "website": "https://newsilkroadbrics.com",
+  "description": "NSRT token works in real sectors of the economy at the global level with the support of state and supranational BRICS structures.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xfF340f03E226B669c873516755a6B88a45b0B2aC",
+  "research": null,
+  "symbol": "NSRT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

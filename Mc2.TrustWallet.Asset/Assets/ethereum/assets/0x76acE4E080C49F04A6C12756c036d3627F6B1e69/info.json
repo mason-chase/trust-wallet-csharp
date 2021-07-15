@@ -1,0 +1,18 @@
+{
+  "id": "0x76acE4E080C49F04A6C12756c036d3627F6B1e69",
+  "address": "0x76acE4E080C49F04A6C12756c036d3627F6B1e69",
+  "blockchain": "ethereum",
+  "name": "InterGalactic Credit",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x76acE4E080C49F04A6C12756c036d3627F6B1e69",
+  "research": null,
+  "symbol": "CREE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

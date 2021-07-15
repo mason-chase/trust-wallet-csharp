@@ -1,0 +1,18 @@
+{
+  "id": "0x4730fB1463A6F1F44AEB45F6c5c422427f37F4D0",
+  "address": "0x4730fB1463A6F1F44AEB45F6c5c422427f37F4D0",
+  "blockchain": "ethereum",
+  "name": "The 4th Pillar Token",
+  "website": "https://www.the4thpillar.io/",
+  "description": "Scalable, interoperable, multi-blockchain electronic data exchange and digital identity solution.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4730fB1463A6F1F44AEB45F6c5c422427f37F4D0",
+  "research": null,
+  "symbol": "FOUR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

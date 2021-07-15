@@ -1,0 +1,18 @@
+{
+  "id": "0x53884b61963351C283118a8E1Fc05BA464a11959",
+  "address": "0x53884b61963351C283118a8E1Fc05BA464a11959",
+  "blockchain": "ethereum",
+  "name": "Monnos Token",
+  "website": "https://monnos.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x53884b61963351C283118a8E1Fc05BA464a11959",
+  "research": null,
+  "symbol": "MNS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

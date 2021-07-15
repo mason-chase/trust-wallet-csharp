@@ -1,0 +1,18 @@
+{
+  "id": "0x0Acb3Ff3963d426dd5F8E6AAD5301C0D1871ee59",
+  "address": "0x0Acb3Ff3963d426dd5F8E6AAD5301C0D1871ee59",
+  "blockchain": "ethereum",
+  "name": "Talent",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0Acb3Ff3963d426dd5F8E6AAD5301C0D1871ee59",
+  "research": null,
+  "symbol": "TLT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

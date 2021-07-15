@@ -1,0 +1,18 @@
+{
+  "id": "0xa957045A12D270e2eE0dcA9A3340c340e05d4670",
+  "address": "0xa957045A12D270e2eE0dcA9A3340c340e05d4670",
+  "blockchain": "ethereum",
+  "name": "AIDUS TOKEN",
+  "website": "https://aidus.io/",
+  "description": "The AIDUS Global D-Fund Platform describes itself as a decentralized fund market established on the Ethereum network. It aims to become a professional asset management platform for asset managers to use Blockchain technologies and SMART Contracts to safely and transparently create and settle P2P (Peer-to-Peer) fund agreements.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa957045A12D270e2eE0dcA9A3340c340e05d4670",
+  "research": null,
+  "symbol": "AIDUS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

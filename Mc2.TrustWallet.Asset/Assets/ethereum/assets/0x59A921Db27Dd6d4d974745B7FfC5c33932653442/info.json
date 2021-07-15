@@ -1,0 +1,35 @@
+{
+  "id": "0x59A921Db27Dd6d4d974745B7FfC5c33932653442",
+  "address": "0x59A921Db27Dd6d4d974745B7FfC5c33932653442",
+  "blockchain": "ethereum",
+  "name": "mGOOGL Token",
+  "website": "https://mirror.finance",
+  "description": "Wrapped Mirror GOOGL Token.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x59A921Db27Dd6d4d974745B7FfC5c33932653442",
+  "research": null,
+  "symbol": "mGOOGL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/MirrorProtocol"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/mirror_protocol"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/MirrorProtocol"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/@mirror-protocol"
+    }
+  ],
+  "tags": null
+}

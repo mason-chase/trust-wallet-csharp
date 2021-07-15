@@ -1,0 +1,18 @@
+{
+  "id": "0x8aF1ED18AF94CBC846991731702111AfbF904b45",
+  "address": "0x8aF1ED18AF94CBC846991731702111AfbF904b45",
+  "blockchain": "ethereum",
+  "name": "Injective Protocol",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8aF1ED18AF94CBC846991731702111AfbF904b45",
+  "research": null,
+  "symbol": "IPT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

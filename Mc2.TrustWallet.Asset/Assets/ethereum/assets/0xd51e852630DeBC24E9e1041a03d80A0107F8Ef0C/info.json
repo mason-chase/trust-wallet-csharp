@@ -1,0 +1,18 @@
+{
+  "id": "0xd51e852630DeBC24E9e1041a03d80A0107F8Ef0C",
+  "address": "0xd51e852630DeBC24E9e1041a03d80A0107F8Ef0C",
+  "blockchain": "ethereum",
+  "name": "Orium Coin",
+  "website": "https://oriumcoin.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd51e852630DeBC24E9e1041a03d80A0107F8Ef0C",
+  "research": null,
+  "symbol": "ORM",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

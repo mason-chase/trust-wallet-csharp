@@ -1,0 +1,18 @@
+{
+  "id": "0x037A54AaB062628C9Bbae1FDB1583c195585fe41",
+  "address": "0x037A54AaB062628C9Bbae1FDB1583c195585fe41",
+  "blockchain": "ethereum",
+  "name": "LCX",
+  "website": "https://www.LCX.com",
+  "description": "LCX.com - Innovating Capital Markets. Solutions for compliant digital assets and security tokens. LCX is a secure and compliant platform for buying, selling, transferring, and storing digital currency.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x037A54AaB062628C9Bbae1FDB1583c195585fe41",
+  "research": null,
+  "symbol": "LCX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "0xd379700999F4805Ce80aa32DB46A94dF64561108",
+  "address": "0xd379700999F4805Ce80aa32DB46A94dF64561108",
+  "blockchain": "ethereum",
+  "name": "Dextrust",
+  "website": "https://dextrust.org/",
+  "description": "A community driven decentralized exchange platform",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd379700999F4805Ce80aa32DB46A94dF64561108",
+  "research": null,
+  "symbol": "DETS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/dextrustdefi"
+    }
+  ],
+  "tags": null
+}

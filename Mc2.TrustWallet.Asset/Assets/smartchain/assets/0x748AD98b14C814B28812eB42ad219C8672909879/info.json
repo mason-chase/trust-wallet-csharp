@@ -1,0 +1,18 @@
+{
+  "id": "0x748AD98b14C814B28812eB42ad219C8672909879",
+  "address": "0x748AD98b14C814B28812eB42ad219C8672909879",
+  "blockchain": "smartchain",
+  "name": "Dice",
+  "website": "https://dice.finance/",
+  "description": "-",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x748AD98b14C814B28812eB42ad219C8672909879",
+  "research": null,
+  "symbol": "DICE",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

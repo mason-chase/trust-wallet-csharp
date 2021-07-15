@@ -1,0 +1,18 @@
+{
+  "id": "0x5137A403Dd25e48DE528912a4aF62881e625D801",
+  "address": "0x5137A403Dd25e48DE528912a4aF62881e625D801",
+  "blockchain": "ethereum",
+  "name": "Huddl",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5137A403Dd25e48DE528912a4aF62881e625D801",
+  "research": null,
+  "symbol": "HUDDL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

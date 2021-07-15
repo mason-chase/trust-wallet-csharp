@@ -1,0 +1,27 @@
+{
+  "id": "0xC227f8EECC481A8e8BAa30A4754B109b81C4DfA4",
+  "address": "0xC227f8EECC481A8e8BAa30A4754B109b81C4DfA4",
+  "blockchain": "smartchain",
+  "name": "Vox.Finance",
+  "website": "https://app.vox.finance",
+  "description": "Yield farming token with low supply and 2% burn rate.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xc227f8eecc481a8e8baa30a4754b109b81c4dfa4",
+  "research": "https://app.vox.finance/whitepaper",
+  "symbol": "VOXb",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "source_code",
+      "url": "https://gitlab.com/vox.finance/vox-finance-contracts"
+    },
+    {
+      "name": "white_paper",
+      "url": "https://app.vox.finance/whitepaper"
+    }
+  ],
+  "tags": null
+}

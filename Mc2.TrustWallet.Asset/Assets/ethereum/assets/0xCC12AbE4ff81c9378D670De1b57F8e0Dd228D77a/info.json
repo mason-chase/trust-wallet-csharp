@@ -1,0 +1,18 @@
+{
+  "id": "0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a",
+  "address": "0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a",
+  "blockchain": "ethereum",
+  "name": "Aave REN",
+  "website": "https://aave.com",
+  "description": "Aave REN is an interest bearing token pegged 1:1 to the underlying REN deposited in Aave. aREN accrue interest in real time in your wallet.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a",
+  "research": null,
+  "symbol": "aREN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

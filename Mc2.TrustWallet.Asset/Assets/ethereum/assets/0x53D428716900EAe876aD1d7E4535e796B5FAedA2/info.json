@@ -1,0 +1,18 @@
+{
+  "id": "0x53D428716900EAe876aD1d7E4535e796B5FAedA2",
+  "address": "0x53D428716900EAe876aD1d7E4535e796B5FAedA2",
+  "blockchain": "ethereum",
+  "name": "Zero Fee Xchange",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x53D428716900EAe876aD1d7E4535e796B5FAedA2",
+  "research": null,
+  "symbol": "ZFE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

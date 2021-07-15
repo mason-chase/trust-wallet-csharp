@@ -1,0 +1,18 @@
+{
+  "id": "0xf7413489c474ca4399eeE604716c72879Eea3615",
+  "address": "0xf7413489c474ca4399eeE604716c72879Eea3615",
+  "blockchain": "ethereum",
+  "name": "APYSwap",
+  "website": "https://apyswap.com",
+  "description": "APYS token is issued by APYSwap to link cross-chain DeFi markets.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf7413489c474ca4399eeE604716c72879Eea3615",
+  "research": null,
+  "symbol": "APYS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xfeD347E43835Da08F8a00654fb4b38bB1C46E071",
+  "address": "0xfeD347E43835Da08F8a00654fb4b38bB1C46E071",
+  "blockchain": "ethereum",
+  "name": "Sunpay",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xfeD347E43835Da08F8a00654fb4b38bB1C46E071",
+  "research": null,
+  "symbol": "SUN",
+  "type": "ERC20",
+  "decimals": 10,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

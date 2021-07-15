@@ -1,0 +1,18 @@
+{
+  "id": "0x122DDEf02a8Ad8F7a91c2c8090C0cf410E701B22",
+  "address": "0x122DDEf02a8Ad8F7a91c2c8090C0cf410E701B22",
+  "blockchain": "ethereum",
+  "name": "Platinum",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x122DDEf02a8Ad8F7a91c2c8090C0cf410E701B22",
+  "research": null,
+  "symbol": "CSC-PL",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

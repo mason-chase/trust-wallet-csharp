@@ -1,0 +1,18 @@
+{
+  "id": "0xf860f90E1F55e3528682E18850612cBb45BBF1bC",
+  "address": "0xf860f90E1F55e3528682E18850612cBb45BBF1bC",
+  "blockchain": "ethereum",
+  "name": "Decentralized Exchange Set",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf860f90E1F55e3528682E18850612cBb45BBF1bC",
+  "research": null,
+  "symbol": "DEX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

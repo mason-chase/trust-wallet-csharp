@@ -1,0 +1,23 @@
+{
+  "id": "0x163c754eF4D9C03Fc7Fa9cf6Dd43bFc760E6Ce89",
+  "address": "0x163c754eF4D9C03Fc7Fa9cf6Dd43bFc760E6Ce89",
+  "blockchain": "ethereum",
+  "name": "MaggotToken",
+  "website": "https://rottenswap.org/",
+  "description": "Earn MaggotTokens by buying and selling RottenTokens. 2.5% of every RottenToken transfer is burned and turned into MaggotTokens.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x163c754eF4D9C03Fc7Fa9cf6Dd43bFc760E6Ce89",
+  "research": null,
+  "symbol": "MAGGOT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/rottenswap"
+    }
+  ],
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x8BcB64bfDA77905398b67aF0Af084c744e777A20",
+  "address": "0x8BcB64bfDA77905398b67aF0Af084c744e777A20",
+  "blockchain": "ethereum",
+  "name": "GameCell",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8BcB64bfDA77905398b67aF0Af084c744e777A20",
+  "research": null,
+  "symbol": "GCC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

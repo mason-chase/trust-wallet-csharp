@@ -1,0 +1,18 @@
+{
+  "id": "0x9E78b8274e1D6a76a0dBbf90418894DF27cBCEb5",
+  "address": "0x9E78b8274e1D6a76a0dBbf90418894DF27cBCEb5",
+  "blockchain": "ethereum",
+  "name": "UniFi",
+  "website": "https://www.unifihub.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9E78b8274e1D6a76a0dBbf90418894DF27cBCEb5",
+  "research": null,
+  "symbol": "UniFi",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

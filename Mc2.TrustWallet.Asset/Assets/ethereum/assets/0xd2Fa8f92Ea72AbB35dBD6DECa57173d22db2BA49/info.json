@@ -1,0 +1,18 @@
+{
+  "id": "0xd2Fa8f92Ea72AbB35dBD6DECa57173d22db2BA49",
+  "address": "0xd2Fa8f92Ea72AbB35dBD6DECa57173d22db2BA49",
+  "blockchain": "ethereum",
+  "name": "Origami Network",
+  "website": "http://ori.network",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd2Fa8f92Ea72AbB35dBD6DECa57173d22db2BA49",
+  "research": null,
+  "symbol": "ORI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

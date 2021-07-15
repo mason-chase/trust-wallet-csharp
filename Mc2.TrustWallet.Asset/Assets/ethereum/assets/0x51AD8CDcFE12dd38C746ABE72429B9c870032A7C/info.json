@@ -1,0 +1,18 @@
+{
+  "id": "0x51AD8CDcFE12dd38C746ABE72429B9c870032A7C",
+  "address": "0x51AD8CDcFE12dd38C746ABE72429B9c870032A7C",
+  "blockchain": "ethereum",
+  "name": "Sky Ether",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x51AD8CDcFE12dd38C746ABE72429B9c870032A7C",
+  "research": null,
+  "symbol": "SET",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

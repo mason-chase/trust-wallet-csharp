@@ -1,0 +1,18 @@
+{
+  "id": "0x611DFe661C82B858087AB5b16e3Cb082552df4F3",
+  "address": "0x611DFe661C82B858087AB5b16e3Cb082552df4F3",
+  "blockchain": "smartchain",
+  "name": "Chia",
+  "website": "https://chianetwork.app/",
+  "description": "Yield farm Chia on Binance Smart Chain.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x611DFe661C82B858087AB5b16e3Cb082552df4F3",
+  "research": null,
+  "symbol": "Chia",
+  "type": "BEP20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

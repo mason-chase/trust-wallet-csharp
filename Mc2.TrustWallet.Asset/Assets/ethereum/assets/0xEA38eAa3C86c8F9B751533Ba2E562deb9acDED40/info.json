@@ -1,0 +1,18 @@
+{
+  "id": "0xEA38eAa3C86c8F9B751533Ba2E562deb9acDED40",
+  "address": "0xEA38eAa3C86c8F9B751533Ba2E562deb9acDED40",
+  "blockchain": "ethereum",
+  "name": "Fuel Token",
+  "website": "https://etherparty.io/",
+  "description": "Etherparty™ is a contract wizard that removes the complexity of creating, managing and executing smart contracts on any compatible blockchain.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xEA38eAa3C86c8F9B751533Ba2E562deb9acDED40",
+  "research": null,
+  "symbol": "FUEL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

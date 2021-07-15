@@ -1,0 +1,18 @@
+{
+  "id": "0x557dd6700e66818AF340ccE17FD4508CED81fBc1",
+  "address": "0x557dd6700e66818AF340ccE17FD4508CED81fBc1",
+  "blockchain": "smartchain",
+  "name": "Papel",
+  "website": "https://www.papeltoken.net/",
+  "description": "Passive rewards, autoliquidity, community token, charity.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x557dd6700e66818af340cce17fd4508ced81fbc1",
+  "research": null,
+  "symbol": "PAPEL",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

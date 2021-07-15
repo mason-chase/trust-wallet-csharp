@@ -1,0 +1,18 @@
+{
+  "id": "0x0F09c5922a47b0B9100c1D56Ada4BF7a9f3A72d4",
+  "address": "0x0F09c5922a47b0B9100c1D56Ada4BF7a9f3A72d4",
+  "blockchain": "ethereum",
+  "name": "UTOPIA",
+  "website": "https://selfpreservationtechnology.com/",
+  "description": "Research, Development, Testing, Manufacturing, Production, Marketing, & Distribution of Advanced, One-of-a-kind Technologies to Utopia Citizens.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0F09c5922a47b0B9100c1D56Ada4BF7a9f3A72d4",
+  "research": null,
+  "symbol": "UTO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

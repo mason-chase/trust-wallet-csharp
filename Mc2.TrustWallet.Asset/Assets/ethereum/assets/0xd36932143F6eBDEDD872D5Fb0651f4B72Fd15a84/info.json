@@ -1,0 +1,35 @@
+{
+  "id": "0xd36932143F6eBDEDD872D5Fb0651f4B72Fd15a84",
+  "address": "0xd36932143F6eBDEDD872D5Fb0651f4B72Fd15a84",
+  "blockchain": "ethereum",
+  "name": "mAAPL Token",
+  "website": "https://mirror.finance",
+  "description": "Wrapped Mirror AAPL Token.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd36932143F6eBDEDD872D5Fb0651f4B72Fd15a84",
+  "research": null,
+  "symbol": "mAAPL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/MirrorProtocol"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/mirror_protocol"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/MirrorProtocol"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/@mirror-protocol"
+    }
+  ],
+  "tags": null
+}

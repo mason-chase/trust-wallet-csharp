@@ -1,0 +1,18 @@
+{
+  "id": "0x13f11C9905A08ca76e3e853bE63D4f0944326C72",
+  "address": "0x13f11C9905A08ca76e3e853bE63D4f0944326C72",
+  "blockchain": "ethereum",
+  "name": "Divi Exchange Token",
+  "website": "https://diviproject.org/",
+  "description": "Divi is a project with the goal of making popular cryptocurrencies easy to use for the public mass. Divi’s Smart Wallet and blockchain make transactions speedier, affordable, easier, safe to use, and less prone to user errors.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x13f11C9905A08ca76e3e853bE63D4f0944326C72",
+  "research": null,
+  "symbol": "DIVX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

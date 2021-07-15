@@ -1,0 +1,18 @@
+{
+  "id": "0xc14338C0eaa4bf7E4473C9DD7226001C8ae3B454",
+  "address": "0xc14338C0eaa4bf7E4473C9DD7226001C8ae3B454",
+  "blockchain": "ethereum",
+  "name": "WARP",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc14338C0eaa4bf7E4473C9DD7226001C8ae3B454",
+  "research": null,
+  "symbol": "WARP",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

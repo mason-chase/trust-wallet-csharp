@@ -1,0 +1,18 @@
+{
+  "id": "0xE33EeF3ef4796bD9633D5DD8B9e8d500Eeb62d2D",
+  "address": "0xE33EeF3ef4796bD9633D5DD8B9e8d500Eeb62d2D",
+  "blockchain": "ethereum",
+  "name": "BCL Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE33EeF3ef4796bD9633D5DD8B9e8d500Eeb62d2D",
+  "research": null,
+  "symbol": "BCLT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

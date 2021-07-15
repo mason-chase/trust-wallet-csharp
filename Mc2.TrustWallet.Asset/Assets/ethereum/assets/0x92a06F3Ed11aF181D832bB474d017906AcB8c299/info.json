@@ -1,0 +1,18 @@
+{
+  "id": "0x92a06F3Ed11aF181D832bB474d017906AcB8c299",
+  "address": "0x92a06F3Ed11aF181D832bB474d017906AcB8c299",
+  "blockchain": "ethereum",
+  "name": "ZeePin Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x92a06F3Ed11aF181D832bB474d017906AcB8c299",
+  "research": null,
+  "symbol": "ZPT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

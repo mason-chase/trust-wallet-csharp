@@ -1,0 +1,18 @@
+{
+  "id": "0x865D176351f287fE1B0010805b110d08699C200A",
+  "address": "0x865D176351f287fE1B0010805b110d08699C200A",
+  "blockchain": "ethereum",
+  "name": "BananaCoin Extended",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x865D176351f287fE1B0010805b110d08699C200A",
+  "research": null,
+  "symbol": "BCO",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

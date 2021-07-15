@@ -1,0 +1,18 @@
+{
+  "id": "TZHTVehxLeoVQ5uuQLy3TDx4Uuw6EmHVNF",
+  "address": "TZHTVehxLeoVQ5uuQLy3TDx4Uuw6EmHVNF",
+  "blockchain": "tron",
+  "name": "TRON GO",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TZHTVehxLeoVQ5uuQLy3TDx4Uuw6EmHVNF",
+  "research": null,
+  "symbol": "GO",
+  "type": "TRC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

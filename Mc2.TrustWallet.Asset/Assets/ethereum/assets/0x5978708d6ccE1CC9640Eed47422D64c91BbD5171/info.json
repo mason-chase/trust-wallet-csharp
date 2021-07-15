@@ -1,0 +1,18 @@
+{
+  "id": "0x5978708d6ccE1CC9640Eed47422D64c91BbD5171",
+  "address": "0x5978708d6ccE1CC9640Eed47422D64c91BbD5171",
+  "blockchain": "ethereum",
+  "name": "LOLTOKEN",
+  "website": "https://loleiu.io",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5978708d6ccE1CC9640Eed47422D64c91BbD5171",
+  "research": null,
+  "symbol": "LOL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

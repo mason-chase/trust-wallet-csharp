@@ -1,0 +1,18 @@
+{
+  "id": "0x6FeBdFC0A9d9502C45343fCE0dF08828dEF44795",
+  "address": "0x6FeBdFC0A9d9502C45343fCE0dF08828dEF44795",
+  "blockchain": "ethereum",
+  "name": "3X Short BNB Token",
+  "website": "https://ftx.com/tokens/BNBBEAR",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6FeBdFC0A9d9502C45343fCE0dF08828dEF44795",
+  "research": null,
+  "symbol": "BNBBEAR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

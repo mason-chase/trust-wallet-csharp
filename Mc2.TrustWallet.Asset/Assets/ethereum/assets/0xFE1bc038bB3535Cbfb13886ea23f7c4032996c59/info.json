@@ -1,0 +1,18 @@
+{
+  "id": "0xFE1bc038bB3535Cbfb13886ea23f7c4032996c59",
+  "address": "0xFE1bc038bB3535Cbfb13886ea23f7c4032996c59",
+  "blockchain": "ethereum",
+  "name": " DoneDonate",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xFE1bc038bB3535Cbfb13886ea23f7c4032996c59",
+  "research": null,
+  "symbol": "DDC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

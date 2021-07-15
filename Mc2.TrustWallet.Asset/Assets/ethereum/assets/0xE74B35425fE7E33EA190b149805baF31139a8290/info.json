@@ -1,0 +1,18 @@
+{
+  "id": "0xE74B35425fE7E33EA190b149805baF31139a8290",
+  "address": "0xE74B35425fE7E33EA190b149805baF31139a8290",
+  "blockchain": "ethereum",
+  "name": "QuickCash",
+  "website": "https://quickcash.com/",
+  "description": "QuickCash stable currency system.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE74B35425fE7E33EA190b149805baF31139a8290",
+  "research": null,
+  "symbol": "QC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

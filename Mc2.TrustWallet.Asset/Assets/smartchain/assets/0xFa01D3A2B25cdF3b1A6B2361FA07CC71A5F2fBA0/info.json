@@ -1,0 +1,18 @@
+{
+  "id": "0xFa01D3A2B25cdF3b1A6B2361FA07CC71A5F2fBA0",
+  "address": "0xFa01D3A2B25cdF3b1A6B2361FA07CC71A5F2fBA0",
+  "blockchain": "smartchain",
+  "name": "Hukku",
+  "website": "https://hukku.io/",
+  "description": "Hukku Protects your house and wallet. Unruggable. Hukku is so Cute.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xFa01D3A2B25cdF3b1A6B2361FA07CC71A5F2fBA0",
+  "research": null,
+  "symbol": "HUKKU",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

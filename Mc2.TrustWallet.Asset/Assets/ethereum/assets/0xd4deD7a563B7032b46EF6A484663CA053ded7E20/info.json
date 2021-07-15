@@ -1,0 +1,18 @@
+{
+  "id": "0xd4deD7a563B7032b46EF6A484663CA053ded7E20",
+  "address": "0xd4deD7a563B7032b46EF6A484663CA053ded7E20",
+  "blockchain": "ethereum",
+  "name": "iHDVi",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd4deD7a563B7032b46EF6A484663CA053ded7E20",
+  "research": null,
+  "symbol": "iHDVi",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x1da015eA4AD2d3e5586E54b9fB0682Ca3CA8A17a",
+  "address": "0x1da015eA4AD2d3e5586E54b9fB0682Ca3CA8A17a",
+  "blockchain": "ethereum",
+  "name": "DragonToken",
+  "website": "https://dragonex.io/en-us/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1da015eA4AD2d3e5586E54b9fB0682Ca3CA8A17a",
+  "research": null,
+  "symbol": "DT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

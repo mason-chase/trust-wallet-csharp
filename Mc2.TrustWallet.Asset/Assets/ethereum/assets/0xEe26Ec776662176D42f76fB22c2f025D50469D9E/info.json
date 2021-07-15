@@ -1,0 +1,18 @@
+{
+  "id": "0xEe26Ec776662176D42f76fB22c2f025D50469D9E",
+  "address": "0xEe26Ec776662176D42f76fB22c2f025D50469D9E",
+  "blockchain": "ethereum",
+  "name": "TOKEN 30S",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xEe26Ec776662176D42f76fB22c2f025D50469D9E",
+  "research": null,
+  "symbol": "30S",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xD375a513692336cF9eEBCE5e38869B447948016f",
+  "address": "0xD375a513692336cF9eEBCE5e38869B447948016f",
+  "blockchain": "ethereum",
+  "name": "ShaBiDeGongShi",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xD375a513692336cF9eEBCE5e38869B447948016f",
+  "research": null,
+  "symbol": "ShaBi",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

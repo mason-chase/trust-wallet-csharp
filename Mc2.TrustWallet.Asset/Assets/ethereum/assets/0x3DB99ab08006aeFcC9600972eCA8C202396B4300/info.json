@@ -1,0 +1,18 @@
+{
+  "id": "0x3DB99ab08006aeFcC9600972eCA8C202396B4300",
+  "address": "0x3DB99ab08006aeFcC9600972eCA8C202396B4300",
+  "blockchain": "ethereum",
+  "name": "Vinci",
+  "website": "https://vinci.id/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3DB99ab08006aeFcC9600972eCA8C202396B4300",
+  "research": null,
+  "symbol": "VINCI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}
