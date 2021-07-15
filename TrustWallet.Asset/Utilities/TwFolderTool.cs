@@ -52,6 +52,7 @@ namespace TrustWallet.Asset.Utilities
             foreach (KeyValuePair<string, BlockchainFolder> assetKey in coinsArray)
             {
                 assetKey.Value.Coin.Listings = new List<IListing> { new BlockchainListing(assetKey.Value.Coin.Code, assetKey.Value.Coin.Name) };
+                assetKey.Value.Coin.SymbolConst = GetAssetsSymbol(assetKey.Value.Coin);
                 assetsDict.Add(GetAssetsSymbol(assetKey.Value.Coin), assetKey.Value.Coin);
             }
 

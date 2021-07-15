@@ -3,14 +3,414 @@ namespace TrustWallet.Asset.Data
     public static class AssetsConsts
     {
         /// <summary>
+        /// Aeternity
+        /// </summary>
+        public const string AE_AETERNITY = "AE_AETERNITY";
+
+        /// <summary>
+        /// Aion
+        /// </summary>
+        public const string AION_AION = "AION_AION";
+
+        /// <summary>
+        /// Algorand
+        /// </summary>
+        public const string ALGO_ALGORAND = "ALGO_ALGORAND";
+
+        /// <summary>
+        /// Ark
+        /// </summary>
+        public const string ARK_ARK = "ARK_ARK";
+
+        /// <summary>
+        /// Aryacoin
+        /// </summary>
+        public const string AYA_ARYACOIN = "AYA_ARYACOIN";
+
+        /// <summary>
+        /// Avalanche
+        /// </summary>
+        public const string AVAX_AVALANCHE = "AVAX_AVALANCHE";
+
+        /// <summary>
+        /// Avalanche C-Chain
+        /// </summary>
+        public const string CAVAX_AVALANCHE_CCHAIN = "CAVAX_AVALANCHE_CCHAIN";
+
+        /// <summary>
+        /// Avalanche X-Chain
+        /// </summary>
+        public const string XAVAX_AVALANCHE_XCHAIN = "XAVAX_AVALANCHE_XCHAIN";
+
+        /// <summary>
+        /// BandChain
+        /// </summary>
+        public const string BAND_BANDCHAIN = "BAND_BANDCHAIN";
+
+        /// <summary>
+        /// BNB coin
+        /// </summary>
+        public const string BNB_BNB_COIN = "BNB_BNB_COIN";
+
+        /// <summary>
+        /// Bitcoin
+        /// </summary>
+        public const string BTC_BITCOIN = "BTC_BITCOIN";
+
+        /// <summary>
+        /// Bitcoin Cash
+        /// </summary>
+        public const string BCH_BITCOIN_CASH = "BCH_BITCOIN_CASH";
+
+        /// <summary>
+        /// Bitcoin Gold
+        /// </summary>
+        public const string BTG_BITCOIN_GOLD = "BTG_BITCOIN_GOLD";
+
+        /// <summary>
+        /// Bluzelle
+        /// </summary>
+        public const string BLZ_BLUZELLE = "BLZ_BLUZELLE";
+
+        /// <summary>
+        /// Callisto Network
+        /// </summary>
+        public const string CLO_CALLISTO_NETWORK = "CLO_CALLISTO_NETWORK";
+
+        /// <summary>
+        /// Cardano
+        /// </summary>
+        public const string ADA_CARDANO = "ADA_CARDANO";
+
+        /// <summary>
+        /// Celo
+        /// </summary>
+        public const string CELO_CELO = "CELO_CELO";
+
+        /// <summary>
+        /// Ethereum Classic
+        /// </summary>
+        public const string ETC_ETHEREUM_CLASSIC = "ETC_ETHEREUM_CLASSIC";
+
+        /// <summary>
+        /// Cosmos
+        /// </summary>
+        public const string ATOM_COSMOS = "ATOM_COSMOS";
+
+        /// <summary>
+        /// Crypto.org
+        /// </summary>
+        public const string CRO_CRYPTOORG = "CRO_CRYPTOORG";
+
+        /// <summary>
+        /// Dash
+        /// </summary>
+        public const string DASH_DASH = "DASH_DASH";
+
+        /// <summary>
+        /// Decred
+        /// </summary>
+        public const string DCR_DECRED = "DCR_DECRED";
+
+        /// <summary>
+        /// DigiByte
+        /// </summary>
+        public const string DGB_DIGIBYTE = "DGB_DIGIBYTE";
+
+        /// <summary>
+        /// Dogecoin
+        /// </summary>
+        public const string DOGE_DOGECOIN = "DOGE_DOGECOIN";
+
+        /// <summary>
+        /// Ellaism
+        /// </summary>
+        public const string ELLA_ELLAISM = "ELLA_ELLAISM";
+
+        /// <summary>
+        /// Elrond
+        /// </summary>
+        public const string EGLD_ELROND = "EGLD_ELROND";
+
+        /// <summary>
+        /// EOS
+        /// </summary>
+        public const string EOS_EOS = "EOS_EOS";
+
+        /// <summary>
+        /// Ether-1
+        /// </summary>
+        public const string ETHO_ETHER1 = "ETHO_ETHER1";
+
+        /// <summary>
+        /// Ethereum
+        /// </summary>
+        public const string ETH_ETHEREUM = "ETH_ETHEREUM";
+
+        /// <summary>
+        /// Filecoin
+        /// </summary>
+        public const string FIL_FILECOIN = "FIL_FILECOIN";
+
+        /// <summary>
+        /// FIO Protocol
+        /// </summary>
+        public const string FIO_FIO_PROTOCOL = "FIO_FIO_PROTOCOL";
+
+        /// <summary>
+        /// Firo
+        /// </summary>
+        public const string FIRO_FIRO = "FIRO_FIRO";
+
+        /// <summary>
+        /// GoChain
+        /// </summary>
+        public const string GO_GOCHAIN = "GO_GOCHAIN";
+
+        /// <summary>
+        /// Groestlcoin
+        /// </summary>
+        public const string GRS_GROESTLCOIN = "GRS_GROESTLCOIN";
+
+        /// <summary>
+        /// Harmony
+        /// </summary>
+        public const string ONE_HARMONY = "ONE_HARMONY";
+
+        /// <summary>
+        /// ICON
+        /// </summary>
+        public const string ICX_ICON = "ICX_ICON";
+
+        /// <summary>
+        /// IOST
+        /// </summary>
+        public const string IOST_IOST = "IOST_IOST";
+
+        /// <summary>
+        /// IoTeX
+        /// </summary>
+        public const string IOTX_IOTEX = "IOTX_IOTEX";
+
+        /// <summary>
+        /// Kava
+        /// </summary>
+        public const string KAVA_KAVA = "KAVA_KAVA";
+
+        /// <summary>
+        /// Kin
+        /// </summary>
+        public const string KIN_KIN = "KIN_KIN";
+
+        /// <summary>
+        /// Kusama
+        /// </summary>
+        public const string KSM_KUSAMA = "KSM_KUSAMA";
+
+        /// <summary>
+        /// Litecoin
+        /// </summary>
+        public const string LTC_LITECOIN = "LTC_LITECOIN";
+
+        /// <summary>
+        /// Loom Network
+        /// </summary>
+        public const string LOOM_LOOM_NETWORK = "LOOM_LOOM_NETWORK";
+
+        /// <summary>
+        /// Nano
+        /// </summary>
+        public const string NANO_NANO = "NANO_NANO";
+
+        /// <summary>
+        /// NEAR Protocol
+        /// </summary>
+        public const string NEAR_NEAR_PROTOCOL = "NEAR_NEAR_PROTOCOL";
+
+        /// <summary>
+        /// Nebulas
+        /// </summary>
+        public const string NAS_NEBULAS = "NAS_NEBULAS";
+
+        /// <summary>
+        /// Neo
+        /// </summary>
+        public const string NEO_NEO = "NEO_NEO";
+
+        /// <summary>
+        /// Nervos Network
+        /// </summary>
+        public const string CKB_NERVOS_NETWORK = "CKB_NERVOS_NETWORK";
+
+        /// <summary>
+        /// Nimiq
+        /// </summary>
+        public const string NIM_NIMIQ = "NIM_NIMIQ";
+
+        /// <summary>
+        /// NULS
+        /// </summary>
+        public const string NULS_NULS = "NULS_NULS";
+
+        /// <summary>
+        /// Oasis Network
+        /// </summary>
+        public const string ROSE_OASIS_NETWORK = "ROSE_OASIS_NETWORK";
+
+        /// <summary>
+        /// Ontology
+        /// </summary>
+        public const string ONT_ONTOLOGY = "ONT_ONTOLOGY";
+
+        /// <summary>
+        /// POA
+        /// </summary>
+        public const string POA_POA = "POA_POA";
+
+        /// <summary>
+        /// Polkadot
+        /// </summary>
+        public const string DOT_POLKADOT = "DOT_POLKADOT";
+
+        /// <summary>
+        /// Polygon
+        /// </summary>
+        public const string MATIC_POLYGON = "MATIC_POLYGON";
+
+        /// <summary>
+        /// Qtum
+        /// </summary>
+        public const string QTUM_QTUM = "QTUM_QTUM";
+
+        /// <summary>
+        /// Ravencoin
+        /// </summary>
+        public const string RVN_RAVENCOIN = "RVN_RAVENCOIN";
+
+        /// <summary>
+        /// XRP
+        /// </summary>
+        public const string XRP_XRP = "XRP_XRP";
+
+        /// <summary>
+        /// smartBCH
+        /// </summary>
+        public const string BCH_SMARTBCH = "BCH_SMARTBCH";
+
+        /// <summary>
+        /// Smart Chain
+        /// </summary>
+        public const string BNB_SMART_CHAIN = "BNB_SMART_CHAIN";
+
+        /// <summary>
+        /// Solana
+        /// </summary>
+        public const string SOL_SOLANA = "SOL_SOLANA";
+
+        /// <summary>
+        /// Steem
+        /// </summary>
+        public const string STEEM_STEEM = "STEEM_STEEM";
+
+        /// <summary>
+        /// Stellar
+        /// </summary>
+        public const string XLM_STELLAR = "XLM_STELLAR";
+
+        /// <summary>
+        /// Terra
+        /// </summary>
+        public const string LUNA_TERRA = "LUNA_TERRA";
+
+        /// <summary>
+        /// Tezos
+        /// </summary>
+        public const string XTZ_TEZOS = "XTZ_TEZOS";
+
+        /// <summary>
+        /// THETA
+        /// </summary>
+        public const string THETA_THETA = "THETA_THETA";
+
+        /// <summary>
+        /// THORChain
+        /// </summary>
+        public const string RUNE_THORCHAIN = "RUNE_THORCHAIN";
+
+        /// <summary>
+        /// Thunder Token
+        /// </summary>
+        public const string TT_THUNDER_TOKEN = "TT_THUNDER_TOKEN";
+
+        /// <summary>
+        /// TomoChain
+        /// </summary>
+        public const string TOMO_TOMOCHAIN = "TOMO_TOMOCHAIN";
+
+        /// <summary>
+        /// Telegram Open Network
+        /// </summary>
+        public const string GRAM_TELEGRAM_OPEN_NETWORK = "GRAM_TELEGRAM_OPEN_NETWORK";
+
+        /// <summary>
+        /// TRON
+        /// </summary>
+        public const string TRX_TRON = "TRX_TRON";
+
+        /// <summary>
+        /// VeChain
+        /// </summary>
+        public const string VET_VECHAIN = "VET_VECHAIN";
+
+        /// <summary>
+        /// Viacoin
+        /// </summary>
+        public const string VIA_VIACOIN = "VIA_VIACOIN";
+
+        /// <summary>
+        /// Wanchain
+        /// </summary>
+        public const string WAN_WANCHAIN = "WAN_WANCHAIN";
+
+        /// <summary>
+        /// Waves
+        /// </summary>
+        public const string WAVES_WAVES = "WAVES_WAVES";
+
+        /// <summary>
+        /// xDai
+        /// </summary>
+        public const string XDAI_XDAI = "XDAI_XDAI";
+
+        /// <summary>
+        /// XinFin Network
+        /// </summary>
+        public const string XDC_XINFIN_NETWORK = "XDC_XINFIN_NETWORK";
+
+        /// <summary>
+        /// Zcash
+        /// </summary>
+        public const string ZEC_ZCASH = "ZEC_ZCASH";
+
+        /// <summary>
+        /// Flux
+        /// </summary>
+        public const string FLUX_FLUX = "FLUX_FLUX";
+
+        /// <summary>
+        /// Zilliqa
+        /// </summary>
+        public const string ZIL_ZILLIQA = "ZIL_ZILLIQA";
+
+        /// <summary>
         /// Aave Token
         /// </summary>
         public const string AAVE_AAVE_TOKEN = "AAVE_AAVE_TOKEN";
 
         /// <summary>
-        /// Africa Stable-Coin
+        /// Africa Stable Coin
         /// </summary>
-        public const string ABCD_AFRICA_STABLECOIN = "ABCD_AFRICA_STABLECOIN";
+        public const string ABCD_AFRICA_STABLE_COIN = "ABCD_AFRICA_STABLE_COIN";
 
         /// <summary>
         /// CardanoBEP2
@@ -308,11 +708,6 @@ namespace TrustWallet.Asset.Data
         public const string DFY_DEFI_FOR_YOU = "DFY_DEFI_FOR_YOU";
 
         /// <summary>
-        /// Dogecoin
-        /// </summary>
-        public const string DOGE_DOGECOIN = "DOGE_DOGECOIN";
-
-        /// <summary>
         /// DOS Network Token
         /// </summary>
         public const string DOS_DOS_NETWORK_TOKEN = "DOS_DOS_NETWORK_TOKEN";
@@ -383,11 +778,6 @@ namespace TrustWallet.Asset.Data
         public const string ERD_ELROND = "ERD_ELROND";
 
         /// <summary>
-        /// Ethereum Classic
-        /// </summary>
-        public const string ETC_ETHEREUM_CLASSIC = "ETC_ETHEREUM_CLASSIC";
-
-        /// <summary>
         /// ETH BEP2
         /// </summary>
         public const string ETH_ETH_BEP2 = "ETH_ETH_BEP2";
@@ -406,11 +796,6 @@ namespace TrustWallet.Asset.Data
         /// everiToken
         /// </summary>
         public const string EVT_EVERITOKEN = "EVT_EVERITOKEN";
-
-        /// <summary>
-        /// Filecoin
-        /// </summary>
-        public const string FIL_FILECOIN = "FIL_FILECOIN";
 
         /// <summary>
         /// Ferrum Network Token
@@ -593,11 +978,6 @@ namespace TrustWallet.Asset.Data
         public const string MZK_MUZIKA = "MZK_MUZIKA";
 
         /// <summary>
-        /// NEAR Protocol
-        /// </summary>
-        public const string NEAR_NEAR_PROTOCOL = "NEAR_NEAR_PROTOCOL";
-
-        /// <summary>
         /// NEWTON
         /// </summary>
         public const string NEW_NEWTON = "NEW_NEWTON";
@@ -706,11 +1086,6 @@ namespace TrustWallet.Asset.Data
         /// Earneo
         /// </summary>
         public const string RNO_EARNEO = "RNO_EARNEO";
-
-        /// <summary>
-        /// THORChain
-        /// </summary>
-        public const string RUNE_THORCHAIN = "RUNE_THORCHAIN";
 
         /// <summary>
         /// SB Token
@@ -878,9 +1253,9 @@ namespace TrustWallet.Asset.Data
         public const string USDSB_USDS = "USDSB_USDS";
 
         /// <summary>
-        /// USDTBEP2
+        /// Tether
         /// </summary>
-        public const string USDT_USDTBEP2 = "USDT_USDTBEP2";
+        public const string USDT_TETHER = "USDT_TETHER";
 
         /// <summary>
         /// Vodi X
@@ -2256,11 +2631,6 @@ namespace TrustWallet.Asset.Data
         /// Aave BAT
         /// </summary>
         public const string ABAT_AAVE_BAT = "ABAT_AAVE_BAT";
-
-        /// <summary>
-        /// Zilliqa
-        /// </summary>
-        public const string ZIL_ZILLIQA = "ZIL_ZILLIQA";
 
         /// <summary>
         /// ICONN
@@ -5271,11 +5641,6 @@ namespace TrustWallet.Asset.Data
         /// Keep3rV1
         /// </summary>
         public const string KP3R_KEEP3RV1 = "KP3R_KEEP3RV1";
-
-        /// <summary>
-        /// WAVES
-        /// </summary>
-        public const string WAVES_WAVES = "WAVES_WAVES";
 
         /// <summary>
         /// GoDigit
@@ -10498,11 +10863,6 @@ namespace TrustWallet.Asset.Data
         public const string XFL_FLAME_TOKEN = "XFL_FLAME_TOKEN";
 
         /// <summary>
-        /// FLUX
-        /// </summary>
-        public const string FLUX_FLUX = "FLUX_FLUX";
-
-        /// <summary>
         /// HOT
         /// </summary>
         public const string HTX_HOT = "HTX_HOT";
@@ -11371,11 +11731,6 @@ namespace TrustWallet.Asset.Data
         /// NPER
         /// </summary>
         public const string NPER_NPER = "NPER_NPER";
-
-        /// <summary>
-        /// AION
-        /// </summary>
-        public const string AION_AION = "AION_AION";
 
         /// <summary>
         /// Comet
@@ -17698,11 +18053,6 @@ namespace TrustWallet.Asset.Data
         public const string ZERA_ZERACOIN = "ZERA_ZERACOIN";
 
         /// <summary>
-        /// Kin
-        /// </summary>
-        public const string KIN_KIN = "KIN_KIN";
-
-        /// <summary>
         /// NTV-e
         /// </summary>
         public const string NTVE_NTVE = "NTVE_NTVE";
@@ -17825,7 +18175,7 @@ namespace TrustWallet.Asset.Data
         /// <summary>
         /// Africa Digital Coin
         /// </summary>
-        public const string ADC_AFRICA_DIGITAL_COIN = "ADC_AFRICA_DIGITAL_COIN";
+        public const string ADCD_AFRICA_DIGITAL_COIN = "ADCD_AFRICA_DIGITAL_COIN";
 
         /// <summary>
         /// QCORE.FINANCE
@@ -18346,11 +18696,6 @@ namespace TrustWallet.Asset.Data
         /// LONDONCOIN
         /// </summary>
         public const string LONDON_LONDONCOIN = "LONDON_LONDONCOIN";
-
-        /// <summary>
-        /// EOS
-        /// </summary>
-        public const string EOS_EOS = "EOS_EOS";
 
         /// <summary>
         /// GlobalCitizenCoin
@@ -21853,11 +22198,6 @@ namespace TrustWallet.Asset.Data
         public const string TRUE_TRUE_TOKEN = "TRUE_TRUE_TOKEN";
 
         /// <summary>
-        /// Loom Network
-        /// </summary>
-        public const string LOOM_LOOM_NETWORK = "LOOM_LOOM_NETWORK";
-
-        /// <summary>
         /// IvyKoin Public Network Tokens
         /// </summary>
         public const string IVY_IVYKOIN_PUBLIC_NETWORK_TOKENS = "IVY_IVYKOIN_PUBLIC_NETWORK_TOKENS";
@@ -23966,11 +24306,6 @@ namespace TrustWallet.Asset.Data
         /// inSure
         /// </summary>
         public const string SURE_INSURE = "SURE_INSURE";
-
-        /// <summary>
-        /// ICON
-        /// </summary>
-        public const string ICX_ICON = "ICX_ICON";
 
         /// <summary>
         /// ZperToken
@@ -27603,11 +27938,6 @@ namespace TrustWallet.Asset.Data
         public const string ECC_ECC_TOKEN = "ECC_ECC_TOKEN";
 
         /// <summary>
-        /// Harmony
-        /// </summary>
-        public const string ONE_HARMONY = "ONE_HARMONY";
-
-        /// <summary>
         /// Yobtc Token
         /// </summary>
         public const string YOBTC_YOBTC_TOKEN = "YOBTC_YOBTC_TOKEN";
@@ -28141,11 +28471,6 @@ namespace TrustWallet.Asset.Data
         /// GREENX
         /// </summary>
         public const string GEX_GREENX = "GEX_GREENX";
-
-        /// <summary>
-        /// Tether
-        /// </summary>
-        public const string USDT_TETHER = "USDT_TETHER";
 
         /// <summary>
         /// InterValue
@@ -34978,11 +35303,6 @@ namespace TrustWallet.Asset.Data
         public const string PAPEL_PAPEL = "PAPEL_PAPEL";
 
         /// <summary>
-        /// Tether USD
-        /// </summary>
-        public const string USDT_TETHER_USD = "USDT_TETHER_USD";
-
-        /// <summary>
         /// MoonPump Token
         /// </summary>
         public const string PUMP_MOONPUMP_TOKEN = "PUMP_MOONPUMP_TOKEN";
@@ -35241,11 +35561,6 @@ namespace TrustWallet.Asset.Data
         /// Venus Reward Token
         /// </summary>
         public const string VRT_VENUS_REWARD_TOKEN = "VRT_VENUS_REWARD_TOKEN";
-
-        /// <summary>
-        /// Kava
-        /// </summary>
-        public const string KAVA_KAVA = "KAVA_KAVA";
 
         /// <summary>
         /// KissMyMoon
@@ -36136,11 +36451,6 @@ namespace TrustWallet.Asset.Data
         /// VanCat Token
         /// </summary>
         public const string VANCAT_VANCAT_TOKEN = "VANCAT_VANCAT_TOKEN";
-
-        /// <summary>
-        /// TRON
-        /// </summary>
-        public const string TRX_TRON = "TRX_TRON";
 
         /// <summary>
         /// Berryswap
@@ -39043,11 +39353,6 @@ namespace TrustWallet.Asset.Data
         public const string WRAPPED_FRONT_WRAPPED_FRONT = "WRAPPED_FRONT_WRAPPED_FRONT";
 
         /// <summary>
-        /// Wrapped USDT
-        /// </summary>
-        public const string USDT_WRAPPED_USDT = "USDT_WRAPPED_USDT";
-
-        /// <summary>
         /// Cryptocurrencies.Ai
         /// </summary>
         public const string CCAI_CRYPTOCURRENCIESAI = "CCAI_CRYPTOCURRENCIESAI";
@@ -39056,11 +39361,6 @@ namespace TrustWallet.Asset.Data
         /// Wrapped USDC
         /// </summary>
         public const string USDC_WRAPPED_USDC = "USDC_WRAPPED_USDC";
-
-        /// <summary>
-        /// USDT
-        /// </summary>
-        public const string USDT_USDT = "USDT_USDT";
 
         /// <summary>
         /// SolAPE Finance
