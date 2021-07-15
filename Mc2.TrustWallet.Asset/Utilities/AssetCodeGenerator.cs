@@ -1,8 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Text;
-using Mc2.TrustWallet.Asset.ModelsStandard;
-using Mc2.TrustWallet.Asset.ModelsStandard.Interfaces;
-
+using Mc2.TrustWallet.Asset.FolderModels;
+using Mc2.TrustWallet.Asset.FolderModels.CommonProperties;
 namespace Mc2.TrustWallet.Asset.Utilities
 {
     /// <summary>
@@ -15,7 +14,7 @@ namespace Mc2.TrustWallet.Asset.Utilities
         /// </summary>
         /// <param name="assetStrings"></param>
         /// <returns></returns>
-        public static (string, string) GenAssetsSymbols(IList<IAsset> assetStrings)
+        public static (string, string) GenAssetsSymbols(IList<AssetBase> assetStrings)
         {
             StringBuilder assetsSymbols = new();
             assetsSymbols.Append(GetAssetsSymbolsHeader());
@@ -23,9 +22,9 @@ namespace Mc2.TrustWallet.Asset.Utilities
             StringBuilder assetsDict = new();
             assetsDict.Append(GetAssetDictHeader());
 
-            foreach (IAsset asset in assetStrings)
+            foreach (AssetBase asset in assetStrings)
             {
-                string constAsset = asset.Symbol.Code.ToConstantCase(true) + "_" + asset.Name.ToConstantCase();
+                string constAsset = asset.Symbol.ToConstantCase(true) + "_" + asset.Name.ToConstantCase();
                 assetsSymbols.Append(GetAssetsSymbolsConsts(asset.Name, ref constAsset));
                 assetsDict.Append(GetAssetDict(asset, ref constAsset));
             }
@@ -94,7 +93,7 @@ namespace Mc2.TrustWallet.Asset.Data
         }
 
 
-        private static string GetAssetDict(IAsset asset, ref string constAsset)
+        private static string GetAssetDict(AssetBase asset, ref string constAsset)
         {
             StringBuilder assetDictItem = new();
             assetDictItem.Append(@$"

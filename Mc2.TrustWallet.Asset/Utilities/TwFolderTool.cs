@@ -3,11 +3,8 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
-using Mc2.TrustWallet.Asset.ModelsFolder;
-using Mc2.TrustWallet.Asset.ModelsStandard;
-using Mc2.TrustWallet.Asset.ModelsStandard.CoinProperties;
-using Mc2.TrustWallet.Asset.ModelsStandard.Interfaces;
-using Mc2.TrustWallet.Asset.ModelsStandard.TokenProperties;
+using Mc2.TrustWallet.Asset.FolderModels;
+using Mc2.TrustWallet.Asset.FolderModels.CoinProperties;
 using Mc2.TrustWallet.Asset.Utilities.Exceptions;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
@@ -45,9 +42,15 @@ namespace Mc2.TrustWallet.Asset.Utilities
             MissingMemberHandling = MissingMemberHandling.Error
         };
 
-        public static IDictionary<string, IAsset> GetAllAssetsString(IDictionary<string, BlockchainFolder> coins)
+        public static IDictionary<string, Blockchain> GetBlockchains(IDictionary<string, BlockchainFolder> coins)
         {
             var coinsArray = coins.ToArray();
+            string assetBlockchainsRoot = PathUtilities.RemoveFolder(BuildPath, 4) +
+                                          $"{DS}assets{DS}blockchains";
+
+            var folders = Directory.GetDirectories(assetBlockchainsRoot, "*.*", SearchOption.TopDirectoryOnly).ToArray();
+
+
             IDictionary<string, IAsset> assetsDict = new Dictionary<string, IAsset>();
 
             foreach (KeyValuePair<string, BlockchainFolder> assetKey in coinsArray)
@@ -61,11 +64,11 @@ namespace Mc2.TrustWallet.Asset.Utilities
             {
                 foreach (Token token in coin.Value.Coin.TokenAsset)
                 {
-                    token.SymbolConst = GetAssetsSymbol(token);
+                    token.Symbol = GetAssetsSymbol(token);
 
                     if (assetsDict.ContainsKey(token.SymbolConst))
                     {
-                        assetsDict.First(x => x.Key == token.Symbol.Code)
+                        assetsDict.First(x => x.Key == token.Symbol)
                                   .Value
                                   .TokenListings.Add( new TokenListing(token.Blockchain, token.Type, token.Id) );
                     }
@@ -79,14 +82,14 @@ namespace Mc2.TrustWallet.Asset.Utilities
             return assetsDict;
         }
 
-        public static string GetAssetsSymbol(IAsset asset)
+        public static string GetAssetsSymbol(Coin coin)
         {
-            string symbolConst = asset.Name.ToConstantCase();
+            string symbolConst = coin.Name.ToConstantCase();
 
             if (symbolConst.Length == 0)
-                throw new BadSymbolNameException(asset);
+                throw new BadSymbolNameException(coin.Name);
 
-            return $"{symbolConst}_{asset.Name.ToConstantCase()}";
+            return $"{symbolConst}_{coin.Name.ToConstantCase()}";
         }
         #endregion
 
@@ -95,7 +98,9 @@ namespace Mc2.TrustWallet.Asset.Utilities
         /// simplifying <see cref="TrustWalletDataParse.TrustWalletJsonParseTest()">Parsing Blockchain folder</see>
         /// </summary>
         /// <returns></returns>
-        public static (IDictionary<string, BlockchainFolder>, IDictionary<string, BlockchainFolder>) GetBlockChainFolder()
+        public static (IDictionary<string, BlockchainFolder>, 
+            IDictionary<string, BlockchainFolder>) 
+            GetBlockChainFolder()
         {
             string assetBlockchainsRoot = PathUtilities.RemoveFolder(BuildPath, 4) +
                                           $"{DS}assets{DS}blockchains";
@@ -103,7 +108,6 @@ namespace Mc2.TrustWallet.Asset.Utilities
             var folders = Directory.GetDirectories(assetBlockchainsRoot, "*.*", SearchOption.TopDirectoryOnly).ToArray();
 
             Dictionary<string, BlockchainFolder> blockChainFolders = new();
-            Dictionary<string, BlockchainFolder> blockChainFoldersPending = new();
 
             foreach (string blockChainPath in folders)
             {
@@ -111,10 +115,10 @@ namespace Mc2.TrustWallet.Asset.Utilities
                 string fileFullPath = $"{blockChainPath}{DS}info{DS}info.json";
                 string infoJson = File.ReadAllText(fileFullPath);
 
-                CoinFolder coinString;
+                CoinFolder coinFolder;
                 try
                 {
-                    coinString = JsonConvert.DeserializeObject<CoinFolder>(infoJson, JsonSettingsSnakeCase);
+                    coinFolder = JsonConvert.DeserializeObject<CoinFolder>(infoJson, JsonSettingsSnakeCase);
 
                 }
                 catch (JsonSerializationException ex)
@@ -122,17 +126,17 @@ namespace Mc2.TrustWallet.Asset.Utilities
                     throw new BadJsonFileException(ex.Message, fileFullPath, infoJson);
                 }
 
-                if (coinString is null)
+                if (coinFolder is null)
                     throw new NullReferenceException($"Check json file: {blockChainPath}{DS}info{DS}info.json \n" +
                                                      $"content was parsed as : {infoJson}");
 
-                coinString.Code = GetBlockchainCode(blockChainPath);
-                coinString.LogoPng = File.ReadAllBytes($"{blockChainPath}{DS}info{DS}logo.png");
-                if (!string.IsNullOrEmpty(coinString.Symbol))
+                coinFolder = GetBlockchainCode(blockChainPath);
+                coinFolder.LogoPng = File.ReadAllBytes($"{blockChainPath}{DS}info{DS}logo.png");
+                if (!string.IsNullOrEmpty(coinFolder.Symbol))
                 {
                     if (Directory.Exists($"{blockChainPath}{DS}validators"))
                     {
-                        coinString.Validators = GetValidators($"{blockChainPath}{DS}validators");
+                        coinFolder.Validators = GetValidators($"{blockChainPath}{DS}validators");
                     }
 
                     if (Directory.Exists($"{blockChainPath}{DS}assets"))
@@ -140,19 +144,19 @@ namespace Mc2.TrustWallet.Asset.Utilities
                         if (File.Exists($"{blockChainPath}{DS}assets{DS}info"))
                         {
                             TokenList tokenFolder = GetTokenList($"{blockChainPath}");
-                            coinString.Tokens = tokenFolder.Tokens;
+                            coinFolder.Tokens = tokenFolder.Tokens;
                         }
-                        coinString.TokenAsset = GetTokenAssetList(blockChainPath);
+                        coinFolder.TokenAsset = GetTokenAssetList(blockChainPath);
                     }
                     else
-                        coinString.TokenAsset = new List<Token>();
+                        coinFolder.TokenAsset = new List<Token>();
 
                     blockChainFolders.Add(
-                    coinString.Name.ToLower(),
+                    coinFolder.Name.ToLower(),
                     new BlockchainFolder
                     {
-                        Coin = coinString,
-                        FolderName = coinString.Code,
+                        Coin = coinFolder,
+                        FolderName = coinFolder.Code,
                         Files = blockChainFiles,
                         Info = infoJson
                     });
@@ -160,10 +164,10 @@ namespace Mc2.TrustWallet.Asset.Utilities
                 else
                 {
                     blockChainFoldersPending.Add(
-                        coinString.Code,
+                        coinFolder.Code,
                         new BlockchainFolder
                         {
-                            Coin = coinString,
+                            Coin = coinFolder,
                             FolderName = blockChainPath,
                             Files = blockChainFiles,
                             Info = infoJson

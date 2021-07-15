@@ -4,7 +4,7 @@ using Microsoft.Extensions.Logging;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using Mc2.TrustWallet.Asset.ModelsFolder;
+using Mc2.TrustWallet.Asset.FolderModels;
 using Mc2.TrustWallet.Asset.ModelsStandard.Interfaces;
 using Mc2.TrustWallet.Asset.Services.CodeSignatureServiceProperties;
 using Mc2.TrustWallet.Asset.Utilities;
@@ -21,12 +21,18 @@ namespace Mc2.TrustWallet.Asset.Services
         {
             _logger = logger;
         }
+
+        public void RebuildFromFolder()
+        {
+
+        }
+
         public void Rebuild()
         {
             IDictionary<string, BlockchainFolder> blockchains;
-            (blockchains, _) = TwFolderTool.GetBlockChainFolder();
+            (blockchains, _) = TwFolderToolGlobalData.GetBlockChainFolder();
 
-            IDictionary<string, IAsset> assets = TwFolderTool.GetAllAssetsString(blockchains);
+            IDictionary<string, IAsset> assets = TwFolderToolGlobalData.GetAllAssetsString(blockchains);
 
             _logger.LogDebug(string.Format("Parsed {0} blockchain", blockchains.Count));
 

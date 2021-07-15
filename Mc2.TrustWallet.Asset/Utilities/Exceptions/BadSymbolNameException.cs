@@ -1,5 +1,4 @@
 ﻿using System;
-using Mc2.TrustWallet.Asset.ModelsStandard.Interfaces;
 
 namespace Mc2.TrustWallet.Asset.Utilities.Exceptions
 {
@@ -8,7 +7,7 @@ namespace Mc2.TrustWallet.Asset.Utilities.Exceptions
     /// </summary>
     public class BadSymbolNameException : Exception
     {
-        public BadSymbolNameException(IAsset token) : base($"Bad symbol name: {token.Symbol}")
+        public BadSymbolNameException(string symbol) : base($"Bad symbol name: {symbol}")
         {
 
         }

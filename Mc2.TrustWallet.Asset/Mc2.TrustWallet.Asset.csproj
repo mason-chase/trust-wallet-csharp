@@ -35,6 +35,12 @@
     </None>
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="Azihub.Utilities.Base, Version=0.1.10.0, Culture=neutral, PublicKeyToken=null, ProcessorArchitecture=MSIL">
+      <HintPath>..\..\..\app-console-csharp\azihub-utilities-base-csharp\Azihub.Utilities.Base\bin\Debug\netstandard2.0\Azihub.Utilities.Base.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
   <ProjectExtensions><VisualStudio><UserProperties /></VisualStudio></ProjectExtensions>
 
 </Project>

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using Mc2.TrustWallet.Asset.ModelsStandard.Interfaces;
+using Mc2.TrustWallet.Asset.FolderModels;
 using Mc2.TrustWallet.Asset.Services.CodeSignatureServiceProperties;
 using static Mc2.TrustWallet.Asset.Settings;
 
@@ -46,13 +46,13 @@ namespace Mc2.TrustWallet.Asset.Services
             File.WriteAllText($"{LogoPath}{Ds}{LOGO_HASHES_JSON}", logoHashes);
         }
 
-        public static void SaveAssetsJson(IDictionary<string, IAsset> assets)
+        public static void SaveAssetsJson(IDictionary<string, AssetBase> assets)
         {
 
-            foreach(KeyValuePair<string, IAsset> pair in assets)
+            foreach(KeyValuePair<string, AssetBase> pair in assets)
             {
                 string assetsJson = JsonConvert.SerializeObject(assets, Formatting.Indented);
-                File.WriteAllText($"{AssetsJsonPath}{Ds}{pair.Value.Symbol.Code}.json", assetsJson);
+                File.WriteAllText($"{AssetsJsonPath}{Ds}{pair.Value.Symbol}.json", assetsJson);
             }
 
             // Todo: Delete unused files
