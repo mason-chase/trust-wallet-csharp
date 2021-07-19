@@ -1,0 +1,18 @@
+{
+  "id": "EOSBULL-F0D",
+  "address": "EOSBULL-F0D",
+  "blockchain": "binance",
+  "name": "3X Long EOS Token",
+  "website": "https://ftx.com/",
+  "description": "Token which seeks a return that corresponds to 3 times the daily return of EOS.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/EOSBULL-F0D",
+  "research": null,
+  "symbol": "EOSBULL",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

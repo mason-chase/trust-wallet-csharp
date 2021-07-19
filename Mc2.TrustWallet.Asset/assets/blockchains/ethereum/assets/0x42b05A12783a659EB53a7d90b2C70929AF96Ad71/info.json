@@ -1,0 +1,18 @@
+{
+  "id": "0x42b05A12783a659EB53a7d90b2C70929AF96Ad71",
+  "address": "0x42b05A12783a659EB53a7d90b2C70929AF96Ad71",
+  "blockchain": "ethereum",
+  "name": "Deluxo",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x42b05A12783a659EB53a7d90b2C70929AF96Ad71",
+  "research": null,
+  "symbol": "DLUX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

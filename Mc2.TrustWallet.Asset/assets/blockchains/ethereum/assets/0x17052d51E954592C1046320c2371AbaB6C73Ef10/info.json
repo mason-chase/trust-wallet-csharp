@@ -1,0 +1,18 @@
+{
+  "id": "0x17052d51E954592C1046320c2371AbaB6C73Ef10",
+  "address": "0x17052d51E954592C1046320c2371AbaB6C73Ef10",
+  "blockchain": "ethereum",
+  "name": "ATHENIAN WARRIOR",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x17052d51E954592C1046320c2371AbaB6C73Ef10",
+  "research": null,
+  "symbol": "ATH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

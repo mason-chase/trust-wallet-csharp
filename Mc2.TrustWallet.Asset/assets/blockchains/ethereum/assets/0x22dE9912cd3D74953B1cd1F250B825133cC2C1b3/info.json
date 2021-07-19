@@ -1,0 +1,18 @@
+{
+  "id": "0x22dE9912cd3D74953B1cd1F250B825133cC2C1b3",
+  "address": "0x22dE9912cd3D74953B1cd1F250B825133cC2C1b3",
+  "blockchain": "ethereum",
+  "name": "DREP",
+  "website": "https://www.drep.org",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x22dE9912cd3D74953B1cd1F250B825133cC2C1b3",
+  "research": null,
+  "symbol": "DREP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

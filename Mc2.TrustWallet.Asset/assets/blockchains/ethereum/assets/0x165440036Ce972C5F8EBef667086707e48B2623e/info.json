@@ -1,0 +1,18 @@
+{
+  "id": "0x165440036Ce972C5F8EBef667086707e48B2623e",
+  "address": "0x165440036Ce972C5F8EBef667086707e48B2623e",
+  "blockchain": "ethereum",
+  "name": "UniGraph",
+  "website": "https://unigraph.app/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x165440036Ce972C5F8EBef667086707e48B2623e",
+  "research": null,
+  "symbol": "GRAPH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

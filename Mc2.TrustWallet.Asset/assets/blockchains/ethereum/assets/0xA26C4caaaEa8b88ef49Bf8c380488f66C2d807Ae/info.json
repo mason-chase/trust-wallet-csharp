@@ -1,0 +1,18 @@
+{
+  "id": "0xA26C4caaaEa8b88ef49Bf8c380488f66C2d807Ae",
+  "address": "0xA26C4caaaEa8b88ef49Bf8c380488f66C2d807Ae",
+  "blockchain": "ethereum",
+  "name": "Eviff",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA26C4caaaEa8b88ef49Bf8c380488f66C2d807Ae",
+  "research": null,
+  "symbol": "EVF",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

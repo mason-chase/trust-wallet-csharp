@@ -1,0 +1,18 @@
+{
+  "id": "0x3fc507101C2CF3C2E7153b7bd6F27Ad2200E1721",
+  "address": "0x3fc507101C2CF3C2E7153b7bd6F27Ad2200E1721",
+  "blockchain": "ethereum",
+  "name": "Untitled",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3fc507101C2CF3C2E7153b7bd6F27Ad2200E1721",
+  "research": null,
+  "symbol": "VOID",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

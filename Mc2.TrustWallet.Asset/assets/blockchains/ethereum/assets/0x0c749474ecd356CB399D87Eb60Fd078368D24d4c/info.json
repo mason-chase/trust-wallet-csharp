@@ -1,0 +1,18 @@
+{
+  "id": "0x0c749474ecd356CB399D87Eb60Fd078368D24d4c",
+  "address": "0x0c749474ecd356CB399D87Eb60Fd078368D24d4c",
+  "blockchain": "ethereum",
+  "name": "SHIBA INU GOLD",
+  "website": "https://shibgtoken.com",
+  "description": "SHIBG is Community Project",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0c749474ecd356CB399D87Eb60Fd078368D24d4c",
+  "research": null,
+  "symbol": "SHIBG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

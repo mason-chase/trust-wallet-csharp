@@ -1,0 +1,18 @@
+{
+  "id": "0x648bA66B2859192d117E8FFd8712B5E8E8114e53",
+  "address": "0x648bA66B2859192d117E8FFd8712B5E8E8114e53",
+  "blockchain": "smartchain",
+  "name": "Cryptochrome",
+  "website": "https://www.cryptochrome.org/",
+  "description": "Cryptochrome is a community staking, liquidity mining platform and a place to build crypto passive income.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x648bA66B2859192d117E8FFd8712B5E8E8114e53",
+  "research": null,
+  "symbol": "bCHM",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

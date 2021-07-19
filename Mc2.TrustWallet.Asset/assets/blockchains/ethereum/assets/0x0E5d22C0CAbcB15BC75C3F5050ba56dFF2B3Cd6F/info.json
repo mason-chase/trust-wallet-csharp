@@ -1,0 +1,18 @@
+{
+  "id": "0x0E5d22C0CAbcB15BC75C3F5050ba56dFF2B3Cd6F",
+  "address": "0x0E5d22C0CAbcB15BC75C3F5050ba56dFF2B3Cd6F",
+  "blockchain": "ethereum",
+  "name": "Realtrade Coin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0E5d22C0CAbcB15BC75C3F5050ba56dFF2B3Cd6F",
+  "research": null,
+  "symbol": "RTC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

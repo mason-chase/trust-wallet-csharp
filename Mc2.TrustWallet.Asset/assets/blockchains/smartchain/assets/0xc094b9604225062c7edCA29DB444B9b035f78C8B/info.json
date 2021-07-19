@@ -1,0 +1,18 @@
+{
+  "id": "0xc094b9604225062c7edCA29DB444B9b035f78C8B",
+  "address": "0xc094b9604225062c7edCA29DB444B9b035f78C8B",
+  "blockchain": "smartchain",
+  "name": "Raku Coin",
+  "website": "https://rakucoin.com",
+  "description": "A meme token that focuses on real use case and utility with developments",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xc094b9604225062c7edca29db444b9b035f78c8b",
+  "research": null,
+  "symbol": "RAKUC",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

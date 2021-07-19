@@ -1,0 +1,18 @@
+{
+  "id": "0x406ab55C0bAB2D4a3361f87F251211c3090d80Bc",
+  "address": "0x406ab55C0bAB2D4a3361f87F251211c3090d80Bc",
+  "blockchain": "ethereum",
+  "name": "EasyCoinDigitalFreedom",
+  "website": "https://www.easycoindf.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x406ab55C0bAB2D4a3361f87F251211c3090d80Bc",
+  "research": null,
+  "symbol": "ECDF",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

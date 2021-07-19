@@ -1,0 +1,18 @@
+{
+  "id": "0x449C164df2D0b9D6a15B48D8b93059e28872fC74",
+  "address": "0x449C164df2D0b9D6a15B48D8b93059e28872fC74",
+  "blockchain": "ethereum",
+  "name": "XBTC",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x449C164df2D0b9D6a15B48D8b93059e28872fC74",
+  "research": null,
+  "symbol": "XBTC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

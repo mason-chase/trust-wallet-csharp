@@ -1,0 +1,18 @@
+{
+  "id": "0x3373bbF962190B158902A27Fbc2d9277A05b10Ab",
+  "address": "0x3373bbF962190B158902A27Fbc2d9277A05b10Ab",
+  "blockchain": "ethereum",
+  "name": "EGOLD",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3373bbF962190B158902A27Fbc2d9277A05b10Ab",
+  "research": null,
+  "symbol": "EGD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

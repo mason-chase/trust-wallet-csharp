@@ -1,0 +1,18 @@
+{
+  "id": "0x195F43a522814DB23cb55FA5AC2f92f6C1460d9e",
+  "address": "0x195F43a522814DB23cb55FA5AC2f92f6C1460d9e",
+  "blockchain": "ethereum",
+  "name": "MTCCOIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x195F43a522814DB23cb55FA5AC2f92f6C1460d9e",
+  "research": null,
+  "symbol": "MTC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

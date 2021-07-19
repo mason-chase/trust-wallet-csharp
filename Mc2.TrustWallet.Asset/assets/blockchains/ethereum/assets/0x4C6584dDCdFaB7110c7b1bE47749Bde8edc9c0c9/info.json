@@ -1,0 +1,18 @@
+{
+  "id": "0x4C6584dDCdFaB7110c7b1bE47749Bde8edc9c0c9",
+  "address": "0x4C6584dDCdFaB7110c7b1bE47749Bde8edc9c0c9",
+  "blockchain": "ethereum",
+  "name": "INFINITY Token",
+  "website": "https://infinityz.8b.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4C6584dDCdFaB7110c7b1bE47749Bde8edc9c0c9",
+  "research": null,
+  "symbol": "INF",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

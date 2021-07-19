@@ -1,0 +1,18 @@
+{
+  "id": "0x9c23D67AEA7B95D80942e3836BCDF7E708A747C2",
+  "address": "0x9c23D67AEA7B95D80942e3836BCDF7E708A747C2",
+  "blockchain": "ethereum",
+  "name": "LOCIcoin",
+  "website": "http://www.loci.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9c23D67AEA7B95D80942e3836BCDF7E708A747C2",
+  "research": null,
+  "symbol": "LOCI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x36BF67C9aA1D67a06BfEC145f08E20112A54c0f7",
+  "address": "0x36BF67C9aA1D67a06BfEC145f08E20112A54c0f7",
+  "blockchain": "ethereum",
+  "name": "JeyennCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x36BF67C9aA1D67a06BfEC145f08E20112A54c0f7",
+  "research": null,
+  "symbol": "JNN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "0x8b6c3b7C01D9dB4393f9aa734750F36df1543E9A",
+  "address": "0x8b6c3b7C01D9dB4393f9aa734750F36df1543E9A",
+  "blockchain": "ethereum",
+  "name": "VI",
+  "website": "https://vid.camera/",
+  "description": "VI is the native token used in the Vid app. Vid is a social media platform that pays you for the value you provide to the platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8b6c3b7C01D9dB4393f9aa734750F36df1543E9A",
+  "research": null,
+  "symbol": "VI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "white_paper",
+      "url": "https://vid.camera/files/Vi-UBI.pdf"
+    }
+  ],
+  "tags": null
+}

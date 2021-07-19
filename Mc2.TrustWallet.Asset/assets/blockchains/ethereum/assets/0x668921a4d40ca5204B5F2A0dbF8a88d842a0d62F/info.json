@@ -1,0 +1,18 @@
+{
+  "id": "0x668921a4d40ca5204B5F2A0dbF8a88d842a0d62F",
+  "address": "0x668921a4d40ca5204B5F2A0dbF8a88d842a0d62F",
+  "blockchain": "ethereum",
+  "name": "Semain",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x668921a4d40ca5204B5F2A0dbF8a88d842a0d62F",
+  "research": null,
+  "symbol": "SMA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

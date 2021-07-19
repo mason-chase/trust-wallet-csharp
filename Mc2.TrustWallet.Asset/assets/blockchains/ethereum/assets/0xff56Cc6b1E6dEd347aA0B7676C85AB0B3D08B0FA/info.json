@@ -1,0 +1,18 @@
+{
+  "id": "0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA",
+  "address": "0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA",
+  "blockchain": "ethereum",
+  "name": "Orbs",
+  "website": "https://orbs.com",
+  "description": "Orbs is a blockchain infrastructure-as-a-service built for large scale consumer applications to meet their business and technological requirements.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA",
+  "research": null,
+  "symbol": "ORBS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

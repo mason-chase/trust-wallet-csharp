@@ -1,0 +1,18 @@
+{
+  "id": "0x151202C9c18e495656f372281F493EB7698961D5",
+  "address": "0x151202C9c18e495656f372281F493EB7698961D5",
+  "blockchain": "ethereum",
+  "name": "DEBITUM",
+  "website": "https://debitum.network/",
+  "description": "Debitum is a lending ecosystem that connects small businesses, investors and service providers - currently risk assessors",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x151202C9c18e495656f372281F493EB7698961D5",
+  "research": null,
+  "symbol": "DEB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

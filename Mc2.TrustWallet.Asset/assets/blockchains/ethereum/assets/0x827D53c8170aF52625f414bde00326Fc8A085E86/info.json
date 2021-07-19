@@ -1,0 +1,18 @@
+{
+  "id": "0x827D53c8170aF52625f414bde00326Fc8A085E86",
+  "address": "0x827D53c8170aF52625f414bde00326Fc8A085E86",
+  "blockchain": "ethereum",
+  "name": "Beaxy Token",
+  "website": "https://beaxy.com/",
+  "description": "BXY is an exchange utility token that powers the Beaxy Exchange platform. It can be used to increase user levels, reduce fees, and access new tools & features.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x827D53c8170aF52625f414bde00326Fc8A085E86",
+  "research": null,
+  "symbol": "BXY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

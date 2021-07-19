@@ -1,0 +1,18 @@
+{
+  "id": "TYM9eM22SCynRc5YaMxE2PX1kwv7H2rXAu",
+  "address": "TYM9eM22SCynRc5YaMxE2PX1kwv7H2rXAu",
+  "blockchain": "tron",
+  "name": "KDG Token",
+  "website": "https://kingdomgame.org/",
+  "description": "The aims of Kingdom Game 4.0 is participating in the process of promoting digital currency to become the first game token, to pioneer connecting current popular Games; With Smart Contract technology, multiple payment for Gamers, it shall be created a new market for people who own cryptocurrency. By buying Kingdom Game 4.0’s token at Agents nationwide. Gamers could buy in-game items or upgrade level.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TYM9eM22SCynRc5YaMxE2PX1kwv7H2rXAu",
+  "research": null,
+  "symbol": "KDG",
+  "type": "TRC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

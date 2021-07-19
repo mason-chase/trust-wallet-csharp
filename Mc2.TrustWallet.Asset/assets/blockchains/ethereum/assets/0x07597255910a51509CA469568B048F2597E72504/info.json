@@ -1,0 +1,18 @@
+{
+  "id": "0x07597255910a51509CA469568B048F2597E72504",
+  "address": "0x07597255910a51509CA469568B048F2597E72504",
+  "blockchain": "ethereum",
+  "name": "Uptrennd",
+  "website": "https://www.uptrennd.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x07597255910a51509CA469568B048F2597E72504",
+  "research": null,
+  "symbol": "1UP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xf05E35aA089F06aa9382eB3AeDF8508a3C07c4D9",
+  "address": "0xf05E35aA089F06aa9382eB3AeDF8508a3C07c4D9",
+  "blockchain": "ethereum",
+  "name": "Yugi",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf05E35aA089F06aa9382eB3AeDF8508a3C07c4D9",
+  "research": null,
+  "symbol": "YUG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

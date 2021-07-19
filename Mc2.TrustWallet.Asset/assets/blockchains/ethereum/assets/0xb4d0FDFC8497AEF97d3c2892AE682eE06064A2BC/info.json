@@ -1,0 +1,18 @@
+{
+  "id": "0xb4d0FDFC8497AEF97d3c2892AE682eE06064A2BC",
+  "address": "0xb4d0FDFC8497AEF97d3c2892AE682eE06064A2BC",
+  "blockchain": "ethereum",
+  "name": "Formosa Financial Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb4d0FDFC8497AEF97d3c2892AE682eE06064A2BC",
+  "research": null,
+  "symbol": "FMF",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

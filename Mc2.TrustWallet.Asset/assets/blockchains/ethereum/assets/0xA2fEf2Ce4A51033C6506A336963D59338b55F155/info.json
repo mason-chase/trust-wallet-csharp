@@ -1,0 +1,18 @@
+{
+  "id": "0xA2fEf2Ce4A51033C6506A336963D59338b55F155",
+  "address": "0xA2fEf2Ce4A51033C6506A336963D59338b55F155",
+  "blockchain": "ethereum",
+  "name": "Atalira",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA2fEf2Ce4A51033C6506A336963D59338b55F155",
+  "research": null,
+  "symbol": "ATL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

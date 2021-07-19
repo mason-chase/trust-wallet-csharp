@@ -1,0 +1,18 @@
+{
+  "id": "0xF8d778219D253df289dA5F43E2711124FF3953C2",
+  "address": "0xF8d778219D253df289dA5F43E2711124FF3953C2",
+  "blockchain": "ethereum",
+  "name": "RIZE",
+  "website": "https://www.rizetoken.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF8d778219D253df289dA5F43E2711124FF3953C2",
+  "research": null,
+  "symbol": "RIZE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

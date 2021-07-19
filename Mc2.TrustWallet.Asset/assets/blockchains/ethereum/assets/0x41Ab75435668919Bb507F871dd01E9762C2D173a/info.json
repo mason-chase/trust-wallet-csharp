@@ -1,0 +1,18 @@
+{
+  "id": "0x41Ab75435668919Bb507F871dd01E9762C2D173a",
+  "address": "0x41Ab75435668919Bb507F871dd01E9762C2D173a",
+  "blockchain": "ethereum",
+  "name": "XChain Token",
+  "website": "http://www.nxct.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x41Ab75435668919Bb507F871dd01E9762C2D173a",
+  "research": null,
+  "symbol": "NXCT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

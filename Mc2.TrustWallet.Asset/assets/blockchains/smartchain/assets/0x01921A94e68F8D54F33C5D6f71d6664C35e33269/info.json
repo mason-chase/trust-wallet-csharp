@@ -1,0 +1,18 @@
+{
+  "id": "0x01921A94e68F8D54F33C5D6f71d6664C35e33269",
+  "address": "0x01921A94e68F8D54F33C5D6f71d6664C35e33269",
+  "blockchain": "smartchain",
+  "name": "Deez Nuts",
+  "website": "https://www.deeznutscoin.com",
+  "description": "Charity coin with a 10% tax- 4% sent to a charity address for Testicular and Prostate Research, 3% sent to all holders via reflection, and 3% added to the liquidity.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x01921A94e68F8D54F33C5D6f71d6664C35e33269",
+  "research": null,
+  "symbol": "DEEZNUTS",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

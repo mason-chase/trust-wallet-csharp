@@ -1,0 +1,18 @@
+{
+  "id": "0xa249F0E9A464b9685F66992f41e1012388e39e81",
+  "address": "0xa249F0E9A464b9685F66992f41e1012388e39e81",
+  "blockchain": "ethereum",
+  "name": "Aerum",
+  "website": "https://aerum.com/en",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa249F0E9A464b9685F66992f41e1012388e39e81",
+  "research": null,
+  "symbol": "XRM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

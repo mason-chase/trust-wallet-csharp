@@ -1,0 +1,18 @@
+{
+  "id": "0x53A6Bec3126BCE4e0dE349a9Ad3D9e4F997E76C4",
+  "address": "0x53A6Bec3126BCE4e0dE349a9Ad3D9e4F997E76C4",
+  "blockchain": "gochain",
+  "name": "Lam Anh Dental",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.gochain.io/addr/0x53A6Bec3126BCE4e0dE349a9Ad3D9e4F997E76C4",
+  "research": null,
+  "symbol": "LAD",
+  "type": "GO20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

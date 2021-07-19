@@ -1,0 +1,18 @@
+{
+  "id": "0xc56b13ebbCFfa67cFb7979b900b736b3fb480D78",
+  "address": "0xc56b13ebbCFfa67cFb7979b900b736b3fb480D78",
+  "blockchain": "ethereum",
+  "name": "Social Activity Token",
+  "website": "https://sphere.social/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc56b13ebbCFfa67cFb7979b900b736b3fb480D78",
+  "research": null,
+  "symbol": "SAT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

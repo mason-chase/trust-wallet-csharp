@@ -1,0 +1,18 @@
+{
+  "id": "0xdA32d3814b10Aee35dcba4dE4f6B2259916F9cBB",
+  "address": "0xdA32d3814b10Aee35dcba4dE4f6B2259916F9cBB",
+  "blockchain": "ethereum",
+  "name": "Swap",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xdA32d3814b10Aee35dcba4dE4f6B2259916F9cBB",
+  "research": null,
+  "symbol": "SWAP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

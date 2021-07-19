@@ -1,0 +1,18 @@
+{
+  "id": "0x9CDa8A60dd5AfA156c95Bd974428d91a0812e054",
+  "address": "0x9CDa8A60dd5AfA156c95Bd974428d91a0812e054",
+  "blockchain": "ethereum",
+  "name": "TaTaTu",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9CDa8A60dd5AfA156c95Bd974428d91a0812e054",
+  "research": null,
+  "symbol": "TTU",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

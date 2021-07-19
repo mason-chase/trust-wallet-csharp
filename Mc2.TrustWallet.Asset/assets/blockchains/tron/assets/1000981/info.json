@@ -1,0 +1,18 @@
+{
+  "id": "1000981",
+  "address": "1000981",
+  "blockchain": "tron",
+  "name": "TRONBEAN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1000981",
+  "research": null,
+  "symbol": "BEAN",
+  "type": "TRC10",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

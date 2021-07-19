@@ -1,0 +1,18 @@
+{
+  "id": "0x72630B1e3B42874bf335020Ba0249e3E9e47Bafc",
+  "address": "0x72630B1e3B42874bf335020Ba0249e3E9e47Bafc",
+  "blockchain": "ethereum",
+  "name": "Paypolitan Token",
+  "website": "https://paypolitan.io",
+  "description": "PayPolitan offers mobile payments for fiat and cryptocurrencies with yield farming.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x72630B1e3B42874bf335020Ba0249e3E9e47Bafc",
+  "research": null,
+  "symbol": "EPAN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xFeCD05B947471b5E51645E2d8326445cC266477a",
+  "address": "0xFeCD05B947471b5E51645E2d8326445cC266477a",
+  "blockchain": "smartchain",
+  "name": "SafeWin",
+  "website": "https://safewin.org",
+  "description": "SAFEWIN is a utility token created for the SafeWin app.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xFeCD05B947471b5E51645E2d8326445cC266477a",
+  "research": null,
+  "symbol": "SAFEWIN",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

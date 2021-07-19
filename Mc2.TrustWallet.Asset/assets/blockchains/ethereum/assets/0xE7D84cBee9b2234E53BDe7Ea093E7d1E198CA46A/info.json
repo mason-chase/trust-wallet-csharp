@@ -1,0 +1,18 @@
+{
+  "id": "0xE7D84cBee9b2234E53BDe7Ea093E7d1E198CA46A",
+  "address": "0xE7D84cBee9b2234E53BDe7Ea093E7d1E198CA46A",
+  "blockchain": "ethereum",
+  "name": "IOGENESIS",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE7D84cBee9b2234E53BDe7Ea093E7d1E198CA46A",
+  "research": null,
+  "symbol": "IOG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

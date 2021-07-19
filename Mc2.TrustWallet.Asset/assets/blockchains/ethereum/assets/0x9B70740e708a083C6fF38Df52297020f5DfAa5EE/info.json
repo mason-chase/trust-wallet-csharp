@@ -1,0 +1,18 @@
+{
+  "id": "0x9B70740e708a083C6fF38Df52297020f5DfAa5EE",
+  "address": "0x9B70740e708a083C6fF38Df52297020f5DfAa5EE",
+  "blockchain": "ethereum",
+  "name": "Daneel",
+  "website": "https://daneel.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9B70740e708a083C6fF38Df52297020f5DfAa5EE",
+  "research": null,
+  "symbol": "DAN",
+  "type": "ERC20",
+  "decimals": 10,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

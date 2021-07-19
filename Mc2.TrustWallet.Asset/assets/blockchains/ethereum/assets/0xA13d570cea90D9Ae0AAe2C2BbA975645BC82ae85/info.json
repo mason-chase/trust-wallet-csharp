@@ -1,0 +1,18 @@
+{
+  "id": "0xA13d570cea90D9Ae0AAe2C2BbA975645BC82ae85",
+  "address": "0xA13d570cea90D9Ae0AAe2C2BbA975645BC82ae85",
+  "blockchain": "ethereum",
+  "name": "RIZIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA13d570cea90D9Ae0AAe2C2BbA975645BC82ae85",
+  "research": null,
+  "symbol": "RZN",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

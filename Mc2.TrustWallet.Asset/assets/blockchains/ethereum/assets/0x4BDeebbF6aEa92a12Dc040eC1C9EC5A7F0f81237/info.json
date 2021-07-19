@@ -1,0 +1,18 @@
+{
+  "id": "0x4BDeebbF6aEa92a12Dc040eC1C9EC5A7F0f81237",
+  "address": "0x4BDeebbF6aEa92a12Dc040eC1C9EC5A7F0f81237",
+  "blockchain": "ethereum",
+  "name": "MKPUG1-17/30M77",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4BDeebbF6aEa92a12Dc040eC1C9EC5A7F0f81237",
+  "research": null,
+  "symbol": "M",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

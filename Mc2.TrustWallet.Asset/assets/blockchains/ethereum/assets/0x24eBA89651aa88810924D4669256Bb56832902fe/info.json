@@ -1,0 +1,18 @@
+{
+  "id": "0x24eBA89651aa88810924D4669256Bb56832902fe",
+  "address": "0x24eBA89651aa88810924D4669256Bb56832902fe",
+  "blockchain": "ethereum",
+  "name": "HiveMind",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x24eBA89651aa88810924D4669256Bb56832902fe",
+  "research": null,
+  "symbol": "HIVED",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

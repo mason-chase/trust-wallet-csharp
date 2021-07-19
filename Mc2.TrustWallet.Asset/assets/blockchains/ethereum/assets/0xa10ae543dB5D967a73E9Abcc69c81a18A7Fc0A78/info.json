@@ -1,0 +1,18 @@
+{
+  "id": "0xa10ae543dB5D967a73E9Abcc69c81a18A7Fc0A78",
+  "address": "0xa10ae543dB5D967a73E9Abcc69c81a18A7Fc0A78",
+  "blockchain": "ethereum",
+  "name": "BLOCKCLOUT",
+  "website": "https://blockclout.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa10ae543dB5D967a73E9Abcc69c81a18A7Fc0A78",
+  "research": null,
+  "symbol": "CLOUT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

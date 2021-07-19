@@ -1,0 +1,18 @@
+{
+  "id": "0xf79a6caDa446F331BC560CDE7946d09AEF0EE18B",
+  "address": "0xf79a6caDa446F331BC560CDE7946d09AEF0EE18B",
+  "blockchain": "smartchain",
+  "name": "Nestle Finance",
+  "website": "https://www.nestlefinance.com",
+  "description": "Nestle Finance is an autonomous yield and liquidity protocol",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xf79a6cada446f331bc560cde7946d09aef0ee18b",
+  "research": null,
+  "symbol": "NSTLE",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

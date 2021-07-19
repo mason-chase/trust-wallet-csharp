@@ -1,0 +1,18 @@
+{
+  "id": "0x944eeE930933BE5E23b690c8589021Ec8619a301",
+  "address": "0x944eeE930933BE5E23b690c8589021Ec8619a301",
+  "blockchain": "ethereum",
+  "name": "MUNCH Token",
+  "website": "https://munchtoken.com/",
+  "description": "Munch is a fully decentralized, community-built project to help charities. We are very active in our community and strive to develop trust by being transparent in our mission and our goals.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x944eeE930933BE5E23b690c8589021Ec8619a301",
+  "research": null,
+  "symbol": "MUNCH",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

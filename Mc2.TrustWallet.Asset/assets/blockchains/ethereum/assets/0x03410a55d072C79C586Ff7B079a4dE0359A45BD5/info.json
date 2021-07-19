@@ -1,0 +1,18 @@
+{
+  "id": "0x03410a55d072C79C586Ff7B079a4dE0359A45BD5",
+  "address": "0x03410a55d072C79C586Ff7B079a4dE0359A45BD5",
+  "blockchain": "ethereum",
+  "name": "VSmart",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x03410a55d072C79C586Ff7B079a4dE0359A45BD5",
+  "research": null,
+  "symbol": "VS",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x83cAEECace9Ec5c322c93743B2B370ED58951F5c",
+  "address": "0x83cAEECace9Ec5c322c93743B2B370ED58951F5c",
+  "blockchain": "ethereum",
+  "name": "Bazooka Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x83cAEECace9Ec5c322c93743B2B370ED58951F5c",
+  "research": null,
+  "symbol": "BAZ",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

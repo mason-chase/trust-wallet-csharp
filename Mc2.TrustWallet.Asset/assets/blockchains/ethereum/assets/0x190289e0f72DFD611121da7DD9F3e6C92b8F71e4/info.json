@@ -1,0 +1,18 @@
+{
+  "id": "0x190289e0f72DFD611121da7DD9F3e6C92b8F71e4",
+  "address": "0x190289e0f72DFD611121da7DD9F3e6C92b8F71e4",
+  "blockchain": "ethereum",
+  "name": "Hashtoken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x190289e0f72DFD611121da7DD9F3e6C92b8F71e4",
+  "research": null,
+  "symbol": "HHT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

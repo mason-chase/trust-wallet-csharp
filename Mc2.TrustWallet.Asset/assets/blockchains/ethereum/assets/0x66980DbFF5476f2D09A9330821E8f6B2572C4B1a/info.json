@@ -1,0 +1,18 @@
+{
+  "id": "0x66980DbFF5476f2D09A9330821E8f6B2572C4B1a",
+  "address": "0x66980DbFF5476f2D09A9330821E8f6B2572C4B1a",
+  "blockchain": "ethereum",
+  "name": "TiValue",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x66980DbFF5476f2D09A9330821E8f6B2572C4B1a",
+  "research": null,
+  "symbol": "TV",
+  "type": "ERC20",
+  "decimals": 5,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

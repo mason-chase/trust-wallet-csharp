@@ -1,0 +1,18 @@
+{
+  "id": "0x5400575877b6db1749e60ed87780A94A7CA8AF13",
+  "address": "0x5400575877b6db1749e60ed87780A94A7CA8AF13",
+  "blockchain": "ethereum",
+  "name": "CoinFuns",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5400575877b6db1749e60ed87780A94A7CA8AF13",
+  "research": null,
+  "symbol": "CFS",
+  "type": "ERC20",
+  "decimals": 10,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

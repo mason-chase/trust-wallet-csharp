@@ -1,0 +1,18 @@
+{
+  "id": "0xA5Da771D81BE428cccFB94a7922E9A9095080952",
+  "address": "0xA5Da771D81BE428cccFB94a7922E9A9095080952",
+  "blockchain": "ethereum",
+  "name": "Satanic",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA5Da771D81BE428cccFB94a7922E9A9095080952",
+  "research": null,
+  "symbol": "Sat",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

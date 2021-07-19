@@ -1,0 +1,18 @@
+{
+  "id": "0xce853db3359326dB6D03981C9fb42983BbCdd007",
+  "address": "0xce853db3359326dB6D03981C9fb42983BbCdd007",
+  "blockchain": "ethereum",
+  "name": "Penis",
+  "website": "https://penis.supply",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xce853db3359326dB6D03981C9fb42983BbCdd007",
+  "research": null,
+  "symbol": "PNS",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

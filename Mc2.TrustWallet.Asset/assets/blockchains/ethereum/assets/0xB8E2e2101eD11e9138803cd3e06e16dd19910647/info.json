@@ -1,0 +1,18 @@
+{
+  "id": "0xB8E2e2101eD11e9138803cd3e06e16dd19910647",
+  "address": "0xB8E2e2101eD11e9138803cd3e06e16dd19910647",
+  "blockchain": "ethereum",
+  "name": "ArdCoin",
+  "website": "https://ardcoin.com",
+  "description": "ArdCoin will serve as a blockchain-based loyalty program for all existing and future services and products of Ard Financial Group (Ard Holdings), its subsidiaries and ArdCoin merchants.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB8E2e2101eD11e9138803cd3e06e16dd19910647",
+  "research": null,
+  "symbol": "ARDX",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

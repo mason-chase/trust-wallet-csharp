@@ -1,0 +1,18 @@
+{
+  "id": "0x39f4A6659ec9E25386A0DB547Cbec62f62fa6bB5",
+  "address": "0x39f4A6659ec9E25386A0DB547Cbec62f62fa6bB5",
+  "blockchain": "ethereum",
+  "name": "EQR TEST 7",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x39f4A6659ec9E25386A0DB547Cbec62f62fa6bB5",
+  "research": null,
+  "symbol": "EQR",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

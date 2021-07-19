@@ -1,0 +1,18 @@
+{
+  "id": "0xa73638329c61c221dCA307ED7ef0154D776d9FDc",
+  "address": "0xa73638329c61c221dCA307ED7ef0154D776d9FDc",
+  "blockchain": "ethereum",
+  "name": "TKEX",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa73638329c61c221dCA307ED7ef0154D776d9FDc",
+  "research": null,
+  "symbol": "TKEX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

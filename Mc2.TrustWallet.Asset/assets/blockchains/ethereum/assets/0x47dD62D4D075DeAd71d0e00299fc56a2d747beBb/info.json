@@ -1,0 +1,18 @@
+{
+  "id": "0x47dD62D4D075DeAd71d0e00299fc56a2d747beBb",
+  "address": "0x47dD62D4D075DeAd71d0e00299fc56a2d747beBb",
+  "blockchain": "ethereum",
+  "name": "EQUAL",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x47dD62D4D075DeAd71d0e00299fc56a2d747beBb",
+  "research": null,
+  "symbol": "EQL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

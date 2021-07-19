@@ -1,0 +1,18 @@
+{
+  "id": "TPRuU2GbXPwvvSuggE4xKMRtzsfwYfvBWq",
+  "address": "TPRuU2GbXPwvvSuggE4xKMRtzsfwYfvBWq",
+  "blockchain": "tron",
+  "name": "ICEDIUM",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TPRuU2GbXPwvvSuggE4xKMRtzsfwYfvBWq",
+  "research": null,
+  "symbol": "ICD",
+  "type": "TRC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

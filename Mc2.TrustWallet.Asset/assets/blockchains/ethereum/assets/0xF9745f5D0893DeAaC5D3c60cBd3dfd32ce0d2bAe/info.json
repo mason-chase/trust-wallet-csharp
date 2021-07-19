@@ -1,0 +1,18 @@
+{
+  "id": "0xF9745f5D0893DeAaC5D3c60cBd3dfd32ce0d2bAe",
+  "address": "0xF9745f5D0893DeAaC5D3c60cBd3dfd32ce0d2bAe",
+  "blockchain": "ethereum",
+  "name": "ERCN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF9745f5D0893DeAaC5D3c60cBd3dfd32ce0d2bAe",
+  "research": null,
+  "symbol": "ERCN",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

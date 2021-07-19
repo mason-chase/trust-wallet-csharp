@@ -1,0 +1,18 @@
+{
+  "id": "0x092Cc6dAd6f7828Ea81a78EDd9f83b376BDf888d",
+  "address": "0x092Cc6dAd6f7828Ea81a78EDd9f83b376BDf888d",
+  "blockchain": "ethereum",
+  "name": " AISI GROUP ",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x092Cc6dAd6f7828Ea81a78EDd9f83b376BDf888d",
+  "research": null,
+  "symbol": "AISI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

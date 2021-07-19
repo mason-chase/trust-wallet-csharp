@@ -1,0 +1,18 @@
+{
+  "id": "0xa82B23e7D6B76d67f1C4d3FE8457041119f3c79E",
+  "address": "0xa82B23e7D6B76d67f1C4d3FE8457041119f3c79E",
+  "blockchain": "ethereum",
+  "name": "EQR TEST mg12500",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa82B23e7D6B76d67f1C4d3FE8457041119f3c79E",
+  "research": null,
+  "symbol": "EQR",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

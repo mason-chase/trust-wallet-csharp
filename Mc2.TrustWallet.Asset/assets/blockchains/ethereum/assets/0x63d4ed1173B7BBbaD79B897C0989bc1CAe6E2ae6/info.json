@@ -1,0 +1,18 @@
+{
+  "id": "0x63d4ed1173B7BBbaD79B897C0989bc1CAe6E2ae6",
+  "address": "0x63d4ed1173B7BBbaD79B897C0989bc1CAe6E2ae6",
+  "blockchain": "ethereum",
+  "name": "IONACK",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x63d4ed1173B7BBbaD79B897C0989bc1CAe6E2ae6",
+  "research": null,
+  "symbol": "ION",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

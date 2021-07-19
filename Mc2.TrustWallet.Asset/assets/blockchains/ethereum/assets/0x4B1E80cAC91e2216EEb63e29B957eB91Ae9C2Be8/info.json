@@ -1,0 +1,27 @@
+{
+  "id": "0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8",
+  "address": "0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8",
+  "blockchain": "ethereum",
+  "name": "Jupiter",
+  "website": "https://gojupiter.tech",
+  "description": "Using Jupiter, we strive to make this technology accessible by everyone and that is why we created Gravity, a versatile framework that interfaces with our blockchain, Jupiter.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8",
+  "research": null,
+  "symbol": "JUP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/jup_project"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/jupiterproject"
+    }
+  ],
+  "tags": null
+}

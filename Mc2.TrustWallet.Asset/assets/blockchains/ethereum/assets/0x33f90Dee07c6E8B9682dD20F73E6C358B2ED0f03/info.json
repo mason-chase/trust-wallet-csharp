@@ -1,0 +1,18 @@
+{
+  "id": "0x33f90Dee07c6E8B9682dD20F73E6C358B2ED0f03",
+  "address": "0x33f90Dee07c6E8B9682dD20F73E6C358B2ED0f03",
+  "blockchain": "ethereum",
+  "name": "Trident Group",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x33f90Dee07c6E8B9682dD20F73E6C358B2ED0f03",
+  "research": null,
+  "symbol": "TRDT",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x580dE58c1BD593A43DaDcF0A739d504621817c05",
+  "address": "0x580dE58c1BD593A43DaDcF0A739d504621817c05",
+  "blockchain": "smartchain",
+  "name": "Thoreum Token",
+  "website": "https://thoreum.finance/",
+  "description": "World First Liquidity Mining Coin with Static Rewards.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x580dE58c1BD593A43DaDcF0A739d504621817c05",
+  "research": null,
+  "symbol": "THOREUM",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

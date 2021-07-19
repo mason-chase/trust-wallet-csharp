@@ -1,0 +1,18 @@
+{
+  "id": "0xF4134146AF2d511Dd5EA8cDB1C4AC88C57D60404",
+  "address": "0xF4134146AF2d511Dd5EA8cDB1C4AC88C57D60404",
+  "blockchain": "ethereum",
+  "name": "SunContract",
+  "website": "https://suncontract.org/",
+  "description": "SunContract is an energy trading platform that utilizes blockchain technology to create a new business model for buying and selling electricity.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF4134146AF2d511Dd5EA8cDB1C4AC88C57D60404",
+  "research": null,
+  "symbol": "SNC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

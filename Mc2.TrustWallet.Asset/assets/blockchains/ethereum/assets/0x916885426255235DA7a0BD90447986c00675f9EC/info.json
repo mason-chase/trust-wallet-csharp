@@ -1,0 +1,18 @@
+{
+  "id": "0x916885426255235DA7a0BD90447986c00675f9EC",
+  "address": "0x916885426255235DA7a0BD90447986c00675f9EC",
+  "blockchain": "ethereum",
+  "name": "GoalTime N",
+  "website": "https://goaltimen.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x916885426255235DA7a0BD90447986c00675f9EC",
+  "research": null,
+  "symbol": "GTX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

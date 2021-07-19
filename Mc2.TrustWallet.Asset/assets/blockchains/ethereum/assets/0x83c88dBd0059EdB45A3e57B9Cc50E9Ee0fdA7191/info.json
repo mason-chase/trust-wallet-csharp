@@ -1,0 +1,18 @@
+{
+  "id": "0x83c88dBd0059EdB45A3e57B9Cc50E9Ee0fdA7191",
+  "address": "0x83c88dBd0059EdB45A3e57B9Cc50E9Ee0fdA7191",
+  "blockchain": "ethereum",
+  "name": "Planet BlockChain",
+  "website": "https://planetblockchain.io",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x83c88dBd0059EdB45A3e57B9Cc50E9Ee0fdA7191",
+  "research": null,
+  "symbol": "PBC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x7064aAb39A0Fcf7221c3396719D0917a65E35515",
+  "address": "0x7064aAb39A0Fcf7221c3396719D0917a65E35515",
+  "blockchain": "ethereum",
+  "name": "Cpollo",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7064aAb39A0Fcf7221c3396719D0917a65E35515",
+  "research": null,
+  "symbol": "CPLO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

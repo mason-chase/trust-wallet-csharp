@@ -1,0 +1,18 @@
+{
+  "id": "0x567300e14f8d67e1F6720a95291Dce2511a86723",
+  "address": "0x567300e14f8d67e1F6720a95291Dce2511a86723",
+  "blockchain": "ethereum",
+  "name": "Helper Search Token",
+  "website": "https://helpersearch.network/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x567300e14f8d67e1F6720a95291Dce2511a86723",
+  "research": null,
+  "symbol": "HSN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

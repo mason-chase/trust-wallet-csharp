@@ -1,0 +1,18 @@
+{
+  "id": "KAT-7BB",
+  "address": "KAT-7BB",
+  "blockchain": "binance",
+  "name": "Kambria Token",
+  "website": "https://kambria.io/",
+  "description": "Kambria aims to accelerate the process of robotics innovation, enabling faster, cheaper, and easier robotics development and adoption by everyone.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/KAT-7BB",
+  "research": null,
+  "symbol": "KAT",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

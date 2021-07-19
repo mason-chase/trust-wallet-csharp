@@ -1,0 +1,18 @@
+{
+  "id": "0xAC4088748E1f737C82980A7f78669bE35FecD686",
+  "address": "0xAC4088748E1f737C82980A7f78669bE35FecD686",
+  "blockchain": "ethereum",
+  "name": "Basecoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xAC4088748E1f737C82980A7f78669bE35FecD686",
+  "research": null,
+  "symbol": "BAB",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

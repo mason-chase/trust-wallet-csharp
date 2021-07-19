@@ -1,0 +1,18 @@
+{
+  "id": "0x30A29114490De08612Ce8314AB64C422Ad591F9c",
+  "address": "0x30A29114490De08612Ce8314AB64C422Ad591F9c",
+  "blockchain": "ethereum",
+  "name": "DN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x30A29114490De08612Ce8314AB64C422Ad591F9c",
+  "research": null,
+  "symbol": "DN",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

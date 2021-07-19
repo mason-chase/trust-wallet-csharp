@@ -1,0 +1,18 @@
+{
+  "id": "0xA1AFFfE3F4D611d252010E3EAf6f4D77088b0cd7",
+  "address": "0xA1AFFfE3F4D611d252010E3EAf6f4D77088b0cd7",
+  "blockchain": "ethereum",
+  "name": "reflect.finance",
+  "website": "https://reflect.finance",
+  "description": "Frictionless Yield Generation. Hold and Earn.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa1afffe3f4d611d252010e3eaf6f4d77088b0cd7",
+  "research": null,
+  "symbol": "RFI",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

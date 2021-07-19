@@ -1,0 +1,18 @@
+{
+  "id": "0xfE831929098B5FF5d736105bD68BA9460EF07207",
+  "address": "0xfE831929098B5FF5d736105bD68BA9460EF07207",
+  "blockchain": "ethereum",
+  "name": "Cycle",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xfE831929098B5FF5d736105bD68BA9460EF07207",
+  "research": null,
+  "symbol": "CYCLE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

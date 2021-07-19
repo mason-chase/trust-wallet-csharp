@@ -1,0 +1,18 @@
+{
+  "id": "0x2b5cA2F9510cf1e3595Ff219f24D75D4244585EA",
+  "address": "0x2b5cA2F9510cf1e3595Ff219f24D75D4244585EA",
+  "blockchain": "ethereum",
+  "name": "EthereumPay",
+  "website": "https://ethereumpay.org",
+  "description": "An ERC-20 compatible token built on the ERC-1363 Protocol built specifically for payments",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2b5cA2F9510cf1e3595Ff219f24D75D4244585EA",
+  "research": null,
+  "symbol": "EPAY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

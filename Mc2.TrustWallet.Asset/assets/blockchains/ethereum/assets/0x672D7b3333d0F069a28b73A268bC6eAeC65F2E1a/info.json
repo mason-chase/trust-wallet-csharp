@@ -1,0 +1,18 @@
+{
+  "id": "0x672D7b3333d0F069a28b73A268bC6eAeC65F2E1a",
+  "address": "0x672D7b3333d0F069a28b73A268bC6eAeC65F2E1a",
+  "blockchain": "ethereum",
+  "name": "Kelpie Inu",
+  "website": "https://kelpie.tech",
+  "description": "New Submission for logo",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x672d7b3333d0f069a28b73a268bc6eaec65f2e1a",
+  "research": null,
+  "symbol": "KELPIE",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

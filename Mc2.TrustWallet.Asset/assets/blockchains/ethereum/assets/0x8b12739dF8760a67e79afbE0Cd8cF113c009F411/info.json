@@ -1,0 +1,18 @@
+{
+  "id": "0x8b12739dF8760a67e79afbE0Cd8cF113c009F411",
+  "address": "0x8b12739dF8760a67e79afbE0Cd8cF113c009F411",
+  "blockchain": "ethereum",
+  "name": "Infinity",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8b12739dF8760a67e79afbE0Cd8cF113c009F411",
+  "research": null,
+  "symbol": "WJL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

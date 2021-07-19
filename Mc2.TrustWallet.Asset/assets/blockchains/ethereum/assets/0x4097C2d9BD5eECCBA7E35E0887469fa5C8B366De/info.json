@@ -1,0 +1,18 @@
+{
+  "id": "0x4097C2d9BD5eECCBA7E35E0887469fa5C8B366De",
+  "address": "0x4097C2d9BD5eECCBA7E35E0887469fa5C8B366De",
+  "blockchain": "ethereum",
+  "name": "Guide Coin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4097C2d9BD5eECCBA7E35E0887469fa5C8B366De",
+  "research": null,
+  "symbol": "GDC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

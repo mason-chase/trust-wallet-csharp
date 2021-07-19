@@ -1,0 +1,18 @@
+{
+  "id": "0xe540b81133C597b31c3A33E318E5bC0f3e78DfC9",
+  "address": "0xe540b81133C597b31c3A33E318E5bC0f3e78DfC9",
+  "blockchain": "smartchain",
+  "name": "Oros",
+  "website": "https://oros.finance",
+  "description": "Earn passive income and help the world like a boss",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xe540b81133C597b31c3A33E318E5bC0f3e78DfC9",
+  "research": null,
+  "symbol": "OROS",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

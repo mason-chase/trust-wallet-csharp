@@ -1,0 +1,18 @@
+{
+  "id": "0x687BfC3E73f6af55F0CccA8450114D107E781a0e",
+  "address": "0x687BfC3E73f6af55F0CccA8450114D107E781a0e",
+  "blockchain": "ethereum",
+  "name": "QChi",
+  "website": "http://www.qchi.mobi",
+  "description": "Chi (Q-Chi) can be broken down to mean quantum essence of life, is attempting to harness the disruptive blockchain technology to power the marketing, health and gaming industry. ",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x687BfC3E73f6af55F0CccA8450114D107E781a0e",
+  "research": null,
+  "symbol": "QCH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x29cF2AFCac8648ab3687E579684298650A66742c",
+  "address": "0x29cF2AFCac8648ab3687E579684298650A66742c",
+  "blockchain": "ethereum",
+  "name": "SEAPonyCoin",
+  "website": "https://ico.SEAponyCon.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x29cF2AFCac8648ab3687E579684298650A66742c",
+  "research": null,
+  "symbol": "SEA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xC70636a779118e57E1c6fdAfDd1f919Fae912d2f",
+  "address": "0xC70636a779118e57E1c6fdAfDd1f919Fae912d2f",
+  "blockchain": "smartchain",
+  "name": "MUNCH",
+  "website": "https://munchproject.io/",
+  "description": "Munch a charity crypto coin",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xC70636a779118e57E1c6fdAfDd1f919Fae912d2f",
+  "research": null,
+  "symbol": "Munch",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

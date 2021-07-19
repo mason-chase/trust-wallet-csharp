@@ -1,0 +1,18 @@
+{
+  "id": "0x9556f8ee795D991fF371F547162D5efB2769425F",
+  "address": "0x9556f8ee795D991fF371F547162D5efB2769425F",
+  "blockchain": "ethereum",
+  "name": "DMME",
+  "website": "https://dmme.app/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9556f8ee795D991fF371F547162D5efB2769425F",
+  "research": null,
+  "symbol": "DMME",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

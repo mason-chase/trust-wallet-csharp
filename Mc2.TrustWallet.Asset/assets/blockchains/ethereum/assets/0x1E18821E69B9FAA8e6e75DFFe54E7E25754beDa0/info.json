@@ -1,0 +1,18 @@
+{
+  "id": "0x1E18821E69B9FAA8e6e75DFFe54E7E25754beDa0",
+  "address": "0x1E18821E69B9FAA8e6e75DFFe54E7E25754beDa0",
+  "blockchain": "ethereum",
+  "name": "KIMCHI.finance",
+  "website": "https://kimchi.finance/",
+  "description": "KIMCHI is so hot",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1E18821E69B9FAA8e6e75DFFe54E7E25754beDa0",
+  "research": null,
+  "symbol": "KIMCHI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

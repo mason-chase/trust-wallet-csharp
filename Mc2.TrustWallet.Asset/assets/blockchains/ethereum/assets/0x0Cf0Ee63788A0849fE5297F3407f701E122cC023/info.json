@@ -1,0 +1,18 @@
+{
+  "id": "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023",
+  "address": "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023",
+  "blockchain": "ethereum",
+  "name": "Streamr DATAcoin",
+  "website": "https://streamr.com",
+  "description": "Streamr provides a complete system to tokenize the value of real-time data to enable a new way for machines and people to trade it on a decentralised P2P network.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0Cf0Ee63788A0849fE5297F3407f701E122cC023",
+  "research": null,
+  "symbol": "DATA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

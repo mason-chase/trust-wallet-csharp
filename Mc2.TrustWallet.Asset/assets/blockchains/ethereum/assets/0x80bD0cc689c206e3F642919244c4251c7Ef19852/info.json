@@ -1,0 +1,18 @@
+{
+  "id": "0x80bD0cc689c206e3F642919244c4251c7Ef19852",
+  "address": "0x80bD0cc689c206e3F642919244c4251c7Ef19852",
+  "blockchain": "ethereum",
+  "name": "SudanGoldCoin",
+  "website": "https://sudangoldcoin.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x80bD0cc689c206e3F642919244c4251c7Ef19852",
+  "research": null,
+  "symbol": "SGC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

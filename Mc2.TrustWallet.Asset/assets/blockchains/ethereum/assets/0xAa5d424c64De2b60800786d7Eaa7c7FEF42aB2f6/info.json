@@ -1,0 +1,18 @@
+{
+  "id": "0xAa5d424c64De2b60800786d7Eaa7c7FEF42aB2f6",
+  "address": "0xAa5d424c64De2b60800786d7Eaa7c7FEF42aB2f6",
+  "blockchain": "ethereum",
+  "name": "BIGTIGER",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xAa5d424c64De2b60800786d7Eaa7c7FEF42aB2f6",
+  "research": null,
+  "symbol": "BTG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

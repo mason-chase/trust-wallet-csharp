@@ -1,0 +1,18 @@
+{
+  "id": "0x8d9626315e8025B81c3BDb926Db4C51DDE237f52",
+  "address": "0x8d9626315e8025B81c3BDb926Db4C51DDE237f52",
+  "blockchain": "ethereum",
+  "name": "PLAAS",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8d9626315e8025B81c3BDb926Db4C51DDE237f52",
+  "research": null,
+  "symbol": "PLS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

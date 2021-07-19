@@ -1,0 +1,18 @@
+{
+  "id": "0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
+  "address": "0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
+  "blockchain": "ethereum",
+  "name": "QuadrantProtocol",
+  "website": "https://www.quadrantprotocol.com/#",
+  "description": "Quadrant Protocol is the engine that powers Quadrant's data mapping capabilities.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xC28e931814725BbEB9e670676FaBBCb694Fe7DF2",
+  "research": null,
+  "symbol": "eQUAD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

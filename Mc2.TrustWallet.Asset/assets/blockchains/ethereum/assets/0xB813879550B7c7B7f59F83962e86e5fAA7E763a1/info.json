@@ -1,0 +1,18 @@
+{
+  "id": "0xB813879550B7c7B7f59F83962e86e5fAA7E763a1",
+  "address": "0xB813879550B7c7B7f59F83962e86e5fAA7E763a1",
+  "blockchain": "ethereum",
+  "name": "BuidlersVault",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB813879550B7c7B7f59F83962e86e5fAA7E763a1",
+  "research": null,
+  "symbol": "buidler",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

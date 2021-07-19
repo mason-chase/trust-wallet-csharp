@@ -1,0 +1,18 @@
+{
+  "id": "0x9f1cF4b26211406e0cf1bbF0e3fCC8031c3B9f0A",
+  "address": "0x9f1cF4b26211406e0cf1bbF0e3fCC8031c3B9f0A",
+  "blockchain": "ethereum",
+  "name": "Synthetic YBDAO",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9f1cF4b26211406e0cf1bbF0e3fCC8031c3B9f0A",
+  "research": null,
+  "symbol": "YBREE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x9AD685A3eAa6b0a1Ea601f48b7797A12011fDeb0",
+  "address": "0x9AD685A3eAa6b0a1Ea601f48b7797A12011fDeb0",
+  "blockchain": "ethereum",
+  "name": "Traders Token",
+  "website": "https://traderstoken.org/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9AD685A3eAa6b0a1Ea601f48b7797A12011fDeb0",
+  "research": null,
+  "symbol": "TRDS",
+  "type": "ERC20",
+  "decimals": 3,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

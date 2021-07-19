@@ -1,0 +1,18 @@
+{
+  "id": "0x264Dc2DedCdcbb897561A57CBa5085CA416fb7b4",
+  "address": "0x264Dc2DedCdcbb897561A57CBa5085CA416fb7b4",
+  "blockchain": "ethereum",
+  "name": "QunQunCommunities",
+  "website": "https://qunqun.io",
+  "description": "QunQun (QUN) is a cryptocurrency and operates on the Ethereum platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x264Dc2DedCdcbb897561A57CBa5085CA416fb7b4",
+  "research": null,
+  "symbol": "QUN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

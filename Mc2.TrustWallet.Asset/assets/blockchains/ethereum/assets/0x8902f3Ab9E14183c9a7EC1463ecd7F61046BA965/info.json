@@ -1,0 +1,18 @@
+{
+  "id": "0x8902f3Ab9E14183c9a7EC1463ecd7F61046BA965",
+  "address": "0x8902f3Ab9E14183c9a7EC1463ecd7F61046BA965",
+  "blockchain": "ethereum",
+  "name": "BITNEXX",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8902f3Ab9E14183c9a7EC1463ecd7F61046BA965",
+  "research": null,
+  "symbol": "BTNX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

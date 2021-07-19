@@ -1,0 +1,18 @@
+{
+  "id": "0x818Fc6C2Ec5986bc6E2CBf00939d90556aB12ce5",
+  "address": "0x818Fc6C2Ec5986bc6E2CBf00939d90556aB12ce5",
+  "blockchain": "ethereum",
+  "name": "Kin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x818Fc6C2Ec5986bc6E2CBf00939d90556aB12ce5",
+  "research": null,
+  "symbol": "KIN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

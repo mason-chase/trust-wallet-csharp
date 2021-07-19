@@ -1,0 +1,18 @@
+{
+  "id": "0x3CD7047117dbfD0DCB470514172aCe9f394c31e8",
+  "address": "0x3CD7047117dbfD0DCB470514172aCe9f394c31e8",
+  "blockchain": "ethereum",
+  "name": "DEX Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3CD7047117dbfD0DCB470514172aCe9f394c31e8",
+  "research": null,
+  "symbol": "DEXT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

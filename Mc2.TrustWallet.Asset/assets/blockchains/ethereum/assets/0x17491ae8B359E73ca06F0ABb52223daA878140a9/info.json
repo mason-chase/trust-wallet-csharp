@@ -1,0 +1,18 @@
+{
+  "id": "0x17491ae8B359E73ca06F0ABb52223daA878140a9",
+  "address": "0x17491ae8B359E73ca06F0ABb52223daA878140a9",
+  "blockchain": "ethereum",
+  "name": "Charge",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x17491ae8B359E73ca06F0ABb52223daA878140a9",
+  "research": null,
+  "symbol": "CHARGE",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

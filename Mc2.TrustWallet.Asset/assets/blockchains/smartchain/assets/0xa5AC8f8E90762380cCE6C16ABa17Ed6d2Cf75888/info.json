@@ -1,0 +1,18 @@
+{
+  "id": "0xa5AC8f8E90762380cCE6C16ABa17Ed6d2Cf75888",
+  "address": "0xa5AC8f8E90762380cCE6C16ABa17Ed6d2Cf75888",
+  "blockchain": "smartchain",
+  "name": "PepeMoon",
+  "website": "https://www.pepemoon.com",
+  "description": "Strike the moon, shoot at the stars.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xa5AC8f8E90762380cCE6C16ABa17Ed6d2Cf75888",
+  "research": null,
+  "symbol": "PEPE",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

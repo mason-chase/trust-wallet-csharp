@@ -1,0 +1,18 @@
+{
+  "id": "0xE716637Ba037E840A46A1CaC83556a2dD83C0285",
+  "address": "0xE716637Ba037E840A46A1CaC83556a2dD83C0285",
+  "blockchain": "ethereum",
+  "name": "CLOVYR",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE716637Ba037E840A46A1CaC83556a2dD83C0285",
+  "research": null,
+  "symbol": "CLOVYR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

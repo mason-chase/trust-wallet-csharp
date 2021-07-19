@@ -1,0 +1,18 @@
+{
+  "id": "0x4B32CA05509ca4ffDBb7D2D82B27bc48Ecde62F2",
+  "address": "0x4B32CA05509ca4ffDBb7D2D82B27bc48Ecde62F2",
+  "blockchain": "ethereum",
+  "name": "Lunch Money",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4B32CA05509ca4ffDBb7D2D82B27bc48Ecde62F2",
+  "research": null,
+  "symbol": "LMY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x437C7136d9629f6c14d87e6EB67D963b9878B136",
+  "address": "0x437C7136d9629f6c14d87e6EB67D963b9878B136",
+  "blockchain": "ethereum",
+  "name": "SMARTCOIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x437C7136d9629f6c14d87e6EB67D963b9878B136",
+  "research": null,
+  "symbol": "STC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

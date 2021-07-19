@@ -1,0 +1,18 @@
+{
+  "id": "0xD5E38d2Ef4aD5e38942E6234e2CEC0dac38E124A",
+  "address": "0xD5E38d2Ef4aD5e38942E6234e2CEC0dac38E124A",
+  "blockchain": "ethereum",
+  "name": "Volcanoes",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xD5E38d2Ef4aD5e38942E6234e2CEC0dac38E124A",
+  "research": null,
+  "symbol": "VOLC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

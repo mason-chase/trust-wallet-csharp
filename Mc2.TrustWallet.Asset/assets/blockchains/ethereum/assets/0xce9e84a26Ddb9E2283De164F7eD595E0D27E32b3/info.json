@@ -1,0 +1,18 @@
+{
+  "id": "0xce9e84a26Ddb9E2283De164F7eD595E0D27E32b3",
+  "address": "0xce9e84a26Ddb9E2283De164F7eD595E0D27E32b3",
+  "blockchain": "ethereum",
+  "name": "TLS Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xce9e84a26Ddb9E2283De164F7eD595E0D27E32b3",
+  "research": null,
+  "symbol": "TLS",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

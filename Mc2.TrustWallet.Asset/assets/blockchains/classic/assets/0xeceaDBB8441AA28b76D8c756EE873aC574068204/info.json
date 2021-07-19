@@ -1,0 +1,18 @@
+{
+  "id": "0xeceaDBB8441AA28b76D8c756EE873aC574068204",
+  "address": "0xeceaDBB8441AA28b76D8c756EE873aC574068204",
+  "blockchain": "classic",
+  "name": "BitUnits Europa",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://blockscout.com/etc/mainnet/tokens/0xeceaDBB8441AA28b76D8c756EE873aC574068204",
+  "research": null,
+  "symbol": "OPA",
+  "type": "ETC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

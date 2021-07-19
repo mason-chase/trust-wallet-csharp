@@ -1,0 +1,18 @@
+{
+  "id": "0x5E7Ebea68ab05198F771d77a875480314f1d0aae",
+  "address": "0x5E7Ebea68ab05198F771d77a875480314f1d0aae",
+  "blockchain": "ethereum",
+  "name": "DABANKING",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5E7Ebea68ab05198F771d77a875480314f1d0aae",
+  "research": null,
+  "symbol": "DAB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

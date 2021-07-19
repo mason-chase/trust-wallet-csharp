@@ -1,0 +1,18 @@
+{
+  "id": "0x253C7dd074f4BaCb305387F922225A4f737C08bd",
+  "address": "0x253C7dd074f4BaCb305387F922225A4f737C08bd",
+  "blockchain": "ethereum",
+  "name": "LookRev",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x253C7dd074f4BaCb305387F922225A4f737C08bd",
+  "research": null,
+  "symbol": "LOOK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

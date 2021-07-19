@@ -1,0 +1,18 @@
+{
+  "id": "0xd06D21Aa6F3fa754CEE7f9C720a8a826E8322328",
+  "address": "0xd06D21Aa6F3fa754CEE7f9C720a8a826E8322328",
+  "blockchain": "ethereum",
+  "name": "TokenChain",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd06D21Aa6F3fa754CEE7f9C720a8a826E8322328",
+  "research": null,
+  "symbol": "TCT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

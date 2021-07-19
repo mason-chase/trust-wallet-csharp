@@ -1,0 +1,18 @@
+{
+  "id": "0x5E09feb2136f92fd7Cd80cD97A284D3124376ab2",
+  "address": "0x5E09feb2136f92fd7Cd80cD97A284D3124376ab2",
+  "blockchain": "ethereum",
+  "name": "ARcoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5E09feb2136f92fd7Cd80cD97A284D3124376ab2",
+  "research": null,
+  "symbol": "ARCI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

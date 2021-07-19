@@ -1,0 +1,18 @@
+{
+  "id": "0x17A8f6EaD7256E6620109bB02CB21A29b6BD7D3E",
+  "address": "0x17A8f6EaD7256E6620109bB02CB21A29b6BD7D3E",
+  "blockchain": "ethereum",
+  "name": "Yuamble",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x17A8f6EaD7256E6620109bB02CB21A29b6BD7D3E",
+  "research": null,
+  "symbol": "YMB",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

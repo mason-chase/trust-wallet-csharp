@@ -1,0 +1,18 @@
+{
+  "id": "0xB98d4C97425d9908E66E53A6fDf673ACcA0BE986",
+  "address": "0xB98d4C97425d9908E66E53A6fDf673ACcA0BE986",
+  "blockchain": "ethereum",
+  "name": "ArcBlock",
+  "website": "https://www.arcblock.io",
+  "description": "ArcBlock is your new decentralized developer platform that simplifies the development of DApps, DLT and Blockchains.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB98d4C97425d9908E66E53A6fDf673ACcA0BE986",
+  "research": null,
+  "symbol": "ABT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

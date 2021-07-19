@@ -1,0 +1,18 @@
+{
+  "id": "0xcEf46305D096fa876Dd23048bf80F9345282e3fc",
+  "address": "0xcEf46305D096fa876Dd23048bf80F9345282e3fc",
+  "blockchain": "ethereum",
+  "name": "BANQUEUNIVERSAL",
+  "website": "https://bankuniversal.org",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xcEf46305D096fa876Dd23048bf80F9345282e3fc",
+  "research": null,
+  "symbol": "CBU",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

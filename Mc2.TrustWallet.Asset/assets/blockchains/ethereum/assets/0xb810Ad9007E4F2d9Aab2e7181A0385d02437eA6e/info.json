@@ -1,0 +1,18 @@
+{
+  "id": "0xb810Ad9007E4F2d9Aab2e7181A0385d02437eA6e",
+  "address": "0xb810Ad9007E4F2d9Aab2e7181A0385d02437eA6e",
+  "blockchain": "ethereum",
+  "name": "KingOfCandy",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb810Ad9007E4F2d9Aab2e7181A0385d02437eA6e",
+  "research": null,
+  "symbol": "KFC!",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

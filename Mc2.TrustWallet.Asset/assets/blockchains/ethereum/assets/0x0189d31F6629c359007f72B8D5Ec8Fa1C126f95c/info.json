@@ -1,0 +1,18 @@
+{
+  "id": "0x0189d31F6629c359007f72B8D5Ec8Fa1C126f95c",
+  "address": "0x0189d31F6629c359007f72B8D5Ec8Fa1C126f95c",
+  "blockchain": "ethereum",
+  "name": "SNSTOKEN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0189d31F6629c359007f72B8D5Ec8Fa1C126f95c",
+  "research": null,
+  "symbol": "SNS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

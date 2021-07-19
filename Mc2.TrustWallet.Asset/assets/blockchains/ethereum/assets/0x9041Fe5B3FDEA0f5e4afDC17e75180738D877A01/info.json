@@ -1,0 +1,18 @@
+{
+  "id": "0x9041Fe5B3FDEA0f5e4afDC17e75180738D877A01",
+  "address": "0x9041Fe5B3FDEA0f5e4afDC17e75180738D877A01",
+  "blockchain": "ethereum",
+  "name": "ProToken",
+  "website": "https://chain.pro/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9041Fe5B3FDEA0f5e4afDC17e75180738D877A01",
+  "research": null,
+  "symbol": "PRO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

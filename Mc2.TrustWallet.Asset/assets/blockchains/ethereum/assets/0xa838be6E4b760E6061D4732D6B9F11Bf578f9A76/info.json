@@ -1,0 +1,18 @@
+{
+  "id": "0xa838be6E4b760E6061D4732D6B9F11Bf578f9A76",
+  "address": "0xa838be6E4b760E6061D4732D6B9F11Bf578f9A76",
+  "blockchain": "ethereum",
+  "name": "Token for Television",
+  "website": "https://tv-two.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa838be6E4b760E6061D4732D6B9F11Bf578f9A76",
+  "research": null,
+  "symbol": "TTV",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

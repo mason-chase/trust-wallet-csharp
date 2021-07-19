@@ -1,0 +1,18 @@
+{
+  "id": "0xA57392548087453deC6106e670bBFB849276b358",
+  "address": "0xA57392548087453deC6106e670bBFB849276b358",
+  "blockchain": "ethereum",
+  "name": "GemVault Coin",
+  "website": "https://www.gemvault.io",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA57392548087453deC6106e670bBFB849276b358",
+  "research": null,
+  "symbol": "GVC",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

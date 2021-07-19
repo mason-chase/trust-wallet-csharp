@@ -1,0 +1,18 @@
+{
+  "id": "0x6b785a0322126826d8226d77e173d75DAfb84d11",
+  "address": "0x6b785a0322126826d8226d77e173d75DAfb84d11",
+  "blockchain": "ethereum",
+  "name": "Bankroll Vault",
+  "website": "https://bankroll.network/",
+  "description": "Bankroll is a decentralized finance network on TRON and Ethereum. It implements a voluntary, sustainable, and permissionless global economic engine. Through a network of financial contracts, the platform provides rewards in TRX, ETH, BTT, VLT, and BNKR.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6b785a0322126826d8226d77e173d75DAfb84d11",
+  "research": null,
+  "symbol": "VLT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

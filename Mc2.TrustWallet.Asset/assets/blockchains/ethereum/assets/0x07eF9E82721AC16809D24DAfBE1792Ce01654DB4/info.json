@@ -1,0 +1,18 @@
+{
+  "id": "0x07eF9E82721AC16809D24DAfBE1792Ce01654DB4",
+  "address": "0x07eF9E82721AC16809D24DAfBE1792Ce01654DB4",
+  "blockchain": "ethereum",
+  "name": "Chimpion",
+  "website": "https://www.chimpion.io",
+  "description": "Chimpion created the first ever online banking for the crypto community.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x07eF9E82721AC16809D24DAfBE1792Ce01654DB4",
+  "research": null,
+  "symbol": "BNANA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

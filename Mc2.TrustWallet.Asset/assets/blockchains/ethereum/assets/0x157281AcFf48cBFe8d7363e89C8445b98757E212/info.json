@@ -1,0 +1,18 @@
+{
+  "id": "0x157281AcFf48cBFe8d7363e89C8445b98757E212",
+  "address": "0x157281AcFf48cBFe8d7363e89C8445b98757E212",
+  "blockchain": "ethereum",
+  "name": "Lega",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x157281AcFf48cBFe8d7363e89C8445b98757E212",
+  "research": null,
+  "symbol": "LEGA",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

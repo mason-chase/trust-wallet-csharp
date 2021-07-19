@@ -1,0 +1,18 @@
+{
+  "id": "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1",
+  "address": "0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1",
+  "blockchain": "ethereum",
+  "name": "Nectar",
+  "website": "https://polyswarm.io",
+  "description": "PolySwarm is a more effective way to detect, analyze and respond to the latest threats, the ones more likely to go undetected by existing solutions.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9E46A38F5DaaBe8683E10793b06749EEF7D733d1",
+  "research": null,
+  "symbol": "NCT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x81AcB5e13e9846c8a1DBC82d947b901B78aB1A5D",
+  "address": "0x81AcB5e13e9846c8a1DBC82d947b901B78aB1A5D",
+  "blockchain": "ethereum",
+  "name": "HXT",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x81AcB5e13e9846c8a1DBC82d947b901B78aB1A5D",
+  "research": null,
+  "symbol": "HXT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

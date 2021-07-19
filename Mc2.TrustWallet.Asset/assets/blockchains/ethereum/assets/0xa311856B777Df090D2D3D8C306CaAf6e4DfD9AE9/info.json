@@ -1,0 +1,18 @@
+{
+  "id": "0xa311856B777Df090D2D3D8C306CaAf6e4DfD9AE9",
+  "address": "0xa311856B777Df090D2D3D8C306CaAf6e4DfD9AE9",
+  "blockchain": "ethereum",
+  "name": "Gamma Coin",
+  "website": "https://gammaproject.xyz/",
+  "description": "GMC are economic tokens and investments made using the Ethereum blockchain (ERC20).",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa311856B777Df090D2D3D8C306CaAf6e4DfD9AE9",
+  "research": null,
+  "symbol": "GMC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

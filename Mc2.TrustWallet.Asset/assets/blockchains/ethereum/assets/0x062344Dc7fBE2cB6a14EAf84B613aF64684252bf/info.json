@@ -1,0 +1,18 @@
+{
+  "id": "0x062344Dc7fBE2cB6a14EAf84B613aF64684252bf",
+  "address": "0x062344Dc7fBE2cB6a14EAf84B613aF64684252bf",
+  "blockchain": "ethereum",
+  "name": "Bi Sheng Bi (币胜币)",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x062344Dc7fBE2cB6a14EAf84B613aF64684252bf",
+  "research": null,
+  "symbol": "BSB",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

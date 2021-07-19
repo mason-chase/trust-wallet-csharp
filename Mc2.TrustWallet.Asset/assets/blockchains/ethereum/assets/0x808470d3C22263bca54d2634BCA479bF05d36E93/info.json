@@ -1,0 +1,18 @@
+{
+  "id": "0x808470d3C22263bca54d2634BCA479bF05d36E93",
+  "address": "0x808470d3C22263bca54d2634BCA479bF05d36E93",
+  "blockchain": "ethereum",
+  "name": "Quantum Generation",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x808470d3C22263bca54d2634BCA479bF05d36E93",
+  "research": null,
+  "symbol": "QUBIT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

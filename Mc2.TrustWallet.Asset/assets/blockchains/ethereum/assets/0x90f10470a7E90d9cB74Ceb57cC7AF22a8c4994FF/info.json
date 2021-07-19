@@ -1,0 +1,18 @@
+{
+  "id": "0x90f10470a7E90d9cB74Ceb57cC7AF22a8c4994FF",
+  "address": "0x90f10470a7E90d9cB74Ceb57cC7AF22a8c4994FF",
+  "blockchain": "ethereum",
+  "name": "Union Finance",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x90f10470a7E90d9cB74Ceb57cC7AF22a8c4994FF",
+  "research": null,
+  "symbol": "UFT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

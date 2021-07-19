@@ -1,0 +1,18 @@
+{
+  "id": "0x49530777a1Da9Ea16Fd8cbCb1AC47e6Bf9CE09e4",
+  "address": "0x49530777a1Da9Ea16Fd8cbCb1AC47e6Bf9CE09e4",
+  "blockchain": "ethereum",
+  "name": "AtjehCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x49530777a1Da9Ea16Fd8cbCb1AC47e6Bf9CE09e4",
+  "research": null,
+  "symbol": "ACEH",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

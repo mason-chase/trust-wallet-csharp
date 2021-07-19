@@ -1,0 +1,18 @@
+{
+  "id": "0xa0872eE815B8dd0F6937386Fd77134720d953581",
+  "address": "0xa0872eE815B8dd0F6937386Fd77134720d953581",
+  "blockchain": "ethereum",
+  "name": "EduCoinToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa0872eE815B8dd0F6937386Fd77134720d953581",
+  "research": null,
+  "symbol": "EDU",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

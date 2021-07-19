@@ -1,0 +1,18 @@
+{
+  "id": "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9",
+  "address": "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9",
+  "blockchain": "ethereum",
+  "name": "Donut",
+  "website": "https://www.reddit.com/r/ethtrader",
+  "description": "Donut is an ERC-20 token that represents the community points of /r/ethtrader subreddit.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9",
+  "research": null,
+  "symbol": "DONUT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

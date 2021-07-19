@@ -1,0 +1,18 @@
+{
+  "id": "0xbcC7026CdE024c6a97d2DF6e40613217d946279C",
+  "address": "0xbcC7026CdE024c6a97d2DF6e40613217d946279C",
+  "blockchain": "ethereum",
+  "name": "Ala",
+  "website": "https://alatoken.org/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xbcC7026CdE024c6a97d2DF6e40613217d946279C",
+  "research": null,
+  "symbol": "ALA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

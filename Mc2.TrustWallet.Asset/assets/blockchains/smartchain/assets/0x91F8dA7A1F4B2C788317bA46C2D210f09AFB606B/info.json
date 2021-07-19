@@ -1,0 +1,18 @@
+{
+  "id": "0x91F8dA7A1F4B2C788317bA46C2D210f09AFB606B",
+  "address": "0x91F8dA7A1F4B2C788317bA46C2D210f09AFB606B",
+  "blockchain": "smartchain",
+  "name": "A-May Daw Aung San Suu Kyi",
+  "website": "https://www.suutoken.com",
+  "description": "The Crypto Token that honours our National Hero A-May Daw Aung San Suu Kyi.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x91F8dA7A1F4B2C788317bA46C2D210f09AFB606B",
+  "research": null,
+  "symbol": "SUU",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

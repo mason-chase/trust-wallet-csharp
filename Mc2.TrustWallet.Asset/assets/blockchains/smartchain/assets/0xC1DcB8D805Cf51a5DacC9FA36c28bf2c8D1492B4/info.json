@@ -1,0 +1,18 @@
+{
+  "id": "0xC1DcB8D805Cf51a5DacC9FA36c28bf2c8D1492B4",
+  "address": "0xC1DcB8D805Cf51a5DacC9FA36c28bf2c8D1492B4",
+  "blockchain": "smartchain",
+  "name": "HUSH COIN",
+  "website": "https://www.hushcoin.me/",
+  "description": "Hush Coin ($HUSH) was specifically created with the ambitious goal to “change the way you engage”.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xC1DcB8D805Cf51a5DacC9FA36c28bf2c8D1492B4",
+  "research": null,
+  "symbol": "HUSH",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xFE76BE9cEC465ed3219a9972c21655D57d21aec6",
+  "address": "0xFE76BE9cEC465ed3219a9972c21655D57d21aec6",
+  "blockchain": "ethereum",
+  "name": "PalletOneToken",
+  "website": "https://pallet.one/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xFE76BE9cEC465ed3219a9972c21655D57d21aec6",
+  "research": null,
+  "symbol": "PTN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

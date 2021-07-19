@@ -1,0 +1,18 @@
+{
+  "id": "0xcc0eC876191558De23c8D122483F30382651674F",
+  "address": "0xcc0eC876191558De23c8D122483F30382651674F",
+  "blockchain": "ethereum",
+  "name": "Exodo",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xcc0eC876191558De23c8D122483F30382651674F",
+  "research": null,
+  "symbol": "EXD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

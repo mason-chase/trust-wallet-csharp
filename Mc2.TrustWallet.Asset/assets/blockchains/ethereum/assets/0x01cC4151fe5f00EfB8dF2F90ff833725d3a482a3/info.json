@@ -1,0 +1,18 @@
+{
+  "id": "0x01cC4151fe5f00EfB8dF2F90ff833725d3a482a3",
+  "address": "0x01cC4151fe5f00EfB8dF2F90ff833725d3a482a3",
+  "blockchain": "ethereum",
+  "name": "SPECTRUM",
+  "website": "https://spectrum-token.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x01cC4151fe5f00EfB8dF2F90ff833725d3a482a3",
+  "research": null,
+  "symbol": "SPT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

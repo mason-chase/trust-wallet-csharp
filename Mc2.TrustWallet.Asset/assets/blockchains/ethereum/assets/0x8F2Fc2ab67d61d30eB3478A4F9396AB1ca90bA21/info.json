@@ -1,0 +1,18 @@
+{
+  "id": "0x8F2Fc2ab67d61d30eB3478A4F9396AB1ca90bA21",
+  "address": "0x8F2Fc2ab67d61d30eB3478A4F9396AB1ca90bA21",
+  "blockchain": "ethereum",
+  "name": "Global Healthcare Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8F2Fc2ab67d61d30eB3478A4F9396AB1ca90bA21",
+  "research": null,
+  "symbol": "XHQ",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

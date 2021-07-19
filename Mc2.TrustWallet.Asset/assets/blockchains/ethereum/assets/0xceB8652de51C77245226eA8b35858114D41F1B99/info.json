@@ -1,0 +1,18 @@
+{
+  "id": "0xceB8652de51C77245226eA8b35858114D41F1B99",
+  "address": "0xceB8652de51C77245226eA8b35858114D41F1B99",
+  "blockchain": "ethereum",
+  "name": "Redin international co. Ltd.",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xceB8652de51C77245226eA8b35858114D41F1B99",
+  "research": null,
+  "symbol": "Redin",
+  "type": "ERC20",
+  "decimals": 3,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

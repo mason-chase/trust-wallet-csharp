@@ -1,0 +1,18 @@
+{
+  "id": "0x3BB72e05402C45198C0CeB76354205DeAA65542c",
+  "address": "0x3BB72e05402C45198C0CeB76354205DeAA65542c",
+  "blockchain": "ethereum",
+  "name": "Kyber",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3BB72e05402C45198C0CeB76354205DeAA65542c",
+  "research": null,
+  "symbol": "KPT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

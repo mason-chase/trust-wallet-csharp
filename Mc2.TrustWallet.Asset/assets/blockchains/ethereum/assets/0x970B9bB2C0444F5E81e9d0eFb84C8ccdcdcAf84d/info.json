@@ -1,0 +1,18 @@
+{
+  "id": "0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d",
+  "address": "0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d",
+  "blockchain": "ethereum",
+  "name": "Fuse Token",
+  "website": "https://fuse.io/",
+  "description": "Fuse is a no-code smart contract platform for entrepreneurs that allows entrepreneurs to integrate everyday payments into their business.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d",
+  "research": null,
+  "symbol": "FUSE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

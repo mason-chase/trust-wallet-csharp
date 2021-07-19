@@ -1,0 +1,18 @@
+{
+  "id": "0x660AD693D77FB33325aCdf0250E5417d929F8d7d",
+  "address": "0x660AD693D77FB33325aCdf0250E5417d929F8d7d",
+  "blockchain": "ethereum",
+  "name": "UniFire",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x660AD693D77FB33325aCdf0250E5417d929F8d7d",
+  "research": null,
+  "symbol": "uFire",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

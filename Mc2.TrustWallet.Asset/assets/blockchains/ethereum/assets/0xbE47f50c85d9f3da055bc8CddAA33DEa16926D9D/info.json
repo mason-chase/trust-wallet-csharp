@@ -1,0 +1,18 @@
+{
+  "id": "0xbE47f50c85d9f3da055bc8CddAA33DEa16926D9D",
+  "address": "0xbE47f50c85d9f3da055bc8CddAA33DEa16926D9D",
+  "blockchain": "ethereum",
+  "name": "YUNG",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xbE47f50c85d9f3da055bc8CddAA33DEa16926D9D",
+  "research": null,
+  "symbol": "YUNG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

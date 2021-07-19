@@ -1,0 +1,18 @@
+{
+  "id": "0x0006634f2FDB9A12b179D05A2b5165B3210bade8",
+  "address": "0x0006634f2FDB9A12b179D05A2b5165B3210bade8",
+  "blockchain": "ethereum",
+  "name": "Scripts",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0006634f2FDB9A12b179D05A2b5165B3210bade8",
+  "research": null,
+  "symbol": "SCRIPT",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

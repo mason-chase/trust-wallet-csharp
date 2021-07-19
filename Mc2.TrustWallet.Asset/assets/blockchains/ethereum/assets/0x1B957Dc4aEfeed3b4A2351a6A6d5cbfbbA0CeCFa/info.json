@@ -1,0 +1,18 @@
+{
+  "id": "0x1B957Dc4aEfeed3b4A2351a6A6d5cbfbbA0CeCFa",
+  "address": "0x1B957Dc4aEfeed3b4A2351a6A6d5cbfbbA0CeCFa",
+  "blockchain": "ethereum",
+  "name": "HOQU Token",
+  "website": "https://www.hoqu.io",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1B957Dc4aEfeed3b4A2351a6A6d5cbfbbA0CeCFa",
+  "research": null,
+  "symbol": "HQX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

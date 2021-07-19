@@ -1,0 +1,18 @@
+{
+  "id": "0xd7E11234aa8993897055600e605a45DC01b516AE",
+  "address": "0xd7E11234aa8993897055600e605a45DC01b516AE",
+  "blockchain": "ethereum",
+  "name": "BIT AGORA",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd7E11234aa8993897055600e605a45DC01b516AE",
+  "research": null,
+  "symbol": "BAA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

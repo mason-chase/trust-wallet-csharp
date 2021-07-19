@@ -1,0 +1,18 @@
+{
+  "id": "0x1d462414fe14cf489c7A21CaC78509f4bF8CD7c0",
+  "address": "0x1d462414fe14cf489c7A21CaC78509f4bF8CD7c0",
+  "blockchain": "ethereum",
+  "name": "CanYaCoin",
+  "website": "https://canya.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1d462414fe14cf489c7A21CaC78509f4bF8CD7c0",
+  "research": null,
+  "symbol": "CAN",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

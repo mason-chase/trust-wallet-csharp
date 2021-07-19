@@ -1,0 +1,18 @@
+{
+  "id": "0x000214f253a824d1230aFf79848faC3EC2858ee9",
+  "address": "0x000214f253a824d1230aFf79848faC3EC2858ee9",
+  "blockchain": "ethereum",
+  "name": "Scalareum",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x000214f253a824d1230aFf79848faC3EC2858ee9",
+  "research": null,
+  "symbol": "SCLR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

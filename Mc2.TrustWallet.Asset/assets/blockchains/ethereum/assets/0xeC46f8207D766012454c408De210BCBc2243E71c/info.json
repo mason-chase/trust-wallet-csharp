@@ -1,0 +1,18 @@
+{
+  "id": "0xeC46f8207D766012454c408De210BCBc2243E71c",
+  "address": "0xeC46f8207D766012454c408De210BCBc2243E71c",
+  "blockchain": "ethereum",
+  "name": "Nitro",
+  "website": "https://www.nitro.live/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xeC46f8207D766012454c408De210BCBc2243E71c",
+  "research": null,
+  "symbol": "NOX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

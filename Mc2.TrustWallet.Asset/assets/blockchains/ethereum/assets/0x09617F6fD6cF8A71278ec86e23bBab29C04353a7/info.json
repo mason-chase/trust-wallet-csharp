@@ -1,0 +1,18 @@
+{
+  "id": "0x09617F6fD6cF8A71278ec86e23bBab29C04353a7",
+  "address": "0x09617F6fD6cF8A71278ec86e23bBab29C04353a7",
+  "blockchain": "ethereum",
+  "name": "Unblocked Ledger Token",
+  "website": "https://shardus.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x09617F6fD6cF8A71278ec86e23bBab29C04353a7",
+  "research": null,
+  "symbol": "ULT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

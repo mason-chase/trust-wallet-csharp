@@ -1,0 +1,18 @@
+{
+  "id": "0x2Da95f7e0093CE7DC9D9BA5f47b655108754B342",
+  "address": "0x2Da95f7e0093CE7DC9D9BA5f47b655108754B342",
+  "blockchain": "ethereum",
+  "name": "RIN Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2Da95f7e0093CE7DC9D9BA5f47b655108754B342",
+  "research": null,
+  "symbol": "RIN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

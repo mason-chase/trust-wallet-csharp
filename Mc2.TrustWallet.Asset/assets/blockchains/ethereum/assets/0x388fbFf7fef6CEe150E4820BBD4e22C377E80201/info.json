@@ -1,0 +1,18 @@
+{
+  "id": "0x388fbFf7fef6CEe150E4820BBD4e22C377E80201",
+  "address": "0x388fbFf7fef6CEe150E4820BBD4e22C377E80201",
+  "blockchain": "ethereum",
+  "name": "Techno Defi Solution",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x388fbFf7fef6CEe150E4820BBD4e22C377E80201",
+  "research": null,
+  "symbol": "TDS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

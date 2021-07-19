@@ -1,0 +1,18 @@
+{
+  "id": "0x089fe6cd08AeFBF647A63d9F44715b254b47a51B",
+  "address": "0x089fe6cd08AeFBF647A63d9F44715b254b47a51B",
+  "blockchain": "ethereum",
+  "name": "uKASH",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x089fe6cd08AeFBF647A63d9F44715b254b47a51B",
+  "research": null,
+  "symbol": "UKC",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

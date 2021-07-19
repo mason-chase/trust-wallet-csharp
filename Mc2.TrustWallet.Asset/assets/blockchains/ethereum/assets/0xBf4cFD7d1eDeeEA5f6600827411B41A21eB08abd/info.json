@@ -1,0 +1,18 @@
+{
+  "id": "0xBf4cFD7d1eDeeEA5f6600827411B41A21eB08abd",
+  "address": "0xBf4cFD7d1eDeeEA5f6600827411B41A21eB08abd",
+  "blockchain": "ethereum",
+  "name": "CryptoLah",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xBf4cFD7d1eDeeEA5f6600827411B41A21eB08abd",
+  "research": null,
+  "symbol": "CTL",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

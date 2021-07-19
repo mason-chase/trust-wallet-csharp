@@ -1,0 +1,39 @@
+{
+  "id": "0x4185cf99745B2a20727B37EE798193DD4a56cDfa",
+  "address": "0x4185cf99745B2a20727B37EE798193DD4a56cDfa",
+  "blockchain": "ethereum",
+  "name": "wCOINBASE-IOU",
+  "website": "https://deus.finance/",
+  "description": "DEUS GOES COINBASE. From our next system update, you will be able to buy Coinbase Futures on DEUS Swap!",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4185cf99745B2a20727B37EE798193DD4a56cDfa",
+  "research": null,
+  "symbol": "wCOINBASE-IOU",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/deusfinance"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/DeusDao"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/deusfinance"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/@deusfinance"
+    },
+    {
+      "name": "white_paper",
+      "url": "https://lafayettetabor.medium.com/deus-goes-coinbase-1d69f51e1b55"
+    }
+  ],
+  "tags": null
+}

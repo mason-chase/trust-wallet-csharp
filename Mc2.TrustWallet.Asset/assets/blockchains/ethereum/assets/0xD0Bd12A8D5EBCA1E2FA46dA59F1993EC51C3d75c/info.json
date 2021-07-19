@@ -1,0 +1,18 @@
+{
+  "id": "0xD0Bd12A8D5EBCA1E2FA46dA59F1993EC51C3d75c",
+  "address": "0xD0Bd12A8D5EBCA1E2FA46dA59F1993EC51C3d75c",
+  "blockchain": "ethereum",
+  "name": "BKEX Token",
+  "website": "https://www.bkex.com/",
+  "description": "BKK is the Proof-of-Equity token of the BKEX trading platform with a 'transaction is mining' mechanism.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xD0Bd12A8D5EBCA1E2FA46dA59F1993EC51C3d75c",
+  "research": null,
+  "symbol": "BK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

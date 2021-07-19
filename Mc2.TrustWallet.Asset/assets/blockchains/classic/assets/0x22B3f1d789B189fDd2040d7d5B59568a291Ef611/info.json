@@ -1,0 +1,18 @@
+{
+  "id": "0x22B3f1d789B189fDd2040d7d5B59568a291Ef611",
+  "address": "0x22B3f1d789B189fDd2040d7d5B59568a291Ef611",
+  "blockchain": "classic",
+  "name": "Searyver",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://blockscout.com/etc/mainnet/tokens/0x22B3f1d789B189fDd2040d7d5B59568a291Ef611",
+  "research": null,
+  "symbol": "SEAG1",
+  "type": "ETC20",
+  "decimals": 0,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

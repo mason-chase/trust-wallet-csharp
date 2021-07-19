@@ -1,0 +1,18 @@
+{
+  "id": "0x7DF5816FE144c077aa2fF2a404F3F8AEB48C1d96",
+  "address": "0x7DF5816FE144c077aa2fF2a404F3F8AEB48C1d96",
+  "blockchain": "ethereum",
+  "name": "GameChain",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7DF5816FE144c077aa2fF2a404F3F8AEB48C1d96",
+  "research": null,
+  "symbol": "GCN",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

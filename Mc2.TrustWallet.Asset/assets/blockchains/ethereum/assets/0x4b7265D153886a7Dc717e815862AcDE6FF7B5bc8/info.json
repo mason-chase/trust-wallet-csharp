@@ -1,0 +1,18 @@
+{
+  "id": "0x4b7265D153886a7Dc717e815862AcDE6FF7B5bc8",
+  "address": "0x4b7265D153886a7Dc717e815862AcDE6FF7B5bc8",
+  "blockchain": "ethereum",
+  "name": "DENCHCOIN",
+  "website": "https://dench.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4b7265D153886a7Dc717e815862AcDE6FF7B5bc8",
+  "research": null,
+  "symbol": "DENCH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

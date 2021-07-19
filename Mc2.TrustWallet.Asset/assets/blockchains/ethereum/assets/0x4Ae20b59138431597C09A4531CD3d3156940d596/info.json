@@ -1,0 +1,18 @@
+{
+  "id": "0x4Ae20b59138431597C09A4531CD3d3156940d596",
+  "address": "0x4Ae20b59138431597C09A4531CD3d3156940d596",
+  "blockchain": "ethereum",
+  "name": "Gatt",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4Ae20b59138431597C09A4531CD3d3156940d596",
+  "research": null,
+  "symbol": "GATT",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

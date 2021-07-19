@@ -1,0 +1,18 @@
+{
+  "id": "0x7Afe4978032e10D5Ac54ac8657C38F0000D55250",
+  "address": "0x7Afe4978032e10D5Ac54ac8657C38F0000D55250",
+  "blockchain": "ethereum",
+  "name": "Brennen",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7Afe4978032e10D5Ac54ac8657C38F0000D55250",
+  "research": null,
+  "symbol": "BRN",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

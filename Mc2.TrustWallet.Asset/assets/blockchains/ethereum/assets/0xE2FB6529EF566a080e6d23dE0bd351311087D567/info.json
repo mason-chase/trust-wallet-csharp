@@ -1,0 +1,18 @@
+{
+  "id": "0xE2FB6529EF566a080e6d23dE0bd351311087D567",
+  "address": "0xE2FB6529EF566a080e6d23dE0bd351311087D567",
+  "blockchain": "ethereum",
+  "name": "Covesting",
+  "website": "https://covesting.io",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE2FB6529EF566a080e6d23dE0bd351311087D567",
+  "research": null,
+  "symbol": "COV",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

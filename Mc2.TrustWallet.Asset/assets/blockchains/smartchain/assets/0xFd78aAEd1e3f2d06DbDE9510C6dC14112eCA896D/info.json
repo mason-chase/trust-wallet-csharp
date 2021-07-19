@@ -1,0 +1,18 @@
+{
+  "id": "0xFd78aAEd1e3f2d06DbDE9510C6dC14112eCA896D",
+  "address": "0xFd78aAEd1e3f2d06DbDE9510C6dC14112eCA896D",
+  "blockchain": "smartchain",
+  "name": "Anonymous",
+  "website": "https://4n0nym0u5.com",
+  "description": "We are Anonymous (ANON)",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xFd78aAEd1e3f2d06DbDE9510C6dC14112eCA896D",
+  "research": null,
+  "symbol": "ANON",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

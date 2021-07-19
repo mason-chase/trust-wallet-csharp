@@ -1,0 +1,18 @@
+{
+  "id": "0xd2C6738D45b090ec05210fE8DCeEF4D8fc392892",
+  "address": "0xd2C6738D45b090ec05210fE8DCeEF4D8fc392892",
+  "blockchain": "ethereum",
+  "name": "PointSet",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd2C6738D45b090ec05210fE8DCeEF4D8fc392892",
+  "research": null,
+  "symbol": "SET",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

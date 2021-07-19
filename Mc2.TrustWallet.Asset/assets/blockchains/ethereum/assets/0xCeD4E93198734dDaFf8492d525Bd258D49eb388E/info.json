@@ -1,0 +1,18 @@
+{
+  "id": "0xCeD4E93198734dDaFf8492d525Bd258D49eb388E",
+  "address": "0xCeD4E93198734dDaFf8492d525Bd258D49eb388E",
+  "blockchain": "ethereum",
+  "name": "Eidoo Token",
+  "website": "https://eidoo.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xCeD4E93198734dDaFf8492d525Bd258D49eb388E",
+  "research": null,
+  "symbol": "EDO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

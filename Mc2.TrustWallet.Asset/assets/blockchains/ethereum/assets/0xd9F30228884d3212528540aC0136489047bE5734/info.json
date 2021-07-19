@@ -1,0 +1,18 @@
+{
+  "id": "0xd9F30228884d3212528540aC0136489047bE5734",
+  "address": "0xd9F30228884d3212528540aC0136489047bE5734",
+  "blockchain": "ethereum",
+  "name": "Eaglebits",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd9F30228884d3212528540aC0136489047bE5734",
+  "research": null,
+  "symbol": "EEB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

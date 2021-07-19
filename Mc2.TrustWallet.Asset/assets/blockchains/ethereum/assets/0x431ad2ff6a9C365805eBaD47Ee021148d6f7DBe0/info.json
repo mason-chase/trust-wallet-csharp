@@ -1,0 +1,18 @@
+{
+  "id": "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
+  "address": "0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
+  "blockchain": "ethereum",
+  "name": "dForce DF",
+  "website": "https://dforce.network",
+  "description": " dForce Lending is a decentralized lending protocol.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x431ad2ff6a9C365805eBaD47Ee021148d6f7DBe0",
+  "research": null,
+  "symbol": "DF",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xE2E6D4BE086c6938B53B22144855eef674281639",
+  "address": "0xE2E6D4BE086c6938B53B22144855eef674281639",
+  "blockchain": "ethereum",
+  "name": "Link Platform",
+  "website": "https://ethereum.link/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE2E6D4BE086c6938B53B22144855eef674281639",
+  "research": null,
+  "symbol": "LNK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

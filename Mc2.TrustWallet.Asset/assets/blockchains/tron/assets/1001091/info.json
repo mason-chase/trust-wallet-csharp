@@ -1,0 +1,18 @@
+{
+  "id": "1001091",
+  "address": "1001091",
+  "blockchain": "tron",
+  "name": "SCC",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1001091",
+  "research": null,
+  "symbol": "SCC",
+  "type": "TRC10",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

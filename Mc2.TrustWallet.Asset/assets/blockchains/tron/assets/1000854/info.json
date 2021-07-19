@@ -1,0 +1,18 @@
+{
+  "id": "1000854",
+  "address": "1000854",
+  "blockchain": "tron",
+  "name": "GSG",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1000854",
+  "research": null,
+  "symbol": "GSG",
+  "type": "TRC10",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

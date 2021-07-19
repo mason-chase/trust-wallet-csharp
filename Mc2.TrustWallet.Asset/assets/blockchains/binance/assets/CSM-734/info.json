@@ -1,0 +1,18 @@
+{
+  "id": "CSM-734",
+  "address": "CSM-734",
+  "blockchain": "binance",
+  "name": "“Consentium”",
+  "website": "https://www.consentium.net/",
+  "description": "Best-in-class chat application with multi-digital-currency C2C (consumer to consumer) transfers as well as proprietary chat community monetisation model (CCM)",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/CSM-734",
+  "research": null,
+  "symbol": "CSM",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x04A289fe4cE5fa87a76F58d0214340fb5893A58c",
+  "address": "0x04A289fe4cE5fa87a76F58d0214340fb5893A58c",
+  "blockchain": "ethereum",
+  "name": "RealBlock.io",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x04A289fe4cE5fa87a76F58d0214340fb5893A58c",
+  "research": null,
+  "symbol": "REAL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x0567D7fad179dCd2a89508B77cCe93E26f8998F7",
+  "address": "0x0567D7fad179dCd2a89508B77cCe93E26f8998F7",
+  "blockchain": "smartchain",
+  "name": "VIDTC Luxury goods",
+  "website": "https://about.v-id.org",
+  "description": "NFTs for watches, fashion & jewelry",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x0567d7fad179dcd2a89508b77cce93e26f8998f7",
+  "research": null,
+  "symbol": "VIDTC",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

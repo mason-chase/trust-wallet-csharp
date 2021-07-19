@@ -1,0 +1,18 @@
+{
+  "id": "0x0488401c3F535193Fa8Df029d9fFe615A06E74E6",
+  "address": "0x0488401c3F535193Fa8Df029d9fFe615A06E74E6",
+  "blockchain": "ethereum",
+  "name": "SparkPoint",
+  "website": "https://www.sparkpoint.io/",
+  "description": "SparkPoint Ecosystem is a decentralized payment gateway with integrated crypto exchanges, blockchain based e-learning, gaming, and online store.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0488401c3F535193Fa8Df029d9fFe615A06E74E6",
+  "research": null,
+  "symbol": "SRK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

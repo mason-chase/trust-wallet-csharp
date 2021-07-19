@@ -1,0 +1,18 @@
+{
+  "id": "TWVVcRqRmpyAi9dASvTXrqnS7FrwvDezMn",
+  "address": "TWVVcRqRmpyAi9dASvTXrqnS7FrwvDezMn",
+  "blockchain": "tron",
+  "name": "Oikos Network Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TWVVcRqRmpyAi9dASvTXrqnS7FrwvDezMn",
+  "research": null,
+  "symbol": "OKS",
+  "type": "TRC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

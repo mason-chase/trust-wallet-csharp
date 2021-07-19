@@ -1,0 +1,18 @@
+{
+  "id": "0xCb39C3502415152b2ec90ff07ee18cc94f681a72",
+  "address": "0xCb39C3502415152b2ec90ff07ee18cc94f681a72",
+  "blockchain": "ethereum",
+  "name": "storeum",
+  "website": "http://storeum.co/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xCb39C3502415152b2ec90ff07ee18cc94f681a72",
+  "research": null,
+  "symbol": "STO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

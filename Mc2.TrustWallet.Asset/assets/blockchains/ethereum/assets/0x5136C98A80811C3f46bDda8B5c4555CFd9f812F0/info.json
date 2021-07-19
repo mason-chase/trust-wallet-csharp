@@ -1,0 +1,18 @@
+{
+  "id": "0x5136C98A80811C3f46bDda8B5c4555CFd9f812F0",
+  "address": "0x5136C98A80811C3f46bDda8B5c4555CFd9f812F0",
+  "blockchain": "ethereum",
+  "name": "indaHash Coin",
+  "website": "https://indahash.com/ico",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5136C98A80811C3f46bDda8B5c4555CFd9f812F0",
+  "research": null,
+  "symbol": "IDH",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

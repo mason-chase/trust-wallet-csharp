@@ -1,0 +1,18 @@
+{
+  "id": "0x5EEF8c4320e2Bf8D1e6231A31500FD7a87D02985",
+  "address": "0x5EEF8c4320e2Bf8D1e6231A31500FD7a87D02985",
+  "blockchain": "smartchain",
+  "name": "FOMO",
+  "website": "https://fomolab.io/",
+  "description": "Creating new ways for content creators to connect with their audience.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x5EEF8c4320e2Bf8D1e6231A31500FD7a87D02985",
+  "research": null,
+  "symbol": "FOMO",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

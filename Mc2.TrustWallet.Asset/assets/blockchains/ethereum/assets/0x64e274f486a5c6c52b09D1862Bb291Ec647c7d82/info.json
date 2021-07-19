@@ -1,0 +1,18 @@
+{
+  "id": "0x64e274f486a5c6c52b09D1862Bb291Ec647c7d82",
+  "address": "0x64e274f486a5c6c52b09D1862Bb291Ec647c7d82",
+  "blockchain": "ethereum",
+  "name": "OZCAR",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x64e274f486a5c6c52b09D1862Bb291Ec647c7d82",
+  "research": null,
+  "symbol": "OCR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

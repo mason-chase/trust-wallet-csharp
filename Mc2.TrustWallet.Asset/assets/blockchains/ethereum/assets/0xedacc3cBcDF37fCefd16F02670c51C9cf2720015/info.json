@@ -1,0 +1,18 @@
+{
+  "id": "0xedacc3cBcDF37fCefd16F02670c51C9cf2720015",
+  "address": "0xedacc3cBcDF37fCefd16F02670c51C9cf2720015",
+  "blockchain": "ethereum",
+  "name": "ALL LIVES MATTER",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xedacc3cBcDF37fCefd16F02670c51C9cf2720015",
+  "research": null,
+  "symbol": "HUMAN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

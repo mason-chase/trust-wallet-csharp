@@ -1,0 +1,18 @@
+{
+  "id": "0x7E6509aC567e7DE3Bc702E7CAF3B56245b50D1A7",
+  "address": "0x7E6509aC567e7DE3Bc702E7CAF3B56245b50D1A7",
+  "blockchain": "ethereum",
+  "name": "Swace",
+  "website": "https://swace.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7E6509aC567e7DE3Bc702E7CAF3B56245b50D1A7",
+  "research": null,
+  "symbol": "SWA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

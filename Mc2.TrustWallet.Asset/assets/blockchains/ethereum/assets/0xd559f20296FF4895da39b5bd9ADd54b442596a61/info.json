@@ -1,0 +1,18 @@
+{
+  "id": "0xd559f20296FF4895da39b5bd9ADd54b442596a61",
+  "address": "0xd559f20296FF4895da39b5bd9ADd54b442596a61",
+  "blockchain": "ethereum",
+  "name": "FintruX Network",
+  "website": "https://www.fintrux.com",
+  "description": "The Global P2P Lending Ecosystem Powered By Ethereum And No-Code Development.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd559f20296FF4895da39b5bd9ADd54b442596a61",
+  "research": null,
+  "symbol": "FTX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

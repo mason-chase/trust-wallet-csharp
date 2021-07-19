@@ -1,0 +1,18 @@
+{
+  "id": "0x00aa85e010204068b7CC2235800B2d8036bdbF2E",
+  "address": "0x00aa85e010204068b7CC2235800B2d8036bdbF2E",
+  "blockchain": "smartchain",
+  "name": "Simple Cool Autommatic Money",
+  "website": "https://scamily.io/token",
+  "description": "SCAM is the native token for the project Simple.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x00aa85e010204068b7CC2235800B2d8036bdbF2E",
+  "research": null,
+  "symbol": "SCAM",
+  "type": "BEP20",
+  "decimals": 10,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

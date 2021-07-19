@@ -1,0 +1,18 @@
+{
+  "id": "0xF8fC63200e181439823251020d691312FDcF5090",
+  "address": "0xF8fC63200e181439823251020d691312FDcF5090",
+  "blockchain": "smartchain",
+  "name": "Exzocoin Token",
+  "website": "https://exzocoin.com/",
+  "description": "ExzoCoin 2.0 (EXZO) is a utility token that will be utilized on our decentralized exchange mobile application",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xF8fC63200e181439823251020d691312FDcF5090",
+  "research": null,
+  "symbol": "EXZO",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

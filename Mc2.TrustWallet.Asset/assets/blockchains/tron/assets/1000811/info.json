@@ -1,0 +1,18 @@
+{
+  "id": "1000811",
+  "address": "1000811",
+  "blockchain": "tron",
+  "name": "RoboQuarter",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1000811",
+  "research": null,
+  "symbol": "RbQ",
+  "type": "TRC10",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

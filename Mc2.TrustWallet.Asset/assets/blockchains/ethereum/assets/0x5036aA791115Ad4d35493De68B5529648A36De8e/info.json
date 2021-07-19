@@ -1,0 +1,18 @@
+{
+  "id": "0x5036aA791115Ad4d35493De68B5529648A36De8e",
+  "address": "0x5036aA791115Ad4d35493De68B5529648A36De8e",
+  "blockchain": "ethereum",
+  "name": "Tachain",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5036aA791115Ad4d35493De68B5529648A36De8e",
+  "research": null,
+  "symbol": "TCHN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

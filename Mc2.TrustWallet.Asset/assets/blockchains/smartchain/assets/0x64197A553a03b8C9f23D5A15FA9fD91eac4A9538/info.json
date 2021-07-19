@@ -1,0 +1,18 @@
+{
+  "id": "0x64197A553a03b8C9f23D5A15FA9fD91eac4A9538",
+  "address": "0x64197A553a03b8C9f23D5A15FA9fD91eac4A9538",
+  "blockchain": "smartchain",
+  "name": "X Stake Chain",
+  "website": "http://xstakechain.com/",
+  "description": "A community-driven decentralized rewarding network.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x64197A553a03b8C9f23D5A15FA9fD91eac4A9538",
+  "research": null,
+  "symbol": "X Stake",
+  "type": "BEP20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

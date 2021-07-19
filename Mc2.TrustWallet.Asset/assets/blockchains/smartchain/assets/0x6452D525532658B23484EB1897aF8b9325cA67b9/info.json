@@ -1,0 +1,18 @@
+{
+  "id": "0x6452D525532658B23484EB1897aF8b9325cA67b9",
+  "address": "0x6452D525532658B23484EB1897aF8b9325cA67b9",
+  "blockchain": "smartchain",
+  "name": "Rover Inu",
+  "website": "https://rovertoken.com/",
+  "description": "Self generating liquidity token - Reflection paid back to holders.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x6452d525532658b23484eb1897af8b9325ca67b9",
+  "research": null,
+  "symbol": "ROVER",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

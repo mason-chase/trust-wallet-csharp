@@ -1,0 +1,18 @@
+{
+  "id": "0x5d7F6540b8d592E81deF42904C853a6DD01bD486",
+  "address": "0x5d7F6540b8d592E81deF42904C853a6DD01bD486",
+  "blockchain": "ethereum",
+  "name": "Bizcoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5d7F6540b8d592E81deF42904C853a6DD01bD486",
+  "research": null,
+  "symbol": "BIZ",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

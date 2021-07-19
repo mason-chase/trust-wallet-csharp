@@ -1,0 +1,18 @@
+{
+  "id": "0x2c2Ad243E228405A0331C946C655b2Ae6c9CF457",
+  "address": "0x2c2Ad243E228405A0331C946C655b2Ae6c9CF457",
+  "blockchain": "ethereum",
+  "name": "REVI Gold",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2c2Ad243E228405A0331C946C655b2Ae6c9CF457",
+  "research": null,
+  "symbol": "GLD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "PIBNB-43C",
+  "address": "PIBNB-43C",
+  "blockchain": "binance",
+  "name": "PCHAIN Token",
+  "website": "https://www.pchain.org/",
+  "description": "PCHAIN is the first native multichain system in the world that supports Ethereum Virtual Machine (EVM), which consists of one main chain and multiple derived chains.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/PIBNB-43C",
+  "research": null,
+  "symbol": "PIBNB",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

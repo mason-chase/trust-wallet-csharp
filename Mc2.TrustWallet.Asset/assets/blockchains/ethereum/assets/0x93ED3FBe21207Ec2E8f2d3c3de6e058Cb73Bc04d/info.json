@@ -1,0 +1,18 @@
+{
+  "id": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
+  "address": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
+  "blockchain": "ethereum",
+  "name": "Pinakion",
+  "website": "https://kleros.io",
+  "description": "Kleros is a decentralized arbitration service for the disputes of the new economy.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
+  "research": null,
+  "symbol": "PNK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

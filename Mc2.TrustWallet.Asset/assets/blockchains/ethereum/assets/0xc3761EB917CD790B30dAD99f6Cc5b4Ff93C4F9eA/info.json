@@ -1,0 +1,18 @@
+{
+  "id": "0xc3761EB917CD790B30dAD99f6Cc5b4Ff93C4F9eA",
+  "address": "0xc3761EB917CD790B30dAD99f6Cc5b4Ff93C4F9eA",
+  "blockchain": "ethereum",
+  "name": "ERC20",
+  "website": "https://erc20.tech",
+  "description": "ERC20 is an innovative NFT Collectible token and a new kind of DeFi.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc3761EB917CD790B30dAD99f6Cc5b4Ff93C4F9eA",
+  "research": null,
+  "symbol": "ERC20",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x41385664aAd657990000004D3906d1572A6bb4c6",
+  "address": "0x41385664aAd657990000004D3906d1572A6bb4c6",
+  "blockchain": "ethereum",
+  "name": "AmigoCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x41385664aAd657990000004D3906d1572A6bb4c6",
+  "research": null,
+  "symbol": "AMGC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

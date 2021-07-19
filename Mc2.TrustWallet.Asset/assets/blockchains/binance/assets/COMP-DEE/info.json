@@ -1,0 +1,18 @@
+{
+  "id": "COMP-DEE",
+  "address": "COMP-DEE",
+  "blockchain": "binance",
+  "name": "Compound",
+  "website": "https://compound.finance",
+  "description": "Compound is the governance token for the Compound protocol.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/COMP-DEE",
+  "research": "https://research.binance.com/en/projects/compound",
+  "symbol": "COMP",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

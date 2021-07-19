@@ -1,0 +1,18 @@
+{
+  "id": "0x410319197d3394652B7ddDc669E58fbe30B56090",
+  "address": "0x410319197d3394652B7ddDc669E58fbe30B56090",
+  "blockchain": "smartchain",
+  "name": "Cyber Time Finance",
+  "website": "https://cybertime.finance/",
+  "description": "NFT Fantasy League",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x410319197d3394652B7ddDc669E58fbe30B56090",
+  "research": null,
+  "symbol": "CTF",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

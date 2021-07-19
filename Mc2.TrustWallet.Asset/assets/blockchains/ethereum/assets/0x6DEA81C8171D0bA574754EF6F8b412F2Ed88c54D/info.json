@@ -1,0 +1,18 @@
+{
+  "id": "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
+  "address": "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
+  "blockchain": "ethereum",
+  "name": "LQTY Token",
+  "website": "https://www.liquity.org",
+  "description": "Liquity is a decentralized borrowing protocol that allows you to draw 0% interest loans against Ether used as collateral.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
+  "research": "https://docs.liquity.org",
+  "symbol": "LQTY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

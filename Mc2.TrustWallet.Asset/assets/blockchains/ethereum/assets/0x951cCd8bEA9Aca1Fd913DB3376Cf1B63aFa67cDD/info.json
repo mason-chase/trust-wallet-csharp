@@ -1,0 +1,18 @@
+{
+  "id": "0x951cCd8bEA9Aca1Fd913DB3376Cf1B63aFa67cDD",
+  "address": "0x951cCd8bEA9Aca1Fd913DB3376Cf1B63aFa67cDD",
+  "blockchain": "ethereum",
+  "name": "EQR 900",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x951cCd8bEA9Aca1Fd913DB3376Cf1B63aFa67cDD",
+  "research": null,
+  "symbol": "EQR",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

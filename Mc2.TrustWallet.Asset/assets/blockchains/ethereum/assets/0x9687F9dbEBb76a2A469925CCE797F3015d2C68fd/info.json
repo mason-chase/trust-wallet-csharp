@@ -1,0 +1,18 @@
+{
+  "id": "0x9687F9dbEBb76a2A469925CCE797F3015d2C68fd",
+  "address": "0x9687F9dbEBb76a2A469925CCE797F3015d2C68fd",
+  "blockchain": "ethereum",
+  "name": "Ternio",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9687F9dbEBb76a2A469925CCE797F3015d2C68fd",
+  "research": null,
+  "symbol": "TERN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

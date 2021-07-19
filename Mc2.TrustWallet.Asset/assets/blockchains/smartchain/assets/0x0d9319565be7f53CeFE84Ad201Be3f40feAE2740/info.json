@@ -1,0 +1,35 @@
+{
+  "id": "0x0d9319565be7f53CeFE84Ad201Be3f40feAE2740",
+  "address": "0x0d9319565be7f53CeFE84Ad201Be3f40feAE2740",
+  "blockchain": "smartchain",
+  "name": "bDollar Share",
+  "website": "https://bdollar.fi",
+  "description": "sBDO is the share token of bDollar protocol - an algorithmic stable-coin running on Binance Smart-chain.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x0d9319565be7f53CeFE84Ad201Be3f40feAE2740",
+  "research": null,
+  "symbol": "sBDO",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/bearn-defi/bdollar-smartcontracts"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/bDollar_Fi"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/Bearn_Fi"
+    },
+    {
+      "name": "medium",
+      "url": "https://bearn-defi.medium.com/"
+    }
+  ],
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x8D8129963291740dDDd917ab01af18c7aed4BA58",
+  "address": "0x8D8129963291740dDDd917ab01af18c7aed4BA58",
+  "blockchain": "ethereum",
+  "name": "MineBee",
+  "website": "https://minebee.io/",
+  "description": "MineBee is developing a turnkey solution that will address the mining industries multi-faceted problems through MineBee solution, MineBee contract, and MineBee open market.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8D8129963291740dDDd917ab01af18c7aed4BA58",
+  "research": null,
+  "symbol": "MB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

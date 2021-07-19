@@ -1,0 +1,18 @@
+{
+  "id": "0x5edA415009B984118e7061966B629b12733dff92",
+  "address": "0x5edA415009B984118e7061966B629b12733dff92",
+  "blockchain": "ethereum",
+  "name": "Super Radar",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5edA415009B984118e7061966B629b12733dff92",
+  "research": null,
+  "symbol": "SRADAR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

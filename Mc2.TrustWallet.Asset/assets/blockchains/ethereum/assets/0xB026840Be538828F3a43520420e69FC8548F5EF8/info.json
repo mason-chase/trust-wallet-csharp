@@ -1,0 +1,18 @@
+{
+  "id": "0xB026840Be538828F3a43520420e69FC8548F5EF8",
+  "address": "0xB026840Be538828F3a43520420e69FC8548F5EF8",
+  "blockchain": "ethereum",
+  "name": "FoodSafetyChain",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB026840Be538828F3a43520420e69FC8548F5EF8",
+  "research": null,
+  "symbol": "FSC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x627B9057549CE79ca1dE9dE5019EE5cfa1EaDC86",
+  "address": "0x627B9057549CE79ca1dE9dE5019EE5cfa1EaDC86",
+  "blockchain": "ethereum",
+  "name": "YACHT.SOCIAL",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x627B9057549CE79ca1dE9dE5019EE5cfa1EaDC86",
+  "research": null,
+  "symbol": "YSC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

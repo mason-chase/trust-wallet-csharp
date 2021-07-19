@@ -1,0 +1,18 @@
+{
+  "id": "0x7A41e0517a5ecA4FdbC7FbebA4D4c47B9fF6DC63",
+  "address": "0x7A41e0517a5ecA4FdbC7FbebA4D4c47B9fF6DC63",
+  "blockchain": "ethereum",
+  "name": "Zeus Shield Coin",
+  "website": "https://zsc.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7A41e0517a5ecA4FdbC7FbebA4D4c47B9fF6DC63",
+  "research": null,
+  "symbol": "ZSC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

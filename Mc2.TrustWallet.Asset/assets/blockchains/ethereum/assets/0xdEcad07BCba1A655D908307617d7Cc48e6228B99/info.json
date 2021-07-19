@@ -1,0 +1,18 @@
+{
+  "id": "0xdEcad07BCba1A655D908307617d7Cc48e6228B99",
+  "address": "0xdEcad07BCba1A655D908307617d7Cc48e6228B99",
+  "blockchain": "ethereum",
+  "name": "TPS+",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xdEcad07BCba1A655D908307617d7Cc48e6228B99",
+  "research": null,
+  "symbol": "TPS+",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

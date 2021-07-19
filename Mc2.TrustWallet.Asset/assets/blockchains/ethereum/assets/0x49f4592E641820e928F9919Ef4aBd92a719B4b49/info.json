@@ -1,0 +1,18 @@
+{
+  "id": "0x49f4592E641820e928F9919Ef4aBd92a719B4b49",
+  "address": "0x49f4592E641820e928F9919Ef4aBd92a719B4b49",
+  "blockchain": "ethereum",
+  "name": "Fulcrum sUSD iToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x49f4592E641820e928F9919Ef4aBd92a719B4b49",
+  "research": null,
+  "symbol": "iSUSD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

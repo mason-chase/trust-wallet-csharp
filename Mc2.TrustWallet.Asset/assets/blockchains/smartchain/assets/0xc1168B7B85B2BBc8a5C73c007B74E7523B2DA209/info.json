@@ -1,0 +1,18 @@
+{
+  "id": "0xc1168B7B85B2BBc8a5C73c007B74E7523B2DA209",
+  "address": "0xc1168B7B85B2BBc8a5C73c007B74E7523B2DA209",
+  "blockchain": "smartchain",
+  "name": "Babybnb",
+  "website": "https://babybnb.net",
+  "description": "Our philosophy is to have fun while trying to improve the world we live in. BabyBNB will provide unique utilities that our conceptual space has yet to see.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xc1168B7B85B2BBc8a5C73c007B74E7523B2DA209",
+  "research": null,
+  "symbol": "BABYBNB",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

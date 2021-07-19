@@ -1,0 +1,18 @@
+{
+  "id": "0x37236CD05b34Cc79d3715AF2383E96dd7443dCF1",
+  "address": "0x37236CD05b34Cc79d3715AF2383E96dd7443dCF1",
+  "blockchain": "ethereum",
+  "name": "Small Love Potion",
+  "website": "https://axieinfinity.com",
+  "description": "Small Love Potion (SLP) is an ERC-20 token on the Axie Infinity platform that is used to breed new digital pets (Axies).",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x37236cd05b34cc79d3715af2383e96dd7443dcf1",
+  "research": "https://research.binance.com/en/projects/small-love-potion",
+  "symbol": "SLP",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

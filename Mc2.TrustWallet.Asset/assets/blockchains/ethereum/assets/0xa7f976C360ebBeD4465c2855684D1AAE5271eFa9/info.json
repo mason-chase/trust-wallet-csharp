@@ -1,0 +1,18 @@
+{
+  "id": "0xa7f976C360ebBeD4465c2855684D1AAE5271eFa9",
+  "address": "0xa7f976C360ebBeD4465c2855684D1AAE5271eFa9",
+  "blockchain": "ethereum",
+  "name": "TrueFlip",
+  "website": "https://trueflip.io",
+  "description": "True Flip is the international anonymous blockchain lottery with instant payouts, open source code, and transparent prize fund.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa7f976C360ebBeD4465c2855684D1AAE5271eFa9",
+  "research": null,
+  "symbol": "TFL",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

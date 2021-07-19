@@ -1,0 +1,18 @@
+{
+  "id": "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa",
+  "address": "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa",
+  "blockchain": "ethereum",
+  "name": "Cindicator Token",
+  "website": "https://cindicator.com",
+  "description": "Meet Stoic — Cindicator's newest crypto trading product.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd4c435F5B09F855C3317c8524Cb1F586E42795fa",
+  "research": null,
+  "symbol": "CND",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

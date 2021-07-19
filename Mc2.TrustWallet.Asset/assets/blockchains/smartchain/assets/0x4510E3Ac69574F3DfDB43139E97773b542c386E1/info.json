@@ -1,0 +1,18 @@
+{
+  "id": "0x4510E3Ac69574F3DfDB43139E97773b542c386E1",
+  "address": "0x4510E3Ac69574F3DfDB43139E97773b542c386E1",
+  "blockchain": "smartchain",
+  "name": "Bamboo",
+  "website": "https://safepanda.net/",
+  "description": "Liquidity Generation & Hyper Deflationary Token, Environmental Charity focused that rewards our community & token holders.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x4510E3Ac69574F3DfDB43139E97773b542c386E1",
+  "research": null,
+  "symbol": "BMBO",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xFbe878CED08132bd8396988671b450793C44bC12",
+  "address": "0xFbe878CED08132bd8396988671b450793C44bC12",
+  "blockchain": "ethereum",
+  "name": "Fox Trading",
+  "website": "https://foxtrading.io/",
+  "description": "Fox Trading platform is a multi-device platform that provides high accuracy signals and auto-trade services for Forex and Cryptocurrency trading.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xFbe878CED08132bd8396988671b450793C44bC12",
+  "research": null,
+  "symbol": "FOXT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "PVT-554",
+  "address": "PVT-554",
+  "blockchain": "binance",
+  "name": "Pivot Token",
+  "website": "https://www.pivot.one/",
+  "description": "It is dedicated to providing users with real-time cryptocurrency market data and function as a one-stop-shop for trading services.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/PVT-554",
+  "research": null,
+  "symbol": "PVT",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

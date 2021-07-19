@@ -1,0 +1,18 @@
+{
+  "id": "0xf333b2Ace992ac2bBD8798bF57Bc65a06184afBa",
+  "address": "0xf333b2Ace992ac2bBD8798bF57Bc65a06184afBa",
+  "blockchain": "ethereum",
+  "name": "SND Token 1.0",
+  "website": "https://en.sandcoin.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf333b2Ace992ac2bBD8798bF57Bc65a06184afBa",
+  "research": null,
+  "symbol": "SND",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

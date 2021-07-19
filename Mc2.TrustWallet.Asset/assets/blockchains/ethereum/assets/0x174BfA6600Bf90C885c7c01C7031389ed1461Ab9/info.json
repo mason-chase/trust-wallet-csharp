@@ -1,0 +1,18 @@
+{
+  "id": "0x174BfA6600Bf90C885c7c01C7031389ed1461Ab9",
+  "address": "0x174BfA6600Bf90C885c7c01C7031389ed1461Ab9",
+  "blockchain": "ethereum",
+  "name": "More Gold Coin",
+  "website": "http://www.mgctoken.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x174BfA6600Bf90C885c7c01C7031389ed1461Ab9",
+  "research": null,
+  "symbol": "MGC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

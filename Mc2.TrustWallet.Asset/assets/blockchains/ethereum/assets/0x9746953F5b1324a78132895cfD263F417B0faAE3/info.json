@@ -1,0 +1,18 @@
+{
+  "id": "0x9746953F5b1324a78132895cfD263F417B0faAE3",
+  "address": "0x9746953F5b1324a78132895cfD263F417B0faAE3",
+  "blockchain": "ethereum",
+  "name": "ValueCyberToken",
+  "website": "http://www.valuecyber.org/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9746953F5b1324a78132895cfD263F417B0faAE3",
+  "research": null,
+  "symbol": "VCT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

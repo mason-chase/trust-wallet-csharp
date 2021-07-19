@@ -1,0 +1,18 @@
+{
+  "id": "0xB05513809549b8654fA1228b123A36c78a3356F4",
+  "address": "0xB05513809549b8654fA1228b123A36c78a3356F4",
+  "blockchain": "smartchain",
+  "name": "BossDog",
+  "website": "https://bossdogtoken.com/",
+  "description": "Yield-generating contract with 🔥burn (50% of total supply), 💰liquidity (5% fee) and 🙌redistribution (5% fee).",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xB05513809549b8654fA1228b123A36c78a3356F4",
+  "research": null,
+  "symbol": "$BOSSDOG",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

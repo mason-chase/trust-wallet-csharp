@@ -1,0 +1,18 @@
+{
+  "id": "0x9E2cF95Ab33AdC202BfDF13136cA19A5226aE5Ba",
+  "address": "0x9E2cF95Ab33AdC202BfDF13136cA19A5226aE5Ba",
+  "blockchain": "ethereum",
+  "name": "STOCKSD",
+  "website": "https://stocksd.app",
+  "description": "Stocks on Ethereum",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9E2cF95Ab33AdC202BfDF13136cA19A5226aE5Ba",
+  "research": null,
+  "symbol": "STOCKSD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x8Ddc86DbA7ad728012eFc460b8A168Aba60B403B",
+  "address": "0x8Ddc86DbA7ad728012eFc460b8A168Aba60B403B",
+  "blockchain": "ethereum",
+  "name": "ETHDaiRebalancingSetToken",
+  "website": "https://www.tokensets.com/set/ethhivol",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8Ddc86DbA7ad728012eFc460b8A168Aba60B403B",
+  "research": null,
+  "symbol": "ETHDai",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x36dCffe069a3F2878Fab2A46D81e83D462d0cBF7",
+  "address": "0x36dCffe069a3F2878Fab2A46D81e83D462d0cBF7",
+  "blockchain": "ethereum",
+  "name": "Tcbcoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x36dCffe069a3F2878Fab2A46D81e83D462d0cBF7",
+  "research": null,
+  "symbol": "TCFX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

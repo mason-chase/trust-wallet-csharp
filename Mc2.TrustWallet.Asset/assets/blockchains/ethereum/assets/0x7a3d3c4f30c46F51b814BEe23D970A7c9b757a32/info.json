@@ -1,0 +1,18 @@
+{
+  "id": "0x7a3d3c4f30c46F51b814BEe23D970A7c9b757a32",
+  "address": "0x7a3d3c4f30c46F51b814BEe23D970A7c9b757a32",
+  "blockchain": "ethereum",
+  "name": "ASGARD",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7a3d3c4f30c46F51b814BEe23D970A7c9b757a32",
+  "research": null,
+  "symbol": "ASG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

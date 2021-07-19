@@ -1,0 +1,18 @@
+{
+  "id": "0x35e308668391dAaB398FFc0e60D13d65c7793fEd",
+  "address": "0x35e308668391dAaB398FFc0e60D13d65c7793fEd",
+  "blockchain": "ethereum",
+  "name": "HEALTH CHAIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x35e308668391dAaB398FFc0e60D13d65c7793fEd",
+  "research": null,
+  "symbol": "HTHC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

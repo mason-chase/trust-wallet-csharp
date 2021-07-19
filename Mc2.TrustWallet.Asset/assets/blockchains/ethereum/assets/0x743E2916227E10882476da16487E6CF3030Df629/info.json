@@ -1,0 +1,18 @@
+{
+  "id": "0x743E2916227E10882476da16487E6CF3030Df629",
+  "address": "0x743E2916227E10882476da16487E6CF3030Df629",
+  "blockchain": "ethereum",
+  "name": "MasonCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x743E2916227E10882476da16487E6CF3030Df629",
+  "research": null,
+  "symbol": "MSNC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x5B0751713b2527d7f002c0c4e2a37e1219610A6B",
+  "address": "0x5B0751713b2527d7f002c0c4e2a37e1219610A6B",
+  "blockchain": "ethereum",
+  "name": "Horse",
+  "website": "https://ethorse.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5B0751713b2527d7f002c0c4e2a37e1219610A6B",
+  "research": null,
+  "symbol": "HORSE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

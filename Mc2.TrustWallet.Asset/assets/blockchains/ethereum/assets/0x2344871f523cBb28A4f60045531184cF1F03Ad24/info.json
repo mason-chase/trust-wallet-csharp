@@ -1,0 +1,18 @@
+{
+  "id": "0x2344871f523cBb28A4f60045531184cF1F03Ad24",
+  "address": "0x2344871f523cBb28A4f60045531184cF1F03Ad24",
+  "blockchain": "ethereum",
+  "name": "RoBET - Truly Decentralized Sportsbetting",
+  "website": "https://www.robetcoin.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2344871f523cBb28A4f60045531184cF1F03Ad24",
+  "research": null,
+  "symbol": "ROBET",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

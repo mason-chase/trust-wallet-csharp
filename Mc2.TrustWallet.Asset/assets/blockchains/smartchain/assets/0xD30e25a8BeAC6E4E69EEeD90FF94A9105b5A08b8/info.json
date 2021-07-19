@@ -1,0 +1,18 @@
+{
+  "id": "0xD30e25a8BeAC6E4E69EEeD90FF94A9105b5A08b8",
+  "address": "0xD30e25a8BeAC6E4E69EEeD90FF94A9105b5A08b8",
+  "blockchain": "smartchain",
+  "name": "UNICAT",
+  "website": "https://unicat.finance",
+  "description": "UniCat Yield Farm",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xD30e25a8BeAC6E4E69EEeD90FF94A9105b5A08b8",
+  "research": null,
+  "symbol": "UCAT",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

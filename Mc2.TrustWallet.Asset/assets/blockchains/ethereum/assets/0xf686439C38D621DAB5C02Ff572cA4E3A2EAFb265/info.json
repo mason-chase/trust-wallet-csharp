@@ -1,0 +1,18 @@
+{
+  "id": "0xf686439C38D621DAB5C02Ff572cA4E3A2EAFb265",
+  "address": "0xf686439C38D621DAB5C02Ff572cA4E3A2EAFb265",
+  "blockchain": "ethereum",
+  "name": "OnlyLoveChain",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf686439C38D621DAB5C02Ff572cA4E3A2EAFb265",
+  "research": null,
+  "symbol": "OLC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

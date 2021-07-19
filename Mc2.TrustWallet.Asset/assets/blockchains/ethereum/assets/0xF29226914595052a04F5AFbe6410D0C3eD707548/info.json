@@ -1,0 +1,18 @@
+{
+  "id": "0xF29226914595052a04F5AFbe6410D0C3eD707548",
+  "address": "0xF29226914595052a04F5AFbe6410D0C3eD707548",
+  "blockchain": "ethereum",
+  "name": "NEXT",
+  "website": "https://www.coinbit.co.kr/exchangeCoin/netInfo",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF29226914595052a04F5AFbe6410D0C3eD707548",
+  "research": null,
+  "symbol": "NET",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

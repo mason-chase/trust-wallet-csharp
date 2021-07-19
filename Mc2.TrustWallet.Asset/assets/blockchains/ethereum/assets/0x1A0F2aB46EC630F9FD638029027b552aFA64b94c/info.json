@@ -1,0 +1,18 @@
+{
+  "id": "0x1A0F2aB46EC630F9FD638029027b552aFA64b94c",
+  "address": "0x1A0F2aB46EC630F9FD638029027b552aFA64b94c",
+  "blockchain": "ethereum",
+  "name": "Aston X",
+  "website": "https://www.aston.company/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1A0F2aB46EC630F9FD638029027b552aFA64b94c",
+  "research": null,
+  "symbol": "ATX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

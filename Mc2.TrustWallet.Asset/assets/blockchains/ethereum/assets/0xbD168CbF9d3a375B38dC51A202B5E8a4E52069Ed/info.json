@@ -1,0 +1,18 @@
+{
+  "id": "0xbD168CbF9d3a375B38dC51A202B5E8a4E52069Ed",
+  "address": "0xbD168CbF9d3a375B38dC51A202B5E8a4E52069Ed",
+  "blockchain": "ethereum",
+  "name": "BlueWhaleToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xbD168CbF9d3a375B38dC51A202B5E8a4E52069Ed",
+  "research": null,
+  "symbol": "BWX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

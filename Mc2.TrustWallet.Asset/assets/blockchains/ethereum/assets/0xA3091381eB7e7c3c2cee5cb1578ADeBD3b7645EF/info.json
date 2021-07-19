@@ -1,0 +1,18 @@
+{
+  "id": "0xA3091381eB7e7c3c2cee5cb1578ADeBD3b7645EF",
+  "address": "0xA3091381eB7e7c3c2cee5cb1578ADeBD3b7645EF",
+  "blockchain": "ethereum",
+  "name": "Digital Thai Baht",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA3091381eB7e7c3c2cee5cb1578ADeBD3b7645EF",
+  "research": null,
+  "symbol": "THB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

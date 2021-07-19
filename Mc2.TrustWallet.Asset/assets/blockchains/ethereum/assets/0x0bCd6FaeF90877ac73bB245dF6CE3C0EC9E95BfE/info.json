@@ -1,0 +1,18 @@
+{
+  "id": "0x0bCd6FaeF90877ac73bB245dF6CE3C0EC9E95BfE",
+  "address": "0x0bCd6FaeF90877ac73bB245dF6CE3C0EC9E95BfE",
+  "blockchain": "ethereum",
+  "name": "Tars Network",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0bCd6FaeF90877ac73bB245dF6CE3C0EC9E95BfE",
+  "research": null,
+  "symbol": "TARS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

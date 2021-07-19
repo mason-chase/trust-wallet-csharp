@@ -1,0 +1,18 @@
+{
+  "id": "0xa90C43e0d6c92b8e6171a829beB38Be28a0Ad073",
+  "address": "0xa90C43e0d6c92b8e6171a829beB38Be28a0Ad073",
+  "blockchain": "ethereum",
+  "name": "EGORAS DOLLAR",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa90C43e0d6c92b8e6171a829beB38Be28a0Ad073",
+  "research": null,
+  "symbol": "EUSD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

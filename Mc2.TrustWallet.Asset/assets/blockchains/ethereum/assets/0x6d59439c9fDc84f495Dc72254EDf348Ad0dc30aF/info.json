@@ -1,0 +1,18 @@
+{
+  "id": "0x6d59439c9fDc84f495Dc72254EDf348Ad0dc30aF",
+  "address": "0x6d59439c9fDc84f495Dc72254EDf348Ad0dc30aF",
+  "blockchain": "ethereum",
+  "name": "Vision Bitcoin Cash",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6d59439c9fDc84f495Dc72254EDf348Ad0dc30aF",
+  "research": null,
+  "symbol": "VSBC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

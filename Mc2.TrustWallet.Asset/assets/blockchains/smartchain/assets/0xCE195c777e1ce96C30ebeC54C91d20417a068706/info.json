@@ -1,0 +1,18 @@
+{
+  "id": "0xCE195c777e1ce96C30ebeC54C91d20417a068706",
+  "address": "0xCE195c777e1ce96C30ebeC54C91d20417a068706",
+  "blockchain": "smartchain",
+  "name": "Hugo Finance",
+  "website": "https://www.hugo.finance/",
+  "description": "Hugo is a DeFi Token on the Binance Smart Chain which will be used on a Decentralized Platform where holders votes matter to shape the future of the platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xce195c777e1ce96c30ebec54c91d20417a068706",
+  "research": null,
+  "symbol": "HUGO",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x3565402f2936D3284264F03615D065803330E392",
+  "address": "0x3565402f2936D3284264F03615D065803330E392",
+  "blockchain": "ethereum",
+  "name": "CandysAirdrop",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3565402f2936D3284264F03615D065803330E392",
+  "research": null,
+  "symbol": "CSAT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

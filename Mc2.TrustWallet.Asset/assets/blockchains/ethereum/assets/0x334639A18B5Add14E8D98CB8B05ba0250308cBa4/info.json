@@ -1,0 +1,18 @@
+{
+  "id": "0x334639A18B5Add14E8D98CB8B05ba0250308cBa4",
+  "address": "0x334639A18B5Add14E8D98CB8B05ba0250308cBa4",
+  "blockchain": "ethereum",
+  "name": "KAV",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x334639A18B5Add14E8D98CB8B05ba0250308cBa4",
+  "research": null,
+  "symbol": "KAV",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

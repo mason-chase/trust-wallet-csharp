@@ -1,0 +1,18 @@
+{
+  "id": "0xc4e41117B773599971907172b82FE85afe6A1a21",
+  "address": "0xc4e41117B773599971907172b82FE85afe6A1a21",
+  "blockchain": "ethereum",
+  "name": "Silver",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc4e41117B773599971907172b82FE85afe6A1a21",
+  "research": null,
+  "symbol": "CSC-SI",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

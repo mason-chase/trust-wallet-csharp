@@ -1,0 +1,18 @@
+{
+  "id": "0x49fa378b4550758731A0A4638330b2e59cE37fA6",
+  "address": "0x49fa378b4550758731A0A4638330b2e59cE37fA6",
+  "blockchain": "ethereum",
+  "name": "DANI",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x49fa378b4550758731A0A4638330b2e59cE37fA6",
+  "research": null,
+  "symbol": "DANI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

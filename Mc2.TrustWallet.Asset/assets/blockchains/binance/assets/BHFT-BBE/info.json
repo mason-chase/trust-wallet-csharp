@@ -1,0 +1,18 @@
+{
+  "id": "BHFT-BBE",
+  "address": "BHFT-BBE",
+  "blockchain": "binance",
+  "name": "Humanity First Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/BHFT-BBE",
+  "research": null,
+  "symbol": "BHFT",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

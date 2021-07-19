@@ -1,0 +1,18 @@
+{
+  "id": "0x21E13cB3F3F26f92A62ac7Adab4093e8997D1fb1",
+  "address": "0x21E13cB3F3F26f92A62ac7Adab4093e8997D1fb1",
+  "blockchain": "ethereum",
+  "name": "OIKOS",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x21E13cB3F3F26f92A62ac7Adab4093e8997D1fb1",
+  "research": null,
+  "symbol": "OIKOS",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

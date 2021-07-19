@@ -1,0 +1,18 @@
+{
+  "id": "0x89885FC1F76C3f4cc719640E33c315227Da7003a",
+  "address": "0x89885FC1F76C3f4cc719640E33c315227Da7003a",
+  "blockchain": "ethereum",
+  "name": "OASES",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x89885FC1F76C3f4cc719640E33c315227Da7003a",
+  "research": null,
+  "symbol": "OAS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

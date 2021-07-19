@@ -1,0 +1,18 @@
+{
+  "id": "0x9628542656482DdeE1989b04133f02A799eB0936",
+  "address": "0x9628542656482DdeE1989b04133f02A799eB0936",
+  "blockchain": "smartchain",
+  "name": "Viagra",
+  "website": "https://viagrat.org/",
+  "description": "VIAGRA is a charity token to raise money for men's health issues.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x9628542656482DdeE1989b04133f02A799eB0936",
+  "research": null,
+  "symbol": "VIAGRA",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

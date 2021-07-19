@@ -1,0 +1,18 @@
+{
+  "id": "0x8a88f04e0c905054D2F33b26BB3A46D7091A039A",
+  "address": "0x8a88f04e0c905054D2F33b26BB3A46D7091A039A",
+  "blockchain": "ethereum",
+  "name": "IG",
+  "website": "https://igtoken.net/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8a88f04e0c905054D2F33b26BB3A46D7091A039A",
+  "research": null,
+  "symbol": "IG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

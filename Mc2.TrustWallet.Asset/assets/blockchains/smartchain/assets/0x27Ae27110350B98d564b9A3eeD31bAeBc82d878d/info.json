@@ -1,0 +1,18 @@
+{
+  "id": "0x27Ae27110350B98d564b9A3eeD31bAeBc82d878d",
+  "address": "0x27Ae27110350B98d564b9A3eeD31bAeBc82d878d",
+  "blockchain": "smartchain",
+  "name": "CumRocket",
+  "website": "https://cumrocketcrypto.com",
+  "description": "Deflationary token used for tipping and messaging content creators on our NSFW platforms! This includes an 18+ NFT marketplace as well as a NSFW private content subscription platform! 5% tax on every transaction - 2.5% burn, 2.5% redistribution.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x27Ae27110350B98d564b9A3eeD31bAeBc82d878d",
+  "research": "https://static1.squarespace.com/static/60553ccba8128169e9a195ef/t/608574906a87341dd3ecac0e/1619358865705/CumRocket+Whitepaper+%2817%29.pdf",
+  "symbol": "CUMMIES",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

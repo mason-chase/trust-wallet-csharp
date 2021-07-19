@@ -1,0 +1,18 @@
+{
+  "id": "0x9a49f02e128a8E989b443a8f94843C0918BF45E7",
+  "address": "0x9a49f02e128a8E989b443a8f94843C0918BF45E7",
+  "blockchain": "ethereum",
+  "name": "TOKOK",
+  "website": "http://www.tokok.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9a49f02e128a8E989b443a8f94843C0918BF45E7",
+  "research": null,
+  "symbol": "TOK",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

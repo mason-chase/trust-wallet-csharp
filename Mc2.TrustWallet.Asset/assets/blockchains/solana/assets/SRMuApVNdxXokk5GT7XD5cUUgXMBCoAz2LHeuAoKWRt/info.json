@@ -1,0 +1,18 @@
+{
+  "id": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+  "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+  "blockchain": "solana",
+  "name": "Serum",
+  "website": "https://projectserum.com/",
+  "description": "Serum is a decentralized exchange (DEX) and ecosystem that brings unprecedented speed and low transaction costs to decentralized finance. It is built on Solana and is completely permissionless.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.solana.com/address/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+  "research": null,
+  "symbol": "SRM",
+  "type": "SPL",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

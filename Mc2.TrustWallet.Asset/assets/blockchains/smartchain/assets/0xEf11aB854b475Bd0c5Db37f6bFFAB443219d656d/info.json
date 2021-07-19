@@ -1,0 +1,18 @@
+{
+  "id": "0xEf11aB854b475Bd0c5Db37f6bFFAB443219d656d",
+  "address": "0xEf11aB854b475Bd0c5Db37f6bFFAB443219d656d",
+  "blockchain": "smartchain",
+  "name": "FEG Wrapped USDT",
+  "website": "https://fegtoken.com",
+  "description": "FEG Wrapped USDT",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xef11ab854b475bd0c5db37f6bffab443219d656d",
+  "research": null,
+  "symbol": "fUSDT",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

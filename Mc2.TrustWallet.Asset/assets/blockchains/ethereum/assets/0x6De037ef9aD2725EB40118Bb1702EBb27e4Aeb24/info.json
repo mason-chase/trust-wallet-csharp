@@ -1,0 +1,18 @@
+{
+  "id": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
+  "address": "0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
+  "blockchain": "ethereum",
+  "name": "Render Token",
+  "website": "https://rendertoken.com/",
+  "description": "Distributed GPU rendering on the blockchain.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24",
+  "research": null,
+  "symbol": "RNDR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

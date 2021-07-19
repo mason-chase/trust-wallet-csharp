@@ -1,0 +1,18 @@
+{
+  "id": "0x1149CFC37D81304173CD2b203508AB1F6934b81B",
+  "address": "0x1149CFC37D81304173CD2b203508AB1F6934b81B",
+  "blockchain": "ethereum",
+  "name": "ASTOX",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1149CFC37D81304173CD2b203508AB1F6934b81B",
+  "research": null,
+  "symbol": "ASTX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

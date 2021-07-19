@@ -1,0 +1,18 @@
+{
+  "id": "0x419B8ED155180A8c9C64145e76DaD49c0A4Efb97",
+  "address": "0x419B8ED155180A8c9C64145e76DaD49c0A4Efb97",
+  "blockchain": "ethereum",
+  "name": "AltEstate token",
+  "website": "https://alt.estate",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x419B8ED155180A8c9C64145e76DaD49c0A4Efb97",
+  "research": null,
+  "symbol": "ALT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

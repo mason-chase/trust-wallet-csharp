@@ -1,0 +1,18 @@
+{
+  "id": "0x63c500B0bFEB042FF70ea2450AeBa72713D10668",
+  "address": "0x63c500B0bFEB042FF70ea2450AeBa72713D10668",
+  "blockchain": "smartchain",
+  "name": "Moon Stake",
+  "website": "https://moonstake.finance/",
+  "description": "Moon Stake token of staking Protocol(Multi-chain staking Marketplace)",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x63c500B0bFEB042FF70ea2450AeBa72713D10668",
+  "research": null,
+  "symbol": "MSEF",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

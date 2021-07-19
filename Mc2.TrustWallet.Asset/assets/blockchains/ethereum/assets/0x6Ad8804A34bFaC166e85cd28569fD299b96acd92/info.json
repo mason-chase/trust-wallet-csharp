@@ -1,0 +1,18 @@
+{
+  "id": "0x6Ad8804A34bFaC166e85cd28569fD299b96acd92",
+  "address": "0x6Ad8804A34bFaC166e85cd28569fD299b96acd92",
+  "blockchain": "ethereum",
+  "name": "MasterMind Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6Ad8804A34bFaC166e85cd28569fD299b96acd92",
+  "research": null,
+  "symbol": "MMT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

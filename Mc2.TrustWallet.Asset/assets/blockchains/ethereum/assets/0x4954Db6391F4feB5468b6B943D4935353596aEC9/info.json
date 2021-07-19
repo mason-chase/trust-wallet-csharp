@@ -1,0 +1,18 @@
+{
+  "id": "0x4954Db6391F4feB5468b6B943D4935353596aEC9",
+  "address": "0x4954Db6391F4feB5468b6B943D4935353596aEC9",
+  "blockchain": "ethereum",
+  "name": "USDQ Stablecoin by Q DAO v1.0",
+  "website": "https://usdq.platinum.fund/",
+  "description": "USDQ is a decentralized stable coin, which is backed by bitcoin and pegged to the dollar, so 1 USDQ = $1 USD.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4954Db6391F4feB5468b6B943D4935353596aEC9",
+  "research": null,
+  "symbol": "USDQ",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x76cb396Be0f76DbC58A8eB0569B7163Bf02d5555",
+  "address": "0x76cb396Be0f76DbC58A8eB0569B7163Bf02d5555",
+  "blockchain": "ethereum",
+  "name": "MonsterEnergyToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x76cb396Be0f76DbC58A8eB0569B7163Bf02d5555",
+  "research": null,
+  "symbol": "MET",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

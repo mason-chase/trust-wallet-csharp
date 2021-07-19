@@ -1,0 +1,18 @@
+{
+  "id": "0xEF19F4E48830093Ce5bC8b3Ff7f903A0AE3E9Fa1",
+  "address": "0xEF19F4E48830093Ce5bC8b3Ff7f903A0AE3E9Fa1",
+  "blockchain": "ethereum",
+  "name": "botXcoin",
+  "website": "http://botxcoin.com",
+  "description": "The first copytrade platform with blockchain technology",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xEF19F4E48830093Ce5bC8b3Ff7f903A0AE3E9Fa1",
+  "research": null,
+  "symbol": "BOTX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

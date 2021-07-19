@@ -1,0 +1,18 @@
+{
+  "id": "0xF05763b9fE67eD371bCC27F8Da3E86f4c7053e34",
+  "address": "0xF05763b9fE67eD371bCC27F8Da3E86f4c7053e34",
+  "blockchain": "ethereum",
+  "name": "Veritoken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF05763b9fE67eD371bCC27F8Da3E86f4c7053e34",
+  "research": null,
+  "symbol": "VT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

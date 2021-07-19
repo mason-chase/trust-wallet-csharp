@@ -1,0 +1,18 @@
+{
+  "id": "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+  "address": "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+  "blockchain": "ethereum",
+  "name": "Fetch.ai",
+  "website": "https://fetch.ai",
+  "description": "Fetch.ai aims to be at the forefront of accelerating research and the deployment of emerging technologies such as blockchain and AI.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+  "research": "https://research.binance.com/en/projects/fetch-ai",
+  "symbol": "FET",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x31414F9166291FC486965991264Ec00eB1f60603",
+  "address": "0x31414F9166291FC486965991264Ec00eB1f60603",
+  "blockchain": "ethereum",
+  "name": "B2B Coin Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x31414F9166291FC486965991264Ec00eB1f60603",
+  "research": null,
+  "symbol": "B2BC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

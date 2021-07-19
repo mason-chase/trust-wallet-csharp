@@ -1,0 +1,18 @@
+{
+  "id": "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC",
+  "address": "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC",
+  "blockchain": "ethereum",
+  "name": "Compound Dai",
+  "website": "https://compound.finance/",
+  "description": "Compound is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF5DCe57282A584D2746FaF1593d3121Fcac444dC",
+  "research": null,
+  "symbol": "cDAI",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

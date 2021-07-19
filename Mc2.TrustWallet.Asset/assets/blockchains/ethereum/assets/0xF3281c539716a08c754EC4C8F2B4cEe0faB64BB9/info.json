@@ -1,0 +1,18 @@
+{
+  "id": "0xF3281c539716a08c754EC4C8F2B4cEe0faB64BB9",
+  "address": "0xF3281c539716a08c754EC4C8F2B4cEe0faB64BB9",
+  "blockchain": "ethereum",
+  "name": "Markaccy",
+  "website": "https://www.markaccy.io/",
+  "description": "Markaccy is a decentralized project aiming to unite a strong business community in pursuit of mutual interests through effective, easy, and professional P2P mechanisms with no intermediaries.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF3281c539716a08c754EC4C8F2B4cEe0faB64BB9",
+  "research": null,
+  "symbol": "MKCY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

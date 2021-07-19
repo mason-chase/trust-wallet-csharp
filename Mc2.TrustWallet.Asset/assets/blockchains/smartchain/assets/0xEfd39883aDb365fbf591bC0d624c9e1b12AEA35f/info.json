@@ -1,0 +1,18 @@
+{
+  "id": "0xEfd39883aDb365fbf591bC0d624c9e1b12AEA35f",
+  "address": "0xEfd39883aDb365fbf591bC0d624c9e1b12AEA35f",
+  "blockchain": "smartchain",
+  "name": "DinkDoink",
+  "website": "https://dinkdoink.net",
+  "description": "DinkDoink is a cryptocurrency bridging the gap between entertainment and crypto!",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xEfd39883aDb365fbf591bC0d624c9e1b12AEA35f",
+  "research": null,
+  "symbol": "DINK",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

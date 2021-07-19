@@ -1,0 +1,18 @@
+{
+  "id": "0x9235bDA06B8807161b8FBB1e102CB654555b212F",
+  "address": "0x9235bDA06B8807161b8FBB1e102CB654555b212F",
+  "blockchain": "ethereum",
+  "name": "Feellike",
+  "website": "https://feelliketimetraveler.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9235bDA06B8807161b8FBB1e102CB654555b212F",
+  "research": null,
+  "symbol": "FLL",
+  "type": "ERC20",
+  "decimals": 3,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

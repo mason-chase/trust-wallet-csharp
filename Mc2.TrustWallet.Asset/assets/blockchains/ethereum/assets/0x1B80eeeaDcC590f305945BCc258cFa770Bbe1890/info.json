@@ -1,0 +1,18 @@
+{
+  "id": "0x1B80eeeaDcC590f305945BCc258cFa770Bbe1890",
+  "address": "0x1B80eeeaDcC590f305945BCc258cFa770Bbe1890",
+  "blockchain": "ethereum",
+  "name": "BITSDAQ TOKEN",
+  "website": "https://bitsdaq.com",
+  "description": "Bitsdaq aims to be the pioneer that’s leading the blockchain industry to the next generation with their well-rounded crypto service platform by combining its unique partnerships and cutting-edge technologies.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1B80eeeaDcC590f305945BCc258cFa770Bbe1890",
+  "research": null,
+  "symbol": "BQQQ",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x1341A2257fa7b770420Ef70616f888056f90926c",
+  "address": "0x1341A2257fa7b770420Ef70616f888056f90926c",
+  "blockchain": "ethereum",
+  "name": "Zoo Token",
+  "website": "https://zootoken.io",
+  "description": "ZooToken will be the hub for these Animal Coins key-values.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1341A2257fa7b770420Ef70616f888056f90926c",
+  "research": null,
+  "symbol": "ZOOT",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

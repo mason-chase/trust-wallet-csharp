@@ -1,0 +1,18 @@
+{
+  "id": "0x67a9099f0008C35C61c00042cd9Fb03684451097",
+  "address": "0x67a9099f0008C35C61c00042cd9Fb03684451097",
+  "blockchain": "ethereum",
+  "name": "GAMESTARS TOKEN",
+  "website": "http://gamestars.io",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x67a9099f0008C35C61c00042cd9Fb03684451097",
+  "research": null,
+  "symbol": "GST",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

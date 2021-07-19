@@ -1,0 +1,18 @@
+{
+  "id": "0xE63D611B76EE1Ad92Df5153f3e573F7453ca0901",
+  "address": "0xE63D611B76EE1Ad92Df5153f3e573F7453ca0901",
+  "blockchain": "ethereum",
+  "name": "Fulcrum Perpetual Short WBTC-DAI 2x v2",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE63D611B76EE1Ad92Df5153f3e573F7453ca0901",
+  "research": null,
+  "symbol": "dsWBTC2x",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

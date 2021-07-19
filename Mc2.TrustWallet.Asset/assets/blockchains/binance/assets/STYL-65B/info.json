@@ -1,0 +1,18 @@
+{
+  "id": "STYL-65B",
+  "address": "STYL-65B",
+  "blockchain": "binance",
+  "name": "Yin Lang Music IP Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/STYL-65B",
+  "research": null,
+  "symbol": "STYL",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

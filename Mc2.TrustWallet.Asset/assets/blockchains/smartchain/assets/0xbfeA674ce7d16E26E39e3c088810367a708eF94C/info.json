@@ -1,0 +1,18 @@
+{
+  "id": "0xbfeA674ce7d16E26E39e3c088810367a708eF94C",
+  "address": "0xbfeA674ce7d16E26E39e3c088810367a708eF94C",
+  "blockchain": "smartchain",
+  "name": "April Token",
+  "website": "https://apriloracle.com",
+  "description": "April is a high speed, cross chain oracle serving the Internet of Blockchains",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xbfea674ce7d16e26e39e3c088810367a708ef94c",
+  "research": null,
+  "symbol": "APRIL",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

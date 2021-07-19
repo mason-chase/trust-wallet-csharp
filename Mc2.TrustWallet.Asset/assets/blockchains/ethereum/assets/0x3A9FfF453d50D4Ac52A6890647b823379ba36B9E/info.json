@@ -1,0 +1,18 @@
+{
+  "id": "0x3A9FfF453d50D4Ac52A6890647b823379ba36B9E",
+  "address": "0x3A9FfF453d50D4Ac52A6890647b823379ba36B9E",
+  "blockchain": "ethereum",
+  "name": "Shuffle.Monster V3",
+  "website": "https://shuffle.monster/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3A9FfF453d50D4Ac52A6890647b823379ba36B9E",
+  "research": null,
+  "symbol": "SHUF",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x29fb4CEe43155bAAB885897f0e96B1F0572a1E86",
+  "address": "0x29fb4CEe43155bAAB885897f0e96B1F0572a1E86",
+  "blockchain": "ethereum",
+  "name": "FilmBusinessBuster",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x29fb4CEe43155bAAB885897f0e96B1F0572a1E86",
+  "research": null,
+  "symbol": "FBB",
+  "type": "ERC20",
+  "decimals": 3,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

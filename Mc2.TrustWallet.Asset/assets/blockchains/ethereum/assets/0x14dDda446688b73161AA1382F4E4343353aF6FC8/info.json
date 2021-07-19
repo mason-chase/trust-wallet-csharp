@@ -1,0 +1,18 @@
+{
+  "id": "0x14dDda446688b73161AA1382F4E4343353aF6FC8",
+  "address": "0x14dDda446688b73161AA1382F4E4343353aF6FC8",
+  "blockchain": "ethereum",
+  "name": "FXPay",
+  "website": "https://fxpay.io/",
+  "description": "FXP is a gateway solution which will unify the Ecosystem and Forex industry based on the blockchain technology.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x14dDda446688b73161AA1382F4E4343353aF6FC8",
+  "research": null,
+  "symbol": "FXP",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

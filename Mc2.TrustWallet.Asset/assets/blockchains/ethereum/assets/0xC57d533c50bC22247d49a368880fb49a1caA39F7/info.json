@@ -1,0 +1,27 @@
+{
+  "id": "0xC57d533c50bC22247d49a368880fb49a1caA39F7",
+  "address": "0xC57d533c50bC22247d49a368880fb49a1caA39F7",
+  "blockchain": "ethereum",
+  "name": "PowerTrade Fuel",
+  "website": "https://power.trade/",
+  "description": "The PowerTrade Fuel Token (PTF) is a DAO token which governs the treasury that covers PowerTrade traders in the event of a black swan.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xC57d533c50bC22247d49a368880fb49a1caA39F7",
+  "research": null,
+  "symbol": "PTF",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/Power-Trade/fuel-dao/"
+    },
+    {
+      "name": "white_paper",
+      "url": "https://power.trade/fuel-token/"
+    }
+  ],
+  "tags": null
+}

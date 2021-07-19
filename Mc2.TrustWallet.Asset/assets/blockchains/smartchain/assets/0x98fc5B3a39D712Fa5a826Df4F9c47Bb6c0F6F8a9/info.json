@@ -1,0 +1,18 @@
+{
+  "id": "0x98fc5B3a39D712Fa5a826Df4F9c47Bb6c0F6F8a9",
+  "address": "0x98fc5B3a39D712Fa5a826Df4F9c47Bb6c0F6F8a9",
+  "blockchain": "smartchain",
+  "name": "BitGay",
+  "website": "https://bitgay.org",
+  "description": "BitGay is the first LGBTQ+ community token on the Binance Smart Chain.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x98fc5b3a39d712fa5a826df4f9c47bb6c0f6f8a9",
+  "research": null,
+  "symbol": "BitGay",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x08DA80F28b960bdfAB798c172FF20619540b9ce5",
+  "address": "0x08DA80F28b960bdfAB798c172FF20619540b9ce5",
+  "blockchain": "ethereum",
+  "name": "OWN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x08DA80F28b960bdfAB798c172FF20619540b9ce5",
+  "research": null,
+  "symbol": "OWN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

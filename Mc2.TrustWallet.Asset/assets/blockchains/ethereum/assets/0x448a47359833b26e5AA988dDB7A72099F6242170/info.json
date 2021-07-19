@@ -1,0 +1,18 @@
+{
+  "id": "0x448a47359833b26e5AA988dDB7A72099F6242170",
+  "address": "0x448a47359833b26e5AA988dDB7A72099F6242170",
+  "blockchain": "ethereum",
+  "name": "Real Estate Investment Token",
+  "website": "https://uberstate.me/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x448a47359833b26e5AA988dDB7A72099F6242170",
+  "research": null,
+  "symbol": "RIT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

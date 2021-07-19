@@ -1,0 +1,18 @@
+{
+  "id": "0xDfa66Ec49CF0102fB8906eE3dD6a70597D9720d4",
+  "address": "0xDfa66Ec49CF0102fB8906eE3dD6a70597D9720d4",
+  "blockchain": "ethereum",
+  "name": "DEKSEN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDfa66Ec49CF0102fB8906eE3dD6a70597D9720d4",
+  "research": null,
+  "symbol": "DEKS",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xd37532D304214D588aeeaC4c365E8F1d72e2304A",
+  "address": "0xd37532D304214D588aeeaC4c365E8F1d72e2304A",
+  "blockchain": "ethereum",
+  "name": "FCoin Token (Released)",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd37532D304214D588aeeaC4c365E8F1d72e2304A",
+  "research": null,
+  "symbol": "FT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

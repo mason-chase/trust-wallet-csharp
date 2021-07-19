@@ -1,0 +1,18 @@
+{
+  "id": "0x4A1eDf138398b89E819a5F252830ac8cc3E53378",
+  "address": "0x4A1eDf138398b89E819a5F252830ac8cc3E53378",
+  "blockchain": "ethereum",
+  "name": "IAM MDLT C 000-CN16",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4A1eDf138398b89E819a5F252830ac8cc3E53378",
+  "research": null,
+  "symbol": "IAM",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

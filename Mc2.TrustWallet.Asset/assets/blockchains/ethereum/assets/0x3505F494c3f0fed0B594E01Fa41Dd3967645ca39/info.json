@@ -1,0 +1,18 @@
+{
+  "id": "0x3505F494c3f0fed0B594E01Fa41Dd3967645ca39",
+  "address": "0x3505F494c3f0fed0B594E01Fa41Dd3967645ca39",
+  "blockchain": "ethereum",
+  "name": "SWARM",
+  "website": "http://swarm.fund",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3505F494c3f0fed0B594E01Fa41Dd3967645ca39",
+  "research": null,
+  "symbol": "SWM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

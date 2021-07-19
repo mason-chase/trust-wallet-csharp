@@ -1,0 +1,18 @@
+{
+  "id": "0xdF30C7f5B368c0e251754E5DC50FBf91C5Dfa479",
+  "address": "0xdF30C7f5B368c0e251754E5DC50FBf91C5Dfa479",
+  "blockchain": "ethereum",
+  "name": "Tyche Chip",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xdF30C7f5B368c0e251754E5DC50FBf91C5Dfa479",
+  "research": null,
+  "symbol": "TCH",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

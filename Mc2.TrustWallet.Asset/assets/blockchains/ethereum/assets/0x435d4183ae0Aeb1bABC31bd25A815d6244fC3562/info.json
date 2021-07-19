@@ -1,0 +1,18 @@
+{
+  "id": "0x435d4183ae0Aeb1bABC31bd25A815d6244fC3562",
+  "address": "0x435d4183ae0Aeb1bABC31bd25A815d6244fC3562",
+  "blockchain": "ethereum",
+  "name": "Rich Human Crypto",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x435d4183ae0Aeb1bABC31bd25A815d6244fC3562",
+  "research": null,
+  "symbol": "RHC",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

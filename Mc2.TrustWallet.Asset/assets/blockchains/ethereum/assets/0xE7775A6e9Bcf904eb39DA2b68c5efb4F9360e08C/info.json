@@ -1,0 +1,18 @@
+{
+  "id": "0xE7775A6e9Bcf904eb39DA2b68c5efb4F9360e08C",
+  "address": "0xE7775A6e9Bcf904eb39DA2b68c5efb4F9360e08C",
+  "blockchain": "ethereum",
+  "name": "Token-as-a-Service",
+  "website": "https://www.taas.fund/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE7775A6e9Bcf904eb39DA2b68c5efb4F9360e08C",
+  "research": null,
+  "symbol": "TAAS",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

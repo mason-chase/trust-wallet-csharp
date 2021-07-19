@@ -1,0 +1,23 @@
+{
+  "id": "0x93effD08e3E5A4B1b40C26137e63876B2501ffA4",
+  "address": "0x93effD08e3E5A4B1b40C26137e63876B2501ffA4",
+  "blockchain": "ethereum",
+  "name": "JulSwap",
+  "website": "https://julswap.com",
+  "description": "The JulSwap Token on ETH .",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x93effD08e3E5A4B1b40C26137e63876B2501ffA4",
+  "research": null,
+  "symbol": "JulD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/JustLiquidity"
+    }
+  ],
+  "tags": null
+}

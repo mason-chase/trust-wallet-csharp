@@ -1,0 +1,18 @@
+{
+  "id": "0xFD42728b76772A82cCaD527E298Dd15A55F4DdD6",
+  "address": "0xFD42728b76772A82cCaD527E298Dd15A55F4DdD6",
+  "blockchain": "smartchain",
+  "name": "KarenCoin",
+  "website": "https://www.karencointoken.com/",
+  "description": "Karen Coin is a meme based token built on value driven tokenomics",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xFD42728b76772A82cCaD527E298Dd15A55F4DdD6",
+  "research": null,
+  "symbol": "KAREN",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

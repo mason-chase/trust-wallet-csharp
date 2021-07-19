@@ -1,0 +1,18 @@
+{
+  "id": "0x11E0b97730A67E6dfb8A917Ce9a464Bf6Fb1ABE0",
+  "address": "0x11E0b97730A67E6dfb8A917Ce9a464Bf6Fb1ABE0",
+  "blockchain": "ethereum",
+  "name": "IzerBlack",
+  "website": "https://izerblack.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x11E0b97730A67E6dfb8A917Ce9a464Bf6Fb1ABE0",
+  "research": null,
+  "symbol": "IZB",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

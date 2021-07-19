@@ -1,0 +1,18 @@
+{
+  "id": "0x0bAfb5731805115287e4C25aBdC7f6167Ab1Dbb1",
+  "address": "0x0bAfb5731805115287e4C25aBdC7f6167Ab1Dbb1",
+  "blockchain": "ethereum",
+  "name": "BlockchainOfThings",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0bAfb5731805115287e4C25aBdC7f6167Ab1Dbb1",
+  "research": null,
+  "symbol": "BOTS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

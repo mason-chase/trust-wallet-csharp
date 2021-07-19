@@ -1,0 +1,18 @@
+{
+  "id": "0x626E8036dEB333b408Be468F951bdB42433cBF18",
+  "address": "0x626E8036dEB333b408Be468F951bdB42433cBF18",
+  "blockchain": "ethereum",
+  "name": "AIOZ Network Coin",
+  "website": "https://aioz.network",
+  "description": "AIOZ Network is re-imagining streaming from the ground up with a blockchain that integrates content distribution and tokenomics built for media.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x626E8036dEB333b408Be468F951bdB42433cBF18",
+  "research": null,
+  "symbol": "AIOZ",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

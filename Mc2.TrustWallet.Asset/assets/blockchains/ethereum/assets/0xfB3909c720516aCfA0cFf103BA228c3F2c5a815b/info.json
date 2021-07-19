@@ -1,0 +1,18 @@
+{
+  "id": "0xfB3909c720516aCfA0cFf103BA228c3F2c5a815b",
+  "address": "0xfB3909c720516aCfA0cFf103BA228c3F2c5a815b",
+  "blockchain": "ethereum",
+  "name": "MKIMG1-21/30M51",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xfB3909c720516aCfA0cFf103BA228c3F2c5a815b",
+  "research": null,
+  "symbol": "M",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x922105fAd8153F516bCfB829f56DC097a0E1D705",
+  "address": "0x922105fAd8153F516bCfB829f56DC097a0E1D705",
+  "blockchain": "ethereum",
+  "name": "Yee - A Blockchain-powered & Cloud-based Social Ecosystem",
+  "website": "https://yeeco.io",
+  "description": "Next Generation Blockchain For a Trustful 5G World",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x922105fAd8153F516bCfB829f56DC097a0E1D705",
+  "research": null,
+  "symbol": "YEE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

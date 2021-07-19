@@ -1,0 +1,18 @@
+{
+  "id": "0x82bdfb4C6F488fC47700ceF12C448a2F13F8fF4F",
+  "address": "0x82bdfb4C6F488fC47700ceF12C448a2F13F8fF4F",
+  "blockchain": "ethereum",
+  "name": "SealBlock Token",
+  "website": "https://sealblock.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x82bdfb4C6F488fC47700ceF12C448a2F13F8fF4F",
+  "research": null,
+  "symbol": "SKT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

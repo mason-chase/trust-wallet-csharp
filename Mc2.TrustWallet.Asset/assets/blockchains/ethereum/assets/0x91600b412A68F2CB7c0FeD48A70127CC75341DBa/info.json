@@ -1,0 +1,18 @@
+{
+  "id": "0x91600b412A68F2CB7c0FeD48A70127CC75341DBa",
+  "address": "0x91600b412A68F2CB7c0FeD48A70127CC75341DBa",
+  "blockchain": "ethereum",
+  "name": "WrapOMC",
+  "website": "https://ecocelium.io",
+  "description": "Wrapped version of Ormeus Cash (OMC)",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x91600b412A68F2CB7c0FeD48A70127CC75341DBa",
+  "research": null,
+  "symbol": "eOMC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x32d74896f05204D1b6Ae7B0a3CEBd7FC0Cd8F9C7",
+  "address": "0x32d74896f05204D1b6Ae7B0a3CEBd7FC0Cd8F9C7",
+  "blockchain": "ethereum",
+  "name": "Kcash",
+  "website": "https://www.kcash.com",
+  "description": "Kcash (KCASH) is a cryptocurrency and operates on the Ethereum platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x32d74896f05204D1b6Ae7B0a3CEBd7FC0Cd8F9C7",
+  "research": null,
+  "symbol": "KCASH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

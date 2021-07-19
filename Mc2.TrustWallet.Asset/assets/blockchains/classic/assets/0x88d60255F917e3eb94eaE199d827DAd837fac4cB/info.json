@@ -1,0 +1,18 @@
+{
+  "id": "0x88d60255F917e3eb94eaE199d827DAd837fac4cB",
+  "address": "0x88d60255F917e3eb94eaE199d827DAd837fac4cB",
+  "blockchain": "classic",
+  "name": "Gastoken.io",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://blockscout.com/etc/mainnet/tokens/0x88d60255F917e3eb94eaE199d827DAd837fac4cB",
+  "research": null,
+  "symbol": "GST1",
+  "type": "ETC20",
+  "decimals": 2,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x10Bae51262490B4f4AF41e12eD52A0E744c1137A",
+  "address": "0x10Bae51262490B4f4AF41e12eD52A0E744c1137A",
+  "blockchain": "ethereum",
+  "name": "Soft Link",
+  "website": "https://slink.finance/",
+  "description": "Softlink is a rebasing token that attempts to achieve a non-collaterized price peg to LINK by contracting and expanding supply evenly across all balances.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x10Bae51262490B4f4AF41e12eD52A0E744c1137A",
+  "research": null,
+  "symbol": "SLINK",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

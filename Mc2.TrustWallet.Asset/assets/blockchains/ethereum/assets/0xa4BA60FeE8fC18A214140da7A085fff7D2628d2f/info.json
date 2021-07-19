@@ -1,0 +1,18 @@
+{
+  "id": "0xa4BA60FeE8fC18A214140da7A085fff7D2628d2f",
+  "address": "0xa4BA60FeE8fC18A214140da7A085fff7D2628d2f",
+  "blockchain": "ethereum",
+  "name": "Electronic Sports Alliance ESA",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa4BA60FeE8fC18A214140da7A085fff7D2628d2f",
+  "research": null,
+  "symbol": "ESA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xFeea0bDd3D07eb6FE305938878C0caDBFa169042",
+  "address": "0xFeea0bDd3D07eb6FE305938878C0caDBFa169042",
+  "blockchain": "smartchain",
+  "name": "8PAY Network",
+  "website": "https://8pay.network",
+  "description": "DEFI platform for automatic trustless crypto payments.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xfeea0bdd3d07eb6fe305938878c0cadbfa169042",
+  "research": null,
+  "symbol": "8PAY",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

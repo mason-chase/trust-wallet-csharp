@@ -1,0 +1,18 @@
+{
+  "id": "0x740B88Dd18D4987f1b0Fe02d59E174be59938EBb",
+  "address": "0x740B88Dd18D4987f1b0Fe02d59E174be59938EBb",
+  "blockchain": "ethereum",
+  "name": "Econ",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x740B88Dd18D4987f1b0Fe02d59E174be59938EBb",
+  "research": null,
+  "symbol": "ECON",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xc2591D74cC6A0810847ADD242319d4b43c8e5f09",
+  "address": "0xc2591D74cC6A0810847ADD242319d4b43c8e5f09",
+  "blockchain": "smartchain",
+  "name": "FawkesMask",
+  "website": "https://fawkesmask.com/",
+  "description": "Fawkes Mask works on an autonomous frictionless yield farming and liquidity generation protocol",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xc2591d74cc6a0810847add242319d4b43c8e5f09",
+  "research": null,
+  "symbol": "FMK",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xAee7474c3713eCe228Aa5Ec43C89c708f2Ec7ed2",
+  "address": "0xAee7474c3713eCe228Aa5Ec43C89c708f2Ec7ed2",
+  "blockchain": "ethereum",
+  "name": "Alphaslot",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xAee7474c3713eCe228Aa5Ec43C89c708f2Ec7ed2",
+  "research": null,
+  "symbol": "SLOT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

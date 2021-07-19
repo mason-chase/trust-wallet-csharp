@@ -1,0 +1,18 @@
+{
+  "id": "0x38D389C300357A26Beec198F3893fbA54FDe69C5",
+  "address": "0x38D389C300357A26Beec198F3893fbA54FDe69C5",
+  "blockchain": "ethereum",
+  "name": "PayUSD",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x38D389C300357A26Beec198F3893fbA54FDe69C5",
+  "research": null,
+  "symbol": "PUSD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

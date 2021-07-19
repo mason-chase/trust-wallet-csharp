@@ -1,0 +1,18 @@
+{
+  "id": "0xcecede5A20645EAc6ca2032eeEb1063572D63c29",
+  "address": "0xcecede5A20645EAc6ca2032eeEb1063572D63c29",
+  "blockchain": "ethereum",
+  "name": "P2P Global Network",
+  "website": "https://p2pglobal.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xcecede5A20645EAc6ca2032eeEb1063572D63c29",
+  "research": null,
+  "symbol": "P2PX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

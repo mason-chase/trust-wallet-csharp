@@ -1,0 +1,18 @@
+{
+  "id": "0x69DC5556A91DFab39f8D50f6FE552296F2268Dda",
+  "address": "0x69DC5556A91DFab39f8D50f6FE552296F2268Dda",
+  "blockchain": "ethereum",
+  "name": "Wonder",
+  "website": "https://wondercoin.info",
+  "description": "Wonder is ERC20 token that is going to become a payment method in websites and games.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x69DC5556A91DFab39f8D50f6FE552296F2268Dda",
+  "research": null,
+  "symbol": "WND",
+  "type": "ERC20",
+  "decimals": 5,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

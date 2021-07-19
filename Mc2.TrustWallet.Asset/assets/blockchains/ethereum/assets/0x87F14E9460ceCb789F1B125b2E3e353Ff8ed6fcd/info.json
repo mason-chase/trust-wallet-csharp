@@ -1,0 +1,18 @@
+{
+  "id": "0x87F14E9460ceCb789F1B125b2E3e353Ff8ed6fcd",
+  "address": "0x87F14E9460ceCb789F1B125b2E3e353Ff8ed6fcd",
+  "blockchain": "ethereum",
+  "name": "Bytus",
+  "website": "http://bytus.io",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x87F14E9460ceCb789F1B125b2E3e353Ff8ed6fcd",
+  "research": null,
+  "symbol": "BYTS",
+  "type": "ERC20",
+  "decimals": 3,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

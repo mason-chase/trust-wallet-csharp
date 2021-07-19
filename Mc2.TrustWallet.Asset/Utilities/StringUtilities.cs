@@ -14,12 +14,12 @@ namespace Mc2.TrustWallet.Asset.Utilities
 
         public static string ToPascalCase(this string original)
         {
-            Regex invalidCharsRgx = new("[^_a-zA-Z0-9]");
-            Regex whiteSpace = new(@"(?<=\s)");
-            Regex startsWithLowerCaseChar = new("^[a-z]");
-            Regex firstCharFollowedByUpperCasesOnly = new("(?<=[A-Z])[A-Z0-9]+$");
-            Regex lowerCaseNextToNumber = new("(?<=[0-9])[a-z]");
-            Regex upperCaseInside = new("(?<=[A-Z])[A-Z]+?((?=[A-Z][a-z])|(?=[0-9]))");
+            Regex invalidCharsRgx = new Regex("[^_a-zA-Z0-9]");
+            Regex whiteSpace = new Regex(@"(?<=\s)");
+            Regex startsWithLowerCaseChar = new Regex("^[a-z]");
+            Regex firstCharFollowedByUpperCasesOnly = new Regex("(?<=[A-Z])[A-Z0-9]+$");
+            Regex lowerCaseNextToNumber = new Regex("(?<=[0-9])[a-z]");
+            Regex upperCaseInside = new Regex("(?<=[A-Z])[A-Z]+?((?=[A-Z][a-z])|(?=[0-9]))");
 
             // replace white spaces with undescore, then replace all invalid chars with empty string
             var pascalCase = invalidCharsRgx.Replace(whiteSpace.Replace(original, "_"), string.Empty)
@@ -39,8 +39,8 @@ namespace Mc2.TrustWallet.Asset.Utilities
 
         public static string ToConstantCase(this string original, bool addPrefix = false)
         {
-            Regex invalidCharsRgx = new("[^_a-zA-Z0-9]");
-            Regex whiteSpace = new(@"(?<=\s)");
+            Regex invalidCharsRgx = new Regex("[^_a-zA-Z0-9]");
+            Regex whiteSpace = new Regex(@"(?<=\s)");
 
             // replace white spaces with undescore, then replace all invalid chars with empty string
             var constantCase = invalidCharsRgx.Replace(whiteSpace.Replace(original, "_"), string.Empty)

@@ -1,0 +1,18 @@
+{
+  "id": "0x3c4A48BeA9335f368e8f386bD1E49Eb85521f01B",
+  "address": "0x3c4A48BeA9335f368e8f386bD1E49Eb85521f01B",
+  "blockchain": "ethereum",
+  "name": "MindCaptial",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3c4A48BeA9335f368e8f386bD1E49Eb85521f01B",
+  "research": null,
+  "symbol": "MCP",
+  "type": "ERC20",
+  "decimals": 3,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

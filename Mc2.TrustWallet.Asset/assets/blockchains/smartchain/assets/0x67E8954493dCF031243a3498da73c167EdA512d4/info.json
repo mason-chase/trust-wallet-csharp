@@ -1,0 +1,18 @@
+{
+  "id": "0x67E8954493dCF031243a3498da73c167EdA512d4",
+  "address": "0x67E8954493dCF031243a3498da73c167EdA512d4",
+  "blockchain": "smartchain",
+  "name": "Galaxium",
+  "website": "https://galaxium.space",
+  "description": "A decentralized finance (DeFi) global payment solution built on lightning fast open source code providing safe, secure, and seamless transactions with bulletproof BSC technology.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x67e8954493dcf031243a3498da73c167eda512d4",
+  "research": null,
+  "symbol": "GLXM",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

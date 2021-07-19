@@ -1,0 +1,18 @@
+{
+  "id": "0xF1cA9cb74685755965c7458528A36934Df52A3EF",
+  "address": "0xF1cA9cb74685755965c7458528A36934Df52A3EF",
+  "blockchain": "ethereum",
+  "name": "AVINOC Token",
+  "website": "https://www.avinoc.com/",
+  "description": "AVINOC is a consistent, integrated and permissionless base data layer for decentralized, transparent and worldwide coordination of business flights within the general aviation, to achieve optimal utilization and reduce costs significantly.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF1cA9cb74685755965c7458528A36934Df52A3EF",
+  "research": null,
+  "symbol": "AVINOC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xE6FFa2e574a8BBEb5243D2109b6B11D4a459F88B",
+  "address": "0xE6FFa2e574a8BBEb5243D2109b6B11D4a459F88B",
+  "blockchain": "smartchain",
+  "name": "Hippo Token",
+  "website": "https://hippo.cycan.network/",
+  "description": "Hippo (HIP) is a visionary decentralized community initiative, created by the Cycan community. Our vision is to build a Decentralized Autonomous Organization(DAO) driven and governed entirely by the community.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xE6FFa2e574a8BBEb5243D2109b6B11D4a459F88B",
+  "research": null,
+  "symbol": "HIP",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

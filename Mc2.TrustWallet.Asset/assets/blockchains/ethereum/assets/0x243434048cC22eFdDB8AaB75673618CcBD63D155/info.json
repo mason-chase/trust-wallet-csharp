@@ -1,0 +1,18 @@
+{
+  "id": "0x243434048cC22eFdDB8AaB75673618CcBD63D155",
+  "address": "0x243434048cC22eFdDB8AaB75673618CcBD63D155",
+  "blockchain": "ethereum",
+  "name": "onlyHundred",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x243434048cC22eFdDB8AaB75673618CcBD63D155",
+  "research": null,
+  "symbol": "OH",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

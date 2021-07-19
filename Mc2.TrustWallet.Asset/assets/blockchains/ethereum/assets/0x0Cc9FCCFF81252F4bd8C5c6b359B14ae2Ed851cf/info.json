@@ -1,0 +1,18 @@
+{
+  "id": "0x0Cc9FCCFF81252F4bd8C5c6b359B14ae2Ed851cf",
+  "address": "0x0Cc9FCCFF81252F4bd8C5c6b359B14ae2Ed851cf",
+  "blockchain": "ethereum",
+  "name": "InnovativeBioresearchClassic",
+  "website": "https://www.innovativebioresearch.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0Cc9FCCFF81252F4bd8C5c6b359B14ae2Ed851cf",
+  "research": null,
+  "symbol": "INNBCL",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

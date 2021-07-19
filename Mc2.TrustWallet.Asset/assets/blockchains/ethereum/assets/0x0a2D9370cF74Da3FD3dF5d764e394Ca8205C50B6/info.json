@@ -1,0 +1,18 @@
+{
+  "id": "0x0a2D9370cF74Da3FD3dF5d764e394Ca8205C50B6",
+  "address": "0x0a2D9370cF74Da3FD3dF5d764e394Ca8205C50B6",
+  "blockchain": "ethereum",
+  "name": "SAVE ENVIRONMENT TOKEN",
+  "website": "https://www.set4earth.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0a2D9370cF74Da3FD3dF5d764e394Ca8205C50B6",
+  "research": null,
+  "symbol": "SET",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xc0984810873C9D1546afB0286Ae996a370E05f16",
+  "address": "0xc0984810873C9D1546afB0286Ae996a370E05f16",
+  "blockchain": "ethereum",
+  "name": "Bit Ether",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc0984810873C9D1546afB0286Ae996a370E05f16",
+  "research": null,
+  "symbol": "BIR",
+  "type": "ERC20",
+  "decimals": 3,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

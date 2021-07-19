@@ -1,0 +1,18 @@
+{
+  "id": "0x01a78db633940579E15e7bDB8EdfEE8ecDeA4522",
+  "address": "0x01a78db633940579E15e7bDB8EdfEE8ecDeA4522",
+  "blockchain": "smartchain",
+  "name": "Lithium",
+  "website": "https://lithium.ventures",
+  "description": "An ecosystem to drive innovation in the early-stage web 3.0 space.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x01a78db633940579e15e7bdb8edfee8ecdea4522",
+  "research": null,
+  "symbol": "EBSC",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

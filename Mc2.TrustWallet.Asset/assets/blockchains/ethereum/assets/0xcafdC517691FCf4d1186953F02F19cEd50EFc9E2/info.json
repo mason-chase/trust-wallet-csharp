@@ -1,0 +1,18 @@
+{
+  "id": "0xcafdC517691FCf4d1186953F02F19cEd50EFc9E2",
+  "address": "0xcafdC517691FCf4d1186953F02F19cEd50EFc9E2",
+  "blockchain": "ethereum",
+  "name": "ExhibitToken",
+  "website": "https://exitoken.co/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xcafdC517691FCf4d1186953F02F19cEd50EFc9E2",
+  "research": null,
+  "symbol": "EXBT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

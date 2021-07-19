@@ -1,0 +1,18 @@
+{
+  "id": "0x766E38D64EDdC4FD2369326E5Ea4Bf0b010c6A93",
+  "address": "0x766E38D64EDdC4FD2369326E5Ea4Bf0b010c6A93",
+  "blockchain": "ethereum",
+  "name": "Korean Won",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x766E38D64EDdC4FD2369326E5Ea4Bf0b010c6A93",
+  "research": null,
+  "symbol": "KRW",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

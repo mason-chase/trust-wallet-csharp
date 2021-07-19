@@ -1,0 +1,18 @@
+{
+  "id": "0x31274db8b609Df99E5988ee527071643b5160Fc3",
+  "address": "0x31274db8b609Df99E5988ee527071643b5160Fc3",
+  "blockchain": "ethereum",
+  "name": "Business Credit Substitute",
+  "website": "http://www.bcachain.org/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x31274db8b609Df99E5988ee527071643b5160Fc3",
+  "research": null,
+  "symbol": "BCS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

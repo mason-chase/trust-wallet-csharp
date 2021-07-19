@@ -1,0 +1,18 @@
+{
+  "id": "0x1D496da96caf6b518b133736beca85D5C4F9cBc5",
+  "address": "0x1D496da96caf6b518b133736beca85D5C4F9cBc5",
+  "blockchain": "ethereum",
+  "name": "bZx LINK iToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1D496da96caf6b518b133736beca85D5C4F9cBc5",
+  "research": null,
+  "symbol": "iLINK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xE5108bf6425D408df9d2C2909e77ca96a682E62B",
+  "address": "0xE5108bf6425D408df9d2C2909e77ca96a682E62B",
+  "blockchain": "ethereum",
+  "name": "Algo Hedge Fund",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE5108bf6425D408df9d2C2909e77ca96a682E62B",
+  "research": null,
+  "symbol": "AHF",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

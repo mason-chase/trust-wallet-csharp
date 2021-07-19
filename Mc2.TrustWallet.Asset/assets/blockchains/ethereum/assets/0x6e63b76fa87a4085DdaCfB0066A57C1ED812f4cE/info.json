@@ -1,0 +1,18 @@
+{
+  "id": "0x6e63b76fa87a4085DdaCfB0066A57C1ED812f4cE",
+  "address": "0x6e63b76fa87a4085DdaCfB0066A57C1ED812f4cE",
+  "blockchain": "ethereum",
+  "name": "Ocbtoken - Blockmax",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6e63b76fa87a4085DdaCfB0066A57C1ED812f4cE",
+  "research": null,
+  "symbol": "OCB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xc327DaF071fb374dcB2AfD28797fC58F096A8b1F",
+  "address": "0xc327DaF071fb374dcB2AfD28797fC58F096A8b1F",
+  "blockchain": "ethereum",
+  "name": "Aroma Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc327DaF071fb374dcB2AfD28797fC58F096A8b1F",
+  "research": null,
+  "symbol": "ART",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

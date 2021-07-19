@@ -1,0 +1,18 @@
+{
+  "id": "0xE6877ea9C28fBDeC631ffBc087956d0023A76bF2",
+  "address": "0xE6877ea9C28fBDeC631ffBc087956d0023A76bF2",
+  "blockchain": "ethereum",
+  "name": "UNI COIN",
+  "website": "https://www.uni-c.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE6877ea9C28fBDeC631ffBc087956d0023A76bF2",
+  "research": null,
+  "symbol": "UNI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

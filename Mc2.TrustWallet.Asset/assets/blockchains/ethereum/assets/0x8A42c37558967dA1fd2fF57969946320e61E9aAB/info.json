@@ -1,0 +1,18 @@
+{
+  "id": "0x8A42c37558967dA1fd2fF57969946320e61E9aAB",
+  "address": "0x8A42c37558967dA1fd2fF57969946320e61E9aAB",
+  "blockchain": "ethereum",
+  "name": "CloudWalkCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8A42c37558967dA1fd2fF57969946320e61E9aAB",
+  "research": null,
+  "symbol": "CWC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

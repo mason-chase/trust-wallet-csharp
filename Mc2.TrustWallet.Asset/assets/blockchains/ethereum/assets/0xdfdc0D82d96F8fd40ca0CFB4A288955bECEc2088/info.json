@@ -1,0 +1,18 @@
+{
+  "id": "0xdfdc0D82d96F8fd40ca0CFB4A288955bECEc2088",
+  "address": "0xdfdc0D82d96F8fd40ca0CFB4A288955bECEc2088",
+  "blockchain": "ethereum",
+  "name": "MTC Mesh Network",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xdfdc0D82d96F8fd40ca0CFB4A288955bECEc2088",
+  "research": null,
+  "symbol": "MTC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

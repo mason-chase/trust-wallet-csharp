@@ -1,0 +1,18 @@
+{
+  "id": "0xc04e039aE8587e71f8024b36d630f841cc2106CC",
+  "address": "0xc04e039aE8587e71f8024b36d630f841cc2106CC",
+  "blockchain": "smartchain",
+  "name": "Foundry Logistics Token",
+  "website": "https://foundrydao.com",
+  "description": "Foundry: A DAO for Economic Freedom. Foundry will attract FRY holders who believe in unstoppable economic freedom. Following SmokeSignal and DAIHard, FRY holders will likely drive Foundry to build or invest in similar pursuits: profitable tools that increase economic freedom which cannot be shut down.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xc04e039aE8587e71f8024b36d630f841cc2106CC",
+  "research": null,
+  "symbol": "FRY",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

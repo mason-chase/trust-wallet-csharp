@@ -1,0 +1,18 @@
+{
+  "id": "0xC34B21f6F8e51cC965c2393B3ccFa3b82BEb2403",
+  "address": "0xC34B21f6F8e51cC965c2393B3ccFa3b82BEb2403",
+  "blockchain": "ethereum",
+  "name": "IoTコイン",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xC34B21f6F8e51cC965c2393B3ccFa3b82BEb2403",
+  "research": null,
+  "symbol": "IoT",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

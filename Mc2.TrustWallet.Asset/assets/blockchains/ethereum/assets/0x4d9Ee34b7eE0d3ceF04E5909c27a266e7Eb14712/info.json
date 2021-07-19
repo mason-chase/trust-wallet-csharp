@@ -1,0 +1,18 @@
+{
+  "id": "0x4d9Ee34b7eE0d3ceF04E5909c27a266e7Eb14712",
+  "address": "0x4d9Ee34b7eE0d3ceF04E5909c27a266e7Eb14712",
+  "blockchain": "ethereum",
+  "name": "CRYPTOBUCKS",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4d9Ee34b7eE0d3ceF04E5909c27a266e7Eb14712",
+  "research": null,
+  "symbol": "C-BUCKS",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

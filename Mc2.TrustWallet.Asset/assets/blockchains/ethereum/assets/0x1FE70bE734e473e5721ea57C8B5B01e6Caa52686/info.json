@@ -1,0 +1,18 @@
+{
+  "id": "0x1FE70bE734e473e5721ea57C8B5B01e6Caa52686",
+  "address": "0x1FE70bE734e473e5721ea57C8B5B01e6Caa52686",
+  "blockchain": "ethereum",
+  "name": "RNTB Token",
+  "website": "https://bitrent.io",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1FE70bE734e473e5721ea57C8B5B01e6Caa52686",
+  "research": null,
+  "symbol": "RNTB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x2Deb28ec61E7B6B4Bba5f8398398330227Cd293f",
+  "address": "0x2Deb28ec61E7B6B4Bba5f8398398330227Cd293f",
+  "blockchain": "smartchain",
+  "name": "MINTv2",
+  "website": "https://tea-swap-app.finance/",
+  "description": "The first Social Farming Project on BSC",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x2Deb28ec61E7B6B4Bba5f8398398330227Cd293f",
+  "research": null,
+  "symbol": "MINTv2",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

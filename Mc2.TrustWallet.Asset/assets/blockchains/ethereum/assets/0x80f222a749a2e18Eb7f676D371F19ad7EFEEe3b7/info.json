@@ -1,0 +1,18 @@
+{
+  "id": "0x80f222a749a2e18Eb7f676D371F19ad7EFEEe3b7",
+  "address": "0x80f222a749a2e18Eb7f676D371F19ad7EFEEe3b7",
+  "blockchain": "ethereum",
+  "name": "Magnolia Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x80f222a749a2e18Eb7f676D371F19ad7EFEEe3b7",
+  "research": null,
+  "symbol": "MGN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

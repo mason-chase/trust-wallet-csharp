@@ -1,0 +1,18 @@
+{
+  "id": "0x0110Aa21dD3908837b8589eCc4bD5161b0235bB8",
+  "address": "0x0110Aa21dD3908837b8589eCc4bD5161b0235bB8",
+  "blockchain": "ethereum",
+  "name": "PoaToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0110Aa21dD3908837b8589eCc4bD5161b0235bB8",
+  "research": null,
+  "symbol": "POA",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

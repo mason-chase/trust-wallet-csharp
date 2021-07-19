@@ -1,0 +1,18 @@
+{
+  "id": "0xc2DD62b809de9409fDa30D5c222B1f30A850ed84",
+  "address": "0xc2DD62b809de9409fDa30D5c222B1f30A850ed84",
+  "blockchain": "ethereum",
+  "name": "aomucoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc2DD62b809de9409fDa30D5c222B1f30A850ed84",
+  "research": null,
+  "symbol": "aomu",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

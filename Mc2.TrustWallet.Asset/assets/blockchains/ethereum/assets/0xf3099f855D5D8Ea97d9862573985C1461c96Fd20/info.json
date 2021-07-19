@@ -1,0 +1,18 @@
+{
+  "id": "0xf3099f855D5D8Ea97d9862573985C1461c96Fd20",
+  "address": "0xf3099f855D5D8Ea97d9862573985C1461c96Fd20",
+  "blockchain": "ethereum",
+  "name": "Clubfungus",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf3099f855D5D8Ea97d9862573985C1461c96Fd20",
+  "research": null,
+  "symbol": "FUUN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

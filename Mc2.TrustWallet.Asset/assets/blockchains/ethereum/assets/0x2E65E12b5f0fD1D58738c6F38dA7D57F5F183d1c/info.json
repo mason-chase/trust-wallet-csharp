@@ -1,0 +1,18 @@
+{
+  "id": "0x2E65E12b5f0fD1D58738c6F38dA7D57F5F183d1c",
+  "address": "0x2E65E12b5f0fD1D58738c6F38dA7D57F5F183d1c",
+  "blockchain": "ethereum",
+  "name": "Tepleton",
+  "website": "http://www.tepleton.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2E65E12b5f0fD1D58738c6F38dA7D57F5F183d1c",
+  "research": null,
+  "symbol": "TEP",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x6D6166aD588314eC2ad3D7a365b23E2cA31Ba71d",
+  "address": "0x6D6166aD588314eC2ad3D7a365b23E2cA31Ba71d",
+  "blockchain": "ethereum",
+  "name": "BITECH",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6D6166aD588314eC2ad3D7a365b23E2cA31Ba71d",
+  "research": null,
+  "symbol": "BTH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

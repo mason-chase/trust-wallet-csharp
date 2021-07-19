@@ -1,0 +1,18 @@
+{
+  "id": "0x4C29d75cc423E8Adaa3839892feb66977e295829",
+  "address": "0x4C29d75cc423E8Adaa3839892feb66977e295829",
+  "blockchain": "ethereum",
+  "name": "POOH",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4C29d75cc423E8Adaa3839892feb66977e295829",
+  "research": null,
+  "symbol": "POOH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

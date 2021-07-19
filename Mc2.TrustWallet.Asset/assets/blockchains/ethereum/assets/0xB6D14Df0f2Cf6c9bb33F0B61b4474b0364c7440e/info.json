@@ -1,0 +1,18 @@
+{
+  "id": "0xB6D14Df0f2Cf6c9bb33F0B61b4474b0364c7440e",
+  "address": "0xB6D14Df0f2Cf6c9bb33F0B61b4474b0364c7440e",
+  "blockchain": "ethereum",
+  "name": "EGW-WISHMAX",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB6D14Df0f2Cf6c9bb33F0B61b4474b0364c7440e",
+  "research": null,
+  "symbol": "WIEG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

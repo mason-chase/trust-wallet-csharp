@@ -1,0 +1,18 @@
+{
+  "id": "0x330839EF82D34801bd96e75a4Ee778ac56Fa1ED8",
+  "address": "0x330839EF82D34801bd96e75a4Ee778ac56Fa1ED8",
+  "blockchain": "ethereum",
+  "name": "ICOStart Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x330839EF82D34801bd96e75a4Ee778ac56Fa1ED8",
+  "research": null,
+  "symbol": "ICH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

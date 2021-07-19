@@ -1,0 +1,18 @@
+{
+  "id": "ong",
+  "address": "ong",
+  "blockchain": "ontology",
+  "name": "Ontology Gas",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.ont.io",
+  "research": null,
+  "symbol": "ONG",
+  "type": "ONTOLOGY",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

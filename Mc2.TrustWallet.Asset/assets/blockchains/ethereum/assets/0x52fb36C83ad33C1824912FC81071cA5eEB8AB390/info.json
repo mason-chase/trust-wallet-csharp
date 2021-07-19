@@ -1,0 +1,18 @@
+{
+  "id": "0x52fb36C83ad33C1824912FC81071cA5eEB8AB390",
+  "address": "0x52fb36C83ad33C1824912FC81071cA5eEB8AB390",
+  "blockchain": "ethereum",
+  "name": "Fidelium Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x52fb36C83ad33C1824912FC81071cA5eEB8AB390",
+  "research": null,
+  "symbol": "FID",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

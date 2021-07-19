@@ -1,0 +1,18 @@
+{
+  "id": "0x25B6325f5BB1c1E03cfbC3e53F470E1F1ca022E3",
+  "address": "0x25B6325f5BB1c1E03cfbC3e53F470E1F1ca022E3",
+  "blockchain": "ethereum",
+  "name": "LML",
+  "website": "https://www.gny.io/lisk",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x25B6325f5BB1c1E03cfbC3e53F470E1F1ca022E3",
+  "research": null,
+  "symbol": "LML",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x0b4922132ec425806Fd8AEE94b5788F9B70D60ca",
+  "address": "0x0b4922132ec425806Fd8AEE94b5788F9B70D60ca",
+  "blockchain": "smartchain",
+  "name": "HyperDeflate",
+  "website": "https://www.hyperdeflate.com",
+  "description": "HDFL is the fastest burning token on the BSC.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x0b4922132ec425806Fd8AEE94b5788F9B70D60ca",
+  "research": null,
+  "symbol": "HDFL",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

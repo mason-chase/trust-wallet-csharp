@@ -1,0 +1,18 @@
+{
+  "id": "0x048Fe49BE32adfC9ED68C37D32B5ec9Df17b3603",
+  "address": "0x048Fe49BE32adfC9ED68C37D32B5ec9Df17b3603",
+  "blockchain": "ethereum",
+  "name": "Skrumble Network V2",
+  "website": "https://skrumble.network",
+  "description": "Communication-Centric Blockchain Infrastructure and DeFi Ecosystem",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x048Fe49BE32adfC9ED68C37D32B5ec9Df17b3603",
+  "research": null,
+  "symbol": "SKM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

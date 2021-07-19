@@ -1,0 +1,18 @@
+{
+  "id": "0xb977ee318010A5252774171494a1bCB98E7fab65",
+  "address": "0xb977ee318010A5252774171494a1bCB98E7fab65",
+  "blockchain": "ethereum",
+  "name": "Aave UniUSDT",
+  "website": "https://aave.com",
+  "description": "Aave UniUSDT  is an interest bearing token pegged 1:1 to the underlying USDT deposited in the Uniswap Market of Aave Protocol.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb977ee318010A5252774171494a1bCB98E7fab65",
+  "research": null,
+  "symbol": "aUniUSDT",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

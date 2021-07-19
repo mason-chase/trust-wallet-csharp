@@ -1,0 +1,18 @@
+{
+  "id": "0x24aa44493177970541a7B9AeD330dD0eB61a1C80",
+  "address": "0x24aa44493177970541a7B9AeD330dD0eB61a1C80",
+  "blockchain": "ethereum",
+  "name": "QR Rial",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x24aa44493177970541a7B9AeD330dD0eB61a1C80",
+  "research": null,
+  "symbol": "QRR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

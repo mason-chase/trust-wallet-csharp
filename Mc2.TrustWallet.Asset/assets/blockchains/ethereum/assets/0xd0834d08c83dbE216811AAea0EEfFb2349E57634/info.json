@@ -1,0 +1,18 @@
+{
+  "id": "0xd0834d08c83dbE216811AAea0EEfFb2349E57634",
+  "address": "0xd0834d08c83dbE216811AAea0EEfFb2349E57634",
+  "blockchain": "ethereum",
+  "name": "GreenCapTOKEN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd0834d08c83dbE216811AAea0EEfFb2349E57634",
+  "research": null,
+  "symbol": "GreenCap",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

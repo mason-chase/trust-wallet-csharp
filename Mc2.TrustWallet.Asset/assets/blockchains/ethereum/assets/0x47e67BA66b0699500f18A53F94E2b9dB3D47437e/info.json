@@ -1,0 +1,18 @@
+{
+  "id": "0x47e67BA66b0699500f18A53F94E2b9dB3D47437e",
+  "address": "0x47e67BA66b0699500f18A53F94E2b9dB3D47437e",
+  "blockchain": "ethereum",
+  "name": "PlayGame",
+  "website": "https://its.playgame.com/",
+  "description": "Powering real economy in the gaming world. Purchase virtual items and pool prize competition with cryptocurrencies.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x47e67BA66b0699500f18A53F94E2b9dB3D47437e",
+  "research": null,
+  "symbol": "PXG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

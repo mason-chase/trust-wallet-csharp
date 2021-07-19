@@ -1,0 +1,18 @@
+{
+  "id": "0xDcd7C0BeDDe5a0421f59423648E3F956fcDDd5BE",
+  "address": "0xDcd7C0BeDDe5a0421f59423648E3F956fcDDd5BE",
+  "blockchain": "smartchain",
+  "name": "UAVcoin",
+  "website": "https://uavcoin.co",
+  "description": "For A Decentralized Drone Flight Time, Security Protocol And Hardware Use Data Tabulation",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xDcd7C0BeDDe5a0421f59423648E3F956fcDDd5BE",
+  "research": null,
+  "symbol": "UAV",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

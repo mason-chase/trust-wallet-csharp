@@ -1,0 +1,18 @@
+{
+  "id": "0x660e71483785f66133548B10f6926dC332b06e61",
+  "address": "0x660e71483785f66133548B10f6926dC332b06e61",
+  "blockchain": "ethereum",
+  "name": "Adelphoi",
+  "website": "https://www.adelphoi.io/",
+  "description": "Adel is a cryptocurrency system and global community that is self-sustaining and operates within its own macroeconomic ecosystem. This ecosystem will maintain its fiat independence through the use of the Adelphoi ($ADL) cryptocurrency coin.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x660e71483785f66133548B10f6926dC332b06e61",
+  "research": null,
+  "symbol": "ADL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

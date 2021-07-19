@@ -1,0 +1,18 @@
+{
+  "id": "0xC7Da481e6e14159D28e5e31A1Fb57ed649dB2e3a",
+  "address": "0xC7Da481e6e14159D28e5e31A1Fb57ed649dB2e3a",
+  "blockchain": "ethereum",
+  "name": "Mondo",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xC7Da481e6e14159D28e5e31A1Fb57ed649dB2e3a",
+  "research": null,
+  "symbol": "MO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x0DB953dD0668047601771AD901a2069b70a74e0E",
+  "address": "0x0DB953dD0668047601771AD901a2069b70a74e0E",
+  "blockchain": "ethereum",
+  "name": "Atomlogy",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0DB953dD0668047601771AD901a2069b70a74e0E",
+  "research": null,
+  "symbol": "ATG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

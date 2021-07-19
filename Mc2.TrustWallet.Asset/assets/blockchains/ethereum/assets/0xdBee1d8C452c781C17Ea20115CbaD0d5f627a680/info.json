@@ -1,0 +1,18 @@
+{
+  "id": "0xdBee1d8C452c781C17Ea20115CbaD0d5f627a680",
+  "address": "0xdBee1d8C452c781C17Ea20115CbaD0d5f627a680",
+  "blockchain": "ethereum",
+  "name": "Strike SXP",
+  "website": "https://strike.org",
+  "description": "Strike Finance collateral cryptocurrency",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xdBee1d8C452c781C17Ea20115CbaD0d5f627a680",
+  "research": null,
+  "symbol": "sSXP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

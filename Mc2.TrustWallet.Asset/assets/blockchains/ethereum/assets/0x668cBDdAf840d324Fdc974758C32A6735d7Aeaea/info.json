@@ -1,0 +1,18 @@
+{
+  "id": "0x668cBDdAf840d324Fdc974758C32A6735d7Aeaea",
+  "address": "0x668cBDdAf840d324Fdc974758C32A6735d7Aeaea",
+  "blockchain": "ethereum",
+  "name": "25% of MindAd Project",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x668cBDdAf840d324Fdc974758C32A6735d7Aeaea",
+  "research": null,
+  "symbol": "MindAd",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

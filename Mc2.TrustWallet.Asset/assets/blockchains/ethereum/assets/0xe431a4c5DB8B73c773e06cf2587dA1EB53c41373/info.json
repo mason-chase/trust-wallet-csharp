@@ -1,0 +1,18 @@
+{
+  "id": "0xe431a4c5DB8B73c773e06cf2587dA1EB53c41373",
+  "address": "0xe431a4c5DB8B73c773e06cf2587dA1EB53c41373",
+  "blockchain": "ethereum",
+  "name": "Trias Token",
+  "website": "https://www.trias.one",
+  "description": "TRIAS aims to create a new-generation public chain that will support the execution of general-purpose native-applications on all platforms.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe431a4c5DB8B73c773e06cf2587dA1EB53c41373",
+  "research": null,
+  "symbol": "TRY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

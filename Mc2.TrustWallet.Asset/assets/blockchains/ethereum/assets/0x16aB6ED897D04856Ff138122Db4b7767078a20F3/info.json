@@ -1,0 +1,18 @@
+{
+  "id": "0x16aB6ED897D04856Ff138122Db4b7767078a20F3",
+  "address": "0x16aB6ED897D04856Ff138122Db4b7767078a20F3",
+  "blockchain": "ethereum",
+  "name": "hexplay",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x16aB6ED897D04856Ff138122Db4b7767078a20F3",
+  "research": null,
+  "symbol": "HXP",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

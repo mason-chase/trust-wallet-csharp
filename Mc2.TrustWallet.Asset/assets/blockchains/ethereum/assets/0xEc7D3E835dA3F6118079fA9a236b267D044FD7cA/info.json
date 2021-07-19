@@ -1,0 +1,18 @@
+{
+  "id": "0xEc7D3E835dA3F6118079fA9a236b267D044FD7cA",
+  "address": "0xEc7D3E835dA3F6118079fA9a236b267D044FD7cA",
+  "blockchain": "ethereum",
+  "name": "CryptoRewards",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xEc7D3E835dA3F6118079fA9a236b267D044FD7cA",
+  "research": null,
+  "symbol": "CRS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

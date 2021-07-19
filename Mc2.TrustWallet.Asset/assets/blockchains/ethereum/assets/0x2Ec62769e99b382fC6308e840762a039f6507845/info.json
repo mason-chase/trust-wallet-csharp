@@ -1,0 +1,18 @@
+{
+  "id": "0x2Ec62769e99b382fC6308e840762a039f6507845",
+  "address": "0x2Ec62769e99b382fC6308e840762a039f6507845",
+  "blockchain": "ethereum",
+  "name": "BCTOKEN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2Ec62769e99b382fC6308e840762a039f6507845",
+  "research": null,
+  "symbol": "BCTOKEN",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

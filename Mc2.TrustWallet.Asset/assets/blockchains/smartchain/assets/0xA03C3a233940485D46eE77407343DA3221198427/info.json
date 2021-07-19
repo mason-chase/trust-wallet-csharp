@@ -1,0 +1,18 @@
+{
+  "id": "0xA03C3a233940485D46eE77407343DA3221198427",
+  "address": "0xA03C3a233940485D46eE77407343DA3221198427",
+  "blockchain": "smartchain",
+  "name": "SAFESUN",
+  "website": "https://safesuncrypto.com",
+  "description": "SafeSun is a cryptocurrency based on open-source BEP-20 interface, which aims to provide incentives and benefits to its holders.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xA03C3a233940485D46eE77407343DA3221198427",
+  "research": null,
+  "symbol": "SAFESUN",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

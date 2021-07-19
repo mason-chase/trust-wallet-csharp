@@ -1,0 +1,18 @@
+{
+  "id": "0xdC3c4f132FEA66947CfDd57e287c1fbb94252677",
+  "address": "0xdC3c4f132FEA66947CfDd57e287c1fbb94252677",
+  "blockchain": "ethereum",
+  "name": "MissionBoss",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xdC3c4f132FEA66947CfDd57e287c1fbb94252677",
+  "research": null,
+  "symbol": "MOB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x5d6CDf1b7F7C35EAE688E4C563b6f16eeAC2cB6b",
+  "address": "0x5d6CDf1b7F7C35EAE688E4C563b6f16eeAC2cB6b",
+  "blockchain": "smartchain",
+  "name": "SaylorMoon",
+  "website": "https://saylormoon.army",
+  "description": "SMOON is a community driven token.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x5d6cdf1b7f7c35eae688e4c563b6f16eeac2cb6b",
+  "research": null,
+  "symbol": "SMOON",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

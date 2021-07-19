@@ -1,0 +1,18 @@
+{
+  "id": "0x3833ddA0AEB6947b98cE454d89366cBA8Cc55528",
+  "address": "0x3833ddA0AEB6947b98cE454d89366cBA8Cc55528",
+  "blockchain": "ethereum",
+  "name": "SPHTX",
+  "website": "https://www.sophiatx.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3833ddA0AEB6947b98cE454d89366cBA8Cc55528",
+  "research": null,
+  "symbol": "SPHTX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "0x6D6506E6F438edE269877a0A720026559110B7d5",
+  "address": "0x6D6506E6F438edE269877a0A720026559110B7d5",
+  "blockchain": "ethereum",
+  "name": "Bonk Token",
+  "website": "https://bonktoken.com/",
+  "description": "Proof of art combined with decentralized staking",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6D6506E6F438edE269877a0A720026559110B7d5",
+  "research": null,
+  "symbol": "BONK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/bonktoken"
+    }
+  ],
+  "tags": null
+}

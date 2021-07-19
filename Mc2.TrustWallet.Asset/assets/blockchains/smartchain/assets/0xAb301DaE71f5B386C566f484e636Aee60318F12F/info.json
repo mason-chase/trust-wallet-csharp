@@ -1,0 +1,18 @@
+{
+  "id": "0xAb301DaE71f5B386C566f484e636Aee60318F12F",
+  "address": "0xAb301DaE71f5B386C566f484e636Aee60318F12F",
+  "blockchain": "smartchain",
+  "name": "CocosTokenV2",
+  "website": "http://www.cocosbcx.io/en/",
+  "description": "https://research.binance.com/en/projects/cocos-bcx",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xab301dae71f5b386c566f484e636aee60318f12f",
+  "research": null,
+  "symbol": "COCOS",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

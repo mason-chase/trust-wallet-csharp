@@ -1,0 +1,18 @@
+{
+  "id": "0x4b35e0AB998Ebe8414871c13cf778F9D0Bbdf609",
+  "address": "0x4b35e0AB998Ebe8414871c13cf778F9D0Bbdf609",
+  "blockchain": "ethereum",
+  "name": "SWAP",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4b35e0AB998Ebe8414871c13cf778F9D0Bbdf609",
+  "research": null,
+  "symbol": "SWP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

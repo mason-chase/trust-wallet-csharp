@@ -1,0 +1,18 @@
+{
+  "id": "0xca5f1Bd4B47ECe13a7ca753202F284D9Edd85d8A",
+  "address": "0xca5f1Bd4B47ECe13a7ca753202F284D9Edd85d8A",
+  "blockchain": "smartchain",
+  "name": "Big Oily Orange Boob",
+  "website": "https://coinboob.com",
+  "description": "Big Oily Orange Boob ($BOOB) is a community token that can be used as a tipping currency for models.$BOOB will also raise funds for breast cancer charities.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xca5f1Bd4B47ECe13a7ca753202F284D9Edd85d8A",
+  "research": null,
+  "symbol": "$BOOB",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

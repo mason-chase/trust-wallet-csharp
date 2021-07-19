@@ -1,0 +1,18 @@
+{
+  "id": "0xc06aEc5191bE16b94FfC97B6Fc01393527367365",
+  "address": "0xc06aEc5191bE16b94FfC97B6Fc01393527367365",
+  "blockchain": "ethereum",
+  "name": "BTC ETH Equal Weight Set",
+  "website": "https://www.tokensets.com/set/btceth5050",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc06aEc5191bE16b94FfC97B6Fc01393527367365",
+  "research": null,
+  "symbol": "BTCETH5050",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

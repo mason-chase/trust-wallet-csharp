@@ -1,0 +1,18 @@
+{
+  "id": "0x3E3dc42535c242844d8bff33f270A540140e4a0d",
+  "address": "0x3E3dc42535c242844d8bff33f270A540140e4a0d",
+  "blockchain": "ethereum",
+  "name": "BTC-E",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3E3dc42535c242844d8bff33f270A540140e4a0d",
+  "research": null,
+  "symbol": "BTC-E",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

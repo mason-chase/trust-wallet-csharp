@@ -1,0 +1,18 @@
+{
+  "id": "0xdb4837C9d84315ABCDE80A865f15178F86DB3966",
+  "address": "0xdb4837C9d84315ABCDE80A865f15178F86DB3966",
+  "blockchain": "ethereum",
+  "name": "LOCKEDiN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xdb4837C9d84315ABCDE80A865f15178F86DB3966",
+  "research": null,
+  "symbol": "LCK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

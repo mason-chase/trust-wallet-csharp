@@ -1,0 +1,18 @@
+{
+  "id": "0x61B21C6EE787bC1dF5EF873E5F6809711C62Ab92",
+  "address": "0x61B21C6EE787bC1dF5EF873E5F6809711C62Ab92",
+  "blockchain": "ethereum",
+  "name": "Unit Payment International",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x61B21C6EE787bC1dF5EF873E5F6809711C62Ab92",
+  "research": null,
+  "symbol": "UPI",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

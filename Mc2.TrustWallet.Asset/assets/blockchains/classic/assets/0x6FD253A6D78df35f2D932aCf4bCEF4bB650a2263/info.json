@@ -1,0 +1,18 @@
+{
+  "id": "0x6FD253A6D78df35f2D932aCf4bCEF4bB650a2263",
+  "address": "0x6FD253A6D78df35f2D932aCf4bCEF4bB650a2263",
+  "blockchain": "classic",
+  "name": "BitUnits Africa",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://blockscout.com/etc/mainnet/tokens/0x6FD253A6D78df35f2D932aCf4bCEF4bB650a2263",
+  "research": null,
+  "symbol": "AFRI",
+  "type": "ETC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

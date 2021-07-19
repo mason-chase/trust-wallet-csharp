@@ -1,0 +1,1 @@
+﻿Trust Wallet C# implementaiton including all assets (json/png) and faster BSON storage.

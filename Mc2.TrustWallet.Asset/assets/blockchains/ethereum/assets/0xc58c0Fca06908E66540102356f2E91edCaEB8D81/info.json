@@ -1,0 +1,18 @@
+{
+  "id": "0xc58c0Fca06908E66540102356f2E91edCaEB8D81",
+  "address": "0xc58c0Fca06908E66540102356f2E91edCaEB8D81",
+  "blockchain": "ethereum",
+  "name": "HalfLife",
+  "website": "http://nuketoken.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc58c0Fca06908E66540102356f2E91edCaEB8D81",
+  "research": null,
+  "symbol": "NUKE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

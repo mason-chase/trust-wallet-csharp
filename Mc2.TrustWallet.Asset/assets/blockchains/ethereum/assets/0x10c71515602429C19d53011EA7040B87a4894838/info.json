@@ -1,0 +1,18 @@
+{
+  "id": "0x10c71515602429C19d53011EA7040B87a4894838",
+  "address": "0x10c71515602429C19d53011EA7040B87a4894838",
+  "blockchain": "ethereum",
+  "name": "Diamond Platform Token",
+  "website": "https://cdiamondcoin.com",
+  "description": "Diamond Network aims to create a transparent and traceable diamond market.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x10c71515602429C19d53011EA7040B87a4894838",
+  "research": null,
+  "symbol": "DPT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xa4228F76abc218D981dB1995b779954c78C00e99",
+  "address": "0xa4228F76abc218D981dB1995b779954c78C00e99",
+  "blockchain": "ethereum",
+  "name": "GoldBoxToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa4228F76abc218D981dB1995b779954c78C00e99",
+  "research": null,
+  "symbol": "GOX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

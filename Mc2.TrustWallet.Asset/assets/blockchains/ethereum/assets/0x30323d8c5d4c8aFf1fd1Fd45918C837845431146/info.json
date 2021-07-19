@@ -1,0 +1,18 @@
+{
+  "id": "0x30323d8c5d4c8aFf1fd1Fd45918C837845431146",
+  "address": "0x30323d8c5d4c8aFf1fd1Fd45918C837845431146",
+  "blockchain": "ethereum",
+  "name": "Filepays",
+  "website": "https://www.filepays.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x30323d8c5d4c8aFf1fd1Fd45918C837845431146",
+  "research": null,
+  "symbol": "FLPY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

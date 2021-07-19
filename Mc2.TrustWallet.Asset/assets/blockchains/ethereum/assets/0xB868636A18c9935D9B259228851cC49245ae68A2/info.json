@@ -1,0 +1,18 @@
+{
+  "id": "0xB868636A18c9935D9B259228851cC49245ae68A2",
+  "address": "0xB868636A18c9935D9B259228851cC49245ae68A2",
+  "blockchain": "ethereum",
+  "name": "OPULENCE",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB868636A18c9935D9B259228851cC49245ae68A2",
+  "research": null,
+  "symbol": "OPLC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

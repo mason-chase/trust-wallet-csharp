@@ -1,0 +1,18 @@
+{
+  "id": "0x2Ab4B644F6926797B03DB86F7fd004857A6cDB17",
+  "address": "0x2Ab4B644F6926797B03DB86F7fd004857A6cDB17",
+  "blockchain": "ethereum",
+  "name": "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2Ab4B644F6926797B03DB86F7fd004857A6cDB17",
+  "research": null,
+  "symbol": "TDShare",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

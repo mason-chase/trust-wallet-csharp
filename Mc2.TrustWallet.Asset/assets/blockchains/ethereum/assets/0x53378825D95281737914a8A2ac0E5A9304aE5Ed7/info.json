@@ -1,0 +1,18 @@
+{
+  "id": "0x53378825D95281737914a8A2ac0E5A9304aE5Ed7",
+  "address": "0x53378825D95281737914a8A2ac0E5A9304aE5Ed7",
+  "blockchain": "ethereum",
+  "name": "Samurai Token",
+  "website": "https://samuraiswap.org",
+  "description": "is an ER20 token where liquidity is locked at Uniswap, holders will be allowed to stake their tokens to the platform and make amazing gains.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x53378825D95281737914a8A2ac0E5A9304aE5Ed7",
+  "research": null,
+  "symbol": "SAM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

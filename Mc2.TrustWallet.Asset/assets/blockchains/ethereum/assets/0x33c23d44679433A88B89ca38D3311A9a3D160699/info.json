@@ -1,0 +1,18 @@
+{
+  "id": "0x33c23d44679433A88B89ca38D3311A9a3D160699",
+  "address": "0x33c23d44679433A88B89ca38D3311A9a3D160699",
+  "blockchain": "ethereum",
+  "name": "RAINBOW",
+  "website": "https://magicliquidity.com",
+  "description": "Magical Liquidity Rainbow ! Stake Uniswap v2 LP tokens and earn RAINBOW",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x33c23d44679433A88B89ca38D3311A9a3D160699",
+  "research": null,
+  "symbol": "RAINBOW",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

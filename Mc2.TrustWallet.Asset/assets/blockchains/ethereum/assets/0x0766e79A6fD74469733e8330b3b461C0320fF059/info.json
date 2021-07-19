@@ -1,0 +1,18 @@
+{
+  "id": "0x0766e79A6fD74469733e8330b3b461C0320fF059",
+  "address": "0x0766e79A6fD74469733e8330b3b461C0320fF059",
+  "blockchain": "ethereum",
+  "name": "EXN",
+  "website": "http://www.exchangen.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0766e79A6fD74469733e8330b3b461C0320fF059",
+  "research": null,
+  "symbol": "EXN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

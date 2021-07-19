@@ -1,0 +1,18 @@
+{
+  "id": "0xd9555279B1c18b7aa388F053EBc0ab22e2497964",
+  "address": "0xd9555279B1c18b7aa388F053EBc0ab22e2497964",
+  "blockchain": "ethereum",
+  "name": "Reactioon",
+  "website": "https://www.reactioon.com/",
+  "description": "Reactioon is a tool over a distributed network to process, analyze and serve data, focused on cryptomarket. Without transfer funds, without division and totally transparent.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd9555279B1c18b7aa388F053EBc0ab22e2497964",
+  "research": null,
+  "symbol": "RTN",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

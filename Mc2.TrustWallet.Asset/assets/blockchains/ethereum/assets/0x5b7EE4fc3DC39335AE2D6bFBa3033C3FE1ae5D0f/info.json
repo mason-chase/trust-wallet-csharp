@@ -1,0 +1,18 @@
+{
+  "id": "0x5b7EE4fc3DC39335AE2D6bFBa3033C3FE1ae5D0f",
+  "address": "0x5b7EE4fc3DC39335AE2D6bFBa3033C3FE1ae5D0f",
+  "blockchain": "ethereum",
+  "name": "CoronaCrypto",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5b7EE4fc3DC39335AE2D6bFBa3033C3FE1ae5D0f",
+  "research": null,
+  "symbol": "NCOR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

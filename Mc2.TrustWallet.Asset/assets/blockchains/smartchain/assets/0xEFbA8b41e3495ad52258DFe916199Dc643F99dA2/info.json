@@ -1,0 +1,18 @@
+{
+  "id": "0xEFbA8b41e3495ad52258DFe916199Dc643F99dA2",
+  "address": "0xEFbA8b41e3495ad52258DFe916199Dc643F99dA2",
+  "blockchain": "smartchain",
+  "name": "SWASS.Finance",
+  "website": "https://swass.finance",
+  "description": "SWASS is a revolutionary tokenomics access token for DApp's, web services, and more.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xefba8b41e3495ad52258dfe916199dc643f99da2",
+  "research": null,
+  "symbol": "SWASS",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x6aD03307Fd545a68A391F99eFdd31CEC86569A4C",
+  "address": "0x6aD03307Fd545a68A391F99eFdd31CEC86569A4C",
+  "blockchain": "ethereum",
+  "name": "Stake Street",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6aD03307Fd545a68A391F99eFdd31CEC86569A4C",
+  "research": null,
+  "symbol": "STST",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

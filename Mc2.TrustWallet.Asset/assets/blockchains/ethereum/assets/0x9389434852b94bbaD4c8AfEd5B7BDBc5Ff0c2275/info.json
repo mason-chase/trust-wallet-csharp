@@ -1,0 +1,18 @@
+{
+  "id": "0x9389434852b94bbaD4c8AfEd5B7BDBc5Ff0c2275",
+  "address": "0x9389434852b94bbaD4c8AfEd5B7BDBc5Ff0c2275",
+  "blockchain": "ethereum",
+  "name": "TTC",
+  "website": "http://www.ttc.eco/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9389434852b94bbaD4c8AfEd5B7BDBc5Ff0c2275",
+  "research": null,
+  "symbol": "TTC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

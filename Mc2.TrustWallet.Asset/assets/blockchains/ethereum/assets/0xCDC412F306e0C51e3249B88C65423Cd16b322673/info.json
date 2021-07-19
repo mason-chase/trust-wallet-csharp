@@ -1,0 +1,18 @@
+{
+  "id": "0xCDC412F306e0C51e3249B88C65423Cd16b322673",
+  "address": "0xCDC412F306e0C51e3249B88C65423Cd16b322673",
+  "blockchain": "ethereum",
+  "name": "Blockchain.io",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xCDC412F306e0C51e3249B88C65423Cd16b322673",
+  "research": null,
+  "symbol": "BCIO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

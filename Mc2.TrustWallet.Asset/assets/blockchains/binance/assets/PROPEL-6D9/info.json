@@ -1,0 +1,27 @@
+{
+  "id": "PROPEL-6D9",
+  "address": "PROPEL-6D9",
+  "blockchain": "binance",
+  "name": "Propel",
+  "website": "https://payrue.com/",
+  "description": "PayRue is a financial platform that operates exchanges, wallets, and transfers with cryptocurrencies.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/PROPEL-6D9",
+  "research": null,
+  "symbol": "PROPEL",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/payrue"
+    },
+    {
+      "name": "reddit",
+      "url": "https://reddit.com/u/payrue"
+    }
+  ],
+  "tags": null
+}

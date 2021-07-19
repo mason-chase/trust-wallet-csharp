@@ -1,0 +1,18 @@
+{
+  "id": "1000131",
+  "address": "1000131",
+  "blockchain": "tron",
+  "name": "TronEurope",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1000131",
+  "research": null,
+  "symbol": "TRXE",
+  "type": "TRC10",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

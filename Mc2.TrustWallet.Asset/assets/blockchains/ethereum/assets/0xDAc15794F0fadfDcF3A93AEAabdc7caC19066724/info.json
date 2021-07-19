@@ -1,0 +1,18 @@
+{
+  "id": "0xDAc15794F0fadfDcF3A93AEAabdc7caC19066724",
+  "address": "0xDAc15794F0fadfDcF3A93AEAabdc7caC19066724",
+  "blockchain": "ethereum",
+  "name": "GREENX",
+  "website": "https://www.greenx.network",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDAc15794F0fadfDcF3A93AEAabdc7caC19066724",
+  "research": null,
+  "symbol": "GEX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

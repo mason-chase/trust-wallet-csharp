@@ -1,0 +1,18 @@
+{
+  "id": "0xf091Cf09c51811819DB705710e9634B8bf18F164",
+  "address": "0xf091Cf09c51811819DB705710e9634B8bf18F164",
+  "blockchain": "ethereum",
+  "name": "Couchain",
+  "website": "https://couchain.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf091Cf09c51811819DB705710e9634B8bf18F164",
+  "research": null,
+  "symbol": "COU",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

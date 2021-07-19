@@ -1,0 +1,18 @@
+{
+  "id": "0xF03045a4C8077e38f3B8e2Ed33b8aEE69edF869F",
+  "address": "0xF03045a4C8077e38f3B8e2Ed33b8aEE69edF869F",
+  "blockchain": "ethereum",
+  "name": "BlockMesh",
+  "website": "https://www.blockmesh.io",
+  "description": "The BlockMesh platform is a platform supporting mesh based devices focusing on communication and the loT.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF03045a4C8077e38f3B8e2Ed33b8aEE69edF869F",
+  "research": null,
+  "symbol": "MESH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

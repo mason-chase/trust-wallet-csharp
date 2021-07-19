@@ -1,0 +1,18 @@
+{
+  "id": "0x3afe25a2739B5C2E08CFec439F9621D91Ff7FBFb",
+  "address": "0x3afe25a2739B5C2E08CFec439F9621D91Ff7FBFb",
+  "blockchain": "ethereum",
+  "name": "BULVRD",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3afe25a2739B5C2E08CFec439F9621D91Ff7FBFb",
+  "research": null,
+  "symbol": "BLVD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

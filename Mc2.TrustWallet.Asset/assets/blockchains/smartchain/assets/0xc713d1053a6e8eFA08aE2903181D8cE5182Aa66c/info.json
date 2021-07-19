@@ -1,0 +1,18 @@
+{
+  "id": "0xc713d1053a6e8eFA08aE2903181D8cE5182Aa66c",
+  "address": "0xc713d1053a6e8eFA08aE2903181D8cE5182Aa66c",
+  "blockchain": "smartchain",
+  "name": "NFTBOX",
+  "website": "https://nftbox.fun",
+  "description": "NFTBOX is a decentralized finance (DeFi) token.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xc713d1053a6e8eFA08aE2903181D8cE5182Aa66c",
+  "research": null,
+  "symbol": "NFTBOX",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x9a005c9a89BD72a4Bd27721E7a09A3c11D2b03C4",
+  "address": "0x9a005c9a89BD72a4Bd27721E7a09A3c11D2b03C4",
+  "blockchain": "ethereum",
+  "name": "StarterCoin",
+  "website": "https://coinstarter.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9a005c9a89BD72a4Bd27721E7a09A3c11D2b03C4",
+  "research": null,
+  "symbol": "STAC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

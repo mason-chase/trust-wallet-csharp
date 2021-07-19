@@ -1,0 +1,18 @@
+{
+  "id": "0x26CB3641aaA43911f1D4cB2ce544eb652AAc7c47",
+  "address": "0x26CB3641aaA43911f1D4cB2ce544eb652AAc7c47",
+  "blockchain": "ethereum",
+  "name": "CrystalToken",
+  "website": "https://www.crystaltoken.co",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x26CB3641aaA43911f1D4cB2ce544eb652AAc7c47",
+  "research": null,
+  "symbol": "CYL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

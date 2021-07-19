@@ -1,0 +1,18 @@
+{
+  "id": "0x5dc60C4D5e75D22588FA17fFEB90A63E535efCE0",
+  "address": "0x5dc60C4D5e75D22588FA17fFEB90A63E535efCE0",
+  "blockchain": "ethereum",
+  "name": "dKargo",
+  "website": "https://dkargo.io/main_en.html",
+  "description": "A decentralized and cooperative protocol for next generation logistics .",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5dc60C4D5e75D22588FA17fFEB90A63E535efCE0",
+  "research": null,
+  "symbol": "DKA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

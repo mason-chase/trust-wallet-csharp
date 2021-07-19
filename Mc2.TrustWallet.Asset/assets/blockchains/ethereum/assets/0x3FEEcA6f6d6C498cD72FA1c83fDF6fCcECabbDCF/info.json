@@ -1,0 +1,18 @@
+{
+  "id": "0x3FEEcA6f6d6C498cD72FA1c83fDF6fCcECabbDCF",
+  "address": "0x3FEEcA6f6d6C498cD72FA1c83fDF6fCcECabbDCF",
+  "blockchain": "ethereum",
+  "name": "Famecoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3FEEcA6f6d6C498cD72FA1c83fDF6fCcECabbDCF",
+  "research": null,
+  "symbol": "FMCO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

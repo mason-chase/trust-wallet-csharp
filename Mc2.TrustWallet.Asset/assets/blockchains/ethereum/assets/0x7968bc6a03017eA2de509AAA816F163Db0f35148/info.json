@@ -1,0 +1,18 @@
+{
+  "id": "0x7968bc6a03017eA2de509AAA816F163Db0f35148",
+  "address": "0x7968bc6a03017eA2de509AAA816F163Db0f35148",
+  "blockchain": "ethereum",
+  "name": "Hedget",
+  "website": "https://www.hedget.com",
+  "description": "Hedget is a decentralised protocol for options trading.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7968bc6a03017eA2de509AAA816F163Db0f35148",
+  "research": null,
+  "symbol": "HGET",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

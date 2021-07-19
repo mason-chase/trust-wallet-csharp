@@ -1,0 +1,18 @@
+{
+  "id": "0x7f05907CDe5C540bE2e572FDD488994ee15d67a3",
+  "address": "0x7f05907CDe5C540bE2e572FDD488994ee15d67a3",
+  "blockchain": "smartchain",
+  "name": "IRONY MAN",
+  "website": "https://ironyman.cc/",
+  "description": "IRONY MAN",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x7f05907cde5c540be2e572fdd488994ee15d67a3",
+  "research": null,
+  "symbol": "IRONY",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

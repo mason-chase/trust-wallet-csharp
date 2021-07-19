@@ -1,0 +1,23 @@
+{
+  "id": "0xD2B93f66FD68c5572BFB8EBf45E2Bd7968B38113",
+  "address": "0xD2B93f66FD68c5572BFB8EBf45E2Bd7968B38113",
+  "blockchain": "ethereum",
+  "name": "Catnip",
+  "website": "https://nyan.finance",
+  "description": "Catnip($NIP) is a reward token for staking $NYAN and the main source of investment funds.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xD2B93f66FD68c5572BFB8EBf45E2Bd7968B38113",
+  "research": null,
+  "symbol": "NIP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/geass-zero/nyan.finance"
+    }
+  ],
+  "tags": null
+}

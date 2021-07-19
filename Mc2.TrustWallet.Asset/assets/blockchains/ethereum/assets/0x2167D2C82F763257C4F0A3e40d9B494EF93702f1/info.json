@@ -1,0 +1,18 @@
+{
+  "id": "0x2167D2C82F763257C4F0A3e40d9B494EF93702f1",
+  "address": "0x2167D2C82F763257C4F0A3e40d9B494EF93702f1",
+  "blockchain": "ethereum",
+  "name": "BitUnits",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2167D2C82F763257C4F0A3e40d9B494EF93702f1",
+  "research": null,
+  "symbol": "XP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

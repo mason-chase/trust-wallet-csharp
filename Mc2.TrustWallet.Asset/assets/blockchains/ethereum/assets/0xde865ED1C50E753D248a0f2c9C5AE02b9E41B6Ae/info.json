@@ -1,0 +1,18 @@
+{
+  "id": "0xde865ED1C50E753D248a0f2c9C5AE02b9E41B6Ae",
+  "address": "0xde865ED1C50E753D248a0f2c9C5AE02b9E41B6Ae",
+  "blockchain": "ethereum",
+  "name": "Revolt Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xde865ED1C50E753D248a0f2c9C5AE02b9E41B6Ae",
+  "research": null,
+  "symbol": "RVLT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

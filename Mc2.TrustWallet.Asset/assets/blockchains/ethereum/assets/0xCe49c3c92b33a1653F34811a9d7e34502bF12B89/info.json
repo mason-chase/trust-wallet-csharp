@@ -1,0 +1,18 @@
+{
+  "id": "0xCe49c3c92b33a1653F34811a9d7e34502bF12B89",
+  "address": "0xCe49c3c92b33a1653F34811a9d7e34502bF12B89",
+  "blockchain": "ethereum",
+  "name": "3X Short Bitcoin SV Token",
+  "website": "https://ftx.com/tokens/BSVBEAR",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xCe49c3c92b33a1653F34811a9d7e34502bF12B89",
+  "research": null,
+  "symbol": "BSVBEAR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x93B2FfF814FCaEFFB01406e80B4Ecd89Ca6A021b",
+  "address": "0x93B2FfF814FCaEFFB01406e80B4Ecd89Ca6A021b",
+  "blockchain": "ethereum",
+  "name": "Grumpy Finance",
+  "website": "https://grumpy.finance",
+  "description": "Official $GRUMPY, a community focused Defi project with the aim to help animals in need. Donations are funded by our community.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x93B2FfF814FCaEFFB01406e80B4Ecd89Ca6A021b",
+  "research": null,
+  "symbol": "GRUMPY",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

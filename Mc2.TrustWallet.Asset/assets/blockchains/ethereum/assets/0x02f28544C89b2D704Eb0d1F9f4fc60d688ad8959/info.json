@@ -1,0 +1,18 @@
+{
+  "id": "0x02f28544C89b2D704Eb0d1F9f4fc60d688ad8959",
+  "address": "0x02f28544C89b2D704Eb0d1F9f4fc60d688ad8959",
+  "blockchain": "ethereum",
+  "name": "Smart Pharma Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x02f28544C89b2D704Eb0d1F9f4fc60d688ad8959",
+  "research": null,
+  "symbol": "SMPT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

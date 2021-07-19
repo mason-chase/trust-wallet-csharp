@@ -1,0 +1,18 @@
+{
+  "id": "0x9974F4E6FF49ac39469928E5d7cCa3E8649ae6b8",
+  "address": "0x9974F4E6FF49ac39469928E5d7cCa3E8649ae6b8",
+  "blockchain": "smartchain",
+  "name": "PathFund",
+  "website": "https://pathfund.net",
+  "description": "The first pre-auditing self-sustained launchpad https://github.com/trustwallet/assets/pull/8804",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x9974F4E6FF49ac39469928E5d7cCa3E8649ae6b8",
+  "research": null,
+  "symbol": "PATH",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

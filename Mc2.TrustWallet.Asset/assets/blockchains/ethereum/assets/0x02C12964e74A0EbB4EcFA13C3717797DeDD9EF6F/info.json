@@ -1,0 +1,18 @@
+{
+  "id": "0x02C12964e74A0EbB4EcFA13C3717797DeDD9EF6F",
+  "address": "0x02C12964e74A0EbB4EcFA13C3717797DeDD9EF6F",
+  "blockchain": "ethereum",
+  "name": "EXInteractive",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x02C12964e74A0EbB4EcFA13C3717797DeDD9EF6F",
+  "research": null,
+  "symbol": "EXI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xE65ee7c03Bbb3C950Cfd4895c24989afA233EF01",
+  "address": "0xE65ee7c03Bbb3C950Cfd4895c24989afA233EF01",
+  "blockchain": "ethereum",
+  "name": "Zynecoin",
+  "website": "https://zynecoin.io",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE65ee7c03Bbb3C950Cfd4895c24989afA233EF01",
+  "research": null,
+  "symbol": "ZYN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

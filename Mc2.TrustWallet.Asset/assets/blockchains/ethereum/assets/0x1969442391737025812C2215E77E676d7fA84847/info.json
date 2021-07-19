@@ -1,0 +1,18 @@
+{
+  "id": "0x1969442391737025812C2215E77E676d7fA84847",
+  "address": "0x1969442391737025812C2215E77E676d7fA84847",
+  "blockchain": "ethereum",
+  "name": "Islamic Bank",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1969442391737025812C2215E77E676d7fA84847",
+  "research": null,
+  "symbol": "ISL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

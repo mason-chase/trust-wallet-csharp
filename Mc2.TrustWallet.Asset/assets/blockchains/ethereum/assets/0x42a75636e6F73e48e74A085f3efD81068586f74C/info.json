@@ -1,0 +1,18 @@
+{
+  "id": "0x42a75636e6F73e48e74A085f3efD81068586f74C",
+  "address": "0x42a75636e6F73e48e74A085f3efD81068586f74C",
+  "blockchain": "ethereum",
+  "name": "FUNY - TOKEN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x42a75636e6F73e48e74A085f3efD81068586f74C",
+  "research": null,
+  "symbol": "FUN",
+  "type": "ERC20",
+  "decimals": 3,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

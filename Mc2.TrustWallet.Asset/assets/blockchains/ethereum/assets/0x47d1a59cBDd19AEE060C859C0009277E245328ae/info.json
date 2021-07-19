@@ -1,0 +1,18 @@
+{
+  "id": "0x47d1a59cBDd19AEE060C859C0009277E245328ae",
+  "address": "0x47d1a59cBDd19AEE060C859C0009277E245328ae",
+  "blockchain": "ethereum",
+  "name": "Sonder",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x47d1a59cBDd19AEE060C859C0009277E245328ae",
+  "research": null,
+  "symbol": "SNR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

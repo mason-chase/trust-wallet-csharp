@@ -1,0 +1,18 @@
+{
+  "id": "0x030bA81f1c18d280636F32af80b9AAd02Cf0854e",
+  "address": "0x030bA81f1c18d280636F32af80b9AAd02Cf0854e",
+  "blockchain": "ethereum",
+  "name": "Aave WETH",
+  "website": "https://aave.com",
+  "description": "Aave WETH is an interest bearing token pegged 1:1 to the underlying WETH deposited in Aave. aWETH accrue interest in real time in your wallet.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x030bA81f1c18d280636F32af80b9AAd02Cf0854e",
+  "research": null,
+  "symbol": "aWETH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

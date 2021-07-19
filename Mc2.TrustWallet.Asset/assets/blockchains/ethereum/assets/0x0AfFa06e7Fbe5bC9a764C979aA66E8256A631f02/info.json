@@ -1,0 +1,18 @@
+{
+  "id": "0x0AfFa06e7Fbe5bC9a764C979aA66E8256A631f02",
+  "address": "0x0AfFa06e7Fbe5bC9a764C979aA66E8256A631f02",
+  "blockchain": "ethereum",
+  "name": "Polybius Token",
+  "website": "https://polybius.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0AfFa06e7Fbe5bC9a764C979aA66E8256A631f02",
+  "research": null,
+  "symbol": "PLBT",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

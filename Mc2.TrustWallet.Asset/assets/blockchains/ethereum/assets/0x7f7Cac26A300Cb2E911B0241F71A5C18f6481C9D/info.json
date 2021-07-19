@@ -1,0 +1,18 @@
+{
+  "id": "0x7f7Cac26A300Cb2E911B0241F71A5C18f6481C9D",
+  "address": "0x7f7Cac26A300Cb2E911B0241F71A5C18f6481C9D",
+  "blockchain": "ethereum",
+  "name": "OYO",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7f7Cac26A300Cb2E911B0241F71A5C18f6481C9D",
+  "research": null,
+  "symbol": "OYO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

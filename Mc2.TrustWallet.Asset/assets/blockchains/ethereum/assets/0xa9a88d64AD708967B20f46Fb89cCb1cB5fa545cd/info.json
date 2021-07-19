@@ -1,0 +1,18 @@
+{
+  "id": "0xa9a88d64AD708967B20f46Fb89cCb1cB5fa545cd",
+  "address": "0xa9a88d64AD708967B20f46Fb89cCb1cB5fa545cd",
+  "blockchain": "ethereum",
+  "name": "REDBOLD",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa9a88d64AD708967B20f46Fb89cCb1cB5fa545cd",
+  "research": null,
+  "symbol": "RBOLD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xd0207f76A97aD3779b7731ab1fc4cF926a508E87",
+  "address": "0xd0207f76A97aD3779b7731ab1fc4cF926a508E87",
+  "blockchain": "ethereum",
+  "name": "Digitrade Online",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd0207f76A97aD3779b7731ab1fc4cF926a508E87",
+  "research": null,
+  "symbol": "DTO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

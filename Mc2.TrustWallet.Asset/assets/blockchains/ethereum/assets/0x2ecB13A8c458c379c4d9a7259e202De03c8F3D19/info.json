@@ -1,0 +1,18 @@
+{
+  "id": "0x2ecB13A8c458c379c4d9a7259e202De03c8F3D19",
+  "address": "0x2ecB13A8c458c379c4d9a7259e202De03c8F3D19",
+  "blockchain": "ethereum",
+  "name": "Block-Chain.com Token",
+  "website": "https://block-chain.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2ecB13A8c458c379c4d9a7259e202De03c8F3D19",
+  "research": null,
+  "symbol": "BC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

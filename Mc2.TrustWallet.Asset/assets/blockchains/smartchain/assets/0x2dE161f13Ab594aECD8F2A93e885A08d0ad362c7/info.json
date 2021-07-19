@@ -1,0 +1,18 @@
+{
+  "id": "0x2dE161f13Ab594aECD8F2A93e885A08d0ad362c7",
+  "address": "0x2dE161f13Ab594aECD8F2A93e885A08d0ad362c7",
+  "blockchain": "smartchain",
+  "name": "Vanity",
+  "website": "https://vanitytoken.net",
+  "description": "VANITY aims to provide the first ever self Token-Based Marketplace for Custom Vanity Addresses.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x2dE161f13Ab594aECD8F2A93e885A08d0ad362c7",
+  "research": null,
+  "symbol": "VANITY",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

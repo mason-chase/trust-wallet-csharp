@@ -1,0 +1,18 @@
+{
+  "id": "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421",
+  "address": "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421",
+  "blockchain": "ethereum",
+  "name": "VesperToken (VSP)",
+  "website": "https://vesper.finance",
+  "description": "Vesper provides a platform for easy-to-use DeFi products. Vesper's DeFi products deliver ease-of-use in achieving your crypto-finance objectives.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421",
+  "research": null,
+  "symbol": "VSP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

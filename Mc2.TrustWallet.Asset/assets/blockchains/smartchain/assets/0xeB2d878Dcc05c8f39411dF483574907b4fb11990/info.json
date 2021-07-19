@@ -1,0 +1,18 @@
+{
+  "id": "0xeB2d878Dcc05c8f39411dF483574907b4fb11990",
+  "address": "0xeB2d878Dcc05c8f39411dF483574907b4fb11990",
+  "blockchain": "smartchain",
+  "name": "Brastoken",
+  "website": "https://brastoken.com/lp-en",
+  "description": "Brastoken’s main objective is to revolutionize the cryptocurrency market in Brazil by offering multiple banking services in one place.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xeB2d878Dcc05c8f39411dF483574907b4fb11990",
+  "research": null,
+  "symbol": "BRT",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

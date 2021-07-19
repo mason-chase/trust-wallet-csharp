@@ -1,0 +1,18 @@
+{
+  "id": "0xe13Ea90ce173e1118042A8f6A21D0D0A14aA6b1B",
+  "address": "0xe13Ea90ce173e1118042A8f6A21D0D0A14aA6b1B",
+  "blockchain": "smartchain",
+  "name": "KazooCoin",
+  "website": "https://kazoocoin.com/",
+  "description": "BSC token with a great community!We aim to become a hub for staying safe while investing.Token vetting, education + forum coming! https://linktr.ee/KazooCoin",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xe13Ea90ce173e1118042A8f6A21D0D0A14aA6b1B",
+  "research": null,
+  "symbol": "KAZOO",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

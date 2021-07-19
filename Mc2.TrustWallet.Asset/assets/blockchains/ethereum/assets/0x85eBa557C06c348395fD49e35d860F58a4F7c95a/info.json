@@ -1,0 +1,18 @@
+{
+  "id": "0x85eBa557C06c348395fD49e35d860F58a4F7c95a",
+  "address": "0x85eBa557C06c348395fD49e35d860F58a4F7c95a",
+  "blockchain": "ethereum",
+  "name": "H3X",
+  "website": "https://h3x.exchange/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x85eBa557C06c348395fD49e35d860F58a4F7c95a",
+  "research": null,
+  "symbol": "H3X",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

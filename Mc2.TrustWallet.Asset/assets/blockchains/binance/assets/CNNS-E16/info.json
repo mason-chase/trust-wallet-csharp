@@ -1,0 +1,18 @@
+{
+  "id": "CNNS-E16",
+  "address": "CNNS-E16",
+  "blockchain": "binance",
+  "name": "Crypto Neo-value Neural System",
+  "website": "https://cnns.io/",
+  "description": "A vibrant global ecosystem for information and value exchange to gain maximum benefit for all the key participants in the blockchain industry.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/CNNS-E16",
+  "research": null,
+  "symbol": "CNNS",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

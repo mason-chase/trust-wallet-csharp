@@ -1,0 +1,18 @@
+{
+  "id": "0x048930eec73c91B44b0844aEACdEBADC2F2b6efb",
+  "address": "0x048930eec73c91B44b0844aEACdEBADC2F2b6efb",
+  "blockchain": "ethereum",
+  "name": "Aave UniDAI",
+  "website": "https://aave.com",
+  "description": "Aave UniDAI  is an interest bearing token pegged 1:1 to the underlying DAI deposited in the Uniswap Market of Aave Protocol.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x048930eec73c91B44b0844aEACdEBADC2F2b6efb",
+  "research": null,
+  "symbol": "aUniDAI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

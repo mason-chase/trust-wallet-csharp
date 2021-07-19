@@ -1,0 +1,27 @@
+{
+  "id": "0x8099C0c7b3E530F563d4B121Abd2Ee365c72fB78",
+  "address": "0x8099C0c7b3E530F563d4B121Abd2Ee365c72fB78",
+  "blockchain": "smartchain",
+  "name": "XMPT Token",
+  "website": "https://www.xiamipool.com",
+  "description": "XiaMi Pool is user-centered and provides a stable, safe, fair and open business platform for cryptocurrency holders. With XMPT as the rights of proof mechanism, it provides users with all-around services such as project governance, node voting, node hosting, wallet services, PoS mining, and financial products",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x8099C0c7b3E530F563d4B121Abd2Ee365c72fB78",
+  "research": null,
+  "symbol": "XMPT",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/xiamipool"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/xiamipool"
+    }
+  ],
+  "tags": null
+}

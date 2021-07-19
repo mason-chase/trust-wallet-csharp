@@ -1,0 +1,18 @@
+{
+  "id": "0x8DE0f21eaa95f589A8a2fE69c5752fFdADA83EaD",
+  "address": "0x8DE0f21eaa95f589A8a2fE69c5752fFdADA83EaD",
+  "blockchain": "ethereum",
+  "name": "Cybitex",
+  "website": "http://cybitex.co",
+  "description": "Cybitex is based on Ethereum Erc20 Network as a network that promotes the digital assets in settled markets.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8DE0f21eaa95f589A8a2fE69c5752fFdADA83EaD",
+  "research": null,
+  "symbol": "CBX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

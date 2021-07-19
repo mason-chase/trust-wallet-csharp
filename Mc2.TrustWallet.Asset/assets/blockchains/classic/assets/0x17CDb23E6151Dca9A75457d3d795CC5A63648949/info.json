@@ -1,0 +1,18 @@
+{
+  "id": "0x17CDb23E6151Dca9A75457d3d795CC5A63648949",
+  "address": "0x17CDb23E6151Dca9A75457d3d795CC5A63648949",
+  "blockchain": "classic",
+  "name": "Uzel",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://blockscout.com/etc/mainnet/tokens/0x17CDb23E6151Dca9A75457d3d795CC5A63648949",
+  "research": null,
+  "symbol": "UZG1",
+  "type": "ETC20",
+  "decimals": 0,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

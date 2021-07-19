@@ -1,0 +1,18 @@
+{
+  "id": "0x0586933D1aA2fA2E732d23C3C229e6151aC6C0d4",
+  "address": "0x0586933D1aA2fA2E732d23C3C229e6151aC6C0d4",
+  "blockchain": "smartchain",
+  "name": "SafeDancer",
+  "website": "https://safedancer.net/",
+  "description": "SafeDancer is programmed to reward holders and built on transparency and trust. We are being audited and will be open with our community with frequent AMA's, questions and more.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x0586933D1aA2fA2E732d23C3C229e6151aC6C0d4",
+  "research": null,
+  "symbol": "$DANCE",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

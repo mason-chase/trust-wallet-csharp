@@ -1,0 +1,18 @@
+{
+  "id": "0xc7Dbe96b060C78358Cb5904B6eaB55B81ea86b5d",
+  "address": "0xc7Dbe96b060C78358Cb5904B6eaB55B81ea86b5d",
+  "blockchain": "ethereum",
+  "name": "CYFToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc7Dbe96b060C78358Cb5904B6eaB55B81ea86b5d",
+  "research": null,
+  "symbol": "CYF",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

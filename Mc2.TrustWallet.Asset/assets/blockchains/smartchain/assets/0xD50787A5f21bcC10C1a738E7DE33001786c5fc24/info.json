@@ -1,0 +1,18 @@
+{
+  "id": "0xD50787A5f21bcC10C1a738E7DE33001786c5fc24",
+  "address": "0xD50787A5f21bcC10C1a738E7DE33001786c5fc24",
+  "blockchain": "smartchain",
+  "name": "SMARTWORTH",
+  "website": "https://smartworth.org",
+  "description": "A token with its own digital ecosystem, that reinvests in both the platform and the community with each transaction.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xd50787a5f21bcc10c1a738e7de33001786c5fc24",
+  "research": "https://smartworth.org",
+  "symbol": "SMARTWORTH",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

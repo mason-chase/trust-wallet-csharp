@@ -1,0 +1,18 @@
+{
+  "id": "0xA829F97373069ee5d23175e4105dF8fD49238Be7",
+  "address": "0xA829F97373069ee5d23175e4105dF8fD49238Be7",
+  "blockchain": "ethereum",
+  "name": "Opennity Token",
+  "website": "http://www.opennity.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA829F97373069ee5d23175e4105dF8fD49238Be7",
+  "research": null,
+  "symbol": "OPNN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

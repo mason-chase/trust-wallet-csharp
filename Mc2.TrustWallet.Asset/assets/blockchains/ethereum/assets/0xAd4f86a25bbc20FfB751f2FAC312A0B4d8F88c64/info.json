@@ -1,0 +1,18 @@
+{
+  "id": "0xAd4f86a25bbc20FfB751f2FAC312A0B4d8F88c64",
+  "address": "0xAd4f86a25bbc20FfB751f2FAC312A0B4d8F88c64",
+  "blockchain": "ethereum",
+  "name": "OptionRoom Token",
+  "website": "https://www.optionroom.finance/",
+  "description": "OptionRoom is a user governed oracle and forecast protocol built on Polkadot",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xad4f86a25bbc20ffb751f2fac312a0b4d8f88c64",
+  "research": null,
+  "symbol": "ROOM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

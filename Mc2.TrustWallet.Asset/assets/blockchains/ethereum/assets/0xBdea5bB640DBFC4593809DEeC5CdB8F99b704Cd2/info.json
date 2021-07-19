@@ -1,0 +1,18 @@
+{
+  "id": "0xBdea5bB640DBFC4593809DEeC5CdB8F99b704Cd2",
+  "address": "0xBdea5bB640DBFC4593809DEeC5CdB8F99b704Cd2",
+  "blockchain": "ethereum",
+  "name": "Direwolf",
+  "website": "https://direwolftoken.com",
+  "description": "Direwolf is a deflationary community token with a large focus on community transparency.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xbdea5bb640dbfc4593809deec5cdb8f99b704cd2",
+  "research": null,
+  "symbol": "DIREWOLF",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

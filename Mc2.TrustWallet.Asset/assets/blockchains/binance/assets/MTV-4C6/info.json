@@ -1,0 +1,18 @@
+{
+  "id": "MTV-4C6",
+  "address": "MTV-4C6",
+  "blockchain": "binance",
+  "name": "MultiVAC",
+  "website": "https://www.mtv.ac/",
+  "description": "MultiVAC describes itself as a 'next-generation public blockchain that aims to achieve high-throughput, Dapp flexibility, and infinite scalability'.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/MTV-4C6",
+  "research": null,
+  "symbol": "MTV",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

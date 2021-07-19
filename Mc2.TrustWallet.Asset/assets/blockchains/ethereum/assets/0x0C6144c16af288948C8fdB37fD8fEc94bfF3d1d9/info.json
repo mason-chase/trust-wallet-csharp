@@ -1,0 +1,18 @@
+{
+  "id": "0x0C6144c16af288948C8fdB37fD8fEc94bfF3d1d9",
+  "address": "0x0C6144c16af288948C8fdB37fD8fEc94bfF3d1d9",
+  "blockchain": "ethereum",
+  "name": "Neutral",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0C6144c16af288948C8fdB37fD8fEc94bfF3d1d9",
+  "research": null,
+  "symbol": "NUSD",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

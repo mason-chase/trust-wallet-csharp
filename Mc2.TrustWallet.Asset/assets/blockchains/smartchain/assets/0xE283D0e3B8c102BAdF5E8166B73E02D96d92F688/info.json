@@ -1,0 +1,18 @@
+{
+  "id": "0xE283D0e3B8c102BAdF5E8166B73E02D96d92F688",
+  "address": "0xE283D0e3B8c102BAdF5E8166B73E02D96d92F688",
+  "blockchain": "smartchain",
+  "name": "Elephant Money",
+  "website": "https://elephant.money",
+  "description": "- Rediscover innovation with rewards without farming or staking Balanced distribution. Fueled by ecosystem contracts. Frictionless rewards directly to holder’s wallet Locked-liquidity. Auto-rebalancing burn address. A cashflow asset",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xE283D0e3B8c102BAdF5E8166B73E02D96d92F688",
+  "research": null,
+  "symbol": "ELEPHANT",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

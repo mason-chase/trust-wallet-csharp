@@ -1,0 +1,18 @@
+{
+  "id": "0x115eC79F1de567eC68B7AE7eDA501b406626478e",
+  "address": "0x115eC79F1de567eC68B7AE7eDA501b406626478e",
+  "blockchain": "ethereum",
+  "name": "CarryToken",
+  "website": "https://carryprotocol.io",
+  "description": "Carry (CRE) is a cryptocurrency and operates on the Ethereum platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x115eC79F1de567eC68B7AE7eDA501b406626478e",
+  "research": null,
+  "symbol": "CRE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

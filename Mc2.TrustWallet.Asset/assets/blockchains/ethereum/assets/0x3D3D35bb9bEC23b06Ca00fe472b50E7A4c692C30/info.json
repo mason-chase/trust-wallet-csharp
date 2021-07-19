@@ -1,0 +1,18 @@
+{
+  "id": "0x3D3D35bb9bEC23b06Ca00fe472b50E7A4c692C30",
+  "address": "0x3D3D35bb9bEC23b06Ca00fe472b50E7A4c692C30",
+  "blockchain": "ethereum",
+  "name": "Vidya",
+  "website": "https://team3d.io",
+  "description": "Vidya is a DeFi gaming token for multiplayer games, cross-game inventories and experimental financial models on the blockchain.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3D3D35bb9bEC23b06Ca00fe472b50E7A4c692C30",
+  "research": null,
+  "symbol": "VIDYA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

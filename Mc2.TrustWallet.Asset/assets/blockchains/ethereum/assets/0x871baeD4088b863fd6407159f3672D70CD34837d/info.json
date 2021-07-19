@@ -1,0 +1,18 @@
+{
+  "id": "0x871baeD4088b863fd6407159f3672D70CD34837d",
+  "address": "0x871baeD4088b863fd6407159f3672D70CD34837d",
+  "blockchain": "ethereum",
+  "name": " 3X Long Ethereum Token",
+  "website": "https://ftx.com/tokens/ETHBULL",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x871baeD4088b863fd6407159f3672D70CD34837d",
+  "research": null,
+  "symbol": "ETHBULL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

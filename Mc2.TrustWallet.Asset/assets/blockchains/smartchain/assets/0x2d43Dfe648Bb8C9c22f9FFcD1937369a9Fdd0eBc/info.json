@@ -1,0 +1,18 @@
+{
+  "id": "0x2d43Dfe648Bb8C9c22f9FFcD1937369a9Fdd0eBc",
+  "address": "0x2d43Dfe648Bb8C9c22f9FFcD1937369a9Fdd0eBc",
+  "blockchain": "smartchain",
+  "name": "EJECT",
+  "website": "https://www.eject.space",
+  "description": "The Crowdfunding Platform for up and coming Defi tokens",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x2d43Dfe648Bb8C9c22f9FFcD1937369a9Fdd0eBc",
+  "research": null,
+  "symbol": "EJECT",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

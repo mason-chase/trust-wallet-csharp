@@ -1,0 +1,18 @@
+{
+  "id": "0x86C31E6da2190a1FFd39A36990a44174D0A8be15",
+  "address": "0x86C31E6da2190a1FFd39A36990a44174D0A8be15",
+  "blockchain": "ethereum",
+  "name": "VianeX",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x86C31E6da2190a1FFd39A36990a44174D0A8be15",
+  "research": null,
+  "symbol": "VIX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

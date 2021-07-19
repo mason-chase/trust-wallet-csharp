@@ -1,0 +1,18 @@
+{
+  "id": "0x6a0A97E47d15aAd1D132a1Ac79a480E3F2079063",
+  "address": "0x6a0A97E47d15aAd1D132a1Ac79a480E3F2079063",
+  "blockchain": "ethereum",
+  "name": "WePower Contribution Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6a0A97E47d15aAd1D132a1Ac79a480E3F2079063",
+  "research": null,
+  "symbol": "WCT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

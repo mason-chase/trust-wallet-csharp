@@ -1,0 +1,18 @@
+{
+  "id": "0xbb2B6dB3d2B52db9edF9C2F6a6ed3742Cc0Adf82",
+  "address": "0xbb2B6dB3d2B52db9edF9C2F6a6ed3742Cc0Adf82",
+  "blockchain": "ethereum",
+  "name": "UniversalGlobalIntegral",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xbb2B6dB3d2B52db9edF9C2F6a6ed3742Cc0Adf82",
+  "research": null,
+  "symbol": "UGI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

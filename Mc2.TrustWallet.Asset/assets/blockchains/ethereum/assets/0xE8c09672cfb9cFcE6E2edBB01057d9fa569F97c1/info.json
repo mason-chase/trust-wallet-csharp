@@ -1,0 +1,18 @@
+{
+  "id": "0xE8c09672cfb9cFcE6E2edBB01057d9fa569F97c1",
+  "address": "0xE8c09672cfb9cFcE6E2edBB01057d9fa569F97c1",
+  "blockchain": "ethereum",
+  "name": "Indicoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE8c09672cfb9cFcE6E2edBB01057d9fa569F97c1",
+  "research": null,
+  "symbol": "INDI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

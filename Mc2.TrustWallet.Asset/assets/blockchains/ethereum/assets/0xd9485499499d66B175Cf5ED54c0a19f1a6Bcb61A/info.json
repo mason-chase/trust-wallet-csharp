@@ -1,0 +1,18 @@
+{
+  "id": "0xd9485499499d66B175Cf5ED54c0a19f1a6Bcb61A",
+  "address": "0xd9485499499d66B175Cf5ED54c0a19f1a6Bcb61A",
+  "blockchain": "ethereum",
+  "name": "UseChain Token",
+  "website": "https://www.usechain.net/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd9485499499d66B175Cf5ED54c0a19f1a6Bcb61A",
+  "research": null,
+  "symbol": "USE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

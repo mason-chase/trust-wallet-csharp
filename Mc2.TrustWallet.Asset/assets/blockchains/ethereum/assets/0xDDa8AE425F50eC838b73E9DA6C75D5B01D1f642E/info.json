@@ -1,0 +1,18 @@
+{
+  "id": "0xDDa8AE425F50eC838b73E9DA6C75D5B01D1f642E",
+  "address": "0xDDa8AE425F50eC838b73E9DA6C75D5B01D1f642E",
+  "blockchain": "ethereum",
+  "name": "MILFcoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDDa8AE425F50eC838b73E9DA6C75D5B01D1f642E",
+  "research": null,
+  "symbol": "MILF",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

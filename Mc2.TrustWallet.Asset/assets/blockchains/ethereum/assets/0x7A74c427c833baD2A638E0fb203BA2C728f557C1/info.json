@@ -1,0 +1,18 @@
+{
+  "id": "0x7A74c427c833baD2A638E0fb203BA2C728f557C1",
+  "address": "0x7A74c427c833baD2A638E0fb203BA2C728f557C1",
+  "blockchain": "ethereum",
+  "name": "OrdoCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7A74c427c833baD2A638E0fb203BA2C728f557C1",
+  "research": null,
+  "symbol": "RDC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

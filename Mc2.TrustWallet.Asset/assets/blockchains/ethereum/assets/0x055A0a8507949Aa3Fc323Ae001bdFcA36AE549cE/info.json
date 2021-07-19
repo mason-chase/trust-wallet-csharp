@@ -1,0 +1,18 @@
+{
+  "id": "0x055A0a8507949Aa3Fc323Ae001bdFcA36AE549cE",
+  "address": "0x055A0a8507949Aa3Fc323Ae001bdFcA36AE549cE",
+  "blockchain": "ethereum",
+  "name": "CM - 0R862071",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x055A0a8507949Aa3Fc323Ae001bdFcA36AE549cE",
+  "research": null,
+  "symbol": "CM",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

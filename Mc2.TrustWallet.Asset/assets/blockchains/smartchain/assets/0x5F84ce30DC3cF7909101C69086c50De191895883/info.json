@@ -1,0 +1,18 @@
+{
+  "id": "0x5F84ce30DC3cF7909101C69086c50De191895883",
+  "address": "0x5F84ce30DC3cF7909101C69086c50De191895883",
+  "blockchain": "smartchain",
+  "name": "Venus Reward Token",
+  "website": "https://venus.io/",
+  "description": "Venus Reward Token is a mechanism created to become an additional mining distribution to suppliers and borrowers of Venus Protocol.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x5F84ce30DC3cF7909101C69086c50De191895883",
+  "research": null,
+  "symbol": "VRT",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

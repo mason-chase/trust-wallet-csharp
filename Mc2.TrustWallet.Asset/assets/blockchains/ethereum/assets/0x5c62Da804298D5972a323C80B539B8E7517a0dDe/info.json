@@ -1,0 +1,18 @@
+{
+  "id": "0x5c62Da804298D5972a323C80B539B8E7517a0dDe",
+  "address": "0x5c62Da804298D5972a323C80B539B8E7517a0dDe",
+  "blockchain": "ethereum",
+  "name": "VENJOCOIN",
+  "website": "https://venjocoin.io",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5c62Da804298D5972a323C80B539B8E7517a0dDe",
+  "research": null,
+  "symbol": "VJC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "MATIC-84A",
+  "address": "MATIC-84A",
+  "blockchain": "binance",
+  "name": "Matic Token",
+  "website": "https://matic.network/",
+  "description": "Matic Network is a layer-2 scaling solution that uses sidechains for off-chain computation while ensuring asset security using Plasma framework and a decentralized network of Proof-of-Stake (PoS) vailidators.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/MATIC-84A",
+  "research": null,
+  "symbol": "MATIC",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

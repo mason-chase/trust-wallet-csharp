@@ -1,0 +1,18 @@
+{
+  "id": "0x479a315BdafDa5e7e66C7AeEF228477A0535A2Ef",
+  "address": "0x479a315BdafDa5e7e66C7AeEF228477A0535A2Ef",
+  "blockchain": "ethereum",
+  "name": "BFFI OPTIONS",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x479a315BdafDa5e7e66C7AeEF228477A0535A2Ef",
+  "research": null,
+  "symbol": "BFFI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

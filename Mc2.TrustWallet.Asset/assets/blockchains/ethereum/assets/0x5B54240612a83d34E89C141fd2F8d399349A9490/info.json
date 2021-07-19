@@ -1,0 +1,18 @@
+{
+  "id": "0x5B54240612a83d34E89C141fd2F8d399349A9490",
+  "address": "0x5B54240612a83d34E89C141fd2F8d399349A9490",
+  "blockchain": "ethereum",
+  "name": "BitUnits",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5B54240612a83d34E89C141fd2F8d399349A9490",
+  "research": null,
+  "symbol": "UNITX",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

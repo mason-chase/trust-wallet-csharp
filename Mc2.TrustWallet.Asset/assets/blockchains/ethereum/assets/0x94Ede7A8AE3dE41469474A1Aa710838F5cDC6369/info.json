@@ -1,0 +1,18 @@
+{
+  "id": "0x94Ede7A8AE3dE41469474A1Aa710838F5cDC6369",
+  "address": "0x94Ede7A8AE3dE41469474A1Aa710838F5cDC6369",
+  "blockchain": "ethereum",
+  "name": "EtherCenter",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x94Ede7A8AE3dE41469474A1Aa710838F5cDC6369",
+  "research": null,
+  "symbol": "ECT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

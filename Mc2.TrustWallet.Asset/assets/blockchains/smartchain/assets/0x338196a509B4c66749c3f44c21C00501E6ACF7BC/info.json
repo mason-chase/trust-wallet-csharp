@@ -1,0 +1,18 @@
+{
+  "id": "0x338196a509B4c66749c3f44c21C00501E6ACF7BC",
+  "address": "0x338196a509B4c66749c3f44c21C00501E6ACF7BC",
+  "blockchain": "smartchain",
+  "name": "DragonMusk",
+  "website": "https://dragonmusk.ga/",
+  "description": "Dragon Musk is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, and Burn.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x338196a509B4c66749c3f44c21C00501E6ACF7BC",
+  "research": null,
+  "symbol": "DMusk",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

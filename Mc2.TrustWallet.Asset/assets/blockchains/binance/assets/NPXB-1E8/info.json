@@ -1,0 +1,18 @@
+{
+  "id": "NPXB-1E8",
+  "address": "NPXB-1E8",
+  "blockchain": "binance",
+  "name": "NPX Binance token",
+  "website": "https://napoleonx.ai/",
+  "description": "NaPoleonX is the first 100% algorithmic crypto asset manager. It has been designed by ex multi-billions asset managers specifically to holders of cryptos who are looking for a return on their savings.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/NPXB-1E8",
+  "research": null,
+  "symbol": "NPXB",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xDF859C9878Ef5e742d7BbE3C22a496c088C89Fa9",
+  "address": "0xDF859C9878Ef5e742d7BbE3C22a496c088C89Fa9",
+  "blockchain": "ethereum",
+  "name": "FIND Token",
+  "website": "https://g.qufen.top/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDF859C9878Ef5e742d7BbE3C22a496c088C89Fa9",
+  "research": null,
+  "symbol": "FIND",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

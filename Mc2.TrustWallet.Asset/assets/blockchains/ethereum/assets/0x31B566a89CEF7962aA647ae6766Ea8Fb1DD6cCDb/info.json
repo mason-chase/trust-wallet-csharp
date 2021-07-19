@@ -1,0 +1,18 @@
+{
+  "id": "0x31B566a89CEF7962aA647ae6766Ea8Fb1DD6cCDb",
+  "address": "0x31B566a89CEF7962aA647ae6766Ea8Fb1DD6cCDb",
+  "blockchain": "ethereum",
+  "name": "BitBancoCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x31B566a89CEF7962aA647ae6766Ea8Fb1DD6cCDb",
+  "research": null,
+  "symbol": "BBC",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

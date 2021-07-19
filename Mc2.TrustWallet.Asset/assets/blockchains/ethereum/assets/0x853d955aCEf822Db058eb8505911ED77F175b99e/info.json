@@ -1,0 +1,35 @@
+{
+  "id": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+  "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+  "blockchain": "ethereum",
+  "name": "Frax",
+  "website": "https://frax.finance/",
+  "description": "Frax is a new paradigm in stablecoin design, bringing together a two-token seigniorage share system, swap-based monetary policy, fully on-chain oracles, and decentralized governance alongside its fractional-algorithmic stablecoin design.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x853d955aCEf822Db058eb8505911ED77F175b99e",
+  "research": null,
+  "symbol": "FRAX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/FraxFinance"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Frax Finance"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/fraxfinance"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/Xwe8kAwZ4a"
+    }
+  ],
+  "tags": null
+}

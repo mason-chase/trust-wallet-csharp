@@ -1,0 +1,18 @@
+{
+  "id": "0xbdEB4b83251Fb146687fa19D1C660F99411eefe3",
+  "address": "0xbdEB4b83251Fb146687fa19D1C660F99411eefe3",
+  "blockchain": "ethereum",
+  "name": "savedroid",
+  "website": "https://ico.savedroid.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xbdEB4b83251Fb146687fa19D1C660F99411eefe3",
+  "research": null,
+  "symbol": "SVD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

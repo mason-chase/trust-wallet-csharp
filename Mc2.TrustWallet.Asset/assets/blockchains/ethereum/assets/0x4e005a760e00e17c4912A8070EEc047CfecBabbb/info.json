@@ -1,0 +1,18 @@
+{
+  "id": "0x4e005a760e00e17c4912A8070EEc047CfecBabbb",
+  "address": "0x4e005a760e00e17c4912A8070EEc047CfecBabbb",
+  "blockchain": "ethereum",
+  "name": "NEXT.exchange",
+  "website": "https://next.exchange/",
+  "description": "A hybrid exchange registered as an N. V. (Public company) in the Netherlands and provides fiat pairs to all altcoins on its platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4e005a760e00e17c4912A8070EEc047CfecBabbb",
+  "research": null,
+  "symbol": "NEXT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

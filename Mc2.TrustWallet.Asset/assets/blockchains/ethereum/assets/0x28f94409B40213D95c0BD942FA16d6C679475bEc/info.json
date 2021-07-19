@@ -1,0 +1,18 @@
+{
+  "id": "0x28f94409B40213D95c0BD942FA16d6C679475bEc",
+  "address": "0x28f94409B40213D95c0BD942FA16d6C679475bEc",
+  "blockchain": "ethereum",
+  "name": "DEKSEN Ecosystem",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x28f94409B40213D95c0BD942FA16d6C679475bEc",
+  "research": null,
+  "symbol": "DEKSX",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

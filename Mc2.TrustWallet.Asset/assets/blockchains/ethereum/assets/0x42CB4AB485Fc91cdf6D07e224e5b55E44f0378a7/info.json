@@ -1,0 +1,18 @@
+{
+  "id": "0x42CB4AB485Fc91cdf6D07e224e5b55E44f0378a7",
+  "address": "0x42CB4AB485Fc91cdf6D07e224e5b55E44f0378a7",
+  "blockchain": "ethereum",
+  "name": "Xiaodao",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x42CB4AB485Fc91cdf6D07e224e5b55E44f0378a7",
+  "research": null,
+  "symbol": "XDAO",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

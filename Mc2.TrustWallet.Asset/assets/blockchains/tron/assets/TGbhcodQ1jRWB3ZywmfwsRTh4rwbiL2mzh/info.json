@@ -1,0 +1,18 @@
+{
+  "id": "TGbhcodQ1jRWB3ZywmfwsRTh4rwbiL2mzh",
+  "address": "TGbhcodQ1jRWB3ZywmfwsRTh4rwbiL2mzh",
+  "blockchain": "tron",
+  "name": "LoveHeartsToken",
+  "website": "https://t.me/LoveHeartsForever",
+  "description": "LoveHearts claims to be an online currency that connects people.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TGbhcodQ1jRWB3ZywmfwsRTh4rwbiL2mzh",
+  "research": null,
+  "symbol": "LVH",
+  "type": "TRC20",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xC2e3ED7F61D338755BF7b6fB4bAA0ffFadA4AC28",
+  "address": "0xC2e3ED7F61D338755BF7b6fB4bAA0ffFadA4AC28",
+  "blockchain": "ethereum",
+  "name": "Dmaarc",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xC2e3ED7F61D338755BF7b6fB4bAA0ffFadA4AC28",
+  "research": null,
+  "symbol": "DRC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xF80417fac69547A1776D68F8c9DFB16Ba0eAE09D",
+  "address": "0xF80417fac69547A1776D68F8c9DFB16Ba0eAE09D",
+  "blockchain": "ethereum",
+  "name": "Doecoins.com",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF80417fac69547A1776D68F8c9DFB16Ba0eAE09D",
+  "research": null,
+  "symbol": "DOE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

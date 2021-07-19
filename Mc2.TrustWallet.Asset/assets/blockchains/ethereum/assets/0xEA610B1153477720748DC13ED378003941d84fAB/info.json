@@ -1,0 +1,18 @@
+{
+  "id": "0xEA610B1153477720748DC13ED378003941d84fAB",
+  "address": "0xEA610B1153477720748DC13ED378003941d84fAB",
+  "blockchain": "ethereum",
+  "name": "AlisToken",
+  "website": "https://alismedia.jp/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xEA610B1153477720748DC13ED378003941d84fAB",
+  "research": null,
+  "symbol": "ALIS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

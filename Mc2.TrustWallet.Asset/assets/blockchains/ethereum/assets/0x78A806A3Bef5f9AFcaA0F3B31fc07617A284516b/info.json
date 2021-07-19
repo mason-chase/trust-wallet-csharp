@@ -1,0 +1,18 @@
+{
+  "id": "0x78A806A3Bef5f9AFcaA0F3B31fc07617A284516b",
+  "address": "0x78A806A3Bef5f9AFcaA0F3B31fc07617A284516b",
+  "blockchain": "ethereum",
+  "name": "Token Guardian",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x78A806A3Bef5f9AFcaA0F3B31fc07617A284516b",
+  "research": null,
+  "symbol": "TKGN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

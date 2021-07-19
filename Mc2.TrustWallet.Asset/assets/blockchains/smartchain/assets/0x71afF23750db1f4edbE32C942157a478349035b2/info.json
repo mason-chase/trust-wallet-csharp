@@ -1,0 +1,18 @@
+{
+  "id": "0x71afF23750db1f4edbE32C942157a478349035b2",
+  "address": "0x71afF23750db1f4edbE32C942157a478349035b2",
+  "blockchain": "smartchain",
+  "name": "PRIVATEUM INITIATIVE",
+  "website": "https://privateum.org",
+  "description": "PRIVATEUM is a technological and legal solution based community platform that enables private assets management",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x71afF23750db1f4edbE32C942157a478349035b2",
+  "research": null,
+  "symbol": "PVM",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

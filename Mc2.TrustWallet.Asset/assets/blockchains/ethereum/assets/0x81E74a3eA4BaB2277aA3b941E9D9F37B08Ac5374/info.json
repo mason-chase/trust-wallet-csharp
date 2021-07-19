@@ -1,0 +1,18 @@
+{
+  "id": "0x81E74a3eA4BaB2277aA3b941E9D9F37B08Ac5374",
+  "address": "0x81E74a3eA4BaB2277aA3b941E9D9F37B08Ac5374",
+  "blockchain": "ethereum",
+  "name": "Ifoods Token",
+  "website": "https://www.ifoodschain.io/#/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x81E74a3eA4BaB2277aA3b941E9D9F37B08Ac5374",
+  "research": null,
+  "symbol": "IFOOD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

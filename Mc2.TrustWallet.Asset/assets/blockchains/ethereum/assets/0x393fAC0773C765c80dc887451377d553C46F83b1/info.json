@@ -1,0 +1,18 @@
+{
+  "id": "0x393fAC0773C765c80dc887451377d553C46F83b1",
+  "address": "0x393fAC0773C765c80dc887451377d553C46F83b1",
+  "blockchain": "ethereum",
+  "name": "RAKSUR",
+  "website": "https://raksur.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x393fAC0773C765c80dc887451377d553C46F83b1",
+  "research": null,
+  "symbol": "RAS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

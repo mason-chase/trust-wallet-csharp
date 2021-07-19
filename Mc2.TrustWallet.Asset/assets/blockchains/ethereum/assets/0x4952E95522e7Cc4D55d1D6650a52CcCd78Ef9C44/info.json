@@ -1,0 +1,18 @@
+{
+  "id": "0x4952E95522e7Cc4D55d1D6650a52CcCd78Ef9C44",
+  "address": "0x4952E95522e7Cc4D55d1D6650a52CcCd78Ef9C44",
+  "blockchain": "ethereum",
+  "name": "BinGo",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4952E95522e7Cc4D55d1D6650a52CcCd78Ef9C44",
+  "research": null,
+  "symbol": "GOO",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

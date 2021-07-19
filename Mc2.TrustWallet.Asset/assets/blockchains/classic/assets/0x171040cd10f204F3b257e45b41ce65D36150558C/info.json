@@ -1,0 +1,18 @@
+{
+  "id": "0x171040cd10f204F3b257e45b41ce65D36150558C",
+  "address": "0x171040cd10f204F3b257e45b41ce65D36150558C",
+  "blockchain": "classic",
+  "name": "eBOMB",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://blockscout.com/etc/mainnet/tokens/0x171040cd10f204F3b257e45b41ce65D36150558C",
+  "research": null,
+  "symbol": "POW",
+  "type": "ETC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

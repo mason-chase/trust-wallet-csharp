@@ -1,0 +1,18 @@
+{
+  "id": "0x6F6DEb5db0C4994A8283A01D6CFeEB27Fc3bBe9C",
+  "address": "0x6F6DEb5db0C4994A8283A01D6CFeEB27Fc3bBe9C",
+  "blockchain": "ethereum",
+  "name": "SmartBillions Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6F6DEb5db0C4994A8283A01D6CFeEB27Fc3bBe9C",
+  "research": null,
+  "symbol": "Smart",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

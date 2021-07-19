@@ -1,0 +1,18 @@
+{
+  "id": "0x51ee82641Ac238BDe34B9859f98F5F311d6E4954",
+  "address": "0x51ee82641Ac238BDe34B9859f98F5F311d6E4954",
+  "blockchain": "ethereum",
+  "name": "IQT Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x51ee82641Ac238BDe34B9859f98F5F311d6E4954",
+  "research": null,
+  "symbol": "IQT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

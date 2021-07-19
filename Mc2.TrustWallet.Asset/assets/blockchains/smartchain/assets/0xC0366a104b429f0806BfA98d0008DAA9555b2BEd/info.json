@@ -1,0 +1,18 @@
+{
+  "id": "0xC0366a104b429f0806BfA98d0008DAA9555b2BEd",
+  "address": "0xC0366a104b429f0806BfA98d0008DAA9555b2BEd",
+  "blockchain": "smartchain",
+  "name": "SafeMars",
+  "website": "https://safemars.fi",
+  "description": "The SafeMars Protocol is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition & Burn.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xC0366a104b429f0806BfA98d0008DAA9555b2BEd",
+  "research": null,
+  "symbol": "SMARS",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

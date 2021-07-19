@@ -1,0 +1,18 @@
+{
+  "id": "0x9720b467a710382A232a32F540bDCed7d662a10B",
+  "address": "0x9720b467a710382A232a32F540bDCed7d662a10B",
+  "blockchain": "ethereum",
+  "name": "Vezt",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9720b467a710382A232a32F540bDCed7d662a10B",
+  "research": null,
+  "symbol": "VZT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

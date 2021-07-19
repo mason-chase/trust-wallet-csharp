@@ -1,0 +1,18 @@
+{
+  "id": "0x3c20d67b6B1aE0985F913aBb7397babc2fBb1A1F",
+  "address": "0x3c20d67b6B1aE0985F913aBb7397babc2fBb1A1F",
+  "blockchain": "ethereum",
+  "name": "ICEDIUM",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3c20d67b6B1aE0985F913aBb7397babc2fBb1A1F",
+  "research": null,
+  "symbol": "ICD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

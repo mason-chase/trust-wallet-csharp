@@ -1,0 +1,18 @@
+{
+  "id": "LBA-340",
+  "address": "LBA-340",
+  "blockchain": "binance",
+  "name": "Lend-Borrow-Asset",
+  "website": "https://www.mycred.io/",
+  "description": "Cred is a founder of the Universal Protocol Alliance (the UP Alliance), a coalition of the world’s leading blockchain companies solving some of crypto’s hardest challenges.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/LBA-340",
+  "research": null,
+  "symbol": "LBA",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

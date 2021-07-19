@@ -1,0 +1,18 @@
+{
+  "id": "0xeB04983Ab864B43322f393e621D3856cCAC889F1",
+  "address": "0xeB04983Ab864B43322f393e621D3856cCAC889F1",
+  "blockchain": "ethereum",
+  "name": "Bitcoin Blue",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xeB04983Ab864B43322f393e621D3856cCAC889F1",
+  "research": null,
+  "symbol": "BBC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

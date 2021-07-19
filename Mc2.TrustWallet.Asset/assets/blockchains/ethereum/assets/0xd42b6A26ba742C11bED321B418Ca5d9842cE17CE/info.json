@@ -1,0 +1,18 @@
+{
+  "id": "0xd42b6A26ba742C11bED321B418Ca5d9842cE17CE",
+  "address": "0xd42b6A26ba742C11bED321B418Ca5d9842cE17CE",
+  "blockchain": "ethereum",
+  "name": "BitxmenStock",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd42b6A26ba742C11bED321B418Ca5d9842cE17CE",
+  "research": null,
+  "symbol": "BXMS",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

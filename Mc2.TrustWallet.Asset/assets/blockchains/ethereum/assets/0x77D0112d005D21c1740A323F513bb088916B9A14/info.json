@@ -1,0 +1,18 @@
+{
+  "id": "0x77D0112d005D21c1740A323F513bb088916B9A14",
+  "address": "0x77D0112d005D21c1740A323F513bb088916B9A14",
+  "blockchain": "ethereum",
+  "name": "ManitoSuperToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x77D0112d005D21c1740A323F513bb088916B9A14",
+  "research": null,
+  "symbol": "ManitoS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

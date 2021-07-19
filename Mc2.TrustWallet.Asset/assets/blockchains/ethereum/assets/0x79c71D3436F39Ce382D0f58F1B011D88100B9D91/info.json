@@ -1,0 +1,18 @@
+{
+  "id": "0x79c71D3436F39Ce382D0f58F1B011D88100B9D91",
+  "address": "0x79c71D3436F39Ce382D0f58F1B011D88100B9D91",
+  "blockchain": "ethereum",
+  "name": "Xeonbit Token",
+  "website": "https://xeonbit.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x79c71D3436F39Ce382D0f58F1B011D88100B9D91",
+  "research": null,
+  "symbol": "XNS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

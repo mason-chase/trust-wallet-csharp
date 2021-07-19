@@ -1,0 +1,18 @@
+{
+  "id": "TXfUT4K3z8tatGAk3rEw5qMuqrPXp28h4g",
+  "address": "TXfUT4K3z8tatGAk3rEw5qMuqrPXp28h4g",
+  "blockchain": "tron",
+  "name": "DLIToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TXfUT4K3z8tatGAk3rEw5qMuqrPXp28h4g",
+  "research": null,
+  "symbol": "DLI",
+  "type": "TRC20",
+  "decimals": 6,
+  "status": "spam",
+  "links": null,
+  "tags": null
+}

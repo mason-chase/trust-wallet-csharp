@@ -1,0 +1,18 @@
+{
+  "id": "0xD2E8F88dDdb95704C17E78E1cb07Ae3812DdfA24",
+  "address": "0xD2E8F88dDdb95704C17E78E1cb07Ae3812DdfA24",
+  "blockchain": "ethereum",
+  "name": "HacToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xD2E8F88dDdb95704C17E78E1cb07Ae3812DdfA24",
+  "research": null,
+  "symbol": "HAC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

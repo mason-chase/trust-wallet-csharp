@@ -1,0 +1,18 @@
+{
+  "id": "0x025daf950C6e814dEe4c96e13c98D3196D22E60C",
+  "address": "0x025daf950C6e814dEe4c96e13c98D3196D22E60C",
+  "blockchain": "ethereum",
+  "name": "RICH Token",
+  "website": "https://richtoken.co.in/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x025daf950C6e814dEe4c96e13c98D3196D22E60C",
+  "research": null,
+  "symbol": "RICH",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "spam",
+  "links": null,
+  "tags": null
+}

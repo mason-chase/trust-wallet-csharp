@@ -1,0 +1,18 @@
+{
+  "id": "0x4A8F44BE523580a11cdB20e2C7C470Adf44Ec9BB",
+  "address": "0x4A8F44BE523580a11cdB20e2C7C470Adf44Ec9BB",
+  "blockchain": "ethereum",
+  "name": "MinerCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4A8F44BE523580a11cdB20e2C7C470Adf44Ec9BB",
+  "research": null,
+  "symbol": "BTMC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x8dAE6Cb04688C62d939ed9B68d32Bc62e49970b1",
+  "address": "0x8dAE6Cb04688C62d939ed9B68d32Bc62e49970b1",
+  "blockchain": "ethereum",
+  "name": "Aave CRV",
+  "website": "https://aave.com",
+  "description": "Aave CRV is an interest bearing token pegged 1:1 to the underlying CRV deposited in Aave. aCRV accrue interest in real time in your wallet.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8dAE6Cb04688C62d939ed9B68d32Bc62e49970b1",
+  "research": null,
+  "symbol": "aCRV",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

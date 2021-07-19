@@ -1,0 +1,18 @@
+{
+  "id": "0xFF603F43946A3A28DF5E6A73172555D8C8b02386",
+  "address": "0xFF603F43946A3A28DF5E6A73172555D8C8b02386",
+  "blockchain": "ethereum",
+  "name": "OneRoot Network Token",
+  "website": "https://www.oneroot.io/en",
+  "description": "ONEROOT aims to make use of the immutability, transparency and traceability of blockchain while embracing values of decentralization and shared economy to build a network of value that better fits with the characteristics of distributed network and tokenization of assets.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xFF603F43946A3A28DF5E6A73172555D8C8b02386",
+  "research": null,
+  "symbol": "RNT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

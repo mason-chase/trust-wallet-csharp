@@ -1,0 +1,18 @@
+{
+  "id": "0x6FC2A052f82d0f8B5d774f8EF8B30Fe933ce9953",
+  "address": "0x6FC2A052f82d0f8B5d774f8EF8B30Fe933ce9953",
+  "blockchain": "ethereum",
+  "name": "DMSCOIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6FC2A052f82d0f8B5d774f8EF8B30Fe933ce9953",
+  "research": null,
+  "symbol": "DMS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

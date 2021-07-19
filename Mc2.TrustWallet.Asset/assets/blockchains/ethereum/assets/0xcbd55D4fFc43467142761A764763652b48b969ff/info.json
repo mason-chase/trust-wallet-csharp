@@ -1,0 +1,18 @@
+{
+  "id": "0xcbd55D4fFc43467142761A764763652b48b969ff",
+  "address": "0xcbd55D4fFc43467142761A764763652b48b969ff",
+  "blockchain": "ethereum",
+  "name": "AstroTools",
+  "website": "https://astrotools.io/",
+  "description": "AstroTools is a DeFi dashboard that bridges the information gap between centralized and decentralized exchanges.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xcbd55D4fFc43467142761A764763652b48b969ff",
+  "research": null,
+  "symbol": "ASTRO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

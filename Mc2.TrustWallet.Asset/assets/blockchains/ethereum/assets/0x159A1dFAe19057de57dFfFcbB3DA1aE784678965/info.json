@@ -1,0 +1,18 @@
+{
+  "id": "0x159A1dFAe19057de57dFfFcbB3DA1aE784678965",
+  "address": "0x159A1dFAe19057de57dFfFcbB3DA1aE784678965",
+  "blockchain": "ethereum",
+  "name": "Reflex",
+  "website": "https://reflextoken.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x159A1dFAe19057de57dFfFcbB3DA1aE784678965",
+  "research": null,
+  "symbol": "RFX",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

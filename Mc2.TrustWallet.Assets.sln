@@ -12,6 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mc2.TrustWallet.Asset.Root"
 		.gitignore = .gitignore
 		.gitmodules = .gitmodules
 		.travis.yml = .travis.yml
+		Mc2.TrustWallet.Assets.png = Mc2.TrustWallet.Assets.png
 		readme.md = readme.md
 		readme.template.md = readme.template.md
 	EndProjectSection

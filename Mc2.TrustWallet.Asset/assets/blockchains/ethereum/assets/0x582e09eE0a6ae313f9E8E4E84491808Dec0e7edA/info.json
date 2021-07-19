@@ -1,0 +1,18 @@
+{
+  "id": "0x582e09eE0a6ae313f9E8E4E84491808Dec0e7edA",
+  "address": "0x582e09eE0a6ae313f9E8E4E84491808Dec0e7edA",
+  "blockchain": "ethereum",
+  "name": "BUYEXSHOP",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x582e09eE0a6ae313f9E8E4E84491808Dec0e7edA",
+  "research": null,
+  "symbol": "BYXS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

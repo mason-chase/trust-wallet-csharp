@@ -1,0 +1,18 @@
+{
+  "id": "0xdC5938384Ae01489C5C8D071706E90dd42E33427",
+  "address": "0xdC5938384Ae01489C5C8D071706E90dd42E33427",
+  "blockchain": "ethereum",
+  "name": "Luna",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xdC5938384Ae01489C5C8D071706E90dd42E33427",
+  "research": null,
+  "symbol": "LUNA",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

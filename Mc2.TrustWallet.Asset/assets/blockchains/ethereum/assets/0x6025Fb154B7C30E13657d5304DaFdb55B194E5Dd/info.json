@@ -1,0 +1,18 @@
+{
+  "id": "0x6025Fb154B7C30E13657d5304DaFdb55B194E5Dd",
+  "address": "0x6025Fb154B7C30E13657d5304DaFdb55B194E5Dd",
+  "blockchain": "ethereum",
+  "name": "iAM",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6025Fb154B7C30E13657d5304DaFdb55B194E5Dd",
+  "research": null,
+  "symbol": "IAM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

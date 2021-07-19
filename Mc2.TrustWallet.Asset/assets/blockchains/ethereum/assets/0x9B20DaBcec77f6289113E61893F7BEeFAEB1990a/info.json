@@ -1,0 +1,18 @@
+{
+  "id": "0x9B20DaBcec77f6289113E61893F7BEeFAEB1990a",
+  "address": "0x9B20DaBcec77f6289113E61893F7BEeFAEB1990a",
+  "blockchain": "ethereum",
+  "name": "Fair Token",
+  "website": "https://fair.game/#/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9B20DaBcec77f6289113E61893F7BEeFAEB1990a",
+  "research": null,
+  "symbol": "FAIR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

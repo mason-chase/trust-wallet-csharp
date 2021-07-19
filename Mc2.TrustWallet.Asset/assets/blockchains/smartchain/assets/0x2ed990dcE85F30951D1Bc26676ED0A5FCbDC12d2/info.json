@@ -1,0 +1,18 @@
+{
+  "id": "0x2ed990dcE85F30951D1Bc26676ED0A5FCbDC12d2",
+  "address": "0x2ed990dcE85F30951D1Bc26676ED0A5FCbDC12d2",
+  "blockchain": "smartchain",
+  "name": "POOROCKET",
+  "website": "https://poorocket.com",
+  "description": "$POOROCKET is the fairest launched, anti-whale, community driven, DeFi Token instructed to reward holders through its frictionless yield and liquidity generation protocol. Within the POOROCKET application, we have developed a fully bespoke digital wallet offering to store your cryptocurrencies in the safest, most immutable environment on the market.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x2ed990dce85f30951d1bc26676ed0a5fcbdc12d2",
+  "research": null,
+  "symbol": "POOROCKET",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

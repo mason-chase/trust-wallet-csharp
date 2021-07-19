@@ -1,0 +1,18 @@
+{
+  "id": "0x116a790417c31Ab790436A519D1C1F3353Edd4a2",
+  "address": "0x116a790417c31Ab790436A519D1C1F3353Edd4a2",
+  "blockchain": "ethereum",
+  "name": "Trip",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x116a790417c31Ab790436A519D1C1F3353Edd4a2",
+  "research": null,
+  "symbol": "TRIP",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

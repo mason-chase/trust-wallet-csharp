@@ -1,0 +1,18 @@
+{
+  "id": "0x239836e951DD75Fea01beF8ba039119dc8D5352f",
+  "address": "0x239836e951DD75Fea01beF8ba039119dc8D5352f",
+  "blockchain": "ethereum",
+  "name": "Boostedpro Coin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x239836e951DD75Fea01beF8ba039119dc8D5352f",
+  "research": null,
+  "symbol": "BPC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

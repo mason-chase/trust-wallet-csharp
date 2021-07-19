@@ -1,0 +1,18 @@
+{
+  "id": "0x2956356cD2a2bf3202F771F50D3D14A367b48070",
+  "address": "0x2956356cD2a2bf3202F771F50D3D14A367b48070",
+  "blockchain": "ethereum",
+  "name": "Ether Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2956356cD2a2bf3202F771F50D3D14A367b48070",
+  "research": null,
+  "symbol": "WETH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

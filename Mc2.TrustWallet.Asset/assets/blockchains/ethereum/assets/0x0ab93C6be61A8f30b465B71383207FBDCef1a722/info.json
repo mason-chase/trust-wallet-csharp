@@ -1,0 +1,18 @@
+{
+  "id": "0x0ab93C6be61A8f30b465B71383207FBDCef1a722",
+  "address": "0x0ab93C6be61A8f30b465B71383207FBDCef1a722",
+  "blockchain": "ethereum",
+  "name": "Nouveau",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0ab93C6be61A8f30b465B71383207FBDCef1a722",
+  "research": null,
+  "symbol": "SNV",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x8C60423251C62f653855777C476d76280b853960",
+  "address": "0x8C60423251C62f653855777C476d76280b853960",
+  "blockchain": "ethereum",
+  "name": "Chaz",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8C60423251C62f653855777C476d76280b853960",
+  "research": null,
+  "symbol": "CHOP",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

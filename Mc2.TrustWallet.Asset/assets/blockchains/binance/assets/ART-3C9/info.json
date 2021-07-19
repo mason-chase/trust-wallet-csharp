@@ -1,0 +1,18 @@
+{
+  "id": "ART-3C9",
+  "address": "ART-3C9",
+  "blockchain": "binance",
+  "name": "Maecenas ART Token",
+  "website": "http://www.maecenas.co/",
+  "description": "Maecenas is the first open blockchain platform that democratises access to Fine Art",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/ART-3C9",
+  "research": null,
+  "symbol": "ART",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x353cAFd02131CA5b69211BBc3899f556BC62B7E3",
+  "address": "0x353cAFd02131CA5b69211BBc3899f556BC62B7E3",
+  "blockchain": "ethereum",
+  "name": "BitEDU",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x353cAFd02131CA5b69211BBc3899f556BC62B7E3",
+  "research": null,
+  "symbol": "BEU",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

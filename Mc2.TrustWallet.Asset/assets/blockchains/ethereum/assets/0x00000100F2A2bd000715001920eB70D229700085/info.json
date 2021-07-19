@@ -1,0 +1,18 @@
+{
+  "id": "0x00000100F2A2bd000715001920eB70D229700085",
+  "address": "0x00000100F2A2bd000715001920eB70D229700085",
+  "blockchain": "ethereum",
+  "name": "TrueCAD",
+  "website": "https://www.trusttoken.com/truecad/",
+  "description": "The most traded stablecoin that’s backed by the Canadian dollar.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x00000100F2A2bd000715001920eB70D229700085",
+  "research": null,
+  "symbol": "TCAD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

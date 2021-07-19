@@ -1,0 +1,18 @@
+{
+  "id": "0x4599836c212CD988EAccc54C820Ee9261cdaAC71",
+  "address": "0x4599836c212CD988EAccc54C820Ee9261cdaAC71",
+  "blockchain": "ethereum",
+  "name": "Cryptid",
+  "website": "https://crypt-id.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4599836c212CD988EAccc54C820Ee9261cdaAC71",
+  "research": null,
+  "symbol": "CID",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

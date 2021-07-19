@@ -1,0 +1,18 @@
+{
+  "id": "0x97AEB5066E1A590e868b511457BEb6FE99d329F5",
+  "address": "0x97AEB5066E1A590e868b511457BEb6FE99d329F5",
+  "blockchain": "ethereum",
+  "name": "Atonomi",
+  "website": "https://atonomi.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x97AEB5066E1A590e868b511457BEb6FE99d329F5",
+  "research": null,
+  "symbol": "ATMI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "COVA-218",
+  "address": "COVA-218",
+  "blockchain": "binance",
+  "name": "Covalent Token",
+  "website": "http://covalent.ai/",
+  "description": "COVA Unity is a blockchain protocol that allows the monetization of enterprise data without compromising user data privacy.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/COVA-218",
+  "research": null,
+  "symbol": "COVA",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

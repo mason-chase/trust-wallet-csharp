@@ -1,0 +1,18 @@
+{
+  "id": "0x28Ed591C567Ab57aC3a885DF7770eBfd82D8Cd3e",
+  "address": "0x28Ed591C567Ab57aC3a885DF7770eBfd82D8Cd3e",
+  "blockchain": "ethereum",
+  "name": "CFCB",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x28Ed591C567Ab57aC3a885DF7770eBfd82D8Cd3e",
+  "research": null,
+  "symbol": "CFCB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

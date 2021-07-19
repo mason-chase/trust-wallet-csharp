@@ -1,0 +1,18 @@
+{
+  "id": "0x49A2e9Be4e06C7106c5708bFCABB9322d0ba33db",
+  "address": "0x49A2e9Be4e06C7106c5708bFCABB9322d0ba33db",
+  "blockchain": "ethereum",
+  "name": "MAKCOIN",
+  "website": "https://makcoinnetwork.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x49A2e9Be4e06C7106c5708bFCABB9322d0ba33db",
+  "research": null,
+  "symbol": "MAK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

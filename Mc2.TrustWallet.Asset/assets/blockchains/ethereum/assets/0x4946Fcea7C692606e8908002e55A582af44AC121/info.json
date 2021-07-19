@@ -1,0 +1,18 @@
+{
+  "id": "0x4946Fcea7C692606e8908002e55A582af44AC121",
+  "address": "0x4946Fcea7C692606e8908002e55A582af44AC121",
+  "blockchain": "ethereum",
+  "name": "FOAM Token",
+  "website": "https://www.foam.space/",
+  "description": "The FOAM Proof of Location protocol is a permissionless and autonomous network of radio beacons that can offer secure location services independent of external centralized sources such as GPS.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4946Fcea7C692606e8908002e55A582af44AC121",
+  "research": null,
+  "symbol": "FOAM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

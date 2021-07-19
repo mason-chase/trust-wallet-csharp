@@ -1,0 +1,18 @@
+{
+  "id": "0x2Db0d5Cb907014C67Dc201886624716fb5c71123",
+  "address": "0x2Db0d5Cb907014C67Dc201886624716fb5c71123",
+  "blockchain": "smartchain",
+  "name": "AINU TOKEN",
+  "website": "https://www.ainutoken.net",
+  "description": "AINU Token is an all-new BEP20 token on the Binance Smart Chain that is an automatic liquidity-providing protocol that gives out static rewards to HODLers.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x2Db0d5Cb907014C67Dc201886624716fb5c71123",
+  "research": null,
+  "symbol": "AINU",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

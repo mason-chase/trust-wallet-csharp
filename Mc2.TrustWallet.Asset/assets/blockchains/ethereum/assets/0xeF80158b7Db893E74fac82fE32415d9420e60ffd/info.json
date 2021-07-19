@@ -1,0 +1,18 @@
+{
+  "id": "0xeF80158b7Db893E74fac82fE32415d9420e60ffd",
+  "address": "0xeF80158b7Db893E74fac82fE32415d9420e60ffd",
+  "blockchain": "ethereum",
+  "name": "BananaFundCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xeF80158b7Db893E74fac82fE32415d9420e60ffd",
+  "research": null,
+  "symbol": "BAC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xD27D76A1bA55ce5C0291CCd04feBBe793D22ebF4",
+  "address": "0xD27D76A1bA55ce5C0291CCd04feBBe793D22ebF4",
+  "blockchain": "ethereum",
+  "name": "Benepit",
+  "website": "https://www.benepit.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xD27D76A1bA55ce5C0291CCd04feBBe793D22ebF4",
+  "research": null,
+  "symbol": "BNP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x5c543e7AE0A1104f78406C340E9C64FD9fCE5170",
+  "address": "0x5c543e7AE0A1104f78406C340E9C64FD9fCE5170",
+  "blockchain": "ethereum",
+  "name": "vSlice",
+  "website": "http://www.vslice.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5c543e7AE0A1104f78406C340E9C64FD9fCE5170",
+  "research": null,
+  "symbol": "VSL",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

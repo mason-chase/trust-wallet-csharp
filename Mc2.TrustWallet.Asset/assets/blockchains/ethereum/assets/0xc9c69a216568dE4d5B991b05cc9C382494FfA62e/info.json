@@ -1,0 +1,18 @@
+{
+  "id": "0xc9c69a216568dE4d5B991b05cc9C382494FfA62e",
+  "address": "0xc9c69a216568dE4d5B991b05cc9C382494FfA62e",
+  "blockchain": "ethereum",
+  "name": "Okayama",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc9c69a216568dE4d5B991b05cc9C382494FfA62e",
+  "research": null,
+  "symbol": "YAMA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

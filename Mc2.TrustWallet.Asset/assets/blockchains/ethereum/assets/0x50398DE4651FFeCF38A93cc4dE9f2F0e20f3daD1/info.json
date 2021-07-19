@@ -1,0 +1,18 @@
+{
+  "id": "0x50398DE4651FFeCF38A93cc4dE9f2F0e20f3daD1",
+  "address": "0x50398DE4651FFeCF38A93cc4dE9f2F0e20f3daD1",
+  "blockchain": "ethereum",
+  "name": "PYR",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x50398DE4651FFeCF38A93cc4dE9f2F0e20f3daD1",
+  "research": null,
+  "symbol": "PYR",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

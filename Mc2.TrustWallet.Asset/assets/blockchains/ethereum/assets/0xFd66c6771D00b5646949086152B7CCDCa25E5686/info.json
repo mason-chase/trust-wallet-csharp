@@ -1,0 +1,18 @@
+{
+  "id": "0xFd66c6771D00b5646949086152B7CCDCa25E5686",
+  "address": "0xFd66c6771D00b5646949086152B7CCDCa25E5686",
+  "blockchain": "ethereum",
+  "name": "LATTICE80 KAYA TOKEN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xFd66c6771D00b5646949086152B7CCDCa25E5686",
+  "research": null,
+  "symbol": "KAYA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

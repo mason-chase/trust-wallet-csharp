@@ -1,0 +1,18 @@
+{
+  "id": "0x1844b21593262668B7248d0f57a220CaaBA46ab9",
+  "address": "0x1844b21593262668B7248d0f57a220CaaBA46ab9",
+  "blockchain": "ethereum",
+  "name": "Oyster Pearl",
+  "website": "https://oysterprotocol.com/",
+  "description": "Finance tech and Hazard Games.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1844b21593262668B7248d0f57a220CaaBA46ab9",
+  "research": null,
+  "symbol": "PRL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

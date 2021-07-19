@@ -1,0 +1,18 @@
+{
+  "id": "0x045Eb7e34e94B28C7A3641BC5e1A1F61f225Af9F",
+  "address": "0x045Eb7e34e94B28C7A3641BC5e1A1F61f225Af9F",
+  "blockchain": "ethereum",
+  "name": "ZPAY",
+  "website": "https://www.zelaapay.ae/",
+  "description": "Building an entire decentralized ecosystem specifically for GCC countries and driving the momentum to establish a censor-ship resistant cryptocurrency across the Gulf. Focusing upon changing the way Emiratis do transactions and manage their wealth.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x045Eb7e34e94B28C7A3641BC5e1A1F61f225Af9F",
+  "research": null,
+  "symbol": "ZPAE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

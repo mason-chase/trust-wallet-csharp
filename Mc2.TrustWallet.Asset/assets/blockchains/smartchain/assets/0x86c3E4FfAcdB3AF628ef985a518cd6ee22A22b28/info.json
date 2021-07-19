@@ -1,0 +1,18 @@
+{
+  "id": "0x86c3E4FfAcdB3AF628ef985a518cd6ee22A22b28",
+  "address": "0x86c3E4FfAcdB3AF628ef985a518cd6ee22A22b28",
+  "blockchain": "smartchain",
+  "name": "Octans",
+  "website": "https://octanscrypto.com/",
+  "description": "OCTANS aka $OCTA is a auto yield and liquidity smart contract.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x86c3E4FfAcdB3AF628ef985a518cd6ee22A22b28",
+  "research": null,
+  "symbol": "OCTA",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

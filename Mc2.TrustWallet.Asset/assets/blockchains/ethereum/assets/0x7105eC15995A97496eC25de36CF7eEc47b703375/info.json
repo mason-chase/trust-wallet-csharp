@@ -1,0 +1,18 @@
+{
+  "id": "0x7105eC15995A97496eC25de36CF7eEc47b703375",
+  "address": "0x7105eC15995A97496eC25de36CF7eEc47b703375",
+  "blockchain": "ethereum",
+  "name": "Red Box Dapp Token",
+  "website": "http://redboxdapp.co",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7105eC15995A97496eC25de36CF7eEc47b703375",
+  "research": null,
+  "symbol": "RBD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

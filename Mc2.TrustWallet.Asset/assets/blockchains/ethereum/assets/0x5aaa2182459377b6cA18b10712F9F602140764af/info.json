@@ -1,0 +1,18 @@
+{
+  "id": "0x5aaa2182459377b6cA18b10712F9F602140764af",
+  "address": "0x5aaa2182459377b6cA18b10712F9F602140764af",
+  "blockchain": "ethereum",
+  "name": "ElevationToken",
+  "website": "https://theelevationico.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5aaa2182459377b6cA18b10712F9F602140764af",
+  "research": null,
+  "symbol": "EVT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

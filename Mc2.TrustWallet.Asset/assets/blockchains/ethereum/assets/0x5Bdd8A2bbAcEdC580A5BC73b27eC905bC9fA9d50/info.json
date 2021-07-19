@@ -1,0 +1,18 @@
+{
+  "id": "0x5Bdd8A2bbAcEdC580A5BC73b27eC905bC9fA9d50",
+  "address": "0x5Bdd8A2bbAcEdC580A5BC73b27eC905bC9fA9d50",
+  "blockchain": "ethereum",
+  "name": "DaangnCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5Bdd8A2bbAcEdC580A5BC73b27eC905bC9fA9d50",
+  "research": null,
+  "symbol": "DGC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

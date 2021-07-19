@@ -1,0 +1,18 @@
+{
+  "id": "0x303dE4bdb189B951F875eB4A8ECDe2985138161e",
+  "address": "0x303dE4bdb189B951F875eB4A8ECDe2985138161e",
+  "blockchain": "smartchain",
+  "name": "USD SMART",
+  "website": "https://usdsmart.com",
+  "description": "USDs is a Digital assets for a stable currency with Binance Smart Chain Network #BSC For Smart Project.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x303dE4bdb189B951F875eB4A8ECDe2985138161e",
+  "research": null,
+  "symbol": "USDs",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

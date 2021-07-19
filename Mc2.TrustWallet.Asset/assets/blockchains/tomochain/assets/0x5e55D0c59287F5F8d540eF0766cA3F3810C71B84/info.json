@@ -1,0 +1,18 @@
+{
+  "id": "0x5e55D0c59287F5F8d540eF0766cA3F3810C71B84",
+  "address": "0x5e55D0c59287F5F8d540eF0766cA3F3810C71B84",
+  "blockchain": "tomochain",
+  "name": "PayFrequent",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://scan.tomochain.com/address/0x5e55D0c59287F5F8d540eF0766cA3F3810C71B84",
+  "research": null,
+  "symbol": "PayFQ",
+  "type": "TRC21",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

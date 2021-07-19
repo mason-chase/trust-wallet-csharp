@@ -1,0 +1,18 @@
+{
+  "id": "0x92bfBcFDc25Dd7a235de50291e2EafB12d4901F8",
+  "address": "0x92bfBcFDc25Dd7a235de50291e2EafB12d4901F8",
+  "blockchain": "ethereum",
+  "name": "DevilCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x92bfBcFDc25Dd7a235de50291e2EafB12d4901F8",
+  "research": null,
+  "symbol": "DEVIL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

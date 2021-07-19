@@ -1,0 +1,18 @@
+{
+  "id": "0xe947b388fbE682784170B62F2Bd4665f9719a285",
+  "address": "0xe947b388fbE682784170B62F2Bd4665f9719a285",
+  "blockchain": "ethereum",
+  "name": "Rally Coin",
+  "website": "https://www.rallyapp.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe947b388fbE682784170B62F2Bd4665f9719a285",
+  "research": null,
+  "symbol": "RALLY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

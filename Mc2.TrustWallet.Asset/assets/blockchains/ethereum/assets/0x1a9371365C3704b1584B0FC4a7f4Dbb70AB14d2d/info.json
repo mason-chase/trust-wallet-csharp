@@ -1,0 +1,18 @@
+{
+  "id": "0x1a9371365C3704b1584B0FC4a7f4Dbb70AB14d2d",
+  "address": "0x1a9371365C3704b1584B0FC4a7f4Dbb70AB14d2d",
+  "blockchain": "ethereum",
+  "name": "The Luxury",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1a9371365C3704b1584B0FC4a7f4Dbb70AB14d2d",
+  "research": null,
+  "symbol": "ILUX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

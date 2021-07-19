@@ -1,0 +1,18 @@
+{
+  "id": "0x150159C72F0F9Ef9000BF95E242dE6682480D6D3",
+  "address": "0x150159C72F0F9Ef9000BF95E242dE6682480D6D3",
+  "blockchain": "smartchain",
+  "name": "MoonStop Token",
+  "website": "https://moonstop.space",
+  "description": "MNSTP is a deflationary meme token with a strong community ethos.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x150159C72F0F9Ef9000BF95E242dE6682480D6D3",
+  "research": null,
+  "symbol": "MNSTP",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

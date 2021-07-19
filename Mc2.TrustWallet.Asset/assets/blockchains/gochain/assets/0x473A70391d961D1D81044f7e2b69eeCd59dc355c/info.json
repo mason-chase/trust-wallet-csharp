@@ -1,0 +1,18 @@
+{
+  "id": "0x473A70391d961D1D81044f7e2b69eeCd59dc355c",
+  "address": "0x473A70391d961D1D81044f7e2b69eeCd59dc355c",
+  "blockchain": "gochain",
+  "name": "GoDental",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.gochain.io/addr/0x473A70391d961D1D81044f7e2b69eeCd59dc355c",
+  "research": null,
+  "symbol": "GOD",
+  "type": "GO20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

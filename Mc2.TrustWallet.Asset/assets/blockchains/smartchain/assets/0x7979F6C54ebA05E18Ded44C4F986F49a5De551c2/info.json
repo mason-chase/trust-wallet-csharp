@@ -1,0 +1,35 @@
+{
+  "id": "0x7979F6C54ebA05E18Ded44C4F986F49a5De551c2",
+  "address": "0x7979F6C54ebA05E18Ded44C4F986F49a5De551c2",
+  "blockchain": "smartchain",
+  "name": "Kebab Token",
+  "website": "https://kebabfinance.com",
+  "description": "The strategically superior yield farming community on BSC.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x7979F6C54ebA05E18Ded44C4F986F49a5De551c2",
+  "research": null,
+  "symbol": "KEBAB",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/chefkebab"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/kebabfinance"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/kebabfinance"
+    },
+    {
+      "name": "medium",
+      "url": "https://kebabfinance1.medium.com/"
+    }
+  ],
+  "tags": null
+}

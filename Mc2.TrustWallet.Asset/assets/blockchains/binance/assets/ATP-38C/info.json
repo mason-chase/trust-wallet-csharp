@@ -1,0 +1,18 @@
+{
+  "id": "ATP-38C",
+  "address": "ATP-38C",
+  "blockchain": "binance",
+  "name": "Atlas Protocol",
+  "website": "https://atlasp.io/",
+  "description": "Offering one-stop blockchain enterprise solutions to users, circulating value using crypto tokens.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/ATP-38C",
+  "research": null,
+  "symbol": "ATP",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

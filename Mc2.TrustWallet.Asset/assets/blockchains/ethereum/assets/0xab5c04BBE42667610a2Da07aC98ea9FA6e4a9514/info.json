@@ -1,0 +1,18 @@
+{
+  "id": "0xab5c04BBE42667610a2Da07aC98ea9FA6e4a9514",
+  "address": "0xab5c04BBE42667610a2Da07aC98ea9FA6e4a9514",
+  "blockchain": "ethereum",
+  "name": "IZEROIUM",
+  "website": "https://izeroium.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xab5c04BBE42667610a2Da07aC98ea9FA6e4a9514",
+  "research": null,
+  "symbol": "IZER",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

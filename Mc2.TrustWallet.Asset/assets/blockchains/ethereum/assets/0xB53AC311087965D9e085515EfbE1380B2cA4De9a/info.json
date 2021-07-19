@@ -1,0 +1,18 @@
+{
+  "id": "0xB53AC311087965D9e085515EfbE1380B2cA4De9a",
+  "address": "0xB53AC311087965D9e085515EfbE1380B2cA4De9a",
+  "blockchain": "ethereum",
+  "name": "WITEE",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB53AC311087965D9e085515EfbE1380B2cA4De9a",
+  "research": null,
+  "symbol": "WTE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

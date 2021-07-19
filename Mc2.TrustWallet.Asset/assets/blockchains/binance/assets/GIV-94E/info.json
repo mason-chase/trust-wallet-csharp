@@ -1,0 +1,18 @@
+{
+  "id": "GIV-94E",
+  "address": "GIV-94E",
+  "blockchain": "binance",
+  "name": "Givly Coin",
+  "website": "https://cryptolocally.com/en/giv/",
+  "description": "GIV claims to be a utility token on the P2P exchange CryptoLocally. It can be used to purchase discounts and trade offer boosts on the platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/GIV-94E",
+  "research": null,
+  "symbol": "GIV",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x0707681F344dEB24184037fC0228856F2137B02E",
+  "address": "0x0707681F344dEB24184037fC0228856F2137B02E",
+  "blockchain": "ethereum",
+  "name": "FNKOSToken",
+  "website": "https://www.foglink.io/en/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0707681F344dEB24184037fC0228856F2137B02E",
+  "research": null,
+  "symbol": "FNKOS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

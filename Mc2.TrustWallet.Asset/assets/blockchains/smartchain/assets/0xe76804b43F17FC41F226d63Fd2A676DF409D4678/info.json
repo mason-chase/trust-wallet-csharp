@@ -1,0 +1,18 @@
+{
+  "id": "0xe76804b43F17FC41F226d63Fd2A676DF409D4678",
+  "address": "0xe76804b43F17FC41F226d63Fd2A676DF409D4678",
+  "blockchain": "smartchain",
+  "name": "Bat Finance",
+  "website": "https://app.batex.io",
+  "description": "BAT is a decentralized, community driven, fair launched Meme Token in BSC",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xe76804b43f17fc41f226d63fd2a676df409d4678",
+  "research": null,
+  "symbol": "BAT",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

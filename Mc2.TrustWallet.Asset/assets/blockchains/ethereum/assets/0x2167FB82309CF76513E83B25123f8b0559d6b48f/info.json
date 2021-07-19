@@ -1,0 +1,18 @@
+{
+  "id": "0x2167FB82309CF76513E83B25123f8b0559d6b48f",
+  "address": "0x2167FB82309CF76513E83B25123f8b0559d6b48f",
+  "blockchain": "ethereum",
+  "name": "LION",
+  "website": "https://coinlion.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2167FB82309CF76513E83B25123f8b0559d6b48f",
+  "research": null,
+  "symbol": "LION",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

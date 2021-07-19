@@ -1,0 +1,18 @@
+{
+  "id": "0xb74C03ad08363613b6fB4e56D1F6DDFBe990e5eb",
+  "address": "0xb74C03ad08363613b6fB4e56D1F6DDFBe990e5eb",
+  "blockchain": "ethereum",
+  "name": "Duarte Soberano",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb74C03ad08363613b6fB4e56D1F6DDFBe990e5eb",
+  "research": null,
+  "symbol": "DSC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

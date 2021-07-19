@@ -1,0 +1,18 @@
+{
+  "id": "0x8FAF0be1465B9bE70eE73d9123B2A1fDD9F2AAe4",
+  "address": "0x8FAF0be1465B9bE70eE73d9123B2A1fDD9F2AAe4",
+  "blockchain": "ethereum",
+  "name": "Ethereum Lite Cash",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8FAF0be1465B9bE70eE73d9123B2A1fDD9F2AAe4",
+  "research": null,
+  "symbol": "XLC",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

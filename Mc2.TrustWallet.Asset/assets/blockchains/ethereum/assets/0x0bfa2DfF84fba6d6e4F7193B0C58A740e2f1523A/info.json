@@ -1,0 +1,18 @@
+{
+  "id": "0x0bfa2DfF84fba6d6e4F7193B0C58A740e2f1523A",
+  "address": "0x0bfa2DfF84fba6d6e4F7193B0C58A740e2f1523A",
+  "blockchain": "ethereum",
+  "name": "Imocoin",
+  "website": "https://www.imocoin.io",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0bfa2DfF84fba6d6e4F7193B0C58A740e2f1523A",
+  "research": null,
+  "symbol": "IMO",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

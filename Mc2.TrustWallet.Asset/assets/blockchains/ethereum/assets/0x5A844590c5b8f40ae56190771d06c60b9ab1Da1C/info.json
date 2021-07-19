@@ -1,0 +1,18 @@
+{
+  "id": "0x5A844590c5b8f40ae56190771d06c60b9ab1Da1C",
+  "address": "0x5A844590c5b8f40ae56190771d06c60b9ab1Da1C",
+  "blockchain": "ethereum",
+  "name": "Ross Campbell Legal Engineering",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5A844590c5b8f40ae56190771d06c60b9ab1Da1C",
+  "research": null,
+  "symbol": "RCLE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

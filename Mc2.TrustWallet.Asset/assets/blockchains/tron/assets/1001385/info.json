@@ -1,0 +1,18 @@
+{
+  "id": "1001385",
+  "address": "1001385",
+  "blockchain": "tron",
+  "name": "FURCOIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1001385",
+  "research": null,
+  "symbol": "FUR",
+  "type": "TRC10",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

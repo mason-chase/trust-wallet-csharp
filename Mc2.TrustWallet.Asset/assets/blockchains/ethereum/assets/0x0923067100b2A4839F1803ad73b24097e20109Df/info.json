@@ -1,0 +1,18 @@
+{
+  "id": "0x0923067100b2A4839F1803ad73b24097e20109Df",
+  "address": "0x0923067100b2A4839F1803ad73b24097e20109Df",
+  "blockchain": "ethereum",
+  "name": "TrayV Block",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0923067100b2A4839F1803ad73b24097e20109Df",
+  "research": null,
+  "symbol": "TVB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

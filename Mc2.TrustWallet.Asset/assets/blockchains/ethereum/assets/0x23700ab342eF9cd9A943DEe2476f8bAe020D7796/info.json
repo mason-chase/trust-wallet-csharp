@@ -1,0 +1,18 @@
+{
+  "id": "0x23700ab342eF9cd9A943DEe2476f8bAe020D7796",
+  "address": "0x23700ab342eF9cd9A943DEe2476f8bAe020D7796",
+  "blockchain": "ethereum",
+  "name": "1irstgold",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x23700ab342eF9cd9A943DEe2476f8bAe020D7796",
+  "research": null,
+  "symbol": "1STG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

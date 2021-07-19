@@ -1,0 +1,18 @@
+{
+  "id": "DG2xFkPdDwKUoBkzGAhQtLpSGzfXLiCYPEzeKH2Ad24p",
+  "address": "DG2xFkPdDwKUoBkzGAhQtLpSGzfXLiCYPEzeKH2Ad24p",
+  "blockchain": "waves",
+  "name": "Neutrino USD",
+  "website": null,
+  "description": "-",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://wavesexplorer.com/assets/DG2xFkPdDwKUoBkzGAhQtLpSGzfXLiCYPEzeKH2Ad24p",
+  "research": null,
+  "symbol": "NeutrinoUSD",
+  "type": "WAVES",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

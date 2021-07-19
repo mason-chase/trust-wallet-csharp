@@ -1,0 +1,18 @@
+{
+  "id": "0xc690F7C7FcfFA6a82b79faB7508c466FEfdfc8c5",
+  "address": "0xc690F7C7FcfFA6a82b79faB7508c466FEfdfc8c5",
+  "blockchain": "ethereum",
+  "name": "Lympo tokens",
+  "website": "https://lympo.io/",
+  "description": "Lympo is a sports and health ecosystem powered by priceless user-generated and user-controlled data which can help generate exponential returns for industry stakeholders and users alike.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc690F7C7FcfFA6a82b79faB7508c466FEfdfc8c5",
+  "research": null,
+  "symbol": "LYM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

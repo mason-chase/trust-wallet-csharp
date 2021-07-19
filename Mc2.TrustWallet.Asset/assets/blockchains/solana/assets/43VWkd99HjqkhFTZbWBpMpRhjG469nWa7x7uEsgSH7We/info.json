@@ -1,0 +1,18 @@
+{
+  "id": "43VWkd99HjqkhFTZbWBpMpRhjG469nWa7x7uEsgSH7We",
+  "address": "43VWkd99HjqkhFTZbWBpMpRhjG469nWa7x7uEsgSH7We",
+  "blockchain": "solana",
+  "name": "Stonks",
+  "website": "https://www.stonkscoin.org/",
+  "description": "Stonks is a meme token that represents the STONKS meme, and to spread awareness about Solana",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.solana.com/address/43VWkd99HjqkhFTZbWBpMpRhjG469nWa7x7uEsgSH7We",
+  "research": null,
+  "symbol": "STNK",
+  "type": "SPL",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

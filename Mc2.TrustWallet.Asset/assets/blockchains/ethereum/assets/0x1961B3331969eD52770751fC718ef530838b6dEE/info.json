@@ -1,0 +1,18 @@
+{
+  "id": "0x1961B3331969eD52770751fC718ef530838b6dEE",
+  "address": "0x1961B3331969eD52770751fC718ef530838b6dEE",
+  "blockchain": "ethereum",
+  "name": "BitDegree Token",
+  "website": "https://www.bitdegree.org",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1961B3331969eD52770751fC718ef530838b6dEE",
+  "research": null,
+  "symbol": "BDG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

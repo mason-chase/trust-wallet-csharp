@@ -1,0 +1,18 @@
+{
+  "id": "0x3aFe47A46289B8eE2597ef8d8Ce7BEbF0f64172E",
+  "address": "0x3aFe47A46289B8eE2597ef8d8Ce7BEbF0f64172E",
+  "blockchain": "ethereum",
+  "name": "Swachhcoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3aFe47A46289B8eE2597ef8d8Ce7BEbF0f64172E",
+  "research": null,
+  "symbol": "SCX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

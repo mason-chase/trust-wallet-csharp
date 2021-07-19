@@ -1,0 +1,18 @@
+{
+  "id": "1001136",
+  "address": "1001136",
+  "blockchain": "tron",
+  "name": "AssChat",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1001136",
+  "research": null,
+  "symbol": "ASS",
+  "type": "TRC10",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

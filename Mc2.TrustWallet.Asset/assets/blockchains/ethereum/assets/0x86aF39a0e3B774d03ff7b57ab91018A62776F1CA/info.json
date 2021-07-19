@@ -1,0 +1,18 @@
+{
+  "id": "0x86aF39a0e3B774d03ff7b57ab91018A62776F1CA",
+  "address": "0x86aF39a0e3B774d03ff7b57ab91018A62776F1CA",
+  "blockchain": "ethereum",
+  "name": "BBF15ChallengeCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x86aF39a0e3B774d03ff7b57ab91018A62776F1CA",
+  "research": null,
+  "symbol": "BBF15",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

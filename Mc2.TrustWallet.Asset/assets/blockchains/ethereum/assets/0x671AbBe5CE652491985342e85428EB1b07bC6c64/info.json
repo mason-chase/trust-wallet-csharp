@@ -1,0 +1,18 @@
+{
+  "id": "0x671AbBe5CE652491985342e85428EB1b07bC6c64",
+  "address": "0x671AbBe5CE652491985342e85428EB1b07bC6c64",
+  "blockchain": "ethereum",
+  "name": "Quantum",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x671AbBe5CE652491985342e85428EB1b07bC6c64",
+  "research": null,
+  "symbol": "QAU",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

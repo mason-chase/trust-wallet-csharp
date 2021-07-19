@@ -1,0 +1,18 @@
+{
+  "id": "0xd15C444F1199Ae72795eba15E8C1db44E47abF62",
+  "address": "0xd15C444F1199Ae72795eba15E8C1db44E47abF62",
+  "blockchain": "smartchain",
+  "name": "TEN Finance",
+  "website": "https://ten.finance/",
+  "description": "TEN is a yield aggregator / optimizer that simplifies staking and yield farming with the most liquid Binance Smart Chain Liquidity Pools.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xd15C444F1199Ae72795eba15E8C1db44E47abF62",
+  "research": null,
+  "symbol": "TENFI",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

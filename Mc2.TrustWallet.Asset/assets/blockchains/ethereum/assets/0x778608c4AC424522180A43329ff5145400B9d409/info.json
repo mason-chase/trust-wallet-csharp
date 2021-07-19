@@ -1,0 +1,18 @@
+{
+  "id": "0x778608c4AC424522180A43329ff5145400B9d409",
+  "address": "0x778608c4AC424522180A43329ff5145400B9d409",
+  "blockchain": "ethereum",
+  "name": "Chainclub Ecosystem Network",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x778608c4AC424522180A43329ff5145400B9d409",
+  "research": null,
+  "symbol": "CEN",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

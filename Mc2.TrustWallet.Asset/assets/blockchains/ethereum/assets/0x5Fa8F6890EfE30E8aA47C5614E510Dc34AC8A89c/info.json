@@ -1,0 +1,18 @@
+{
+  "id": "0x5Fa8F6890EfE30E8aA47C5614E510Dc34AC8A89c",
+  "address": "0x5Fa8F6890EfE30E8aA47C5614E510Dc34AC8A89c",
+  "blockchain": "ethereum",
+  "name": "Ururu",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5Fa8F6890EfE30E8aA47C5614E510Dc34AC8A89c",
+  "research": null,
+  "symbol": "URT",
+  "type": "ERC20",
+  "decimals": 10,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

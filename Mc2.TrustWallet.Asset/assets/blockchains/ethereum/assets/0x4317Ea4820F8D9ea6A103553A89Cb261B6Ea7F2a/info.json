@@ -1,0 +1,18 @@
+{
+  "id": "0x4317Ea4820F8D9ea6A103553A89Cb261B6Ea7F2a",
+  "address": "0x4317Ea4820F8D9ea6A103553A89Cb261B6Ea7F2a",
+  "blockchain": "ethereum",
+  "name": "Alxocity",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4317Ea4820F8D9ea6A103553A89Cb261B6Ea7F2a",
+  "research": null,
+  "symbol": "ALXO",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

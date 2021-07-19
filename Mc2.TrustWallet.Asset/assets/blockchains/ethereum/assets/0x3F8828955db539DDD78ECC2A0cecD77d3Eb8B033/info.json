@@ -1,0 +1,18 @@
+{
+  "id": "0x3F8828955db539DDD78ECC2A0cecD77d3Eb8B033",
+  "address": "0x3F8828955db539DDD78ECC2A0cecD77d3Eb8B033",
+  "blockchain": "ethereum",
+  "name": "AmethystCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3F8828955db539DDD78ECC2A0cecD77d3Eb8B033",
+  "research": null,
+  "symbol": "AMSC",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

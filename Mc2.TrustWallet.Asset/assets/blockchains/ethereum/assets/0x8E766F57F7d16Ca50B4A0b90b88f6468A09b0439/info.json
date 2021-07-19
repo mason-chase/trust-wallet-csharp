@@ -1,0 +1,18 @@
+{
+  "id": "0x8E766F57F7d16Ca50B4A0b90b88f6468A09b0439",
+  "address": "0x8E766F57F7d16Ca50B4A0b90b88f6468A09b0439",
+  "blockchain": "ethereum",
+  "name": "Maximine Coin",
+  "website": "https://maximine.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8E766F57F7d16Ca50B4A0b90b88f6468A09b0439",
+  "research": null,
+  "symbol": "MXM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

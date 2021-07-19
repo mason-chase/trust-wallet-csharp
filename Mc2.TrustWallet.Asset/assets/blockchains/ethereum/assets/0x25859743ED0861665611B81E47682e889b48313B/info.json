@@ -1,0 +1,18 @@
+{
+  "id": "0x25859743ED0861665611B81E47682e889b48313B",
+  "address": "0x25859743ED0861665611B81E47682e889b48313B",
+  "blockchain": "ethereum",
+  "name": "Yumi",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x25859743ED0861665611B81E47682e889b48313B",
+  "research": null,
+  "symbol": "YUMI",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

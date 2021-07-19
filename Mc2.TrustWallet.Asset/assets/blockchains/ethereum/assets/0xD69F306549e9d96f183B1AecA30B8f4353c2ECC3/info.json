@@ -1,0 +1,18 @@
+{
+  "id": "0xD69F306549e9d96f183B1AecA30B8f4353c2ECC3",
+  "address": "0xD69F306549e9d96f183B1AecA30B8f4353c2ECC3",
+  "blockchain": "ethereum",
+  "name": "MCH Coin",
+  "website": "https://www.mycryptoheroes.net/help-posts/TTgrGCNsMHYxK6jMCB4rV",
+  "description": "MCH coins are primarily used to vote on MCH governance.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd69f306549e9d96f183b1aeca30b8f4353c2ecc3",
+  "research": null,
+  "symbol": "MCHC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

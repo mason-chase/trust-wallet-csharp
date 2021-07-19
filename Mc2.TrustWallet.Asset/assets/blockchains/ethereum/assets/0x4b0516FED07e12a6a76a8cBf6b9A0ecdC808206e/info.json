@@ -1,0 +1,18 @@
+{
+  "id": "0x4b0516FED07e12a6a76a8cBf6b9A0ecdC808206e",
+  "address": "0x4b0516FED07e12a6a76a8cBf6b9A0ecdC808206e",
+  "blockchain": "ethereum",
+  "name": "Madaza Option",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4b0516FED07e12a6a76a8cBf6b9A0ecdC808206e",
+  "research": null,
+  "symbol": " MADAZA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

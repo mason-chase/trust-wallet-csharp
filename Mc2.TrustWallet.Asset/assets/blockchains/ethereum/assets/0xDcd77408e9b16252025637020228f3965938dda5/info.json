@@ -1,0 +1,18 @@
+{
+  "id": "0xDcd77408e9b16252025637020228f3965938dda5",
+  "address": "0xDcd77408e9b16252025637020228f3965938dda5",
+  "blockchain": "ethereum",
+  "name": "Velox",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDcd77408e9b16252025637020228f3965938dda5",
+  "research": null,
+  "symbol": "VLX",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

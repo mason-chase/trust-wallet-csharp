@@ -1,0 +1,18 @@
+{
+  "id": "0xe8A1Df958bE379045E2B46a31A98B93A2eCDfDeD",
+  "address": "0xe8A1Df958bE379045E2B46a31A98B93A2eCDfDeD",
+  "blockchain": "ethereum",
+  "name": "ESZCoin",
+  "website": "https://ethersportz.com",
+  "description": "EtherSportz is being developed as an online based eSports tournament platform for popular games.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe8A1Df958bE379045E2B46a31A98B93A2eCDfDeD",
+  "research": null,
+  "symbol": "ESZ",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

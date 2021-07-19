@@ -1,0 +1,18 @@
+{
+  "id": "0xF7E04D8a32229B4cA63aA51eEA9979C7287FEa48",
+  "address": "0xF7E04D8a32229B4cA63aA51eEA9979C7287FEa48",
+  "blockchain": "ethereum",
+  "name": "Beowulf",
+  "website": "https://beowulfchain.com/",
+  "description": "Beowulf is a B2B decentralized cloud platform built by combining global computing resources into a supercomputer network on the blockchain for communication services.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF7E04D8a32229B4cA63aA51eEA9979C7287FEa48",
+  "research": null,
+  "symbol": "BWF",
+  "type": "ERC20",
+  "decimals": 5,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

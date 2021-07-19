@@ -1,0 +1,18 @@
+{
+  "id": "0x38b4119845b5A60D48178a17C9215162E84856ed",
+  "address": "0x38b4119845b5A60D48178a17C9215162E84856ed",
+  "blockchain": "smartchain",
+  "name": "FEG Wrapped BUSD",
+  "website": "https://fegtoken.com",
+  "description": "FEG Wrapped BUSD",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x38b4119845b5a60d48178a17c9215162e84856ed",
+  "research": null,
+  "symbol": "fBUSD",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

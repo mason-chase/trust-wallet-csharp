@@ -1,0 +1,18 @@
+{
+  "id": "0x34D18AAC981D3C93e649814A5ECA79e296411b65",
+  "address": "0x34D18AAC981D3C93e649814A5ECA79e296411b65",
+  "blockchain": "ethereum",
+  "name": "Neo Ether",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x34D18AAC981D3C93e649814A5ECA79e296411b65",
+  "research": null,
+  "symbol": "NEET",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

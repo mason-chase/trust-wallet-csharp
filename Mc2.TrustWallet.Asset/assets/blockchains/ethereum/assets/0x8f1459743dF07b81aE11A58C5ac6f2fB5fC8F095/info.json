@@ -1,0 +1,18 @@
+{
+  "id": "0x8f1459743dF07b81aE11A58C5ac6f2fB5fC8F095",
+  "address": "0x8f1459743dF07b81aE11A58C5ac6f2fB5fC8F095",
+  "blockchain": "ethereum",
+  "name": "Littrade",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8f1459743dF07b81aE11A58C5ac6f2fB5fC8F095",
+  "research": null,
+  "symbol": "LTE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

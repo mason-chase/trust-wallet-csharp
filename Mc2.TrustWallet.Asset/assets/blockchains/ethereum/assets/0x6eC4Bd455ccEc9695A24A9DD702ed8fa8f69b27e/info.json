@@ -1,0 +1,18 @@
+{
+  "id": "0x6eC4Bd455ccEc9695A24A9DD702ed8fa8f69b27e",
+  "address": "0x6eC4Bd455ccEc9695A24A9DD702ed8fa8f69b27e",
+  "blockchain": "ethereum",
+  "name": "Eco Finances",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6eC4Bd455ccEc9695A24A9DD702ed8fa8f69b27e",
+  "research": null,
+  "symbol": "EFC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "spam",
+  "links": null,
+  "tags": null
+}

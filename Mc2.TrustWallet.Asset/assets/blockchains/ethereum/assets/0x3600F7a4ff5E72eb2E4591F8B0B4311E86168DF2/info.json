@@ -1,0 +1,18 @@
+{
+  "id": "0x3600F7a4ff5E72eb2E4591F8B0B4311E86168DF2",
+  "address": "0x3600F7a4ff5E72eb2E4591F8B0B4311E86168DF2",
+  "blockchain": "ethereum",
+  "name": "RubyCloud",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3600F7a4ff5E72eb2E4591F8B0B4311E86168DF2",
+  "research": null,
+  "symbol": "RCD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

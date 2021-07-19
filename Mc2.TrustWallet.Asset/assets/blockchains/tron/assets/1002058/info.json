@@ -1,0 +1,18 @@
+{
+  "id": "1002058",
+  "address": "1002058",
+  "blockchain": "tron",
+  "name": "REC",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1002058",
+  "research": null,
+  "symbol": "REC",
+  "type": "TRC10",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

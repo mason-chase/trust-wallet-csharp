@@ -1,0 +1,18 @@
+{
+  "id": "0x5a8C4342d07C90293fbb82D9B08098c8603E0947",
+  "address": "0x5a8C4342d07C90293fbb82D9B08098c8603E0947",
+  "blockchain": "ethereum",
+  "name": "LocalKoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5a8C4342d07C90293fbb82D9B08098c8603E0947",
+  "research": null,
+  "symbol": "DXC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

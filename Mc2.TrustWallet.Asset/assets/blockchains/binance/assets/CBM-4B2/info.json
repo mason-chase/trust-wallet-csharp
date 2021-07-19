@@ -1,0 +1,18 @@
+{
+  "id": "CBM-4B2",
+  "address": "CBM-4B2",
+  "blockchain": "binance",
+  "name": "CryptoBonusMiles",
+  "website": "https://cryptobonusmiles.com/",
+  "description": "CryptoBonusMiles helps to save on travelling even more, by adding CBM reward points to standard airline loyalty programs. CryptoBonusMiles expands Aeron solution to the mass market for millions of people who have ever flown, bringing convenience to the air travelers.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/CBM-4B2",
+  "research": null,
+  "symbol": "CBM",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

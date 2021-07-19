@@ -1,0 +1,18 @@
+{
+  "id": "0x816051E2203Ca534c4336d8d6Df71987fA3Ae0BD",
+  "address": "0x816051E2203Ca534c4336d8d6Df71987fA3Ae0BD",
+  "blockchain": "ethereum",
+  "name": "FunKoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x816051E2203Ca534c4336d8d6Df71987fA3Ae0BD",
+  "research": null,
+  "symbol": "FNK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

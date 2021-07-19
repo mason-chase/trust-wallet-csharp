@@ -1,0 +1,18 @@
+{
+  "id": "0xFF75CEd57419bcaEBe5F05254983b013B0646eF5",
+  "address": "0xFF75CEd57419bcaEBe5F05254983b013B0646eF5",
+  "blockchain": "ethereum",
+  "name": "COOK Token",
+  "website": "https://cook.finance/",
+  "description": "COOK token is a governance and utility token issued by Cook Protocol.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xFF75CEd57419bcaEBe5F05254983b013B0646eF5",
+  "research": null,
+  "symbol": "COOK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

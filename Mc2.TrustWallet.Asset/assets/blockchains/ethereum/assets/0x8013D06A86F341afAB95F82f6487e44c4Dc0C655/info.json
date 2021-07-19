@@ -1,0 +1,18 @@
+{
+  "id": "0x8013D06A86F341afAB95F82f6487e44c4Dc0C655",
+  "address": "0x8013D06A86F341afAB95F82f6487e44c4Dc0C655",
+  "blockchain": "ethereum",
+  "name": "BITCOIN SVGOLD",
+  "website": "https://www.bitcoinsvgold.org/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8013D06A86F341afAB95F82f6487e44c4Dc0C655",
+  "research": null,
+  "symbol": "BSVG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

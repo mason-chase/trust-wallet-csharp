@@ -1,0 +1,18 @@
+{
+  "id": "0x599346779e90fc3F5F997b5ea715349820F91571",
+  "address": "0x599346779e90fc3F5F997b5ea715349820F91571",
+  "blockchain": "ethereum",
+  "name": "Saturn",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x599346779e90fc3F5F997b5ea715349820F91571",
+  "research": null,
+  "symbol": "STN",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

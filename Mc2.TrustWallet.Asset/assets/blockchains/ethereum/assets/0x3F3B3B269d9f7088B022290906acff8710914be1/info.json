@@ -1,0 +1,18 @@
+{
+  "id": "0x3F3B3B269d9f7088B022290906acff8710914be1",
+  "address": "0x3F3B3B269d9f7088B022290906acff8710914be1",
+  "blockchain": "ethereum",
+  "name": "Strike LINK",
+  "website": "https://strike.org",
+  "description": "Strike Finance collateral cryptocurrency",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3F3B3B269d9f7088B022290906acff8710914be1",
+  "research": null,
+  "symbol": "sLINK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

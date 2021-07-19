@@ -1,0 +1,18 @@
+{
+  "id": "0x23Ccc43365D9dD3882eab88F43d515208f832430",
+  "address": "0x23Ccc43365D9dD3882eab88F43d515208f832430",
+  "blockchain": "ethereum",
+  "name": "MidasProtocol",
+  "website": "https://midasprotocol.io/",
+  "description": "A smart, secure, user-friendly, multi-coin wallet for all essential crypto needs, from safekeeping, intelligent trading, portfolio management, easy conversion to fiat and spending of cryptocurrencies - MidasProtocol.io",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x23Ccc43365D9dD3882eab88F43d515208f832430",
+  "research": null,
+  "symbol": "MAS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

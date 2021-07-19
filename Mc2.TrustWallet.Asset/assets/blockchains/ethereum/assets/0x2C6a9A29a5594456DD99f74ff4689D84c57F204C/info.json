@@ -1,0 +1,18 @@
+{
+  "id": "0x2C6a9A29a5594456DD99f74ff4689D84c57F204C",
+  "address": "0x2C6a9A29a5594456DD99f74ff4689D84c57F204C",
+  "blockchain": "ethereum",
+  "name": "HiWallet Digital Asset",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2C6a9A29a5594456DD99f74ff4689D84c57F204C",
+  "research": null,
+  "symbol": "HiWallet",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

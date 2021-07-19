@@ -1,0 +1,18 @@
+{
+  "id": "0xbAe226690D7DCe1Da1823f0BF811529b8229134a",
+  "address": "0xbAe226690D7DCe1Da1823f0BF811529b8229134a",
+  "blockchain": "ethereum",
+  "name": "IMO",
+  "website": "https://imoex.top",
+  "description": "IMO Token is the platform token of IMO ecosystem, which enables the project to obtain investment in stages through continuous limited private sales.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xbAe226690D7DCe1Da1823f0BF811529b8229134a",
+  "research": null,
+  "symbol": "IMO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

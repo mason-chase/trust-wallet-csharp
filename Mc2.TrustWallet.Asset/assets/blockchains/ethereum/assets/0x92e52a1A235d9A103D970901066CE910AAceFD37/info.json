@@ -1,0 +1,18 @@
+{
+  "id": "0x92e52a1A235d9A103D970901066CE910AAceFD37",
+  "address": "0x92e52a1A235d9A103D970901066CE910AAceFD37",
+  "blockchain": "ethereum",
+  "name": "UCASH",
+  "website": "https://u.cash",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x92e52a1A235d9A103D970901066CE910AAceFD37",
+  "research": null,
+  "symbol": "UCASH",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

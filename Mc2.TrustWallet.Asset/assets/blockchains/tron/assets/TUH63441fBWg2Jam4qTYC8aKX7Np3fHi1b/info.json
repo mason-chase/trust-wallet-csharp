@@ -1,0 +1,18 @@
+{
+  "id": "TUH63441fBWg2Jam4qTYC8aKX7Np3fHi1b",
+  "address": "TUH63441fBWg2Jam4qTYC8aKX7Np3fHi1b",
+  "blockchain": "tron",
+  "name": "ChinaInvestmentExchangeToken",
+  "website": "https://ciex.io",
+  "description": "CIEX is the official platform token issued by CIEX Digital Assets Exchange Platform on the TRON network.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TUH63441fBWg2Jam4qTYC8aKX7Np3fHi1b",
+  "research": null,
+  "symbol": "CIEX",
+  "type": "TRC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

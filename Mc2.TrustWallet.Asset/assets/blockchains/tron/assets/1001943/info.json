@@ -1,0 +1,18 @@
+{
+  "id": "1001943",
+  "address": "1001943",
+  "blockchain": "tron",
+  "name": "POPPY",
+  "website": "https://poppypos.com/",
+  "description": "A loyalty and reward token for the Poppy network.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1001943",
+  "research": null,
+  "symbol": "POPPY",
+  "type": "TRC10",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

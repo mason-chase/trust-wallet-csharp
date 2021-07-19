@@ -1,0 +1,18 @@
+{
+  "id": "0x1C2425F50a1e98D5631b223E56760d21BC840C53",
+  "address": "0x1C2425F50a1e98D5631b223E56760d21BC840C53",
+  "blockchain": "smartchain",
+  "name": "World Stream",
+  "website": "https://www.worldstreamfinance.com",
+  "description": "The $tream token contributes to the streamers community, e-sports and game itens",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x1C2425F50a1e98D5631b223E56760d21BC840C53",
+  "research": null,
+  "symbol": "$tream",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x58a5d3e4873A75B07fB3c7CF477EeBc44ea73B3B",
+  "address": "0x58a5d3e4873A75B07fB3c7CF477EeBc44ea73B3B",
+  "blockchain": "ethereum",
+  "name": "KAIJU",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x58a5d3e4873A75B07fB3c7CF477EeBc44ea73B3B",
+  "research": null,
+  "symbol": "KAIJU",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

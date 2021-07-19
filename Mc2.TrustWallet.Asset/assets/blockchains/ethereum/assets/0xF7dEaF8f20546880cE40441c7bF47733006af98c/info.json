@@ -1,0 +1,18 @@
+{
+  "id": "0xF7dEaF8f20546880cE40441c7bF47733006af98c",
+  "address": "0xF7dEaF8f20546880cE40441c7bF47733006af98c",
+  "blockchain": "ethereum",
+  "name": "SWAG",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF7dEaF8f20546880cE40441c7bF47733006af98c",
+  "research": null,
+  "symbol": "SWAG",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

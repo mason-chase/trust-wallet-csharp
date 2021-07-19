@@ -1,0 +1,18 @@
+{
+  "id": "0x8a99E2dAE13e4df4A6aA2A9Db2d6A7901eD0107D",
+  "address": "0x8a99E2dAE13e4df4A6aA2A9Db2d6A7901eD0107D",
+  "blockchain": "ethereum",
+  "name": "Vibrant Finance",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8a99E2dAE13e4df4A6aA2A9Db2d6A7901eD0107D",
+  "research": null,
+  "symbol": "ViFi",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x33bFD20660eeAF952E8D5Bc3236E1918701F17D0",
+  "address": "0x33bFD20660eeAF952E8D5Bc3236E1918701F17D0",
+  "blockchain": "ethereum",
+  "name": "RCCC Token",
+  "website": "http://www.rccc.pro/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x33bFD20660eeAF952E8D5Bc3236E1918701F17D0",
+  "research": null,
+  "symbol": "RCCC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

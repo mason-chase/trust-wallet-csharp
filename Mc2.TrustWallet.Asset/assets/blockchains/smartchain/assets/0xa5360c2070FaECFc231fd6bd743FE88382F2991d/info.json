@@ -1,0 +1,18 @@
+{
+  "id": "0xa5360c2070FaECFc231fd6bd743FE88382F2991d",
+  "address": "0xa5360c2070FaECFc231fd6bd743FE88382F2991d",
+  "blockchain": "smartchain",
+  "name": "SafeLight",
+  "website": "https://www.safelightcrypto.com/",
+  "description": "Self generating liquidity token - Reflection paid back to holders.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xa5360c2070faecfc231fd6bd743fe88382f2991d",
+  "research": null,
+  "symbol": "SafeLight",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

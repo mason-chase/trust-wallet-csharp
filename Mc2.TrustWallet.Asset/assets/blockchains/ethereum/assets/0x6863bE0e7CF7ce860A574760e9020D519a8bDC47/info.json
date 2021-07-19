@@ -1,0 +1,18 @@
+{
+  "id": "0x6863bE0e7CF7ce860A574760e9020D519a8bDC47",
+  "address": "0x6863bE0e7CF7ce860A574760e9020D519a8bDC47",
+  "blockchain": "ethereum",
+  "name": "On.Live",
+  "website": "https://on.live/",
+  "description": "On.Live (ONL) is a cryptocurrency and operates on the Ethereum platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6863bE0e7CF7ce860A574760e9020D519a8bDC47",
+  "research": null,
+  "symbol": "ONL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

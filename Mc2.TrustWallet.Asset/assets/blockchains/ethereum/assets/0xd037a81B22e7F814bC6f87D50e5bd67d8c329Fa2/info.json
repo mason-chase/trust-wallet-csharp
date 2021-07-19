@@ -1,0 +1,18 @@
+{
+  "id": "0xd037a81B22e7F814bC6f87D50e5bd67d8c329Fa2",
+  "address": "0xd037a81B22e7F814bC6f87D50e5bd67d8c329Fa2",
+  "blockchain": "ethereum",
+  "name": "EMO tokens",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd037a81B22e7F814bC6f87D50e5bd67d8c329Fa2",
+  "research": null,
+  "symbol": "EMO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "spam",
+  "links": null,
+  "tags": null
+}

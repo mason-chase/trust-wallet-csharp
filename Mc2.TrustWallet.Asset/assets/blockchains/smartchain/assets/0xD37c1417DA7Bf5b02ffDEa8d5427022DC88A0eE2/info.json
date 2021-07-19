@@ -1,0 +1,18 @@
+{
+  "id": "0xD37c1417DA7Bf5b02ffDEa8d5427022DC88A0eE2",
+  "address": "0xD37c1417DA7Bf5b02ffDEa8d5427022DC88A0eE2",
+  "blockchain": "smartchain",
+  "name": "LifeLine",
+  "website": "https://lifelinetoken.com/",
+  "description": "A charity-oriented token for helping children’s hospitals with cancer care.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xD37c1417DA7Bf5b02ffDEa8d5427022DC88A0eE2",
+  "research": null,
+  "symbol": "LLT",
+  "type": "BEP20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

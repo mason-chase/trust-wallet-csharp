@@ -1,0 +1,18 @@
+{
+  "id": "0xf7F35Fe2ede3aDDee7Cf176f4Ef20D9436E498dc",
+  "address": "0xf7F35Fe2ede3aDDee7Cf176f4Ef20D9436E498dc",
+  "blockchain": "ethereum",
+  "name": "Biffys Love",
+  "website": "https://biffy.ai",
+  "description": "Biffy is a cybernetic system that lives on the Ethereum blockchain and loves art.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf7F35Fe2ede3aDDee7Cf176f4Ef20D9436E498dc",
+  "research": null,
+  "symbol": "LOVE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

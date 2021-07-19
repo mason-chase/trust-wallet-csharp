@@ -1,0 +1,18 @@
+{
+  "id": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
+  "address": "0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
+  "blockchain": "ethereum",
+  "name": "Swerve",
+  "website": "https://swerve.fi/",
+  "description": "A fork that's 100% community owned and governed.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB8BAa0e4287890a5F79863aB62b7F175ceCbD433",
+  "research": "https://research.binance.com/en/projects/swerve",
+  "symbol": "SWRV",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xc7C21F8A739b448051c6e054E2Ef0739B742B22e",
+  "address": "0xc7C21F8A739b448051c6e054E2Ef0739B742B22e",
+  "blockchain": "ethereum",
+  "name": "Tokamak Network",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc7C21F8A739b448051c6e054E2Ef0739B742B22e",
+  "research": null,
+  "symbol": "TON",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x493c8d6a973246a7B26Aa8Ef4b1494867A825DE5",
+  "address": "0x493c8d6a973246a7B26Aa8Ef4b1494867A825DE5",
+  "blockchain": "ethereum",
+  "name": "NuLink",
+  "website": "https://nulink.org/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x493c8d6a973246a7B26Aa8Ef4b1494867A825DE5",
+  "research": null,
+  "symbol": "NLINK",
+  "type": "ERC20",
+  "decimals": 3,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

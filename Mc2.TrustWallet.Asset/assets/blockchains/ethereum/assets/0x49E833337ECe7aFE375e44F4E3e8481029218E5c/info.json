@@ -1,0 +1,39 @@
+{
+  "id": "0x49E833337ECe7aFE375e44F4E3e8481029218E5c",
+  "address": "0x49E833337ECe7aFE375e44F4E3e8481029218E5c",
+  "blockchain": "ethereum",
+  "name": "Value Liquidity",
+  "website": "https://valuedefi.io/",
+  "description": "Value DeFi: Bringing True Value to DeFi.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x49E833337ECe7aFE375e44F4E3e8481029218E5c",
+  "research": null,
+  "symbol": "VALUE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/valuedefi"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/value_defi"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/ValueDeFi"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/Dpvd7tp"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/@valuedefi"
+    }
+  ],
+  "tags": null
+}

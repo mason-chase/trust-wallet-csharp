@@ -1,0 +1,18 @@
+{
+  "id": "0x2AEC18c5500f21359CE1BEA5Dc1777344dF4C0Dc",
+  "address": "0x2AEC18c5500f21359CE1BEA5Dc1777344dF4C0Dc",
+  "blockchain": "ethereum",
+  "name": "FarmaTrust Token",
+  "website": "https://www.farmatrust.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2AEC18c5500f21359CE1BEA5Dc1777344dF4C0Dc",
+  "research": null,
+  "symbol": "FTT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xAd9787017e82f6368BbE4893b475CaadA2258564",
+  "address": "0xAd9787017e82f6368BbE4893b475CaadA2258564",
+  "blockchain": "smartchain",
+  "name": "BitcoinAsset",
+  "website": "https://bitcoinasset.io/",
+  "description": "BTA is an asset that deserves to be valued the higher in the future and is worthy of long-term storage like bitcoin",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xAd9787017e82f6368BbE4893b475CaadA2258564",
+  "research": null,
+  "symbol": "BTA",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

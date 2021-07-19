@@ -1,0 +1,18 @@
+{
+  "id": "0x6885Fc6a8166d6B875CC9884Ea9FCf76745F8B51",
+  "address": "0x6885Fc6a8166d6B875CC9884Ea9FCf76745F8B51",
+  "blockchain": "ethereum",
+  "name": "MonetChainToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6885Fc6a8166d6B875CC9884Ea9FCf76745F8B51",
+  "research": null,
+  "symbol": "MOTE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

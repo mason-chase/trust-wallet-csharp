@@ -1,0 +1,43 @@
+{
+  "id": "0xD930f493E153d745aFB124F9859bE8479e4b1862",
+  "address": "0xD930f493E153d745aFB124F9859bE8479e4b1862",
+  "blockchain": "smartchain",
+  "name": "Spaceman LOL Token",
+  "website": "https://www.spaceman.lol/",
+  "description": "Spaceman is a fairly propelled DeFi Token.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xD930f493E153d745aFB124F9859bE8479e4b1862",
+  "research": null,
+  "symbol": "SML",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/syllena/spaceman-lol"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/spaceman_lol"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/joinchat/REDAvsM_ZAM3MmQ0"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/xEAzmzMZ"
+    },
+    {
+      "name": "reddit",
+      "url": "https://reddit.com/user/spaceman_lol"
+    },
+    {
+      "name": "medium",
+      "url": "https://spaceman-lol.medium.com/"
+    }
+  ],
+  "tags": null
+}

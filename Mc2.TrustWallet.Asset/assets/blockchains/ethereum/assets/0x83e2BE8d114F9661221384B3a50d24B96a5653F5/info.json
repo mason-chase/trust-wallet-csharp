@@ -1,0 +1,18 @@
+{
+  "id": "0x83e2BE8d114F9661221384B3a50d24B96a5653F5",
+  "address": "0x83e2BE8d114F9661221384B3a50d24B96a5653F5",
+  "blockchain": "ethereum",
+  "name": "0xcert Protocol Token",
+  "website": "https://0xcert.org/",
+  "description": "0xcert provides the open-source 0xcert Framework for building powerful decentralized applications (dapps) combined with non-fungible tokens (NFTs). The Framework is a JavaScript library that reduces the time, resources, and issues of developing a dapp.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x83e2BE8d114F9661221384B3a50d24B96a5653F5",
+  "research": null,
+  "symbol": "ZXC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

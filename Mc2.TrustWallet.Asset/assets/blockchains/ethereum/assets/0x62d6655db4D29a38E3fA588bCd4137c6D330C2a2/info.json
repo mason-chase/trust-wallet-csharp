@@ -1,0 +1,18 @@
+{
+  "id": "0x62d6655db4D29a38E3fA588bCd4137c6D330C2a2",
+  "address": "0x62d6655db4D29a38E3fA588bCd4137c6D330C2a2",
+  "blockchain": "ethereum",
+  "name": "Hexa Chain",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x62d6655db4D29a38E3fA588bCd4137c6D330C2a2",
+  "research": null,
+  "symbol": "HXC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x839078adA638AF8306c039221E408eE7bc4E3F7F",
+  "address": "0x839078adA638AF8306c039221E408eE7bc4E3F7F",
+  "blockchain": "ethereum",
+  "name": "Thursday Ninja",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x839078adA638AF8306c039221E408eE7bc4E3F7F",
+  "research": null,
+  "symbol": "THUR",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

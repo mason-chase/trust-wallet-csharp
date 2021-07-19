@@ -1,0 +1,18 @@
+{
+  "id": "0xEF2463099360a085f1f10b076Ed72Ef625497a06",
+  "address": "0xEF2463099360a085f1f10b076Ed72Ef625497a06",
+  "blockchain": "ethereum",
+  "name": "Sharpe Platform Token",
+  "website": "https://sharpe.capital",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xEF2463099360a085f1f10b076Ed72Ef625497a06",
+  "research": null,
+  "symbol": "SHP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x1d70f01D68EdC64110F1Ae46A0C9D18ed4cB644b",
+  "address": "0x1d70f01D68EdC64110F1Ae46A0C9D18ed4cB644b",
+  "blockchain": "ethereum",
+  "name": "EQR TEST mg6000",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1d70f01D68EdC64110F1Ae46A0C9D18ed4cB644b",
+  "research": null,
+  "symbol": "EQR",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

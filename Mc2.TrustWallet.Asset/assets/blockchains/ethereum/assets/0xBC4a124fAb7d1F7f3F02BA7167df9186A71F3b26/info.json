@@ -1,0 +1,18 @@
+{
+  "id": "0xBC4a124fAb7d1F7f3F02BA7167df9186A71F3b26",
+  "address": "0xBC4a124fAb7d1F7f3F02BA7167df9186A71F3b26",
+  "blockchain": "ethereum",
+  "name": "TechEsportsCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xBC4a124fAb7d1F7f3F02BA7167df9186A71F3b26",
+  "research": null,
+  "symbol": "TOC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

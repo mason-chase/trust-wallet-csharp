@@ -1,0 +1,18 @@
+{
+  "id": "0x35334C8D87A398E376cB98c792513cbd85B27eb2",
+  "address": "0x35334C8D87A398E376cB98c792513cbd85B27eb2",
+  "blockchain": "ethereum",
+  "name": "Bitoken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x35334C8D87A398E376cB98c792513cbd85B27eb2",
+  "research": null,
+  "symbol": "BTK",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

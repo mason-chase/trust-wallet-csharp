@@ -1,0 +1,18 @@
+{
+  "id": "0xbF5496122CF1bB778E0cBE5eaB936f2BE5fC0940",
+  "address": "0xbF5496122CF1bB778E0cBE5eaB936f2BE5fC0940",
+  "blockchain": "ethereum",
+  "name": "FundToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xbF5496122CF1bB778E0cBE5eaB936f2BE5fC0940",
+  "research": null,
+  "symbol": "FUNDZ",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

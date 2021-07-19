@@ -1,0 +1,18 @@
+{
+  "id": "0x7AAcAfb674be81F90dc19aF4f2047BB0EBAfbbe5",
+  "address": "0x7AAcAfb674be81F90dc19aF4f2047BB0EBAfbbe5",
+  "blockchain": "ethereum",
+  "name": "GREENQUEEN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7AAcAfb674be81F90dc19aF4f2047BB0EBAfbbe5",
+  "research": null,
+  "symbol": "GQC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

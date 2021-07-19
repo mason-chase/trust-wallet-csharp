@@ -1,0 +1,18 @@
+{
+  "id": "ALA-DCD",
+  "address": "ALA-DCD",
+  "blockchain": "binance",
+  "name": "Alaris",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/ALA-DCD",
+  "research": null,
+  "symbol": "ALA",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

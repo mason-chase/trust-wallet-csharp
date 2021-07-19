@@ -1,0 +1,18 @@
+{
+  "id": "0x499eA5278E7e221C3E427c08E6085674bF002bf4",
+  "address": "0x499eA5278E7e221C3E427c08E6085674bF002bf4",
+  "blockchain": "ethereum",
+  "name": "DCTR",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x499eA5278E7e221C3E427c08E6085674bF002bf4",
+  "research": null,
+  "symbol": "DCTR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

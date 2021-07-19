@@ -1,0 +1,18 @@
+{
+  "id": "0x77FE30b2cf39245267C0a5084B66a560f1cF9E1f",
+  "address": "0x77FE30b2cf39245267C0a5084B66a560f1cF9E1f",
+  "blockchain": "ethereum",
+  "name": "Azbit",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x77FE30b2cf39245267C0a5084B66a560f1cF9E1f",
+  "research": null,
+  "symbol": "AZ",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

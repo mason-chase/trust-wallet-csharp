@@ -1,0 +1,18 @@
+{
+  "id": "0x28FB6531723EE54B1073F7f2beB7f2E3C74503Bc",
+  "address": "0x28FB6531723EE54B1073F7f2beB7f2E3C74503Bc",
+  "blockchain": "ethereum",
+  "name": "Airline & Life Networking",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x28FB6531723EE54B1073F7f2beB7f2E3C74503Bc",
+  "research": null,
+  "symbol": "ALLN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

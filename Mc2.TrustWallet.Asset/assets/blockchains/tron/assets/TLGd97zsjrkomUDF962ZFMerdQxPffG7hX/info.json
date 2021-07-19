@@ -1,0 +1,23 @@
+{
+  "id": "TLGd97zsjrkomUDF962ZFMerdQxPffG7hX",
+  "address": "TLGd97zsjrkomUDF962ZFMerdQxPffG7hX",
+  "blockchain": "tron",
+  "name": "ZPAY",
+  "website": "https://zelaapay.ae",
+  "description": "ZPAE is the gateway to unlock the power of crypto all across the Middle East.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TLGd97zsjrkomUDF962ZFMerdQxPffG7hX",
+  "research": null,
+  "symbol": "ZPAE",
+  "type": "TRC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "white_paper",
+      "url": "https://zelaapay.ae/wp-content/uploads/2020/08/Whitepaper-2.pdf"
+    }
+  ],
+  "tags": null
+}

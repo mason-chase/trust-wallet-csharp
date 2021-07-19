@@ -1,0 +1,18 @@
+{
+  "id": "0xbf8739f1c903974b90D758Fd0bbB2Bfc79022E8F",
+  "address": "0xbf8739f1c903974b90D758Fd0bbB2Bfc79022E8F",
+  "blockchain": "ethereum",
+  "name": "SandBox",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xbf8739f1c903974b90D758Fd0bbB2Bfc79022E8F",
+  "research": null,
+  "symbol": "SBOX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x98BC4773Bd1e9A53631FD6028E06cd6cD17b7401",
+  "address": "0x98BC4773Bd1e9A53631FD6028E06cd6cD17b7401",
+  "blockchain": "smartchain",
+  "name": "Monkey TOKEN",
+  "website": "https://mbytoken.com",
+  "description": "MBY is made to make De-Fi great again",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x98BC4773Bd1e9A53631FD6028E06cd6cD17b7401",
+  "research": null,
+  "symbol": "MBY",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

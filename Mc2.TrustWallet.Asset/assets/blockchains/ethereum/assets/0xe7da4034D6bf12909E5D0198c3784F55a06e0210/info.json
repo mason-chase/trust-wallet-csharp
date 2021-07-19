@@ -1,0 +1,18 @@
+{
+  "id": "0xe7da4034D6bf12909E5D0198c3784F55a06e0210",
+  "address": "0xe7da4034D6bf12909E5D0198c3784F55a06e0210",
+  "blockchain": "ethereum",
+  "name": "Cash on Delivery",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe7da4034D6bf12909E5D0198c3784F55a06e0210",
+  "research": null,
+  "symbol": "COD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

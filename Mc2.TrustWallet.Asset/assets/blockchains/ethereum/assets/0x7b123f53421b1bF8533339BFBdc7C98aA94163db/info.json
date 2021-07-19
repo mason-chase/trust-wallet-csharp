@@ -1,0 +1,27 @@
+{
+  "id": "0x7b123f53421b1bF8533339BFBdc7C98aA94163db",
+  "address": "0x7b123f53421b1bF8533339BFBdc7C98aA94163db",
+  "blockchain": "ethereum",
+  "name": "dfohub buidl",
+  "website": "https://dfohub.com",
+  "description": "is the Voting Token of DFOhub, the first programmable equity. DFOhub is an On-Chain Github to deploy and manage Decentralised Flexible Organizations. DFOs are Microservices-Driven On-Chain organisations to build Independent Decentralised Applications, in where Token Holders are the real owners and nobody hold the pk.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7b123f53421b1bF8533339BFBdc7C98aA94163db",
+  "research": null,
+  "symbol": "buidl",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/b-u-i-d-l"
+    },
+    {
+      "name": "white_paper",
+      "url": "https://www.dfohub.com/strategy"
+    }
+  ],
+  "tags": null
+}

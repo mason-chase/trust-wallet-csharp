@@ -1,0 +1,18 @@
+{
+  "id": "0x5c743a35E903F6c584514ec617ACEe0611Cf44f3",
+  "address": "0x5c743a35E903F6c584514ec617ACEe0611Cf44f3",
+  "blockchain": "ethereum",
+  "name": "Experty Token",
+  "website": "https://www.experty.io/en?utm_source=coingecko&utm_medium=listing&utm_campaign=coingecko",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5c743a35E903F6c584514ec617ACEe0611Cf44f3",
+  "research": null,
+  "symbol": "EXY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

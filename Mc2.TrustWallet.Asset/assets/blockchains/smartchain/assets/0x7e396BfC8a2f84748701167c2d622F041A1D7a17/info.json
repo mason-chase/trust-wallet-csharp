@@ -1,0 +1,18 @@
+{
+  "id": "0x7e396BfC8a2f84748701167c2d622F041A1D7a17",
+  "address": "0x7e396BfC8a2f84748701167c2d622F041A1D7a17",
+  "blockchain": "smartchain",
+  "name": "WMASS Token",
+  "website": "https://wmass.org/",
+  "description": "WMASS standardizes MASS to the BEP 20 format.  The platform supports 1:1 conversion of MASS to tokens such as BEP 20. Wrapped MASS (WMASS) is the first wrapped token backed 1:1 by MASS. It's fully transparent, 100% verifiable and community led.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x7e396BfC8a2f84748701167c2d622F041A1D7a17",
+  "research": null,
+  "symbol": "WMASS",
+  "type": "BEP20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

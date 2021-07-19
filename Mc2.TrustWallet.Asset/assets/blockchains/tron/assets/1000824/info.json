@@ -1,0 +1,18 @@
+{
+  "id": "1000824",
+  "address": "1000824",
+  "blockchain": "tron",
+  "name": "Tipatrade",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1000824",
+  "research": null,
+  "symbol": "TAT",
+  "type": "TRC10",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

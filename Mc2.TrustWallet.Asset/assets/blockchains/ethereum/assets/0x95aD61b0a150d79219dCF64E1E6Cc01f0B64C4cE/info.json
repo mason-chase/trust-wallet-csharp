@@ -1,0 +1,31 @@
+{
+  "id": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+  "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+  "blockchain": "ethereum",
+  "name": "Shiba INU: The Dogecoin Killer",
+  "website": "https://shibatoken.com/",
+  "description": "According to SHIBA INU, the reasoning behind the creation of SHIBA is that Shibas constantly forget where they bury their treasure. The website proclaims \"Many doggie wars have been waged over precious treasure and delicious goodies.\"",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+  "research": null,
+  "symbol": "SHIB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/shibainuthedogecoinkiller"
+    },
+    {
+      "name": "coinmarketcap",
+      "url": "https://coinmarketcap.com/currencies/shiba-inu/"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://coingecko.com/en/coins/shiba-inu/"
+    }
+  ],
+  "tags": null
+}

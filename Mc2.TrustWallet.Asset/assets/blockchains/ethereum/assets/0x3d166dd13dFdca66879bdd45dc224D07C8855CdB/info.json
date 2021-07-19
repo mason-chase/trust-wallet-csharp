@@ -1,0 +1,18 @@
+{
+  "id": "0x3d166dd13dFdca66879bdd45dc224D07C8855CdB",
+  "address": "0x3d166dd13dFdca66879bdd45dc224D07C8855CdB",
+  "blockchain": "ethereum",
+  "name": "CreaEther",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3d166dd13dFdca66879bdd45dc224D07C8855CdB",
+  "research": null,
+  "symbol": "CETH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

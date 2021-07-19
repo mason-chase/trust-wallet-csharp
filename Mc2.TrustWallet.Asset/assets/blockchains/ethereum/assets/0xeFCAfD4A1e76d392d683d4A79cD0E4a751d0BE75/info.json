@@ -1,0 +1,18 @@
+{
+  "id": "0xeFCAfD4A1e76d392d683d4A79cD0E4a751d0BE75",
+  "address": "0xeFCAfD4A1e76d392d683d4A79cD0E4a751d0BE75",
+  "blockchain": "ethereum",
+  "name": "BlockChainStore Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xeFCAfD4A1e76d392d683d4A79cD0E4a751d0BE75",
+  "research": null,
+  "symbol": "BCST",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

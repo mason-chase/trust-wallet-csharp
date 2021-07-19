@@ -1,0 +1,18 @@
+{
+  "id": "0xb1c8022Ddf5010DA0816B3E53C610B5168e5245B",
+  "address": "0xb1c8022Ddf5010DA0816B3E53C610B5168e5245B",
+  "blockchain": "ethereum",
+  "name": "AIMAKERY",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb1c8022Ddf5010DA0816B3E53C610B5168e5245B",
+  "research": null,
+  "symbol": "AIM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

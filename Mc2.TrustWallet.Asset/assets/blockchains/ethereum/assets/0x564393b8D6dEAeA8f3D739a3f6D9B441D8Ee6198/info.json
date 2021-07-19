@@ -1,0 +1,18 @@
+{
+  "id": "0x564393b8D6dEAeA8f3D739a3f6D9B441D8Ee6198",
+  "address": "0x564393b8D6dEAeA8f3D739a3f6D9B441D8Ee6198",
+  "blockchain": "ethereum",
+  "name": "Amino Network Infrastructure ",
+  "website": "http://amino.world/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x564393b8D6dEAeA8f3D739a3f6D9B441D8Ee6198",
+  "research": null,
+  "symbol": "AMIX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

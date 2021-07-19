@@ -1,0 +1,27 @@
+{
+  "id": "0xd0658324074D6249a51876438916f7C423075451",
+  "address": "0xd0658324074D6249a51876438916f7C423075451",
+  "blockchain": "ethereum",
+  "name": "Yearn Land",
+  "website": "https://yland.finance",
+  "description": "Yearn Land upgraded the old Yearn making some important adjustments in first layer protocols.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd0658324074D6249a51876438916f7C423075451",
+  "research": null,
+  "symbol": "yLand",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/ylandfinance/yLand-token/blob/master/yLand-token.sol"
+    },
+    {
+      "name": "white_paper",
+      "url": "https://docs.yland.finance"
+    }
+  ],
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x1aacA4e5bAB141c5b412BeB135C2D6d65f961Be2",
+  "address": "0x1aacA4e5bAB141c5b412BeB135C2D6d65f961Be2",
+  "blockchain": "ethereum",
+  "name": "Pet friend",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1aacA4e5bAB141c5b412BeB135C2D6d65f961Be2",
+  "research": null,
+  "symbol": "PETF",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

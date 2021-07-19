@@ -1,0 +1,18 @@
+{
+  "id": "THvZvKPLHKLJhEFYKiyqj6j8G8nGgfg7ur",
+  "address": "THvZvKPLHKLJhEFYKiyqj6j8G8nGgfg7ur",
+  "blockchain": "tron",
+  "name": "TRONdice",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/THvZvKPLHKLJhEFYKiyqj6j8G8nGgfg7ur",
+  "research": null,
+  "symbol": "DICE",
+  "type": "TRC20",
+  "decimals": 6,
+  "status": "spam",
+  "links": null,
+  "tags": null
+}

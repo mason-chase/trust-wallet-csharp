@@ -1,0 +1,18 @@
+{
+  "id": "0x6e2050CBFB3eD8A4d39b64cC9f47E711a03a5a89",
+  "address": "0x6e2050CBFB3eD8A4d39b64cC9f47E711a03a5a89",
+  "blockchain": "ethereum",
+  "name": "SWRM Coin",
+  "website": "https://swrmlabs.io/",
+  "description": "SWRM Labs’s decentralized blockchain-powered content distribution and delivery network can provide quality CDN services at a fraction of the price of a traditional CDN.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6e2050CBFB3eD8A4d39b64cC9f47E711a03a5a89",
+  "research": null,
+  "symbol": "SWRM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

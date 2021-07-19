@@ -1,0 +1,18 @@
+{
+  "id": "0x1F82a9b541FE4C322B5cd81DCB066620D57de35C",
+  "address": "0x1F82a9b541FE4C322B5cd81DCB066620D57de35C",
+  "blockchain": "smartchain",
+  "name": "Donkey King",
+  "website": "https://www.donk.finance",
+  "description": "Donkey King finance (DONK) is a passive income generating, deflationary, DeFi token.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x1F82a9b541FE4C322B5cd81DCB066620D57de35C",
+  "research": null,
+  "symbol": "DONK",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x0491648C910ad2c1aFaab733faF71D30313Df7FC",
+  "address": "0x0491648C910ad2c1aFaab733faF71D30313Df7FC",
+  "blockchain": "smartchain",
+  "name": "JDI Token",
+  "website": "https://jdiyield.com/",
+  "description": "One stop SAFU service for yield farmers.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x0491648C910ad2c1aFaab733faF71D30313Df7FC",
+  "research": null,
+  "symbol": "JDI",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

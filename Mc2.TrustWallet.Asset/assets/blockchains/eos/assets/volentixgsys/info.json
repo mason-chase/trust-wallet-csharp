@@ -1,0 +1,18 @@
+{
+  "id": "volentixgsys",
+  "address": "volentixgsys",
+  "blockchain": "eos",
+  "name": "volentixgsys",
+  "website": null,
+  "description": "-",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bloks.io/account/volentixgsys",
+  "research": null,
+  "symbol": "VTX",
+  "type": "EOS",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

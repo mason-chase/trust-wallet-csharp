@@ -1,0 +1,18 @@
+{
+  "id": "1000709",
+  "address": "1000709",
+  "blockchain": "tron",
+  "name": "Alivio",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1000709",
+  "research": null,
+  "symbol": "ALIV",
+  "type": "TRC10",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

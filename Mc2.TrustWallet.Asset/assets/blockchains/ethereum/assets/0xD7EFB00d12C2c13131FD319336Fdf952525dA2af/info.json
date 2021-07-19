@@ -1,0 +1,18 @@
+{
+  "id": "0xD7EFB00d12C2c13131FD319336Fdf952525dA2af",
+  "address": "0xD7EFB00d12C2c13131FD319336Fdf952525dA2af",
+  "blockchain": "ethereum",
+  "name": "Proton",
+  "website": "https://protonchain.com",
+  "description": "Proton is a new public blockchain and dApp platform designed for both consumer applications and P2P payments. It is built around a secure identity and financial settlements layer that allows users to directly link real identity and fiat accounts, pull funds  and use crypto seamlessly.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xD7EFB00d12C2c13131FD319336Fdf952525dA2af",
+  "research": null,
+  "symbol": "XPR",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

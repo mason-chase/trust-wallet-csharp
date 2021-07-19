@@ -1,0 +1,18 @@
+{
+  "id": "0x38513Db82BE1FB417Ad21DC8f25BD7e7Eb03b561",
+  "address": "0x38513Db82BE1FB417Ad21DC8f25BD7e7Eb03b561",
+  "blockchain": "ethereum",
+  "name": "Iron",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x38513Db82BE1FB417Ad21DC8f25BD7e7Eb03b561",
+  "research": null,
+  "symbol": "CSC-IR",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

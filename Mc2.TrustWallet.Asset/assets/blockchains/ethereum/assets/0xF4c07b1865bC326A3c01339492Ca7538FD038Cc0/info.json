@@ -1,0 +1,18 @@
+{
+  "id": "0xF4c07b1865bC326A3c01339492Ca7538FD038Cc0",
+  "address": "0xF4c07b1865bC326A3c01339492Ca7538FD038Cc0",
+  "blockchain": "ethereum",
+  "name": "Primalbase Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF4c07b1865bC326A3c01339492Ca7538FD038Cc0",
+  "research": null,
+  "symbol": "PBT",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

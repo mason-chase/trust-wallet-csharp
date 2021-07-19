@@ -1,0 +1,18 @@
+{
+  "id": "0xCA29db4221c111888a7e80b12eAc8a266Da3Ee0d",
+  "address": "0xCA29db4221c111888a7e80b12eAc8a266Da3Ee0d",
+  "blockchain": "ethereum",
+  "name": "Boleno",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xCA29db4221c111888a7e80b12eAc8a266Da3Ee0d",
+  "research": null,
+  "symbol": "BLN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x29f920ddc62Fe53711a5c8B8FF16Fa5c75cA12A3",
+  "address": "0x29f920ddc62Fe53711a5c8B8FF16Fa5c75cA12A3",
+  "blockchain": "smartchain",
+  "name": "LOTDOG",
+  "website": "https://lotdog.io",
+  "description": "The revolutionary new auto-yield token with an added chance to win a jackpot of BNB. Every single day!",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x29f920ddc62Fe53711a5c8B8FF16Fa5c75cA12A3",
+  "research": null,
+  "symbol": "LOTDOG",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

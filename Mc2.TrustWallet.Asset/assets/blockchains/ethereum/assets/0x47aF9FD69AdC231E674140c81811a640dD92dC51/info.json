@@ -1,0 +1,18 @@
+{
+  "id": "0x47aF9FD69AdC231E674140c81811a640dD92dC51",
+  "address": "0x47aF9FD69AdC231E674140c81811a640dD92dC51",
+  "blockchain": "ethereum",
+  "name": "MobaCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x47aF9FD69AdC231E674140c81811a640dD92dC51",
+  "research": null,
+  "symbol": "MBC",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

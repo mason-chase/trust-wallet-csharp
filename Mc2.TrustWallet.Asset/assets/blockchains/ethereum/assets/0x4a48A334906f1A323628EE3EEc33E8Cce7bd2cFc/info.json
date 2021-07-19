@@ -1,0 +1,18 @@
+{
+  "id": "0x4a48A334906f1A323628EE3EEc33E8Cce7bd2cFc",
+  "address": "0x4a48A334906f1A323628EE3EEc33E8Cce7bd2cFc",
+  "blockchain": "ethereum",
+  "name": "MularPay",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4a48A334906f1A323628EE3EEc33E8Cce7bd2cFc",
+  "research": null,
+  "symbol": "MP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xCf5dfE6e2fA63AF41E9C01df75e79D3FDa69B5f3",
+  "address": "0xCf5dfE6e2fA63AF41E9C01df75e79D3FDa69B5f3",
+  "blockchain": "ethereum",
+  "name": "Mutual Uniting System",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xCf5dfE6e2fA63AF41E9C01df75e79D3FDa69B5f3",
+  "research": null,
+  "symbol": "MUS",
+  "type": "ERC20",
+  "decimals": 15,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

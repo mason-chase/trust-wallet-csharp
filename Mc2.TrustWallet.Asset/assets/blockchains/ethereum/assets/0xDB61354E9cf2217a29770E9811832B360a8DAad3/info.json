@@ -1,0 +1,18 @@
+{
+  "id": "0xDB61354E9cf2217a29770E9811832B360a8DAad3",
+  "address": "0xDB61354E9cf2217a29770E9811832B360a8DAad3",
+  "blockchain": "ethereum",
+  "name": "3X Long Litecoin Token",
+  "website": "https://ftx.com/tokens/LTCBULL",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDB61354E9cf2217a29770E9811832B360a8DAad3",
+  "research": null,
+  "symbol": "LTCBULL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

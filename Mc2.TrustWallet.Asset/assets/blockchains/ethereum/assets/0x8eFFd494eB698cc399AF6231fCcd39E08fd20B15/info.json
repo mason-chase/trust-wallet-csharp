@@ -1,0 +1,18 @@
+{
+  "id": "0x8eFFd494eB698cc399AF6231fCcd39E08fd20B15",
+  "address": "0x8eFFd494eB698cc399AF6231fCcd39E08fd20B15",
+  "blockchain": "ethereum",
+  "name": "PIX Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8eFFd494eB698cc399AF6231fCcd39E08fd20B15",
+  "research": null,
+  "symbol": "PIX",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

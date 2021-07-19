@@ -1,0 +1,18 @@
+{
+  "id": "0xa4f267b2bf5C47873Ec85cB55749368bc15eC2ec",
+  "address": "0xa4f267b2bf5C47873Ec85cB55749368bc15eC2ec",
+  "blockchain": "ethereum",
+  "name": "Energy27 Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa4f267b2bf5C47873Ec85cB55749368bc15eC2ec",
+  "research": null,
+  "symbol": "TWS",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

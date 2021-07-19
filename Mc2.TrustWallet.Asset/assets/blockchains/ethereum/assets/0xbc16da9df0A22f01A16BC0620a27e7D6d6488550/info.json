@@ -1,0 +1,23 @@
+{
+  "id": "0xbc16da9df0A22f01A16BC0620a27e7D6d6488550",
+  "address": "0xbc16da9df0A22f01A16BC0620a27e7D6d6488550",
+  "blockchain": "ethereum",
+  "name": "Percent",
+  "website": "https://percent.finance/",
+  "description": "Percent is a fork of Compound, owned 100% by the community.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xbc16da9df0A22f01A16BC0620a27e7D6d6488550",
+  "research": null,
+  "symbol": "PCT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/percent-finance"
+    }
+  ],
+  "tags": null
+}

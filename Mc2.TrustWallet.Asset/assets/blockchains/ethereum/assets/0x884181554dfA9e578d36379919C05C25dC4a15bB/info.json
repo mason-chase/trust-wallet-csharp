@@ -1,0 +1,18 @@
+{
+  "id": "0x884181554dfA9e578d36379919C05C25dC4a15bB",
+  "address": "0x884181554dfA9e578d36379919C05C25dC4a15bB",
+  "blockchain": "ethereum",
+  "name": "Gene Source Code Chain",
+  "website": "http://www.gscchain.org",
+  "description": "The Gene Source Code Foundation is building the world's largest distributed genomic and healthcare data storage system based on blockchain technology.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x884181554dfA9e578d36379919C05C25dC4a15bB",
+  "research": null,
+  "symbol": "Gene",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

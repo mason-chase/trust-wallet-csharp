@@ -1,0 +1,18 @@
+{
+  "id": "0xDd60F9dd5B891b728955149BD59F42c6513C8dc6",
+  "address": "0xDd60F9dd5B891b728955149BD59F42c6513C8dc6",
+  "blockchain": "ethereum",
+  "name": "The Emperial Currency",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDd60F9dd5B891b728955149BD59F42c6513C8dc6",
+  "research": null,
+  "symbol": "B0T",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

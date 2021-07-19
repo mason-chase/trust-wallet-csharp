@@ -1,0 +1,18 @@
+{
+  "id": "0x2838490518933215Eba9F90ecb27A9AbfF94B145",
+  "address": "0x2838490518933215Eba9F90ecb27A9AbfF94B145",
+  "blockchain": "ethereum",
+  "name": "Ashurstcoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2838490518933215Eba9F90ecb27A9AbfF94B145",
+  "research": null,
+  "symbol": "ASH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

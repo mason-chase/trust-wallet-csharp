@@ -1,0 +1,18 @@
+{
+  "id": "0xC16BC517Fe6b15903d6cBf02Ffc447291477a43A",
+  "address": "0xC16BC517Fe6b15903d6cBf02Ffc447291477a43A",
+  "blockchain": "ethereum",
+  "name": "HUMToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xC16BC517Fe6b15903d6cBf02Ffc447291477a43A",
+  "research": null,
+  "symbol": "HUM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

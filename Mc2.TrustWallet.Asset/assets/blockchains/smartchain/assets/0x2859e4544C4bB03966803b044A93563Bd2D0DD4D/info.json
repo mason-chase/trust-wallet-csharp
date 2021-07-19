@@ -1,0 +1,18 @@
+{
+  "id": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+  "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+  "blockchain": "smartchain",
+  "name": "Shiba INU: The Dogecoin Killer",
+  "website": "https://shibatoken.com/",
+  "description": "According to SHIBA INU, the reasoning behind the creation of SHIBA is that Shibas constantly forget where they bury their treasure. The website proclaims \"Many doggie wars have been waged over precious treasure and delicious goodies.\"",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
+  "research": null,
+  "symbol": "SHIB",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

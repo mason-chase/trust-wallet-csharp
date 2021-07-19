@@ -1,0 +1,18 @@
+{
+  "id": "0xbDc4dD4B2f62c446485a1D2E39569466A2Fbd829",
+  "address": "0xbDc4dD4B2f62c446485a1D2E39569466A2Fbd829",
+  "blockchain": "ethereum",
+  "name": "Xbitcash",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xbDc4dD4B2f62c446485a1D2E39569466A2Fbd829",
+  "research": null,
+  "symbol": "XTC",
+  "type": "ERC20",
+  "decimals": 10,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

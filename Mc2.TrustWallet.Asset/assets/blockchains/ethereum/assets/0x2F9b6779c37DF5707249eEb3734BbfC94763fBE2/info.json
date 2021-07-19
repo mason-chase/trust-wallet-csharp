@@ -1,0 +1,18 @@
+{
+  "id": "0x2F9b6779c37DF5707249eEb3734BbfC94763fBE2",
+  "address": "0x2F9b6779c37DF5707249eEb3734BbfC94763fBE2",
+  "blockchain": "ethereum",
+  "name": "CrowdWizToken",
+  "website": "https://crowdwiz.io/",
+  "description": "Obtain a smooth access to the full consistent chronology of your own votes and activities, as well as the votes and activities of other CrowdWiz-ers.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2F9b6779c37DF5707249eEb3734BbfC94763fBE2",
+  "research": null,
+  "symbol": "WIZ",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

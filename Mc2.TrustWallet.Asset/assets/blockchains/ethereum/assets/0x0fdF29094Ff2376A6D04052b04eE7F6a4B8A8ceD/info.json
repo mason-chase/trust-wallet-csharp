@@ -1,0 +1,18 @@
+{
+  "id": "0x0fdF29094Ff2376A6D04052b04eE7F6a4B8A8ceD",
+  "address": "0x0fdF29094Ff2376A6D04052b04eE7F6a4B8A8ceD",
+  "blockchain": "ethereum",
+  "name": "Inventive Combine EFOOD",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0fdF29094Ff2376A6D04052b04eE7F6a4B8A8ceD",
+  "research": null,
+  "symbol": "ICEFD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

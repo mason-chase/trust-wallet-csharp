@@ -1,0 +1,18 @@
+{
+  "id": "0x57b7E9f4B3CD22B0D6CDb672F6494da2492C16fF",
+  "address": "0x57b7E9f4B3CD22B0D6CDb672F6494da2492C16fF",
+  "blockchain": "ethereum",
+  "name": "YUI",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x57b7E9f4B3CD22B0D6CDb672F6494da2492C16fF",
+  "research": null,
+  "symbol": "YUI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

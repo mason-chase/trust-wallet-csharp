@@ -1,0 +1,18 @@
+{
+  "id": "SWINGBY-888",
+  "address": "SWINGBY-888",
+  "blockchain": "binance",
+  "name": "Swingby Token",
+  "website": "https://swingby.network/",
+  "description": "Swingby is a decentralized proof-of-stake network that uses the latest advancements in cryptography research to allow you to move your tokens onto other chains without a trusted party.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/SWINGBY-888",
+  "research": null,
+  "symbol": "SWINGBY",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

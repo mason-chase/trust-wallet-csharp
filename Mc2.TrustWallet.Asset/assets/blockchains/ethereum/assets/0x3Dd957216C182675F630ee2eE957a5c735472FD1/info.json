@@ -1,0 +1,18 @@
+{
+  "id": "0x3Dd957216C182675F630ee2eE957a5c735472FD1",
+  "address": "0x3Dd957216C182675F630ee2eE957a5c735472FD1",
+  "blockchain": "ethereum",
+  "name": "Planetagro-Exchange",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3Dd957216C182675F630ee2eE957a5c735472FD1",
+  "research": null,
+  "symbol": "LEMON",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

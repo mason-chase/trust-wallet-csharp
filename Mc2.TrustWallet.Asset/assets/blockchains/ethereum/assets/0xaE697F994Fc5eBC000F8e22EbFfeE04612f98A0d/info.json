@@ -1,0 +1,18 @@
+{
+  "id": "0xaE697F994Fc5eBC000F8e22EbFfeE04612f98A0d",
+  "address": "0xaE697F994Fc5eBC000F8e22EbFfeE04612f98A0d",
+  "blockchain": "ethereum",
+  "name": "LGCY Network",
+  "website": "https://lgcy.network/",
+  "description": "LGCY (Legacy) Network is a dApp based blockchain running on the Libertas Protocol to engage community participation.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xaE697F994Fc5eBC000F8e22EbFfeE04612f98A0d",
+  "research": null,
+  "symbol": "LGCY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

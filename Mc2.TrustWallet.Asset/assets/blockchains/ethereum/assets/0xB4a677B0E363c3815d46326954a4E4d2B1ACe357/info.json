@@ -1,0 +1,18 @@
+{
+  "id": "0xB4a677B0E363c3815d46326954a4E4d2B1ACe357",
+  "address": "0xB4a677B0E363c3815d46326954a4E4d2B1ACe357",
+  "blockchain": "ethereum",
+  "name": "THENODE",
+  "website": "https://the-node.foundation/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB4a677B0E363c3815d46326954a4E4d2B1ACe357",
+  "research": null,
+  "symbol": "THE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

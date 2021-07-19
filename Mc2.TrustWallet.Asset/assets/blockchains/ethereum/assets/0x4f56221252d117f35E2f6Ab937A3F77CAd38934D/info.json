@@ -1,0 +1,18 @@
+{
+  "id": "0x4f56221252d117f35E2f6Ab937A3F77CAd38934D",
+  "address": "0x4f56221252d117f35E2f6Ab937A3F77CAd38934D",
+  "blockchain": "ethereum",
+  "name": "CryptoCricketClub",
+  "website": "http://www.cryptocricketclub.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4f56221252d117f35E2f6Ab937A3F77CAd38934D",
+  "research": null,
+  "symbol": "3Cs",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x4c382F8E09615AC86E08CE58266CC227e7d4D913",
+  "address": "0x4c382F8E09615AC86E08CE58266CC227e7d4D913",
+  "blockchain": "ethereum",
+  "name": "Skrilla",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4c382F8E09615AC86E08CE58266CC227e7d4D913",
+  "research": null,
+  "symbol": "SKR",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

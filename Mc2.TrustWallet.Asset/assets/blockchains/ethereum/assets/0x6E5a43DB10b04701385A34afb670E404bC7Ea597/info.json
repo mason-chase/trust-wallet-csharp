@@ -1,0 +1,18 @@
+{
+  "id": "0x6E5a43DB10b04701385A34afb670E404bC7Ea597",
+  "address": "0x6E5a43DB10b04701385A34afb670E404bC7Ea597",
+  "blockchain": "ethereum",
+  "name": "RAKON",
+  "website": "https://rakon.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6E5a43DB10b04701385A34afb670E404bC7Ea597",
+  "research": null,
+  "symbol": "RKN",
+  "type": "ERC20",
+  "decimals": 12,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x8B554bF7304065e60F89915a4eb1aBa7E7EB301c",
+  "address": "0x8B554bF7304065e60F89915a4eb1aBa7E7EB301c",
+  "blockchain": "ethereum",
+  "name": "PazCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8B554bF7304065e60F89915a4eb1aBa7E7EB301c",
+  "research": null,
+  "symbol": "PAZ",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

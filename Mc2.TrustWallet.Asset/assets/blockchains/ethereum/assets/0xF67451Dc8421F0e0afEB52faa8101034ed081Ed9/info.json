@@ -1,0 +1,18 @@
+{
+  "id": "0xF67451Dc8421F0e0afEB52faa8101034ed081Ed9",
+  "address": "0xF67451Dc8421F0e0afEB52faa8101034ed081Ed9",
+  "blockchain": "ethereum",
+  "name": "Gambit",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF67451Dc8421F0e0afEB52faa8101034ed081Ed9",
+  "research": null,
+  "symbol": "GAM",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

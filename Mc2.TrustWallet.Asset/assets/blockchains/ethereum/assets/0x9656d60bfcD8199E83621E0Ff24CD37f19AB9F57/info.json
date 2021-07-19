@@ -1,0 +1,18 @@
+{
+  "id": "0x9656d60bfcD8199E83621E0Ff24CD37f19AB9F57",
+  "address": "0x9656d60bfcD8199E83621E0Ff24CD37f19AB9F57",
+  "blockchain": "ethereum",
+  "name": "CHOCH",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9656d60bfcD8199E83621E0Ff24CD37f19AB9F57",
+  "research": null,
+  "symbol": "CHCH",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

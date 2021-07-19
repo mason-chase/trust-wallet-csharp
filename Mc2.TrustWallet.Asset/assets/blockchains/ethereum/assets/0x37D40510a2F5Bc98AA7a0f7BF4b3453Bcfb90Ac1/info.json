@@ -1,0 +1,18 @@
+{
+  "id": "0x37D40510a2F5Bc98AA7a0f7BF4b3453Bcfb90Ac1",
+  "address": "0x37D40510a2F5Bc98AA7a0f7BF4b3453Bcfb90Ac1",
+  "blockchain": "ethereum",
+  "name": "Beluga Banking Infrastructure Token",
+  "website": "https://belugapay.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x37D40510a2F5Bc98AA7a0f7BF4b3453Bcfb90Ac1",
+  "research": null,
+  "symbol": "BBI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

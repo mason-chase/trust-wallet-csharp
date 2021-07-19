@@ -1,0 +1,18 @@
+{
+  "id": "0x0A07525aa264a3e14CDbDd839B1eDa02A34e2778",
+  "address": "0x0A07525aa264a3e14CDbDd839B1eDa02A34e2778",
+  "blockchain": "ethereum",
+  "name": "OFW",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0A07525aa264a3e14CDbDd839B1eDa02A34e2778",
+  "research": null,
+  "symbol": "OFW",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1001698",
+  "address": "1001698",
+  "blockchain": "tron",
+  "name": "ONGISTRON",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1001698",
+  "research": null,
+  "symbol": "ONGIS",
+  "type": "TRC10",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,43 @@
+{
+  "id": "0x1337DEF18C680aF1f9f45cBcab6309562975b1dD",
+  "address": "0x1337DEF18C680aF1f9f45cBcab6309562975b1dD",
+  "blockchain": "ethereum",
+  "name": "arNXM",
+  "website": "https://armor.fi",
+  "description": "arNXM is the yield-bearing token for the arNXM vault.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1337DEF18C680aF1f9f45cBcab6309562975b1dD",
+  "research": null,
+  "symbol": "arNXM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/ArmorFi"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/ArmorFi"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/ArmorFi"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/8HuTB22"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/armorfi"
+    },
+    {
+      "name": "white_paper",
+      "url": "https://armorfi.gitbook.io/armor/"
+    }
+  ],
+  "tags": null
+}

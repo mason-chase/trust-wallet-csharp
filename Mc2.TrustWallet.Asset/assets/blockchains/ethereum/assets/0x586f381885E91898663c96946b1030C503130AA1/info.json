@@ -1,0 +1,18 @@
+{
+  "id": "0x586f381885E91898663c96946b1030C503130AA1",
+  "address": "0x586f381885E91898663c96946b1030C503130AA1",
+  "blockchain": "ethereum",
+  "name": "High Tech Genesis",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x586f381885E91898663c96946b1030C503130AA1",
+  "research": null,
+  "symbol": "HTECH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

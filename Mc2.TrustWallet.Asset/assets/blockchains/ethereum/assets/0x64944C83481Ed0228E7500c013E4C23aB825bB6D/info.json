@@ -1,0 +1,18 @@
+{
+  "id": "0x64944C83481Ed0228E7500c013E4C23aB825bB6D",
+  "address": "0x64944C83481Ed0228E7500c013E4C23aB825bB6D",
+  "blockchain": "ethereum",
+  "name": "Instant Asset Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x64944C83481Ed0228E7500c013E4C23aB825bB6D",
+  "research": null,
+  "symbol": "IAT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

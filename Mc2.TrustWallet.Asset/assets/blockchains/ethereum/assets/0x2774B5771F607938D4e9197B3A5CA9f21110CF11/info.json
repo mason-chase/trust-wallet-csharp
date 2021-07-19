@@ -1,0 +1,18 @@
+{
+  "id": "0x2774B5771F607938D4e9197B3A5CA9f21110CF11",
+  "address": "0x2774B5771F607938D4e9197B3A5CA9f21110CF11",
+  "blockchain": "ethereum",
+  "name": "Nacreous",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2774B5771F607938D4e9197B3A5CA9f21110CF11",
+  "research": null,
+  "symbol": "NACRE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

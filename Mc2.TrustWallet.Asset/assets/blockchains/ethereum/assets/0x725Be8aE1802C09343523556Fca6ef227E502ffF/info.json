@@ -1,0 +1,18 @@
+{
+  "id": "0x725Be8aE1802C09343523556Fca6ef227E502ffF",
+  "address": "0x725Be8aE1802C09343523556Fca6ef227E502ffF",
+  "blockchain": "ethereum",
+  "name": "SG10006（YOU）",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x725Be8aE1802C09343523556Fca6ef227E502ffF",
+  "research": null,
+  "symbol": "YOU",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

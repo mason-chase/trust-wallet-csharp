@@ -1,0 +1,18 @@
+{
+  "id": "0xc9Ad37E9Baf41377540Df5a77831Db98c1915128",
+  "address": "0xc9Ad37E9Baf41377540Df5a77831Db98c1915128",
+  "blockchain": "smartchain",
+  "name": "Green Shiba Inu",
+  "website": "https://greenshiba.org",
+  "description": "Green Shiba Inu is a fully decentralized, zero-emission and fairly distributed community-driven token disrupting the meme economy aiming at protecting the environment!",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xc9Ad37E9Baf41377540Df5a77831Db98c1915128",
+  "research": null,
+  "symbol": "GINUX",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

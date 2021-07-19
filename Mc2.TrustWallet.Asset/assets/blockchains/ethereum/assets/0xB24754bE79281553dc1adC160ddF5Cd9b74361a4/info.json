@@ -1,0 +1,18 @@
+{
+  "id": "0xB24754bE79281553dc1adC160ddF5Cd9b74361a4",
+  "address": "0xB24754bE79281553dc1adC160ddF5Cd9b74361a4",
+  "blockchain": "ethereum",
+  "name": "RIALTO",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB24754bE79281553dc1adC160ddF5Cd9b74361a4",
+  "research": null,
+  "symbol": "XRL",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

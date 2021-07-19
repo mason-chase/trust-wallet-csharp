@@ -1,0 +1,18 @@
+{
+  "id": "0x3A50d6daacc82f17A2434184fE904fC45542A734",
+  "address": "0x3A50d6daacc82f17A2434184fE904fC45542A734",
+  "blockchain": "smartchain",
+  "name": "Fusible",
+  "website": "https://fusible.io",
+  "description": "A curve based price discovery protocol for NFTs",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x3A50d6daacc82f17A2434184fE904fC45542A734",
+  "research": null,
+  "symbol": "FUSII",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

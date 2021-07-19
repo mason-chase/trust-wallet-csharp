@@ -1,0 +1,18 @@
+{
+  "id": "0x584B44853680ee34a0F337B712a8f66d816dF151",
+  "address": "0x584B44853680ee34a0F337B712a8f66d816dF151",
+  "blockchain": "ethereum",
+  "name": "AI Doctor",
+  "website": "http://www.aidoc.me",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x584B44853680ee34a0F337B712a8f66d816dF151",
+  "research": null,
+  "symbol": "AIDOC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

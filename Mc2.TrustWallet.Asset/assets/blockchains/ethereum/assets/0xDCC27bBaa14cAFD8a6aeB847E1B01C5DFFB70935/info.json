@@ -1,0 +1,18 @@
+{
+  "id": "0xDCC27bBaa14cAFD8a6aeB847E1B01C5DFFB70935",
+  "address": "0xDCC27bBaa14cAFD8a6aeB847E1B01C5DFFB70935",
+  "blockchain": "ethereum",
+  "name": "VANTA Token",
+  "website": "http://vanta.network",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDCC27bBaa14cAFD8a6aeB847E1B01C5DFFB70935",
+  "research": null,
+  "symbol": "VNT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

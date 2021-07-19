@@ -1,0 +1,18 @@
+{
+  "id": "0xac2e58A06E6265F1Cf5084EE58da68e5d75b49CA",
+  "address": "0xac2e58A06E6265F1Cf5084EE58da68e5d75b49CA",
+  "blockchain": "ethereum",
+  "name": "ORS Token",
+  "website": "https://www.orsgroup.io/",
+  "description": "ORS GROUP is connecting A.I. and Blockchain through Hypersmart Contracts, to provide access to more than 1,000 proprietary algorithms and hundreds of software solutions entrepreneurs worldwide.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xac2e58A06E6265F1Cf5084EE58da68e5d75b49CA",
+  "research": null,
+  "symbol": "ORS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

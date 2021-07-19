@@ -1,0 +1,23 @@
+{
+  "id": "0xB53e08B97724126Bda6d237B94F766c0b81C90fE",
+  "address": "0xB53e08B97724126Bda6d237B94F766c0b81C90fE",
+  "blockchain": "ethereum",
+  "name": "PIXBY",
+  "website": "https://pixby.io",
+  "description": "Designed to reward longterm PIXBY holders.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB53e08B97724126Bda6d237B94F766c0b81C90fE",
+  "research": null,
+  "symbol": "PIXBY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/pixbytoken"
+    }
+  ],
+  "tags": null
+}

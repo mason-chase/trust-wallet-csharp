@@ -1,0 +1,18 @@
+{
+  "id": "0x9da4Cc37379F48960Bf946E6a8329df5C2dC2bC8",
+  "address": "0x9da4Cc37379F48960Bf946E6a8329df5C2dC2bC8",
+  "blockchain": "ethereum",
+  "name": "DD Silver",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9da4Cc37379F48960Bf946E6a8329df5C2dC2bC8",
+  "research": null,
+  "symbol": "DDS",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

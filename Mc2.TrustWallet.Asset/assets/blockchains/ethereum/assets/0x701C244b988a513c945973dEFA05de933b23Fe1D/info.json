@@ -1,0 +1,18 @@
+{
+  "id": "0x701C244b988a513c945973dEFA05de933b23Fe1D",
+  "address": "0x701C244b988a513c945973dEFA05de933b23Fe1D",
+  "blockchain": "ethereum",
+  "name": "openANX Token",
+  "website": "https://www.oax.org",
+  "description": "Developing and promoting a sustainable digital asset ecosystem for the future.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x701C244b988a513c945973dEFA05de933b23Fe1D",
+  "research": null,
+  "symbol": "OAX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

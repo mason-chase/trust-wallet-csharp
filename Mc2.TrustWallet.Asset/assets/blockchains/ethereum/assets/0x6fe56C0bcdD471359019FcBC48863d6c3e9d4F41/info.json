@@ -1,0 +1,18 @@
+{
+  "id": "0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41",
+  "address": "0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41",
+  "blockchain": "ethereum",
+  "name": "Props Token",
+  "website": "https://www.propsproject.com",
+  "description": " Props’ open-source infrastructure creates a decentralized network of apps operated by independent developers, who share an underlying token, benefiting from collective network effects.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6fe56C0bcdD471359019FcBC48863d6c3e9d4F41",
+  "research": null,
+  "symbol": "PROPS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

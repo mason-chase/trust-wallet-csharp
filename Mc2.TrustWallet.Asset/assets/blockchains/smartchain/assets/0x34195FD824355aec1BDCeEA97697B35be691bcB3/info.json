@@ -1,0 +1,23 @@
+{
+  "id": "0x34195FD824355aec1BDCeEA97697B35be691bcB3",
+  "address": "0x34195FD824355aec1BDCeEA97697B35be691bcB3",
+  "blockchain": "smartchain",
+  "name": "BSC Gold",
+  "website": "https://bscgold.finance",
+  "description": "BscGold is a gaming platform that allows cretors to play, craft, distribute and trade.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x34195fd824355aec1bdceea97697b35be691bcb3",
+  "research": null,
+  "symbol": "BSCGOLD",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": [
+    {
+      "name": "white_paper",
+      "url": "https://bscgold.finance/BSCG_Paper.pdf"
+    }
+  ],
+  "tags": null
+}

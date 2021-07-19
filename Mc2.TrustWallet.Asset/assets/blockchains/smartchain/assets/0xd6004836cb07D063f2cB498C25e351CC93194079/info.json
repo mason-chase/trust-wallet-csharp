@@ -1,0 +1,18 @@
+{
+  "id": "0xd6004836cb07D063f2cB498C25e351CC93194079",
+  "address": "0xd6004836cb07D063f2cB498C25e351CC93194079",
+  "blockchain": "smartchain",
+  "name": "Long Asset",
+  "website": "https://longasset.io/",
+  "description": "First Literature Non-Fungible Token (NFT) in Crypto Assets\n\nLong Asset Token functions for Staking, Farming, and can also be used for transactions at the LONG NFT Marketplace, Collectibles & NFTs.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xd6004836cb07D063f2cB498C25e351CC93194079",
+  "research": null,
+  "symbol": "LONG",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

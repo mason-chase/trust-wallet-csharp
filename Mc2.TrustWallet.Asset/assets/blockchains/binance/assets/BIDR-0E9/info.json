@@ -1,0 +1,18 @@
+{
+  "id": "BIDR-0E9",
+  "address": "BIDR-0E9",
+  "blockchain": "binance",
+  "name": "Binance IDR",
+  "website": "https://binance.com/en/news/flash/36564",
+  "description": "Binance IDR (BIDR) is a token issued by Tokocrypto with a price pegged to the Indonesian Rupiah at a 1:1 rate.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/BIDR-0E9",
+  "research": "https://research.binance.com/en/projects/binance-idr",
+  "symbol": "BIDR",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

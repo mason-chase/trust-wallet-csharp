@@ -1,0 +1,18 @@
+{
+  "id": "0x8734afDaEDf4e490bf92a22BBFD3eA2d8Eb2E86c",
+  "address": "0x8734afDaEDf4e490bf92a22BBFD3eA2d8Eb2E86c",
+  "blockchain": "ethereum",
+  "name": "MHIMG1-27/30M27",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8734afDaEDf4e490bf92a22BBFD3eA2d8Eb2E86c",
+  "research": null,
+  "symbol": "M",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

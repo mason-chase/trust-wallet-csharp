@@ -1,0 +1,35 @@
+{
+  "id": "0x56aA298a19C93c6801FDde870fA63EF75Cc0aF72",
+  "address": "0x56aA298a19C93c6801FDde870fA63EF75Cc0aF72",
+  "blockchain": "ethereum",
+  "name": "mBABA Token",
+  "website": "https://mirror.finance",
+  "description": "Wrapped Mirror BABA Token.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x56aA298a19C93c6801FDde870fA63EF75Cc0aF72",
+  "research": null,
+  "symbol": "mBABA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/MirrorProtocol"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/mirror_protocol"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/MirrorProtocol"
+    },
+    {
+      "name": "medium",
+      "url": "https://medium.com/@mirror-protocol"
+    }
+  ],
+  "tags": null
+}

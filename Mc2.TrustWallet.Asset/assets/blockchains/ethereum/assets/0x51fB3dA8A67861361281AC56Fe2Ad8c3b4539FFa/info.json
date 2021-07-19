@@ -1,0 +1,18 @@
+{
+  "id": "0x51fB3dA8A67861361281AC56Fe2Ad8c3b4539FFa",
+  "address": "0x51fB3dA8A67861361281AC56Fe2Ad8c3b4539FFa",
+  "blockchain": "ethereum",
+  "name": "InsurChain2.0",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x51fB3dA8A67861361281AC56Fe2Ad8c3b4539FFa",
+  "research": null,
+  "symbol": "INSUR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x85FCfD9438E4c071fcba6cf415c5FFef276d5064",
+  "address": "0x85FCfD9438E4c071fcba6cf415c5FFef276d5064",
+  "blockchain": "ethereum",
+  "name": "CryptoPro",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x85FCfD9438E4c071fcba6cf415c5FFef276d5064",
+  "research": null,
+  "symbol": "CPP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

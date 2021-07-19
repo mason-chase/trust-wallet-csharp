@@ -1,0 +1,18 @@
+{
+  "id": "0x2B4395084E1068877502EAD1Ae004094F5A0B88F",
+  "address": "0x2B4395084E1068877502EAD1Ae004094F5A0B88F",
+  "blockchain": "ethereum",
+  "name": "Peer 2 Peer Global Network",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2B4395084E1068877502EAD1Ae004094F5A0B88F",
+  "research": null,
+  "symbol": "P2P",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

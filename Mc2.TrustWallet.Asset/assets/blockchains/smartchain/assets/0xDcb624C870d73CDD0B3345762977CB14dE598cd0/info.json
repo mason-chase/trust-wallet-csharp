@@ -1,0 +1,18 @@
+{
+  "id": "0xDcb624C870d73CDD0B3345762977CB14dE598cd0",
+  "address": "0xDcb624C870d73CDD0B3345762977CB14dE598cd0",
+  "blockchain": "smartchain",
+  "name": "YFIH2",
+  "website": "https://h2finance.io",
+  "description": "YFIH2 is the first token of H2.Finance which mission is to help energy companies by lending money for their green energy investments.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xDcb624C870d73CDD0B3345762977CB14dE598cd0",
+  "research": null,
+  "symbol": "YFIH2",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x7194BB18C95c638F9b9604C2f20064B66A0de8fE",
+  "address": "0x7194BB18C95c638F9b9604C2f20064B66A0de8fE",
+  "blockchain": "ethereum",
+  "name": "Learno",
+  "website": "https://learno.tech/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7194BB18C95c638F9b9604C2f20064B66A0de8fE",
+  "research": null,
+  "symbol": "LRT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

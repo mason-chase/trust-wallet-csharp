@@ -1,0 +1,18 @@
+{
+  "id": "0x3B44E6D655226E79B3d2AC510C11b2637a9f50Dd",
+  "address": "0x3B44E6D655226E79B3d2AC510C11b2637a9f50Dd",
+  "blockchain": "smartchain",
+  "name": "SheeshMoon",
+  "website": "https://sheeshmoon.com",
+  "description": "The lighthearted token of TikTok. Deflationary, auto-liquidity, and 4% redistribution to holders.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x3B44E6D655226E79B3d2AC510C11b2637a9f50Dd",
+  "research": null,
+  "symbol": "SHEESHMOON",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

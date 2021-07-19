@@ -1,0 +1,31 @@
+{
+  "id": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+  "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+  "blockchain": "ethereum",
+  "name": "Sushi",
+  "website": "https://sushiswap.fi",
+  "description": "SushiSwap claims to be an evolution of #Uniswap with $SUSHI tokenomics.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+  "research": null,
+  "symbol": "SUSHI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/sushiswap"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/sushiswap"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://coingecko.com/en/coins/sushi/"
+    }
+  ],
+  "tags": null
+}

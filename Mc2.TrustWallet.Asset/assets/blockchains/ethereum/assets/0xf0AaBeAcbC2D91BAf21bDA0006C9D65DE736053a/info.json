@@ -1,0 +1,18 @@
+{
+  "id": "0xf0AaBeAcbC2D91BAf21bDA0006C9D65DE736053a",
+  "address": "0xf0AaBeAcbC2D91BAf21bDA0006C9D65DE736053a",
+  "blockchain": "ethereum",
+  "name": "OHFF",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf0AaBeAcbC2D91BAf21bDA0006C9D65DE736053a",
+  "research": null,
+  "symbol": "OHFF",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

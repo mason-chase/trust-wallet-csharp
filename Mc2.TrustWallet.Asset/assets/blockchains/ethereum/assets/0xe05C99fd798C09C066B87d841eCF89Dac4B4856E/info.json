@@ -1,0 +1,18 @@
+{
+  "id": "0xe05C99fd798C09C066B87d841eCF89Dac4B4856E",
+  "address": "0xe05C99fd798C09C066B87d841eCF89Dac4B4856E",
+  "blockchain": "ethereum",
+  "name": "Bard",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe05C99fd798C09C066B87d841eCF89Dac4B4856E",
+  "research": null,
+  "symbol": "BARD",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

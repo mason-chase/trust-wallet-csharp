@@ -1,0 +1,18 @@
+{
+  "id": "0xa47a5E8696b47F1Dd612EaAd7254c4ca03938E9e",
+  "address": "0xa47a5E8696b47F1Dd612EaAd7254c4ca03938E9e",
+  "blockchain": "ethereum",
+  "name": "BITCOIN GAME",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa47a5E8696b47F1Dd612EaAd7254c4ca03938E9e",
+  "research": null,
+  "symbol": "BGAME",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

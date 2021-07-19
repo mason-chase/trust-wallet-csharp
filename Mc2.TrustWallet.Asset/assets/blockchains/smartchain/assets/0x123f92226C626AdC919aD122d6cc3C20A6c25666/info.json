@@ -1,0 +1,18 @@
+{
+  "id": "0x123f92226C626AdC919aD122d6cc3C20A6c25666",
+  "address": "0x123f92226C626AdC919aD122d6cc3C20A6c25666",
+  "blockchain": "smartchain",
+  "name": "PANGEA",
+  "website": "https://pangeamovement.com/pages/pangea-coin",
+  "description": "THE ONLY COIN THAT REWARDS HOLDERS AND PLACES TRASH BARRIERS IN THE MOST POLLUTING RIVERS OF THE WORLD",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x123f92226c626adc919ad122d6cc3c20a6c25666",
+  "research": null,
+  "symbol": "POC",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x7e52a123Ed6DB6Ac872A875552935fBbD2544c86",
+  "address": "0x7e52a123Ed6DB6Ac872A875552935fBbD2544c86",
+  "blockchain": "smartchain",
+  "name": "SYL",
+  "website": "https://www.xsl-labs.io/",
+  "description": "SYL Token by XSL Labs: Decentralized Identity & Data Privacy",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x7e52a123Ed6DB6Ac872A875552935fBbD2544c86",
+  "research": null,
+  "symbol": "SYL",
+  "type": "BEP20",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

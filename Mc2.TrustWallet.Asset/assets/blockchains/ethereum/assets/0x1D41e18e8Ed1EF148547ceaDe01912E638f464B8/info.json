@@ -1,0 +1,18 @@
+{
+  "id": "0x1D41e18e8Ed1EF148547ceaDe01912E638f464B8",
+  "address": "0x1D41e18e8Ed1EF148547ceaDe01912E638f464B8",
+  "blockchain": "ethereum",
+  "name": "Casper",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1D41e18e8Ed1EF148547ceaDe01912E638f464B8",
+  "research": null,
+  "symbol": "CPR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

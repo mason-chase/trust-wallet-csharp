@@ -1,0 +1,18 @@
+{
+  "id": "0x4E3Bddd468AbfC6C88bc25dAA5d894380CEd5bc8",
+  "address": "0x4E3Bddd468AbfC6C88bc25dAA5d894380CEd5bc8",
+  "blockchain": "ethereum",
+  "name": "New Energy",
+  "website": "http://www.nsscoin.net/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4E3Bddd468AbfC6C88bc25dAA5d894380CEd5bc8",
+  "research": null,
+  "symbol": "NSS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

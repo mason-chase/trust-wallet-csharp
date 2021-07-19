@@ -1,0 +1,18 @@
+{
+  "id": "0x278aE6f52CE72B0df6CBa451534b87846ACC9D65",
+  "address": "0x278aE6f52CE72B0df6CBa451534b87846ACC9D65",
+  "blockchain": "ethereum",
+  "name": "BLACKPANTHER",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x278aE6f52CE72B0df6CBa451534b87846ACC9D65",
+  "research": null,
+  "symbol": "BPER",
+  "type": "ERC20",
+  "decimals": 10,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

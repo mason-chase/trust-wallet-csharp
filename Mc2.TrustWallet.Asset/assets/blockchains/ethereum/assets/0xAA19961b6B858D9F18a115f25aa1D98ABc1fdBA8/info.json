@@ -1,0 +1,18 @@
+{
+  "id": "0xAA19961b6B858D9F18a115f25aa1D98ABc1fdBA8",
+  "address": "0xAA19961b6B858D9F18a115f25aa1D98ABc1fdBA8",
+  "blockchain": "ethereum",
+  "name": "LocalCoinSwap (LCS)",
+  "website": "https://localcoinswap.com",
+  "description": "LocalCoinSwap (LCS) is the underlying token of the LocalCoinSwap P2P trading platform. This token is regularly repurchased and burned using revenue from the exchange, and allows holders to participate in governance.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xAA19961b6B858D9F18a115f25aa1D98ABc1fdBA8",
+  "research": null,
+  "symbol": "LCS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

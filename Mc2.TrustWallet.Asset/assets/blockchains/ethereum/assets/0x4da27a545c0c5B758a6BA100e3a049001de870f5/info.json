@@ -1,0 +1,18 @@
+{
+  "id": "0x4da27a545c0c5B758a6BA100e3a049001de870f5",
+  "address": "0x4da27a545c0c5B758a6BA100e3a049001de870f5",
+  "blockchain": "ethereum",
+  "name": "Staked AAVE",
+  "website": "https://aave.com",
+  "description": "stkAAVE is AAVE that is staked in the Aave Protocol Safety Module. In case of a shortfall event, up to 30% of the stkAAVE can be slashed to cover the deficit. stkAAVE holders earn Safety Incentives as a reward for protecting the protocol. stkAAVE holders can also vote on governance proposals for protocol updates.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4da27a545c0c5B758a6BA100e3a049001de870f5",
+  "research": null,
+  "symbol": "stkAAVE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

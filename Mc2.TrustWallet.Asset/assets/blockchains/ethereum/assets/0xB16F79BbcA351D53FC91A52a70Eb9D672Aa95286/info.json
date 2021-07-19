@@ -1,0 +1,18 @@
+{
+  "id": "0xB16F79BbcA351D53FC91A52a70Eb9D672Aa95286",
+  "address": "0xB16F79BbcA351D53FC91A52a70Eb9D672Aa95286",
+  "blockchain": "ethereum",
+  "name": "BLASH",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB16F79BbcA351D53FC91A52a70Eb9D672Aa95286",
+  "research": null,
+  "symbol": "BLASH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

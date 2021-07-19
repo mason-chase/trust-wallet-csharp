@@ -1,0 +1,18 @@
+{
+  "id": "0xB58a6ab4972d6584cb6AFBA679eDb5acD8BfD1ec",
+  "address": "0xB58a6ab4972d6584cb6AFBA679eDb5acD8BfD1ec",
+  "blockchain": "ethereum",
+  "name": "Token Network",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB58a6ab4972d6584cb6AFBA679eDb5acD8BfD1ec",
+  "research": null,
+  "symbol": "TNX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x2D476A9126D2D4135fB310aCF029F9aAcD4f85a2",
+  "address": "0x2D476A9126D2D4135fB310aCF029F9aAcD4f85a2",
+  "blockchain": "ethereum",
+  "name": "Soft Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2D476A9126D2D4135fB310aCF029F9aAcD4f85a2",
+  "research": null,
+  "symbol": "SFT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

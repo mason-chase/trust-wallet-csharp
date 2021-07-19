@@ -1,0 +1,18 @@
+{
+  "id": "0xB414F8Ec2D14c64f37B1559CBE43746284514596",
+  "address": "0xB414F8Ec2D14c64f37B1559CBE43746284514596",
+  "blockchain": "ethereum",
+  "name": "Fitcash",
+  "website": "https://www.fitcash.co",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB414F8Ec2D14c64f37B1559CBE43746284514596",
+  "research": null,
+  "symbol": "FTH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

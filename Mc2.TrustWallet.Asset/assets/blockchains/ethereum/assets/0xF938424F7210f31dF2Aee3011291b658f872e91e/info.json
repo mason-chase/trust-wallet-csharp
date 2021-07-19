@@ -1,0 +1,18 @@
+{
+  "id": "0xF938424F7210f31dF2Aee3011291b658f872e91e",
+  "address": "0xF938424F7210f31dF2Aee3011291b658f872e91e",
+  "blockchain": "ethereum",
+  "name": "Visor",
+  "website": "https://visor.finance",
+  "description": "Interact with DeFi protocols through an NFT, enhancing the discovery, reputation, safety and programmability of on-chain liquidity",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf938424f7210f31df2aee3011291b658f872e91e",
+  "research": null,
+  "symbol": "VISR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

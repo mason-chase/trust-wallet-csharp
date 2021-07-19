@@ -1,0 +1,18 @@
+{
+  "id": "0x84119cb33E8F590D75c2D6Ea4e6B0741a7494EDA",
+  "address": "0x84119cb33E8F590D75c2D6Ea4e6B0741a7494EDA",
+  "blockchain": "ethereum",
+  "name": "WTT",
+  "website": "https://cryptonomos.com/wtt/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x84119cb33E8F590D75c2D6Ea4e6B0741a7494EDA",
+  "research": null,
+  "symbol": "WTT",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

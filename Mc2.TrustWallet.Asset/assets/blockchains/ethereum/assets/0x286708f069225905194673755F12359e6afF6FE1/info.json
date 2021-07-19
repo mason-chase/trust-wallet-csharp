@@ -1,0 +1,18 @@
+{
+  "id": "0x286708f069225905194673755F12359e6afF6FE1",
+  "address": "0x286708f069225905194673755F12359e6afF6FE1",
+  "blockchain": "ethereum",
+  "name": "STACS",
+  "website": "https://gatetoken.io/",
+  "description": "GATE tokens will have a number of utilities within the GSX Group’s digital securities markets strategy, including but not limited to, on-chain fees, staking, and rewards.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x286708f069225905194673755F12359e6afF6FE1",
+  "research": null,
+  "symbol": "STACS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

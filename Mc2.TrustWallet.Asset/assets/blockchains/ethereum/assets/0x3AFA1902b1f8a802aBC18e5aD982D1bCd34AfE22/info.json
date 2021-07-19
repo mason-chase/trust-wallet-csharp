@@ -1,0 +1,18 @@
+{
+  "id": "0x3AFA1902b1f8a802aBC18e5aD982D1bCd34AfE22",
+  "address": "0x3AFA1902b1f8a802aBC18e5aD982D1bCd34AfE22",
+  "blockchain": "ethereum",
+  "name": "GrEARN's Token",
+  "website": "https://www.grearn.org/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3AFA1902b1f8a802aBC18e5aD982D1bCd34AfE22",
+  "research": null,
+  "symbol": "GST",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

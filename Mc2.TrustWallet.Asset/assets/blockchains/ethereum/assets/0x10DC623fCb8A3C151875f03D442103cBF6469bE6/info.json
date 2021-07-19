@@ -1,0 +1,18 @@
+{
+  "id": "0x10DC623fCb8A3C151875f03D442103cBF6469bE6",
+  "address": "0x10DC623fCb8A3C151875f03D442103cBF6469bE6",
+  "blockchain": "ethereum",
+  "name": "Digital Block",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x10DC623fCb8A3C151875f03D442103cBF6469bE6",
+  "research": null,
+  "symbol": "DB",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

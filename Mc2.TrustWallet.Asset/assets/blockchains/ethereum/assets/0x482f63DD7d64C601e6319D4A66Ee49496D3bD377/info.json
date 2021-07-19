@@ -1,0 +1,18 @@
+{
+  "id": "0x482f63DD7d64C601e6319D4A66Ee49496D3bD377",
+  "address": "0x482f63DD7d64C601e6319D4A66Ee49496D3bD377",
+  "blockchain": "ethereum",
+  "name": "Techshare Token (TCL)",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x482f63DD7d64C601e6319D4A66Ee49496D3bD377",
+  "research": null,
+  "symbol": "TCL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

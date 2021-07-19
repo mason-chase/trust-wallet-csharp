@@ -1,0 +1,18 @@
+{
+  "id": "0x9AA9F330aB322e8a6F044C46a109B5910fa373CE",
+  "address": "0x9AA9F330aB322e8a6F044C46a109B5910fa373CE",
+  "blockchain": "ethereum",
+  "name": "IgnisLite",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9AA9F330aB322e8a6F044C46a109B5910fa373CE",
+  "research": null,
+  "symbol": "IgnisLite",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

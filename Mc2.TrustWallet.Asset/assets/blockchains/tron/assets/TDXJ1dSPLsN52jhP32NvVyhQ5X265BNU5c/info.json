@@ -1,0 +1,35 @@
+{
+  "id": "TDXJ1dSPLsN52jhP32NvVyhQ5X265BNU5c",
+  "address": "TDXJ1dSPLsN52jhP32NvVyhQ5X265BNU5c",
+  "blockchain": "tron",
+  "name": "RLE",
+  "website": "https://richlabexchange.com/",
+  "description": "Richlab exchange is a cryptocurrency exchange, opening a new era. With the integration of the following services: 1. Shopping 2. Commercial auctions 3. Equity investment 4. Game blockchain 5. Service payment system. All of the above services are integrated",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TDXJ1dSPLsN52jhP32NvVyhQ5X265BNU5c",
+  "research": "https://richlabexchange.com/",
+  "symbol": "RLE",
+  "type": "TRC20",
+  "decimals": 6,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/richlabexchange"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/RLEswap"
+    },
+    {
+      "name": "facebook",
+      "url": "https://facebook.com/RichLabExChange"
+    },
+    {
+      "name": "white_paper",
+      "url": "https://drive.google.com/file/d/1F_0cjSWeYfT8S9wN_lQe0qUvRwOl9Vwz/view"
+    }
+  ],
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x1254E59712e6e727dC71E0E3121Ae952b2c4c3b6",
+  "address": "0x1254E59712e6e727dC71E0E3121Ae952b2c4c3b6",
+  "blockchain": "ethereum",
+  "name": "Marginless Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1254E59712e6e727dC71E0E3121Ae952b2c4c3b6",
+  "research": null,
+  "symbol": "MRS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

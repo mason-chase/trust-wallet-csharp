@@ -1,0 +1,18 @@
+{
+  "id": "0xA31108E5BAB5494560Db34c95492658AF239357C",
+  "address": "0xA31108E5BAB5494560Db34c95492658AF239357C",
+  "blockchain": "ethereum",
+  "name": "DACSEE",
+  "website": "https://dacsee.io/#/",
+  "description": "DACSEE (DACS) is a cryptocurrency and operates on the Ethereum platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA31108E5BAB5494560Db34c95492658AF239357C",
+  "research": null,
+  "symbol": "DACS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xc677b05c5Dade99c0bFd8561095382f7D648a1Ea",
+  "address": "0xc677b05c5Dade99c0bFd8561095382f7D648a1Ea",
+  "blockchain": "ethereum",
+  "name": "tor.finance",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc677b05c5Dade99c0bFd8561095382f7D648a1Ea",
+  "research": null,
+  "symbol": "TOR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

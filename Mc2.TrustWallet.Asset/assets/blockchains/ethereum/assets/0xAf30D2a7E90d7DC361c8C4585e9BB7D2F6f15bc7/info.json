@@ -1,0 +1,18 @@
+{
+  "id": "0xAf30D2a7E90d7DC361c8C4585e9BB7D2F6f15bc7",
+  "address": "0xAf30D2a7E90d7DC361c8C4585e9BB7D2F6f15bc7",
+  "blockchain": "ethereum",
+  "name": "FirstBlood Token",
+  "website": "https://firstblood.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xAf30D2a7E90d7DC361c8C4585e9BB7D2F6f15bc7",
+  "research": null,
+  "symbol": "1ST",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

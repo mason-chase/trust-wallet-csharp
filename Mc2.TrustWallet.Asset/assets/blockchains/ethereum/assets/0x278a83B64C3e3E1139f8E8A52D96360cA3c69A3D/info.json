@@ -1,0 +1,18 @@
+{
+  "id": "0x278a83B64C3e3E1139f8E8A52D96360cA3c69A3D",
+  "address": "0x278a83B64C3e3E1139f8E8A52D96360cA3c69A3D",
+  "blockchain": "ethereum",
+  "name": "Nexxo Tokens",
+  "website": "https://nexxo.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x278a83B64C3e3E1139f8E8A52D96360cA3c69A3D",
+  "research": null,
+  "symbol": "NEXXO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

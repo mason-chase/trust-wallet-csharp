@@ -1,0 +1,18 @@
+{
+  "id": "0x79186Ba0FC6fa49fd9DB2F0bA34F36F8c24489c7",
+  "address": "0x79186Ba0FC6fa49fd9DB2F0bA34F36F8c24489c7",
+  "blockchain": "ethereum",
+  "name": "CrowdCoinage",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x79186Ba0FC6fa49fd9DB2F0bA34F36F8c24489c7",
+  "research": null,
+  "symbol": "CCOS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

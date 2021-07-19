@@ -1,0 +1,18 @@
+{
+  "id": "0xfF759254e578bc7F725428CEcb612A502E604f42",
+  "address": "0xfF759254e578bc7F725428CEcb612A502E604f42",
+  "blockchain": "ethereum",
+  "name": "BAT Gold",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xfF759254e578bc7F725428CEcb612A502E604f42",
+  "research": null,
+  "symbol": "BATG",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

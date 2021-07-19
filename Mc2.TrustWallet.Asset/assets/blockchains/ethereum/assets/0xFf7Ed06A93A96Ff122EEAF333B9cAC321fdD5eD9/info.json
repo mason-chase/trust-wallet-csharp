@@ -1,0 +1,18 @@
+{
+  "id": "0xFf7Ed06A93A96Ff122EEAF333B9cAC321fdD5eD9",
+  "address": "0xFf7Ed06A93A96Ff122EEAF333B9cAC321fdD5eD9",
+  "blockchain": "ethereum",
+  "name": "SUREBANQA PERSONAL e-SHARE",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xFf7Ed06A93A96Ff122EEAF333B9cAC321fdD5eD9",
+  "research": null,
+  "symbol": "ST20",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

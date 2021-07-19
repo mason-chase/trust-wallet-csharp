@@ -1,0 +1,18 @@
+{
+  "id": "0x58FFeCe158216D694d33b1ca1A31b6E539D95523",
+  "address": "0x58FFeCe158216D694d33b1ca1A31b6E539D95523",
+  "blockchain": "ethereum",
+  "name": "CIXCA",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x58FFeCe158216D694d33b1ca1A31b6E539D95523",
+  "research": null,
+  "symbol": "CAX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

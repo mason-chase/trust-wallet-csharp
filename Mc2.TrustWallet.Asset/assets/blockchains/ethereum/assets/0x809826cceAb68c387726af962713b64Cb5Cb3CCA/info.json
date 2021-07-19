@@ -1,0 +1,18 @@
+{
+  "id": "0x809826cceAb68c387726af962713b64Cb5Cb3CCA",
+  "address": "0x809826cceAb68c387726af962713b64Cb5Cb3CCA",
+  "blockchain": "ethereum",
+  "name": "NucleusVision",
+  "website": "https://nucleus.vision",
+  "description": "Our mission is to connect the unconnected, so brick and mortar stores business can access previously unavailable insights.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x809826cceAb68c387726af962713b64Cb5Cb3CCA",
+  "research": null,
+  "symbol": "nCash",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "TUH4wj8tox7sVxvkTqHLogn6mRVKfrK71M",
+  "address": "TUH4wj8tox7sVxvkTqHLogn6mRVKfrK71M",
+  "blockchain": "tron",
+  "name": "Happiness",
+  "website": "https://way2happiness.info/",
+  "description": "Happiness",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TUH4wj8tox7sVxvkTqHLogn6mRVKfrK71M",
+  "research": null,
+  "symbol": "HPNS",
+  "type": "TRC20",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

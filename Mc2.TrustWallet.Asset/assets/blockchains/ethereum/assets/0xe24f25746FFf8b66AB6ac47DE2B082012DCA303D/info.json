@@ -1,0 +1,18 @@
+{
+  "id": "0xe24f25746FFf8b66AB6ac47DE2B082012DCA303D",
+  "address": "0xe24f25746FFf8b66AB6ac47DE2B082012DCA303D",
+  "blockchain": "ethereum",
+  "name": "Globo Token",
+  "website": "https://www.globocrypto.co",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe24f25746FFf8b66AB6ac47DE2B082012DCA303D",
+  "research": null,
+  "symbol": "GLO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

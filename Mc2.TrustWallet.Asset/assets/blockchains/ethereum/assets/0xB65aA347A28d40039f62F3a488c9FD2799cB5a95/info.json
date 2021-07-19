@@ -1,0 +1,23 @@
+{
+  "id": "0xB65aA347A28d40039f62F3a488c9FD2799cB5a95",
+  "address": "0xB65aA347A28d40039f62F3a488c9FD2799cB5a95",
+  "blockchain": "ethereum",
+  "name": "Void Reserve Currency",
+  "website": "http://vrc.surge.sh/",
+  "description": "Void Reserve Currency will provide staking rewards via an inverse funnel system. All transactions to the staking pool are taxed, and dividends paid to existing stakeholders.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB65aA347A28d40039f62F3a488c9FD2799cB5a95",
+  "research": null,
+  "symbol": "VRC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/voidreserve"
+    }
+  ],
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xb5A5F22694352C15B00323844aD545ABb2B11028",
+  "address": "0xb5A5F22694352C15B00323844aD545ABb2B11028",
+  "blockchain": "ethereum",
+  "name": "ICON",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb5A5F22694352C15B00323844aD545ABb2B11028",
+  "research": null,
+  "symbol": "ICX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

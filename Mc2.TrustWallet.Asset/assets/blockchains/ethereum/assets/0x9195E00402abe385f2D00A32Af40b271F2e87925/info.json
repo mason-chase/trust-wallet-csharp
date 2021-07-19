@@ -1,0 +1,18 @@
+{
+  "id": "0x9195E00402abe385f2D00A32Af40b271F2e87925",
+  "address": "0x9195E00402abe385f2D00A32Af40b271F2e87925",
+  "blockchain": "ethereum",
+  "name": "ETHEERA",
+  "website": "https://www.etheera.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9195E00402abe385f2D00A32Af40b271F2e87925",
+  "research": null,
+  "symbol": "ETA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

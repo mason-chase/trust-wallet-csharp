@@ -1,0 +1,18 @@
+{
+  "id": "0xbdeD3f7537E75D6c38C036a3A788A549AfdE12B1",
+  "address": "0xbdeD3f7537E75D6c38C036a3A788A549AfdE12B1",
+  "blockchain": "ethereum",
+  "name": "DCS TOKEN",
+  "website": "https://ico.dcsmarketcap.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xbdeD3f7537E75D6c38C036a3A788A549AfdE12B1",
+  "research": null,
+  "symbol": "DCS",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

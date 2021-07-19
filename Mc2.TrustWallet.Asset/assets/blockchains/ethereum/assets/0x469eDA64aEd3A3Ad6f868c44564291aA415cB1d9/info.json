@@ -1,0 +1,18 @@
+{
+  "id": "0x469eDA64aEd3A3Ad6f868c44564291aA415cB1d9",
+  "address": "0x469eDA64aEd3A3Ad6f868c44564291aA415cB1d9",
+  "blockchain": "ethereum",
+  "name": "FLUX",
+  "website": "https://damcrypto.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x469eDA64aEd3A3Ad6f868c44564291aA415cB1d9",
+  "research": null,
+  "symbol": "FLUX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

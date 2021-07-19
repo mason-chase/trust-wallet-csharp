@@ -1,0 +1,18 @@
+{
+  "id": "0x7a2cF566Ee773AcCeD9F4Ac48bC05c11b31900C2",
+  "address": "0x7a2cF566Ee773AcCeD9F4Ac48bC05c11b31900C2",
+  "blockchain": "ethereum",
+  "name": "Aether",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7a2cF566Ee773AcCeD9F4Ac48bC05c11b31900C2",
+  "research": null,
+  "symbol": "AETH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x00763473e9d7c82f38Ed843F021e2558D7422AD8",
+  "address": "0x00763473e9d7c82f38Ed843F021e2558D7422AD8",
+  "blockchain": "ethereum",
+  "name": "Ducat",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x00763473e9d7c82f38Ed843F021e2558D7422AD8",
+  "research": null,
+  "symbol": "DUCAT",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

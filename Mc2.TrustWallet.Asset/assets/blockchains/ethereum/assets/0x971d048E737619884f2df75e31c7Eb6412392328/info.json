@@ -1,0 +1,18 @@
+{
+  "id": "0x971d048E737619884f2df75e31c7Eb6412392328",
+  "address": "0x971d048E737619884f2df75e31c7Eb6412392328",
+  "blockchain": "ethereum",
+  "name": "Sparkster",
+  "website": "https://sparkster.me/",
+  "description": "Sparkster aims to become the world's most powerful decentralized cloud. It aims to enable users to build software without any knowledge of programming or blockchain architecture.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x971d048E737619884f2df75e31c7Eb6412392328",
+  "research": null,
+  "symbol": "SPRK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

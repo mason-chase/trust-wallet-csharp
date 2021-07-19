@@ -1,0 +1,18 @@
+{
+  "id": "0x9d9223436dDD466FC247e9dbbD20207e640fEf58",
+  "address": "0x9d9223436dDD466FC247e9dbbD20207e640fEf58",
+  "blockchain": "ethereum",
+  "name": "Olive",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9d9223436dDD466FC247e9dbbD20207e640fEf58",
+  "research": null,
+  "symbol": "OLE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x17Aa18A4B64A55aBEd7FA543F2Ba4E91f2dcE482",
+  "address": "0x17Aa18A4B64A55aBEd7FA543F2Ba4E91f2dcE482",
+  "blockchain": "ethereum",
+  "name": "Insight Chain",
+  "website": "http://www.insightchain.io",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x17Aa18A4B64A55aBEd7FA543F2Ba4E91f2dcE482",
+  "research": null,
+  "symbol": "INB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

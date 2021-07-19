@@ -1,0 +1,18 @@
+{
+  "id": "0xE3d208D74e4C167245913C942df8C4Ee03b9abBA",
+  "address": "0xE3d208D74e4C167245913C942df8C4Ee03b9abBA",
+  "blockchain": "ethereum",
+  "name": "Hydra",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE3d208D74e4C167245913C942df8C4Ee03b9abBA",
+  "research": null,
+  "symbol": "HDA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

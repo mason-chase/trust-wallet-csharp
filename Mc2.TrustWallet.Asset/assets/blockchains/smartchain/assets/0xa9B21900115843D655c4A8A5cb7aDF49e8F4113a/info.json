@@ -1,0 +1,18 @@
+{
+  "id": "0xa9B21900115843D655c4A8A5cb7aDF49e8F4113a",
+  "address": "0xa9B21900115843D655c4A8A5cb7aDF49e8F4113a",
+  "blockchain": "smartchain",
+  "name": "Rotomoon",
+  "website": "https://rotomoon.app/",
+  "description": "Rotomoon is a token from Binance Smart Chain",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xa9B21900115843D655c4A8A5cb7aDF49e8F4113a",
+  "research": null,
+  "symbol": "ROTO",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

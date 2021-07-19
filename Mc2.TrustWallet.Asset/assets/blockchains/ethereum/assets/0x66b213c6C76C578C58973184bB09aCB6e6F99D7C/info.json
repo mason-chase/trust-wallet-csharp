@@ -1,0 +1,18 @@
+{
+  "id": "0x66b213c6C76C578C58973184bB09aCB6e6F99D7C",
+  "address": "0x66b213c6C76C578C58973184bB09aCB6e6F99D7C",
+  "blockchain": "ethereum",
+  "name": "Defi Solution Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x66b213c6C76C578C58973184bB09aCB6e6F99D7C",
+  "research": null,
+  "symbol": "DST",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

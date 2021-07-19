@@ -1,0 +1,18 @@
+{
+  "id": "0x2B757fa0630a4d1f9B01a3765E8fb00ee80a85DD",
+  "address": "0x2B757fa0630a4d1f9B01a3765E8fb00ee80a85DD",
+  "blockchain": "ethereum",
+  "name": "MKIMG1-30/30M60",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2B757fa0630a4d1f9B01a3765E8fb00ee80a85DD",
+  "research": null,
+  "symbol": "M",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

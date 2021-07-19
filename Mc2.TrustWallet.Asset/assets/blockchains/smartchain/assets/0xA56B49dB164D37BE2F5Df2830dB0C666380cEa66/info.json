@@ -1,0 +1,18 @@
+{
+  "id": "0xA56B49dB164D37BE2F5Df2830dB0C666380cEa66",
+  "address": "0xA56B49dB164D37BE2F5Df2830dB0C666380cEa66",
+  "blockchain": "smartchain",
+  "name": "PUGDOG INU",
+  "website": "https://pugdoginu.com/",
+  "description": "PUGDOG A community-driven decentralized rewarding network Fully decentralized and Community own, Zero Dev token.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xa56b49db164d37be2f5df2830db0c666380cea66",
+  "research": null,
+  "symbol": "PUGDOG",
+  "type": "BEP20",
+  "decimals": 0,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x98626E2C9231f03504273d55f397409deFD4a093",
+  "address": "0x98626E2C9231f03504273d55f397409deFD4a093",
+  "blockchain": "ethereum",
+  "name": "Dev",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x98626E2C9231f03504273d55f397409deFD4a093",
+  "research": null,
+  "symbol": "DEV",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

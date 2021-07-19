@@ -1,0 +1,18 @@
+{
+  "id": "0x58c69ed6cd6887c0225D1FcCEcC055127843c69b",
+  "address": "0x58c69ed6cd6887c0225D1FcCEcC055127843c69b",
+  "blockchain": "ethereum",
+  "name": "HalalChain",
+  "website": "http://www.hlc.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x58c69ed6cd6887c0225D1FcCEcC055127843c69b",
+  "research": null,
+  "symbol": "HLC",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

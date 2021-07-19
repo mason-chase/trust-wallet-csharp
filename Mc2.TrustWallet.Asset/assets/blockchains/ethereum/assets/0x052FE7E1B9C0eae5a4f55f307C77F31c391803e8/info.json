@@ -1,0 +1,18 @@
+{
+  "id": "0x052FE7E1B9C0eae5a4f55f307C77F31c391803e8",
+  "address": "0x052FE7E1B9C0eae5a4f55f307C77F31c391803e8",
+  "blockchain": "ethereum",
+  "name": "MOVEX Dollar",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x052FE7E1B9C0eae5a4f55f307C77F31c391803e8",
+  "research": null,
+  "symbol": "MUSD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

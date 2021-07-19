@@ -1,0 +1,18 @@
+{
+  "id": "0xD1c10d433C888E6d1841fF924d0CE45157f0d5Cd",
+  "address": "0xD1c10d433C888E6d1841fF924d0CE45157f0d5Cd",
+  "blockchain": "classic",
+  "name": "BitUnits",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://blockscout.com/etc/mainnet/tokens/0xD1c10d433C888E6d1841fF924d0CE45157f0d5Cd",
+  "research": null,
+  "symbol": "UNITS",
+  "type": "ETC20",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

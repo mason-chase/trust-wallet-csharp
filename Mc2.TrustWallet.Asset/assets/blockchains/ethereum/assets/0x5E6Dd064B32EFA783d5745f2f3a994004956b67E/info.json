@@ -1,0 +1,18 @@
+{
+  "id": "0x5E6Dd064B32EFA783d5745f2f3a994004956b67E",
+  "address": "0x5E6Dd064B32EFA783d5745f2f3a994004956b67E",
+  "blockchain": "ethereum",
+  "name": "Accommodation",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5E6Dd064B32EFA783d5745f2f3a994004956b67E",
+  "research": null,
+  "symbol": "ACCO",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

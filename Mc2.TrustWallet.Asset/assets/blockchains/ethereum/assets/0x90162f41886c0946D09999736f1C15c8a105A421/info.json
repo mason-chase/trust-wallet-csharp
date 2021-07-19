@@ -1,0 +1,18 @@
+{
+  "id": "0x90162f41886c0946D09999736f1C15c8a105A421",
+  "address": "0x90162f41886c0946D09999736f1C15c8a105A421",
+  "blockchain": "ethereum",
+  "name": "Fan Token",
+  "website": "https://tokensale.fanfare.global",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x90162f41886c0946D09999736f1C15c8a105A421",
+  "research": null,
+  "symbol": "FAN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

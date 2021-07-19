@@ -1,0 +1,18 @@
+{
+  "id": "0xc73f2474001aD1D6aEd615aF53631148CF98dE6b",
+  "address": "0xc73f2474001aD1D6aEd615aF53631148CF98dE6b",
+  "blockchain": "ethereum",
+  "name": "Billionaire Ambition",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc73f2474001aD1D6aEd615aF53631148CF98dE6b",
+  "research": null,
+  "symbol": "BAR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

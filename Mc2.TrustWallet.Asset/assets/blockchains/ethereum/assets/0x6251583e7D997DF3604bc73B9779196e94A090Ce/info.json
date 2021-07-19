@@ -1,0 +1,18 @@
+{
+  "id": "0x6251583e7D997DF3604bc73B9779196e94A090Ce",
+  "address": "0x6251583e7D997DF3604bc73B9779196e94A090Ce",
+  "blockchain": "ethereum",
+  "name": "Hercules",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6251583e7D997DF3604bc73B9779196e94A090Ce",
+  "research": null,
+  "symbol": "HERC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

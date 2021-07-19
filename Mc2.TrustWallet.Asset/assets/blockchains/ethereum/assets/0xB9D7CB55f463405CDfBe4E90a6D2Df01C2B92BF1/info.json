@@ -1,0 +1,18 @@
+{
+  "id": "0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1",
+  "address": "0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1",
+  "blockchain": "ethereum",
+  "name": "Aave UNI",
+  "website": "https://aave.com",
+  "description": "Aave UNI is an interest bearing token pegged 1:1 to the underlying UNI deposited in Aave. aUNI accrue interest in real time in your wallet.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1",
+  "research": null,
+  "symbol": "aUNI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

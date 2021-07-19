@@ -1,0 +1,18 @@
+{
+  "id": "0x919D3a363776B1ceec9352610c82dfaf80Edc32d",
+  "address": "0x919D3a363776B1ceec9352610c82dfaf80Edc32d",
+  "blockchain": "ethereum",
+  "name": "GoldFund",
+  "website": "http://www.goldfund.io/",
+  "description": " is a cryptocurrency and operates on the Ethereum platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x919D3a363776B1ceec9352610c82dfaf80Edc32d",
+  "research": null,
+  "symbol": "GFUN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

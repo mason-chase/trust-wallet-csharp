@@ -1,0 +1,18 @@
+{
+  "id": "0x6aD422DD6035AdC3Fb222334db9c14ED679F5b45",
+  "address": "0x6aD422DD6035AdC3Fb222334db9c14ED679F5b45",
+  "blockchain": "ethereum",
+  "name": "Interstellar Credits",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6aD422DD6035AdC3Fb222334db9c14ED679F5b45",
+  "research": null,
+  "symbol": "ISC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

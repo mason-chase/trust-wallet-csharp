@@ -1,0 +1,18 @@
+{
+  "id": "0x7FCE2856899a6806eeEf70807985fc7554C66340",
+  "address": "0x7FCE2856899a6806eeEf70807985fc7554C66340",
+  "blockchain": "ethereum",
+  "name": "CLP Token",
+  "website": "https://cryptolending.org/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7FCE2856899a6806eeEf70807985fc7554C66340",
+  "research": null,
+  "symbol": "CLP",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

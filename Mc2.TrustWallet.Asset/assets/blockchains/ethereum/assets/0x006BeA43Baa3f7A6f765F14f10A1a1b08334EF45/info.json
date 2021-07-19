@@ -1,0 +1,18 @@
+{
+  "id": "0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45",
+  "address": "0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45",
+  "blockchain": "ethereum",
+  "name": "Stox",
+  "website": "https://www.stox.com/en",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45",
+  "research": null,
+  "symbol": "STX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

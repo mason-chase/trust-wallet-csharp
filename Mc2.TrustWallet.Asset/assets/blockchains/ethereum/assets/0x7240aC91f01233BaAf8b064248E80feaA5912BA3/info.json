@@ -1,0 +1,23 @@
+{
+  "id": "0x7240aC91f01233BaAf8b064248E80feaA5912BA3",
+  "address": "0x7240aC91f01233BaAf8b064248E80feaA5912BA3",
+  "blockchain": "ethereum",
+  "name": "OctoFi",
+  "website": "https://octo.fi",
+  "description": "Decentralized finance tentacles",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7240aC91f01233BaAf8b064248E80feaA5912BA3",
+  "research": null,
+  "symbol": "OCTO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/octofi"
+    }
+  ],
+  "tags": null
+}

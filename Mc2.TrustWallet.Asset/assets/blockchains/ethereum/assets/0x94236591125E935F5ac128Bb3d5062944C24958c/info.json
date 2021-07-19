@@ -1,0 +1,18 @@
+{
+  "id": "0x94236591125E935F5ac128Bb3d5062944C24958c",
+  "address": "0x94236591125E935F5ac128Bb3d5062944C24958c",
+  "blockchain": "ethereum",
+  "name": "VegaWallet",
+  "website": "https://vegawallet.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x94236591125E935F5ac128Bb3d5062944C24958c",
+  "research": null,
+  "symbol": "VGW",
+  "type": "ERC20",
+  "decimals": 5,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

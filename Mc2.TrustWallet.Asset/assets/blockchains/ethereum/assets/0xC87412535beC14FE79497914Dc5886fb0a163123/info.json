@@ -1,0 +1,18 @@
+{
+  "id": "0xC87412535beC14FE79497914Dc5886fb0a163123",
+  "address": "0xC87412535beC14FE79497914Dc5886fb0a163123",
+  "blockchain": "ethereum",
+  "name": "Bright Dream X",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xC87412535beC14FE79497914Dc5886fb0a163123",
+  "research": null,
+  "symbol": "BDX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

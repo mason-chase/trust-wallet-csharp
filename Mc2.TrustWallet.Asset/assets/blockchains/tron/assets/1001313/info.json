@@ -1,0 +1,18 @@
+{
+  "id": "1001313",
+  "address": "1001313",
+  "blockchain": "tron",
+  "name": "CryptoGuyInZA",
+  "website": "https://www.cryptoguyinza.co.za",
+  "description": "Crypto Guy In South Africa (CryptoGuyInZA) is a Cryptocurrency Enthusiast in South Africa that has been elected as a Tron Super Representative by the community.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token/1001313",
+  "research": null,
+  "symbol": "CGIZA",
+  "type": "TRC10",
+  "decimals": 0,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

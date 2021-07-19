@@ -1,0 +1,18 @@
+{
+  "id": "0xCcc85AA8999505d6f886A32da4a107BBe0D1dE9E",
+  "address": "0xCcc85AA8999505d6f886A32da4a107BBe0D1dE9E",
+  "blockchain": "ethereum",
+  "name": "REPE",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xCcc85AA8999505d6f886A32da4a107BBe0D1dE9E",
+  "research": null,
+  "symbol": "RPE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xB313C71b20CE054C6224d403387aC2536c0b954e",
+  "address": "0xB313C71b20CE054C6224d403387aC2536c0b954e",
+  "blockchain": "ethereum",
+  "name": "1VIBE",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB313C71b20CE054C6224d403387aC2536c0b954e",
+  "research": null,
+  "symbol": "1VIBE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

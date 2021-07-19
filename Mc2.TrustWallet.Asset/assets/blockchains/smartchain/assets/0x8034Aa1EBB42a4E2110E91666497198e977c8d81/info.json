@@ -1,0 +1,18 @@
+{
+  "id": "0x8034Aa1EBB42a4E2110E91666497198e977c8d81",
+  "address": "0x8034Aa1EBB42a4E2110E91666497198e977c8d81",
+  "blockchain": "smartchain",
+  "name": "1Million",
+  "website": "http://onemillion.capital",
+  "description": "At one million dollar coin you are more than just an investor. You’re an owner.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x8034Aa1EBB42a4E2110E91666497198e977c8d81",
+  "research": null,
+  "symbol": "MLN",
+  "type": "BEP20",
+  "decimals": 4,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

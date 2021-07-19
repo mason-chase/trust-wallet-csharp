@@ -1,0 +1,18 @@
+{
+  "id": "0x001Fc4a7f2f586596308091c7B296D4535A25a90",
+  "address": "0x001Fc4a7f2f586596308091c7B296D4535A25a90",
+  "blockchain": "ethereum",
+  "name": "Hubscop",
+  "website": "https://hubscop.com/",
+  "description": "Hubscop is a peer to peer networking system for delivering and marketing contents in a fair and ethical manner.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x001Fc4a7f2f586596308091c7B296D4535A25a90",
+  "research": null,
+  "symbol": "HUBS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

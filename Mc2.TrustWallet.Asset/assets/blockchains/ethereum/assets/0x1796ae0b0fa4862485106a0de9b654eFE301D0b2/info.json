@@ -1,0 +1,18 @@
+{
+  "id": "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2",
+  "address": "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2",
+  "blockchain": "ethereum",
+  "name": "Polkamon",
+  "website": "https://polkamon.com",
+  "description": "Polkamon are beautifully animated digital collectibles with varying scarcities. Each Polkamon is backed by a truly unique NFT and can be unpacked with $PMON tokens.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1796ae0b0fa4862485106a0de9b654eFE301D0b2",
+  "research": null,
+  "symbol": "PMON",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

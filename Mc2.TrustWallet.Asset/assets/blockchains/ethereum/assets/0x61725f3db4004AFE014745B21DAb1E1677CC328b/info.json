@@ -1,0 +1,18 @@
+{
+  "id": "0x61725f3db4004AFE014745B21DAb1E1677CC328b",
+  "address": "0x61725f3db4004AFE014745B21DAb1E1677CC328b",
+  "blockchain": "ethereum",
+  "name": "Digital Asset Exchange Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x61725f3db4004AFE014745B21DAb1E1677CC328b",
+  "research": null,
+  "symbol": "DAXT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xE5f7ef61443Fc36AE040650aa585B0395AEf77c8",
+  "address": "0xE5f7ef61443Fc36AE040650aa585B0395AEf77c8",
+  "blockchain": "ethereum",
+  "name": "RealToken 9943 Marlowe Street Detroit MI",
+  "website": "https://realt.co/product/9943-marlowe-st-detroit-mi-48227",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE5f7ef61443Fc36AE040650aa585B0395AEf77c8",
+  "research": null,
+  "symbol": "REALTOKEN-9943-MARLOWE-ST-DETROIT-MI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

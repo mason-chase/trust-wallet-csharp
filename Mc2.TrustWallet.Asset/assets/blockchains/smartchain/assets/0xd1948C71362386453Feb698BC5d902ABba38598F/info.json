@@ -1,0 +1,18 @@
+{
+  "id": "0xd1948C71362386453Feb698BC5d902ABba38598F",
+  "address": "0xd1948C71362386453Feb698BC5d902ABba38598F",
+  "blockchain": "smartchain",
+  "name": "UniDoge",
+  "website": "http://unidoge.org",
+  "description": "100% OF MERCH /DONATIONS TO  yield COLLABORATIVE.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xd1948C71362386453Feb698BC5d902ABba38598F",
+  "research": null,
+  "symbol": "UDOGE",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

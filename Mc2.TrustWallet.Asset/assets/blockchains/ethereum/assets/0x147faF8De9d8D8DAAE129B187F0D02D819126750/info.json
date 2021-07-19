@@ -1,0 +1,23 @@
+{
+  "id": "0x147faF8De9d8D8DAAE129B187F0D02D819126750",
+  "address": "0x147faF8De9d8D8DAAE129B187F0D02D819126750",
+  "blockchain": "ethereum",
+  "name": "GeoDB Coin",
+  "website": "https://geodb.com",
+  "description": "The GEO token is the representation of data value itself, in the form of a tradable virtual asset.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x147faF8De9d8D8DAAE129B187F0D02D819126750",
+  "research": null,
+  "symbol": "GEO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "white_paper",
+      "url": "https://geodb.com/docs/geodb-white-paper.pdf"
+    }
+  ],
+  "tags": null
+}

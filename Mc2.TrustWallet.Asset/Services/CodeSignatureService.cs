@@ -35,7 +35,7 @@ namespace Mc2.TrustWallet.Asset.Services
             string signatureJson = File.ReadAllText($"{DataPath}{Ds}{LOGO_HASHES_JSON}");
             Dictionary<string, string> logoHashes = JsonConvert.DeserializeObject<Dictionary<string, string>>(signatureJson);
             if (logoHashes is null)
-                logoHashes = new() { };
+                logoHashes = new Dictionary<string, string>() { };
 
             return logoHashes;
         }
@@ -44,18 +44,6 @@ namespace Mc2.TrustWallet.Asset.Services
         {
             string logoHashes = JsonConvert.SerializeObject(logoHashesString.OrderBy(key => key.Key), Formatting.Indented);
             File.WriteAllText($"{LogoPath}{Ds}{LOGO_HASHES_JSON}", logoHashes);
-        }
-
-        public static void SaveAssetsJson(IDictionary<string, AssetBase> assets)
-        {
-
-            foreach(KeyValuePair<string, AssetBase> pair in assets)
-            {
-                string assetsJson = JsonConvert.SerializeObject(assets, Formatting.Indented);
-                File.WriteAllText($"{AssetsJsonPath}{Ds}{pair.Value.Symbol}.json", assetsJson);
-            }
-
-            // Todo: Delete unused files
         }
     }
 

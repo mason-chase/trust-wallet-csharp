@@ -1,0 +1,18 @@
+{
+  "id": "0x221FD3FAFfd3cCab2369ffD6A24c7845674787C6",
+  "address": "0x221FD3FAFfd3cCab2369ffD6A24c7845674787C6",
+  "blockchain": "smartchain",
+  "name": "Galaxium Phoenix",
+  "website": "https://www.galaxiumphoenix.com",
+  "description": "Galaxium Phoenix is a community driven DeFi Token. Price is determined on Reflection and Liquidity Pool acquisition.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x221FD3FAFfd3cCab2369ffD6A24c7845674787C6",
+  "research": null,
+  "symbol": "GMPX",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

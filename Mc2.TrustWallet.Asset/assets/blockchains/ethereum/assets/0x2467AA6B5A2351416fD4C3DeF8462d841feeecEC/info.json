@@ -1,0 +1,18 @@
+{
+  "id": "0x2467AA6B5A2351416fD4C3DeF8462d841feeecEC",
+  "address": "0x2467AA6B5A2351416fD4C3DeF8462d841feeecEC",
+  "blockchain": "ethereum",
+  "name": "qiibeeToken",
+  "website": "https://qiibee.com/",
+  "description": "The global standard for loyalty on the blockchain. With qiibee, businesses around the world can run their loyalty programs on the blockchain.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2467AA6B5A2351416fD4C3DeF8462d841feeecEC",
+  "research": null,
+  "symbol": "QBX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

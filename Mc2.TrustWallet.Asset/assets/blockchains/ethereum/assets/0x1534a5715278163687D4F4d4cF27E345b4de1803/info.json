@@ -1,0 +1,18 @@
+{
+  "id": "0x1534a5715278163687D4F4d4cF27E345b4de1803",
+  "address": "0x1534a5715278163687D4F4d4cF27E345b4de1803",
+  "blockchain": "ethereum",
+  "name": "Network Foundation",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1534a5715278163687D4F4d4cF27E345b4de1803",
+  "research": null,
+  "symbol": "NWF",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

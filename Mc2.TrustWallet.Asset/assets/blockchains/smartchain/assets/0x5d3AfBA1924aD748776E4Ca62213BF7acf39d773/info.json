@@ -1,0 +1,18 @@
+{
+  "id": "0x5d3AfBA1924aD748776E4Ca62213BF7acf39d773",
+  "address": "0x5d3AfBA1924aD748776E4Ca62213BF7acf39d773",
+  "blockchain": "smartchain",
+  "name": "KIWIGO",
+  "website": "https://kiwigo.app",
+  "description": "KGO is the Token of Kiwigo.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x5d3afba1924ad748776e4ca62213bf7acf39d773",
+  "research": "https://www.kiwigo.app/kgo-kiwigo-crypto-currency/",
+  "symbol": "KGO",
+  "type": "BEP20",
+  "decimals": 5,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

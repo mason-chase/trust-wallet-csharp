@@ -1,0 +1,18 @@
+{
+  "id": "0x4E6c39b0ebf11eB720b77Ac18Dc30476aedaAe6A",
+  "address": "0x4E6c39b0ebf11eB720b77Ac18Dc30476aedaAe6A",
+  "blockchain": "ethereum",
+  "name": "CGS Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4E6c39b0ebf11eB720b77Ac18Dc30476aedaAe6A",
+  "research": null,
+  "symbol": "CGS",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

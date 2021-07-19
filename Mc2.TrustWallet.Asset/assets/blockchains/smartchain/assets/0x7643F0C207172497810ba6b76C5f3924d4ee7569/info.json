@@ -1,0 +1,18 @@
+{
+  "id": "0x7643F0C207172497810ba6b76C5f3924d4ee7569",
+  "address": "0x7643F0C207172497810ba6b76C5f3924d4ee7569",
+  "blockchain": "smartchain",
+  "name": "What Do You Meme Token",
+  "website": "https://whatdoyoumemetoken.com/",
+  "description": "Whatdoyoumemetoken is taking a stab at all these bullshit tokens in the BEP20 Smart Chain we’ve seen it from the beginning and we are here to bring you a no bullshit token. Guaranteed.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x7643F0C207172497810ba6b76C5f3924d4ee7569",
+  "research": null,
+  "symbol": "WDYMEME",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

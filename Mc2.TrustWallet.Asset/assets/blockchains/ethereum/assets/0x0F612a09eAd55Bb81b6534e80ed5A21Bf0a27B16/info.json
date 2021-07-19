@@ -1,0 +1,18 @@
+{
+  "id": "0x0F612a09eAd55Bb81b6534e80ed5A21Bf0a27B16",
+  "address": "0x0F612a09eAd55Bb81b6534e80ed5A21Bf0a27B16",
+  "blockchain": "ethereum",
+  "name": "EUNOMIA",
+  "website": "https://ent.zone/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0F612a09eAd55Bb81b6534e80ed5A21Bf0a27B16",
+  "research": null,
+  "symbol": "ENTS",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

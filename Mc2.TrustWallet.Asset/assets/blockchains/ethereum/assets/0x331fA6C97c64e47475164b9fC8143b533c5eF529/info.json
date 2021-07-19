@@ -1,0 +1,18 @@
+{
+  "id": "0x331fA6C97c64e47475164b9fC8143b533c5eF529",
+  "address": "0x331fA6C97c64e47475164b9fC8143b533c5eF529",
+  "blockchain": "ethereum",
+  "name": "EXMR FDN.",
+  "website": "https://exmrfoundation.org",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x331fA6C97c64e47475164b9fC8143b533c5eF529",
+  "research": null,
+  "symbol": "EXMR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xBA0aEe6868CAf469b6EA99fdc13877b81f8b9440",
+  "address": "0xBA0aEe6868CAf469b6EA99fdc13877b81f8b9440",
+  "blockchain": "smartchain",
+  "name": "Spider Swap",
+  "website": "https://www.spiderswap.in",
+  "description": "Spider is more then just a community token.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xBA0aEe6868CAf469b6EA99fdc13877b81f8b9440",
+  "research": null,
+  "symbol": "SPIDER",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

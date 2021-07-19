@@ -1,0 +1,18 @@
+{
+  "id": "0x931A7ca74e35f35a46881A4f968d5fBD095a0279",
+  "address": "0x931A7ca74e35f35a46881A4f968d5fBD095a0279",
+  "blockchain": "ethereum",
+  "name": "FailToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x931A7ca74e35f35a46881A4f968d5fBD095a0279",
+  "research": null,
+  "symbol": "FAIL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x64921aCb8Fc1B54D7F774788A405b7cF1864CBFf",
+  "address": "0x64921aCb8Fc1B54D7F774788A405b7cF1864CBFf",
+  "blockchain": "ethereum",
+  "name": "AFRICAN DIGITAL CURRENCY",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x64921aCb8Fc1B54D7F774788A405b7cF1864CBFf",
+  "research": null,
+  "symbol": "ADC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

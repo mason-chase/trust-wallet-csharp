@@ -1,0 +1,18 @@
+{
+  "id": "0x141044ccC363d6E8D92dD8983422775913e304eC",
+  "address": "0x141044ccC363d6E8D92dD8983422775913e304eC",
+  "blockchain": "ethereum",
+  "name": "MinerOne",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x141044ccC363d6E8D92dD8983422775913e304eC",
+  "research": null,
+  "symbol": "MIO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x8aaFB952f6F3BE554aca3aC2Ba0506e20F2bDCD6",
+  "address": "0x8aaFB952f6F3BE554aca3aC2Ba0506e20F2bDCD6",
+  "blockchain": "ethereum",
+  "name": "cgturbo",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8aaFB952f6F3BE554aca3aC2Ba0506e20F2bDCD6",
+  "research": null,
+  "symbol": "BCG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

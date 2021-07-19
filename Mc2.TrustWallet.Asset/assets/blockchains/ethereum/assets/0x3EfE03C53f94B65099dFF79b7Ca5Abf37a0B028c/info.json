@@ -1,0 +1,18 @@
+{
+  "id": "0x3EfE03C53f94B65099dFF79b7Ca5Abf37a0B028c",
+  "address": "0x3EfE03C53f94B65099dFF79b7Ca5Abf37a0B028c",
+  "blockchain": "ethereum",
+  "name": "Finance",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3EfE03C53f94B65099dFF79b7Ca5Abf37a0B028c",
+  "research": null,
+  "symbol": "FI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x3C6A7aB47B5F058Be0e7C7fE1A4b7925B8aCA40e",
+  "address": "0x3C6A7aB47B5F058Be0e7C7fE1A4b7925B8aCA40e",
+  "blockchain": "ethereum",
+  "name": "Cajutel",
+  "website": "https://cajutel.io/",
+  "description": "Solar powered high speed internet for West Africa.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3C6A7aB47B5F058Be0e7C7fE1A4b7925B8aCA40e",
+  "research": null,
+  "symbol": "CAJ",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

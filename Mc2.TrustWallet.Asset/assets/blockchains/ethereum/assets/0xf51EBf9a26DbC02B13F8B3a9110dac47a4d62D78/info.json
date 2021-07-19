@@ -1,0 +1,18 @@
+{
+  "id": "0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78",
+  "address": "0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78",
+  "blockchain": "ethereum",
+  "name": "APIX",
+  "website": "https://apisplatform.io/",
+  "description": "APIS platform provides service to help effective node management and to deliver better access to Blockchain incentive system.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf51EBf9a26DbC02B13F8B3a9110dac47a4d62D78",
+  "research": null,
+  "symbol": "APIX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

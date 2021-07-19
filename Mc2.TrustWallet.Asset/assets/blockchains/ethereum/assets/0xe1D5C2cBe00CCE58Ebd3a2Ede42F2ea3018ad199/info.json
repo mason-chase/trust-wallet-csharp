@@ -1,0 +1,18 @@
+{
+  "id": "0xe1D5C2cBe00CCE58Ebd3a2Ede42F2ea3018ad199",
+  "address": "0xe1D5C2cBe00CCE58Ebd3a2Ede42F2ea3018ad199",
+  "blockchain": "ethereum",
+  "name": "BitWex",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe1D5C2cBe00CCE58Ebd3a2Ede42F2ea3018ad199",
+  "research": null,
+  "symbol": "BXW",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

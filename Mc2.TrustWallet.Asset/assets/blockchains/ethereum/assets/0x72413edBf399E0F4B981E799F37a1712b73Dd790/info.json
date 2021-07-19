@@ -1,0 +1,18 @@
+{
+  "id": "0x72413edBf399E0F4B981E799F37a1712b73Dd790",
+  "address": "0x72413edBf399E0F4B981E799F37a1712b73Dd790",
+  "blockchain": "ethereum",
+  "name": "DKG Dark Pool Chain",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x72413edBf399E0F4B981E799F37a1712b73Dd790",
+  "research": null,
+  "symbol": "DDPT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

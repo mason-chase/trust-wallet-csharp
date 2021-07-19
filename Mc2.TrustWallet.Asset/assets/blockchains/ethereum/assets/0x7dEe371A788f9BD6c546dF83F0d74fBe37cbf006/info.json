@@ -1,0 +1,18 @@
+{
+  "id": "0x7dEe371A788f9BD6c546dF83F0d74fBe37cbf006",
+  "address": "0x7dEe371A788f9BD6c546dF83F0d74fBe37cbf006",
+  "blockchain": "ethereum",
+  "name": "Teccoin",
+  "website": "https://teccoin.tech/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7dEe371A788f9BD6c546dF83F0d74fBe37cbf006",
+  "research": null,
+  "symbol": "Tecn",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xDC349913d53b446485E98b76800b6254f43Df695",
+  "address": "0xDC349913d53b446485E98b76800b6254f43Df695",
+  "blockchain": "ethereum",
+  "name": "Bezoge Earth",
+  "website": "http://www.bezoge.com/",
+  "description": "BEZOGE is developed to follow the footsteps of some of the best performing experimental coins and amalgamate their features into one coin.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xDC349913d53b446485E98b76800b6254f43Df695",
+  "research": null,
+  "symbol": "BEZOGE",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

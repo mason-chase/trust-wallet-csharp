@@ -1,0 +1,18 @@
+{
+  "id": "0x3916984fa787d89B648Ccd8d60B5ff07E0E8e4F4",
+  "address": "0x3916984fa787d89B648Ccd8d60B5ff07E0E8e4F4",
+  "blockchain": "smartchain",
+  "name": "PUBE Finance",
+  "website": "https://pube.finance",
+  "description": "PUBE is a community run project focused on helping the homeless and various cancer organizations.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x3916984fa787d89B648Ccd8d60B5ff07E0E8e4F4",
+  "research": null,
+  "symbol": "PUBE",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

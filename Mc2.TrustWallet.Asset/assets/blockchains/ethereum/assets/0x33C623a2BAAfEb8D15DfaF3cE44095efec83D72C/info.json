@@ -1,0 +1,18 @@
+{
+  "id": "0x33C623a2BAAfEb8D15DfaF3cE44095efec83D72C",
+  "address": "0x33C623a2BAAfEb8D15DfaF3cE44095efec83D72C",
+  "blockchain": "ethereum",
+  "name": "SGPay Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x33C623a2BAAfEb8D15DfaF3cE44095efec83D72C",
+  "research": null,
+  "symbol": "SGP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

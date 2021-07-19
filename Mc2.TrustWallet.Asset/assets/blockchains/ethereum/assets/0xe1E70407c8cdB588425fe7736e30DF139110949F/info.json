@@ -1,0 +1,18 @@
+{
+  "id": "0xe1E70407c8cdB588425fe7736e30DF139110949F",
+  "address": "0xe1E70407c8cdB588425fe7736e30DF139110949F",
+  "blockchain": "ethereum",
+  "name": "Bitcoin Protocol",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe1E70407c8cdB588425fe7736e30DF139110949F",
+  "research": null,
+  "symbol": "BTP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

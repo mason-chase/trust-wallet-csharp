@@ -1,0 +1,27 @@
+{
+  "id": "0xbe038A2FDfec62Cf1beD852f141A43005035edcC",
+  "address": "0xbe038A2FDfec62Cf1beD852f141A43005035edcC",
+  "blockchain": "ethereum",
+  "name": "Intchain",
+  "website": "https://intchain.io/",
+  "description": "INT is an INT Chain cross-chain asset based on Ethereum network, and INT Chain is a blockchain application platform and interactive standard based on the economic driving mode.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.intchain.io",
+  "research": null,
+  "symbol": "INT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/intfoundation/int"
+    },
+    {
+      "name": "white_paper",
+      "url": "https://intchain.io/whitepaper/INT-whitepaper-release-EN.pdf"
+    }
+  ],
+  "tags": null
+}

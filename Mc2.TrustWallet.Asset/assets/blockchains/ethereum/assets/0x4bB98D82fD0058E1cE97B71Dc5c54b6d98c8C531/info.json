@@ -1,0 +1,18 @@
+{
+  "id": "0x4bB98D82fD0058E1cE97B71Dc5c54b6d98c8C531",
+  "address": "0x4bB98D82fD0058E1cE97B71Dc5c54b6d98c8C531",
+  "blockchain": "ethereum",
+  "name": "XENIACOIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4bB98D82fD0058E1cE97B71Dc5c54b6d98c8C531",
+  "research": null,
+  "symbol": "XEN",
+  "type": "ERC20",
+  "decimals": 13,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

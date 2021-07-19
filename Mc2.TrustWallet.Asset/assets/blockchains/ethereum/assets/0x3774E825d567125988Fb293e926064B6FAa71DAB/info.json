@@ -1,0 +1,18 @@
+{
+  "id": "0x3774E825d567125988Fb293e926064B6FAa71DAB",
+  "address": "0x3774E825d567125988Fb293e926064B6FAa71DAB",
+  "blockchain": "ethereum",
+  "name": "Strike USDC",
+  "website": "https://strike.org",
+  "description": "Strike Finance collateral cryptocurrency",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3774E825d567125988Fb293e926064B6FAa71DAB",
+  "research": null,
+  "symbol": "sUSDC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x1a7918b6AFaA8D3321E49FCc64B02FD8be1225fa",
+  "address": "0x1a7918b6AFaA8D3321E49FCc64B02FD8be1225fa",
+  "blockchain": "ethereum",
+  "name": "TokenMarket Ltd. A shares",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1a7918b6AFaA8D3321E49FCc64B02FD8be1225fa",
+  "research": null,
+  "symbol": "TM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

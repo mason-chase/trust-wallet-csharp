@@ -1,0 +1,18 @@
+{
+  "id": "0xcD8544DefeDEc7c6b60b5a4232320365b1B21fCc",
+  "address": "0xcD8544DefeDEc7c6b60b5a4232320365b1B21fCc",
+  "blockchain": "ethereum",
+  "name": "GAPS",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xcD8544DefeDEc7c6b60b5a4232320365b1B21fCc",
+  "research": null,
+  "symbol": "GAP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

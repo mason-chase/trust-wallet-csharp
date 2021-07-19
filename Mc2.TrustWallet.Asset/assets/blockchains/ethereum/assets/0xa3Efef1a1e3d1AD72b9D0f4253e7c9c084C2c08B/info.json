@@ -1,0 +1,18 @@
+{
+  "id": "0xa3Efef1a1e3d1AD72b9D0f4253e7c9c084C2c08B",
+  "address": "0xa3Efef1a1e3d1AD72b9D0f4253e7c9c084C2c08B",
+  "blockchain": "ethereum",
+  "name": "Online.io",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa3Efef1a1e3d1AD72b9D0f4253e7c9c084C2c08B",
+  "research": null,
+  "symbol": "OIO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

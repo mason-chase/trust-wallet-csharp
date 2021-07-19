@@ -1,0 +1,18 @@
+{
+  "id": "0x1f8BDaD5f30EfFDf14c8da175349C7207Bb370f8",
+  "address": "0x1f8BDaD5f30EfFDf14c8da175349C7207Bb370f8",
+  "blockchain": "ethereum",
+  "name": "Fulcrum Perpetual Short LINK-DAI 4x v2",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1f8BDaD5f30EfFDf14c8da175349C7207Bb370f8",
+  "research": null,
+  "symbol": "dsLINK4x",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

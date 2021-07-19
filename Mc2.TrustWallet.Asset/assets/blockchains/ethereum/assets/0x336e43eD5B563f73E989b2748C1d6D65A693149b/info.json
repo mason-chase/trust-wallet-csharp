@@ -1,0 +1,18 @@
+{
+  "id": "0x336e43eD5B563f73E989b2748C1d6D65A693149b",
+  "address": "0x336e43eD5B563f73E989b2748C1d6D65A693149b",
+  "blockchain": "ethereum",
+  "name": "MASSCOIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x336e43eD5B563f73E989b2748C1d6D65A693149b",
+  "research": null,
+  "symbol": "MSC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

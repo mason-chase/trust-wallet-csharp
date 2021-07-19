@@ -1,0 +1,18 @@
+{
+  "id": "0x2b36968BF3c77253266Aa382562Fa3fdD7fa1667",
+  "address": "0x2b36968BF3c77253266Aa382562Fa3fdD7fa1667",
+  "blockchain": "ethereum",
+  "name": "MedicayunLink",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2b36968BF3c77253266Aa382562Fa3fdD7fa1667",
+  "research": null,
+  "symbol": "MCL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

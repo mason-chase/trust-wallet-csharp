@@ -1,0 +1,18 @@
+{
+  "id": "0xdB70949d01Dc647B973e865A570361c223dAf358",
+  "address": "0xdB70949d01Dc647B973e865A570361c223dAf358",
+  "blockchain": "ethereum",
+  "name": "BBG",
+  "website": "https://bigbingo.network/",
+  "description": "BigBingo is a leading AI platform and service provider dedicated to empowering business and people with AI.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xdB70949d01Dc647B973e865A570361c223dAf358",
+  "research": null,
+  "symbol": "BBG",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

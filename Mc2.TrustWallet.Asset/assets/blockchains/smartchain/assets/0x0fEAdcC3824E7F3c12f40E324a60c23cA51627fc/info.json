@@ -1,0 +1,18 @@
+{
+  "id": "0x0fEAdcC3824E7F3c12f40E324a60c23cA51627fc",
+  "address": "0x0fEAdcC3824E7F3c12f40E324a60c23cA51627fc",
+  "blockchain": "smartchain",
+  "name": "WardenSwap Token",
+  "website": "https://www.wardenswap.com",
+  "description": "WardenSwap is the digital asset exchange platform that uses an algorithm to find the best rate for Binance Smart Chain automatically.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x0feadcc3824e7f3c12f40e324a60c23ca51627fc",
+  "research": null,
+  "symbol": "WAD",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

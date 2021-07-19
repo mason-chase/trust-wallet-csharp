@@ -1,0 +1,18 @@
+{
+  "id": "0x5c4ac68aAc56eBe098D621Cd8CE9F43270Aaa355",
+  "address": "0x5c4ac68aAc56eBe098D621Cd8CE9F43270Aaa355",
+  "blockchain": "ethereum",
+  "name": "bXIOT",
+  "website": "https://xiotri.io",
+  "description": "bXIOT is the second token of the Xiotri platform, giving fair yields to everyone.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5c4ac68aAc56eBe098D621Cd8CE9F43270Aaa355",
+  "research": null,
+  "symbol": "bXIOT",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

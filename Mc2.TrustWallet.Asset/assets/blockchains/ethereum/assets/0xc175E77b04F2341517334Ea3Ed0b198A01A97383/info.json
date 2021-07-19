@@ -1,0 +1,18 @@
+{
+  "id": "0xc175E77b04F2341517334Ea3Ed0b198A01A97383",
+  "address": "0xc175E77b04F2341517334Ea3Ed0b198A01A97383",
+  "blockchain": "ethereum",
+  "name": "3X Long TRX Token",
+  "website": "https://ftx.com/tokens/TRXBULL",
+  "description": "3X Long TRX Token (TRXBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of TRON.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc175E77b04F2341517334Ea3Ed0b198A01A97383",
+  "research": null,
+  "symbol": "TRXBULL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

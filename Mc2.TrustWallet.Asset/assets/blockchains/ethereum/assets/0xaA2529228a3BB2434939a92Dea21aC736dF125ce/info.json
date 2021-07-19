@@ -1,0 +1,18 @@
+{
+  "id": "0xaA2529228a3BB2434939a92Dea21aC736dF125ce",
+  "address": "0xaA2529228a3BB2434939a92Dea21aC736dF125ce",
+  "blockchain": "ethereum",
+  "name": "World currency conference coin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xaA2529228a3BB2434939a92Dea21aC736dF125ce",
+  "research": null,
+  "symbol": "WCC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

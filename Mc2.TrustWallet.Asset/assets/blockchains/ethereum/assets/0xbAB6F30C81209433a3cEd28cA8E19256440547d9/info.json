@@ -1,0 +1,18 @@
+{
+  "id": "0xbAB6F30C81209433a3cEd28cA8E19256440547d9",
+  "address": "0xbAB6F30C81209433a3cEd28cA8E19256440547d9",
+  "blockchain": "ethereum",
+  "name": "Yu Gi Oh",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xbAB6F30C81209433a3cEd28cA8E19256440547d9",
+  "research": null,
+  "symbol": "YGO",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

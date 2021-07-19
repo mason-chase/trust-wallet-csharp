@@ -1,0 +1,18 @@
+{
+  "id": "0x8185Bc4757572Da2a610f887561c32298f1A5748",
+  "address": "0x8185Bc4757572Da2a610f887561c32298f1A5748",
+  "blockchain": "ethereum",
+  "name": "Aluna Token",
+  "website": "https://aluna.social",
+  "description": "Aluna Social - Multi-exchange Social Trading Terminal for Crypto Traders and Investors",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8185Bc4757572Da2a610f887561c32298f1A5748",
+  "research": null,
+  "symbol": "ALN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

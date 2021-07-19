@@ -1,0 +1,18 @@
+{
+  "id": "0xECC6724229E50Ac26F136132c2A462fAf63f720B",
+  "address": "0xECC6724229E50Ac26F136132c2A462fAf63f720B",
+  "blockchain": "ethereum",
+  "name": "LASVEGASCOIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xECC6724229E50Ac26F136132c2A462fAf63f720B",
+  "research": null,
+  "symbol": "VEGAS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x00006100F7090010005F1bd7aE6122c3C2CF0090",
+  "address": "0x00006100F7090010005F1bd7aE6122c3C2CF0090",
+  "blockchain": "ethereum",
+  "name": "TrueAUD",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x00006100F7090010005F1bd7aE6122c3C2CF0090",
+  "research": null,
+  "symbol": "TAUD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

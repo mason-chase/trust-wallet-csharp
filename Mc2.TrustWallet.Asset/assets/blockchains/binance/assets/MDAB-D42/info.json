@@ -1,0 +1,18 @@
+{
+  "id": "MDAB-D42",
+  "address": "MDAB-D42",
+  "blockchain": "binance",
+  "name": "MDAB",
+  "website": "https://blocplatform.com/",
+  "description": "Blockchain-based global fund investment and management platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/MDAB-D42",
+  "research": null,
+  "symbol": "MDAB",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

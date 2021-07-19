@@ -1,0 +1,18 @@
+{
+  "id": "0xae75116eaCb982b6CD08A567eBaFBb9e3718f123",
+  "address": "0xae75116eaCb982b6CD08A567eBaFBb9e3718f123",
+  "blockchain": "ethereum",
+  "name": "Eqwity Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xae75116eaCb982b6CD08A567eBaFBb9e3718f123",
+  "research": null,
+  "symbol": "EQY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

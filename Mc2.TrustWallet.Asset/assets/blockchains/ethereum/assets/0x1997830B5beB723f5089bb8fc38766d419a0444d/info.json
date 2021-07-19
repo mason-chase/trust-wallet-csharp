@@ -1,0 +1,18 @@
+{
+  "id": "0x1997830B5beB723f5089bb8fc38766d419a0444d",
+  "address": "0x1997830B5beB723f5089bb8fc38766d419a0444d",
+  "blockchain": "ethereum",
+  "name": "New Guinea Singing Dog Inu",
+  "website": "https://newinu.org",
+  "description": "NEWINU - The Dog Singer. NEWINU is a deflationary token that allows for passive income generation for investors",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1997830b5beb723f5089bb8fc38766d419a0444d",
+  "research": null,
+  "symbol": "NEWINU",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

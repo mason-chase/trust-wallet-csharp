@@ -1,0 +1,18 @@
+{
+  "id": "0x187D1018E8ef879BE4194d6eD7590987463eAD85",
+  "address": "0x187D1018E8ef879BE4194d6eD7590987463eAD85",
+  "blockchain": "ethereum",
+  "name": "FUZE Token",
+  "website": "https://fuzetoken.net",
+  "description": "FUZE Token, a fully community-driven social experiment and the world’s first self-deflationary currency with a supply of 1000 tokens and a 5% burn rate.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x187D1018E8ef879BE4194d6eD7590987463eAD85",
+  "research": null,
+  "symbol": "FUZE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

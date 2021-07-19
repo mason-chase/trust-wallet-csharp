@@ -1,0 +1,18 @@
+{
+  "id": "0x5b0CFFdB6E04992eBFe4748F6fD8FA868f216Fdb",
+  "address": "0x5b0CFFdB6E04992eBFe4748F6fD8FA868f216Fdb",
+  "blockchain": "ethereum",
+  "name": "CUBE",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5b0CFFdB6E04992eBFe4748F6fD8FA868f216Fdb",
+  "research": null,
+  "symbol": "CUBE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x4E12bf83FEf8b31Bb21C8D5BE809Db31D42e456D",
+  "address": "0x4E12bf83FEf8b31Bb21C8D5BE809Db31D42e456D",
+  "blockchain": "ethereum",
+  "name": "Inferno",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4E12bf83FEf8b31Bb21C8D5BE809Db31D42e456D",
+  "research": null,
+  "symbol": "BLAZE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

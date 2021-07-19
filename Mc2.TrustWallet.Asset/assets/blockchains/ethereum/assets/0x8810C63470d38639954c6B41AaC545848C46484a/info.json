@@ -1,0 +1,18 @@
+{
+  "id": "0x8810C63470d38639954c6B41AaC545848C46484a",
+  "address": "0x8810C63470d38639954c6B41AaC545848C46484a",
+  "blockchain": "ethereum",
+  "name": "Aditus",
+  "website": "http://www.aditus.net/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8810C63470d38639954c6B41AaC545848C46484a",
+  "research": null,
+  "symbol": "ADI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

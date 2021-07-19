@@ -1,0 +1,18 @@
+{
+  "id": "0xd1F1c5Ff90Fb6F3b0D57F5f6AD4AAF7400F4B39b",
+  "address": "0xd1F1c5Ff90Fb6F3b0D57F5f6AD4AAF7400F4B39b",
+  "blockchain": "ethereum",
+  "name": "EXtereum",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd1F1c5Ff90Fb6F3b0D57F5f6AD4AAF7400F4B39b",
+  "research": null,
+  "symbol": "EX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

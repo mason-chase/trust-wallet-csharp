@@ -1,0 +1,18 @@
+{
+  "id": "0x67ab11058eF23D0a19178f61A050D3c38F81Ae21",
+  "address": "0x67ab11058eF23D0a19178f61A050D3c38F81Ae21",
+  "blockchain": "ethereum",
+  "name": "SELF TOKEN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x67ab11058eF23D0a19178f61A050D3c38F81Ae21",
+  "research": null,
+  "symbol": "SELF",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

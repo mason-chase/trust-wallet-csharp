@@ -1,0 +1,18 @@
+{
+  "id": "0x8d94296e7E171A98b199eca7F511311DDE6A8DB6",
+  "address": "0x8d94296e7E171A98b199eca7F511311DDE6A8DB6",
+  "blockchain": "ethereum",
+  "name": "SquareX",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8d94296e7E171A98b199eca7F511311DDE6A8DB6",
+  "research": null,
+  "symbol": "SQX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xaff84e86d72EDb971341a6A66eb2dA209446FA14",
+  "address": "0xaff84e86d72EDb971341a6A66eb2dA209446FA14",
+  "blockchain": "ethereum",
+  "name": "TheCurrencyAnalytics",
+  "website": "https://thecurrencyanalytics.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xaff84e86d72EDb971341a6A66eb2dA209446FA14",
+  "research": null,
+  "symbol": "TCAT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

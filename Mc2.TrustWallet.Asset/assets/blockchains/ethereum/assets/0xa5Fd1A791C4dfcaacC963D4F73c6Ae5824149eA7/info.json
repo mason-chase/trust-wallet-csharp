@@ -1,0 +1,18 @@
+{
+  "id": "0xa5Fd1A791C4dfcaacC963D4F73c6Ae5824149eA7",
+  "address": "0xa5Fd1A791C4dfcaacC963D4F73c6Ae5824149eA7",
+  "blockchain": "ethereum",
+  "name": "Jibrel Network Token",
+  "website": "https://jibrel.network/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xa5Fd1A791C4dfcaacC963D4F73c6Ae5824149eA7",
+  "research": null,
+  "symbol": "JNT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

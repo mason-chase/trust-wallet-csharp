@@ -1,0 +1,39 @@
+{
+  "id": "0x224DB5E6180761df4C3d8936585f6b8b83879770",
+  "address": "0x224DB5E6180761df4C3d8936585f6b8b83879770",
+  "blockchain": "ethereum",
+  "name": "OM Lira",
+  "website": "https://omlira.com",
+  "description": "Kullanımı kolay kripto para",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x224db5e6180761df4c3d8936585f6b8b83879770",
+  "research": null,
+  "symbol": "OML",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/om_lira"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/MB75Bnc"
+    },
+    {
+      "name": "facebook",
+      "url": "https://facebook.com/omlira"
+    },
+    {
+      "name": "medium",
+      "url": "https://omlira.medium.com"
+    },
+    {
+      "name": "white_paper",
+      "url": "https://omlira.com/whitepaper.pdf"
+    }
+  ],
+  "tags": null
+}

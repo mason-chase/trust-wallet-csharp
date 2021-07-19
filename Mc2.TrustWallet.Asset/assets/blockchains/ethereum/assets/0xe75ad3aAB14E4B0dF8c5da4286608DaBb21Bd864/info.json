@@ -1,0 +1,18 @@
+{
+  "id": "0xe75ad3aAB14E4B0dF8c5da4286608DaBb21Bd864",
+  "address": "0xe75ad3aAB14E4B0dF8c5da4286608DaBb21Bd864",
+  "blockchain": "ethereum",
+  "name": "AcuteAngleCoin",
+  "website": "http://acuteangle.com",
+  "description": "Acute Angle Cloud (AAC) is a cryptocurrency and operates on the Ethereum platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe75ad3aAB14E4B0dF8c5da4286608DaBb21Bd864",
+  "research": null,
+  "symbol": "AAC",
+  "type": "ERC20",
+  "decimals": 5,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

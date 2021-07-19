@@ -1,0 +1,18 @@
+{
+  "id": "0xb525Ecee288B99216CD481C56b6EFbdbE9bF90b5",
+  "address": "0xb525Ecee288B99216CD481C56b6EFbdbE9bF90b5",
+  "blockchain": "ethereum",
+  "name": "Kuma Inu Token",
+  "website": "https://kumatoken.com",
+  "description": "Decentralized Meme Tokens that grew into a vibrant ecosystem.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb525Ecee288B99216CD481C56b6EFbdbE9bF90b5",
+  "research": null,
+  "symbol": "KUMA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x50fA6146E86deAd56bf9E8e4655DFc2b5235D355",
+  "address": "0x50fA6146E86deAd56bf9E8e4655DFc2b5235D355",
+  "blockchain": "classic",
+  "name": "Merainer",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://blockscout.com/etc/mainnet/tokens/0x50fA6146E86deAd56bf9E8e4655DFc2b5235D355",
+  "research": null,
+  "symbol": "MERG1",
+  "type": "ETC20",
+  "decimals": 0,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

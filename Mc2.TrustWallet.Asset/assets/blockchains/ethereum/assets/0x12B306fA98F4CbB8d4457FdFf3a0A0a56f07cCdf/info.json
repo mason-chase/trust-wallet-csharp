@@ -1,0 +1,18 @@
+{
+  "id": "0x12B306fA98F4CbB8d4457FdFf3a0A0a56f07cCdf",
+  "address": "0x12B306fA98F4CbB8d4457FdFf3a0A0a56f07cCdf",
+  "blockchain": "ethereum",
+  "name": "Spectre.ai D-Token",
+  "website": "http://www.spectre.ai/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x12B306fA98F4CbB8d4457FdFf3a0A0a56f07cCdf",
+  "research": null,
+  "symbol": "SXDT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

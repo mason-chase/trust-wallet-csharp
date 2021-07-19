@@ -1,0 +1,18 @@
+{
+  "id": "0x589891a198195061Cb8ad1a75357A3b7DbaDD7Bc",
+  "address": "0x589891a198195061Cb8ad1a75357A3b7DbaDD7Bc",
+  "blockchain": "ethereum",
+  "name": "Contentos",
+  "website": "https://www.contentos.io/",
+  "description": "The decentralized global ecosystem for digital content, where content can be freely produced, distributed and transacted, and where the value and rights will be returned to creators and contributors.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x589891a198195061Cb8ad1a75357A3b7DbaDD7Bc",
+  "research": null,
+  "symbol": "COS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

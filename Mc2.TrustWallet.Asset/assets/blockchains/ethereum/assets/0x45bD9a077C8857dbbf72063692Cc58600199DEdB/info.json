@@ -1,0 +1,18 @@
+{
+  "id": "0x45bD9a077C8857dbbf72063692Cc58600199DEdB",
+  "address": "0x45bD9a077C8857dbbf72063692Cc58600199DEdB",
+  "blockchain": "ethereum",
+  "name": "Favin Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x45bD9a077C8857dbbf72063692Cc58600199DEdB",
+  "research": null,
+  "symbol": "FAVE",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

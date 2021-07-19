@@ -1,0 +1,18 @@
+{
+  "id": "0xAD0A20715a7DF7aA0922B3791702F18254B660d9",
+  "address": "0xAD0A20715a7DF7aA0922B3791702F18254B660d9",
+  "blockchain": "ethereum",
+  "name": "Crypto Energy Token CRET",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xAD0A20715a7DF7aA0922B3791702F18254B660d9",
+  "research": null,
+  "symbol": "CRET",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x19fFfd124CD9089E21026d10dA97f8cD6B442Bff",
+  "address": "0x19fFfd124CD9089E21026d10dA97f8cD6B442Bff",
+  "blockchain": "ethereum",
+  "name": "Zuflo Coin",
+  "website": "https://www.zedxe.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x19fFfd124CD9089E21026d10dA97f8cD6B442Bff",
+  "research": null,
+  "symbol": "ZFL",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xCfFe0d26ad2f49D962059f73A6410F7638D4AA7c",
+  "address": "0xCfFe0d26ad2f49D962059f73A6410F7638D4AA7c",
+  "blockchain": "ethereum",
+  "name": "Reform Coin (الإصلاح عملة)",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xCfFe0d26ad2f49D962059f73A6410F7638D4AA7c",
+  "research": null,
+  "symbol": "ISLAH",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

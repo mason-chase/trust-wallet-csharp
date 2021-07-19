@@ -1,0 +1,18 @@
+{
+  "id": "0xb92f51CE4045212EeF8008C2f665DA713035267B",
+  "address": "0xb92f51CE4045212EeF8008C2f665DA713035267B",
+  "blockchain": "ethereum",
+  "name": "Rentledger",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xb92f51CE4045212EeF8008C2f665DA713035267B",
+  "research": null,
+  "symbol": "RTL",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

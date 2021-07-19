@@ -1,0 +1,18 @@
+{
+  "id": "0xF27580F6a58FF785c60B7c15fD394AB442aAA451",
+  "address": "0xF27580F6a58FF785c60B7c15fD394AB442aAA451",
+  "blockchain": "smartchain",
+  "name": "Nicheman",
+  "website": "https://nicheman.space",
+  "description": "Nicheman is a defi project developed for the investors/enthusiasts who always wanted to own a coin that is community-driven and fairly launched. ",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xF27580F6a58FF785c60B7c15fD394AB442aAA451",
+  "research": null,
+  "symbol": "Nicheman",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

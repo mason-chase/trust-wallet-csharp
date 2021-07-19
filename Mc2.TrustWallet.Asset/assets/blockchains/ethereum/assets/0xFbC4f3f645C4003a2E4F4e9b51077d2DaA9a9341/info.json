@@ -1,0 +1,18 @@
+{
+  "id": "0xFbC4f3f645C4003a2E4F4e9b51077d2DaA9a9341",
+  "address": "0xFbC4f3f645C4003a2E4F4e9b51077d2DaA9a9341",
+  "blockchain": "ethereum",
+  "name": "ZEDXION",
+  "website": "https://zedxion.io",
+  "description": "Zedxion offers a comprehensive solution to the major problems faced by the traditional, fiat-driven monetary system. Building a crypto powered ecosystem comprising Zedxion Token.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xFbC4f3f645C4003a2E4F4e9b51077d2DaA9a9341",
+  "research": null,
+  "symbol": "ZEDXION",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

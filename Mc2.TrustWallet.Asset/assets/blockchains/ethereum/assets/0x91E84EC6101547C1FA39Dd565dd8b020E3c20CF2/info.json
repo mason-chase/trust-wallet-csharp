@@ -1,0 +1,18 @@
+{
+  "id": "0x91E84EC6101547C1FA39Dd565dd8b020E3c20CF2",
+  "address": "0x91E84EC6101547C1FA39Dd565dd8b020E3c20CF2",
+  "blockchain": "ethereum",
+  "name": "Cannadrix",
+  "website": "https://cannadrix.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x91E84EC6101547C1FA39Dd565dd8b020E3c20CF2",
+  "research": null,
+  "symbol": "CND",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

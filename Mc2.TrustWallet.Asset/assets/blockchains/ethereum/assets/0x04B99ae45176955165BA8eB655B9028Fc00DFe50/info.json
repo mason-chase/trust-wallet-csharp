@@ -1,0 +1,18 @@
+{
+  "id": "0x04B99ae45176955165BA8eB655B9028Fc00DFe50",
+  "address": "0x04B99ae45176955165BA8eB655B9028Fc00DFe50",
+  "blockchain": "ethereum",
+  "name": "SIX",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x04B99ae45176955165BA8eB655B9028Fc00DFe50",
+  "research": null,
+  "symbol": "SIX",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

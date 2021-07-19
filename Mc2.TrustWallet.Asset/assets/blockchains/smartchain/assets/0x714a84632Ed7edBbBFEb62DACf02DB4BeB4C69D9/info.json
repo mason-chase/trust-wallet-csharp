@@ -1,0 +1,18 @@
+{
+  "id": "0x714a84632Ed7edBbBFEb62DACf02DB4BeB4C69D9",
+  "address": "0x714a84632Ed7edBbBFEb62DACf02DB4BeB4C69D9",
+  "blockchain": "smartchain",
+  "name": "Ketchup Token",
+  "website": "https://ketchupfinance.com/",
+  "description": "KetchupFinance is an automatic liquidity acquisition yield farm and AMM decentralized exchange running on Binance Smart Chain with lots of unique and creative features that let you earn and win.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x714a84632Ed7edBbBFEb62DACf02DB4BeB4C69D9",
+  "research": null,
+  "symbol": "KETCHUP",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

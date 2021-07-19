@@ -1,0 +1,18 @@
+{
+  "id": "0xA3AC41Fde5f3a569fa79E81fFe6734ee8097Ce9d",
+  "address": "0xA3AC41Fde5f3a569fa79E81fFe6734ee8097Ce9d",
+  "blockchain": "ethereum",
+  "name": "4xBit",
+  "website": "https://www.mybtcfx.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA3AC41Fde5f3a569fa79E81fFe6734ee8097Ce9d",
+  "research": null,
+  "symbol": "4XB",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "0xaC0104Cca91D167873B8601d2e71EB3D4D8c33e0",
+  "address": "0xaC0104Cca91D167873B8601d2e71EB3D4D8c33e0",
+  "blockchain": "ethereum",
+  "name": "Crowns",
+  "website": "https://www.seascape.network",
+  "description": "Crowns are the official token of the Seascape Network. They are designed to reward all key stakeholders within the network. The Seascape Network is an incentivized ecosystem consisting of gamers, developers, and influencers with the purpose of bringing DeFi gaming to a broader userbase.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xac0104cca91d167873b8601d2e71eb3d4d8c33e0",
+  "research": null,
+  "symbol": "CWS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/blocklords/seascape-smartcontracts"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/SeascapeNetwork"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/seascapenetwork"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/qG2Vynh"
+    },
+    {
+      "name": "reddit",
+      "url": "https://reddit.com/r/SeascapeNetwork"
+    }
+  ],
+  "tags": null
+}

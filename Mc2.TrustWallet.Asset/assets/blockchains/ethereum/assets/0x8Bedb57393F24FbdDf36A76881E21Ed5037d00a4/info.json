@@ -1,0 +1,18 @@
+{
+  "id": "0x8Bedb57393F24FbdDf36A76881E21Ed5037d00a4",
+  "address": "0x8Bedb57393F24FbdDf36A76881E21Ed5037d00a4",
+  "blockchain": "ethereum",
+  "name": "Decentralized Finance Application",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8Bedb57393F24FbdDf36A76881E21Ed5037d00a4",
+  "research": null,
+  "symbol": "DFA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

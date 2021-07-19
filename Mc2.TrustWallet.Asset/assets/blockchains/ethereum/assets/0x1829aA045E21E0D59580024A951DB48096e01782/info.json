@@ -1,0 +1,18 @@
+{
+  "id": "0x1829aA045E21E0D59580024A951DB48096e01782",
+  "address": "0x1829aA045E21E0D59580024A951DB48096e01782",
+  "blockchain": "ethereum",
+  "name": "FuzeX Token",
+  "website": "https://www.fuzex.co/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1829aA045E21E0D59580024A951DB48096e01782",
+  "research": null,
+  "symbol": "FXT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

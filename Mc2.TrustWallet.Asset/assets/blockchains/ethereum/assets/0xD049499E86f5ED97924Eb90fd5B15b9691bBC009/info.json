@@ -1,0 +1,18 @@
+{
+  "id": "0xD049499E86f5ED97924Eb90fd5B15b9691bBC009",
+  "address": "0xD049499E86f5ED97924Eb90fd5B15b9691bBC009",
+  "blockchain": "ethereum",
+  "name": "Fulcrum Perpetual Short ETH-WBTC v2",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xD049499E86f5ED97924Eb90fd5B15b9691bBC009",
+  "research": null,
+  "symbol": "sETHwBTC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

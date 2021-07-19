@@ -1,0 +1,18 @@
+{
+  "id": "0xF3981E5ff82CAAA5d4cb4fbA540b06c20c3d3dbE",
+  "address": "0xF3981E5ff82CAAA5d4cb4fbA540b06c20c3d3dbE",
+  "blockchain": "ethereum",
+  "name": "Meritum",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF3981E5ff82CAAA5d4cb4fbA540b06c20c3d3dbE",
+  "research": null,
+  "symbol": "MER",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

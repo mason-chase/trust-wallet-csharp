@@ -1,0 +1,18 @@
+{
+  "id": "0xF4FaEa455575354d2699BC209B0a65CA99F69982",
+  "address": "0xF4FaEa455575354d2699BC209B0a65CA99F69982",
+  "blockchain": "ethereum",
+  "name": "No BS Crypto",
+  "website": "https://nobscrypto.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xF4FaEa455575354d2699BC209B0a65CA99F69982",
+  "research": null,
+  "symbol": "NOBS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

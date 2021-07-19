@@ -1,0 +1,18 @@
+{
+  "id": "0x4991f29802D9cD309D574A2179EEfB0306aaCDE8",
+  "address": "0x4991f29802D9cD309D574A2179EEfB0306aaCDE8",
+  "blockchain": "ethereum",
+  "name": "AFM 2018",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4991f29802D9cD309D574A2179EEfB0306aaCDE8",
+  "research": null,
+  "symbol": "AFM",
+  "type": "ERC20",
+  "decimals": 0,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

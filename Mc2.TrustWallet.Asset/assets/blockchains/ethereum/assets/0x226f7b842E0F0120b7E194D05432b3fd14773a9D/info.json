@@ -1,0 +1,18 @@
+{
+  "id": "0x226f7b842E0F0120b7E194D05432b3fd14773a9D",
+  "address": "0x226f7b842E0F0120b7E194D05432b3fd14773a9D",
+  "blockchain": "ethereum",
+  "name": "UNION Protocol Governance Token",
+  "website": "https://www.unn.finance/",
+  "description": "UNION's cornerstone of full stack protection reduces the risks and costs of DeFi",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x226f7b842E0F0120b7E194D05432b3fd14773a9D",
+  "research": null,
+  "symbol": "UNN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

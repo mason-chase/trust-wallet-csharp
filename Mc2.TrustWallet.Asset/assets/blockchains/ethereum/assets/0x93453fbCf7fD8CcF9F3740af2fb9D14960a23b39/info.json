@@ -1,0 +1,18 @@
+{
+  "id": "0x93453fbCf7fD8CcF9F3740af2fb9D14960a23b39",
+  "address": "0x93453fbCf7fD8CcF9F3740af2fb9D14960a23b39",
+  "blockchain": "ethereum",
+  "name": "HaloCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x93453fbCf7fD8CcF9F3740af2fb9D14960a23b39",
+  "research": null,
+  "symbol": "HALO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

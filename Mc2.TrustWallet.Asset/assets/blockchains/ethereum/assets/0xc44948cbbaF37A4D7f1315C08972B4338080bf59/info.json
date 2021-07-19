@@ -1,0 +1,18 @@
+{
+  "id": "0xc44948cbbaF37A4D7f1315C08972B4338080bf59",
+  "address": "0xc44948cbbaF37A4D7f1315C08972B4338080bf59",
+  "blockchain": "ethereum",
+  "name": "turepay",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xc44948cbbaF37A4D7f1315C08972B4338080bf59",
+  "research": null,
+  "symbol": "TUP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

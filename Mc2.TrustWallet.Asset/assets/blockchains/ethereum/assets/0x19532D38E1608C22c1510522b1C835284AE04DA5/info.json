@@ -1,0 +1,18 @@
+{
+  "id": "0x19532D38E1608C22c1510522b1C835284AE04DA5",
+  "address": "0x19532D38E1608C22c1510522b1C835284AE04DA5",
+  "blockchain": "ethereum",
+  "name": "BULL RUN JESUS",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x19532D38E1608C22c1510522b1C835284AE04DA5",
+  "research": null,
+  "symbol": "BRJ",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

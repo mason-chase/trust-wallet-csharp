@@ -1,0 +1,18 @@
+{
+  "id": "0x3e65E1eeFdE5Ea7ccfC9a9a1634AbE90f32262f8",
+  "address": "0x3e65E1eeFdE5Ea7ccfC9a9a1634AbE90f32262f8",
+  "blockchain": "ethereum",
+  "name": "BaaSid",
+  "website": "https://www.baasid.com/#token",
+  "description": "BaaSid (BAAS) is a cryptocurrency and operates on the Ethereum platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3e65E1eeFdE5Ea7ccfC9a9a1634AbE90f32262f8",
+  "research": null,
+  "symbol": "BAAS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

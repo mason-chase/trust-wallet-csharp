@@ -1,0 +1,18 @@
+{
+  "id": "0x0DC554d2BBc8f4Cda0577CeD2CD86c54689Af3Db",
+  "address": "0x0DC554d2BBc8f4Cda0577CeD2CD86c54689Af3Db",
+  "blockchain": "classic",
+  "name": "BitUnits Millium",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://blockscout.com/etc/mainnet/tokens/0x0DC554d2BBc8f4Cda0577CeD2CD86c54689Af3Db",
+  "research": null,
+  "symbol": "MLIUM",
+  "type": "ETC20",
+  "decimals": 12,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

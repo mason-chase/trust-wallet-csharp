@@ -1,0 +1,18 @@
+{
+  "id": "0x66B3037aa8Dd64c3eF1AEE13a4D1F2509F672D1C",
+  "address": "0x66B3037aa8Dd64c3eF1AEE13a4D1F2509F672D1C",
+  "blockchain": "ethereum",
+  "name": "NAP",
+  "website": "https://zzz.finance",
+  "description": "NAP is the fuel token used for DeFI products governed by ZZZ.finance ",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x66B3037aa8Dd64c3eF1AEE13a4D1F2509F672D1C",
+  "research": null,
+  "symbol": "NAP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

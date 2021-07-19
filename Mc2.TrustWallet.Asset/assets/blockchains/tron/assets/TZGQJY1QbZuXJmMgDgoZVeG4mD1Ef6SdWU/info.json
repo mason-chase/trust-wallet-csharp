@@ -1,0 +1,18 @@
+{
+  "id": "TZGQJY1QbZuXJmMgDgoZVeG4mD1Ef6SdWU",
+  "address": "TZGQJY1QbZuXJmMgDgoZVeG4mD1Ef6SdWU",
+  "blockchain": "tron",
+  "name": "TRON UP",
+  "website": "https://tronup.io/",
+  "description": "TRON UP is a decentralized game platform, the main members of the team are blockchain technology enthusiasts from all over the world.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TZGQJY1QbZuXJmMgDgoZVeG4mD1Ef6SdWU",
+  "research": null,
+  "symbol": "UP",
+  "type": "TRC20",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

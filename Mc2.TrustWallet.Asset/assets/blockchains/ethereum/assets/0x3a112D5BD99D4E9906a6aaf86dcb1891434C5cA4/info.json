@@ -1,0 +1,18 @@
+{
+  "id": "0x3a112D5BD99D4E9906a6aaf86dcb1891434C5cA4",
+  "address": "0x3a112D5BD99D4E9906a6aaf86dcb1891434C5cA4",
+  "blockchain": "ethereum",
+  "name": "Mavro Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3a112D5BD99D4E9906a6aaf86dcb1891434C5cA4",
+  "research": null,
+  "symbol": "MVR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

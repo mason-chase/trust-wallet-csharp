@@ -1,0 +1,18 @@
+{
+  "id": "0xfce738f60585D79Ddc980C77C9990F7F9B88300e",
+  "address": "0xfce738f60585D79Ddc980C77C9990F7F9B88300e",
+  "blockchain": "ethereum",
+  "name": "Shreyas",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xfce738f60585D79Ddc980C77C9990F7F9B88300e",
+  "research": null,
+  "symbol": "SHREY",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

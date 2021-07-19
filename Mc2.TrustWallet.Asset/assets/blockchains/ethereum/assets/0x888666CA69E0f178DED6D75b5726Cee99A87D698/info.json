@@ -1,0 +1,18 @@
+{
+  "id": "0x888666CA69E0f178DED6D75b5726Cee99A87D698",
+  "address": "0x888666CA69E0f178DED6D75b5726Cee99A87D698",
+  "blockchain": "ethereum",
+  "name": "ICONOMI",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x888666CA69E0f178DED6D75b5726Cee99A87D698",
+  "research": null,
+  "symbol": "ICN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

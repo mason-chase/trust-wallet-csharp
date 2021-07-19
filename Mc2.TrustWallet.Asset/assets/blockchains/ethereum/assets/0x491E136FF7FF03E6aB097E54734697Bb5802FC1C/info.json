@@ -1,0 +1,18 @@
+{
+  "id": "0x491E136FF7FF03E6aB097E54734697Bb5802FC1C",
+  "address": "0x491E136FF7FF03E6aB097E54734697Bb5802FC1C",
+  "blockchain": "ethereum",
+  "name": "Kattana",
+  "website": "https://kattana.io",
+  "description": "Trade crypto on DEXs and CEXs with a full suite of trading tools previously only available in CeFi",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x491E136FF7FF03E6aB097E54734697Bb5802FC1C",
+  "research": null,
+  "symbol": "KTN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

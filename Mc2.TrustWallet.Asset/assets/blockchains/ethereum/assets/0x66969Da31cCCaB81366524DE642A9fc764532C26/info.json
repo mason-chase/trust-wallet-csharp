@@ -1,0 +1,18 @@
+{
+  "id": "0x66969Da31cCCaB81366524DE642A9fc764532C26",
+  "address": "0x66969Da31cCCaB81366524DE642A9fc764532C26",
+  "blockchain": "ethereum",
+  "name": "Culture Travel Currency",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x66969Da31cCCaB81366524DE642A9fc764532C26",
+  "research": null,
+  "symbol": "CTC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

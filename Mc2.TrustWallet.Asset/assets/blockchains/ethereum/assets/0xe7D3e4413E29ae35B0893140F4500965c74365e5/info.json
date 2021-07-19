@@ -1,0 +1,18 @@
+{
+  "id": "0xe7D3e4413E29ae35B0893140F4500965c74365e5",
+  "address": "0xe7D3e4413E29ae35B0893140F4500965c74365e5",
+  "blockchain": "ethereum",
+  "name": "B2BCoin",
+  "website": "https://www.tradove.com/b2bcoin",
+  "description": "Unlock corporate demand for a token based business-to-business (B2B) marketing, sales, and trade platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe7D3e4413E29ae35B0893140F4500965c74365e5",
+  "research": null,
+  "symbol": "BBC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

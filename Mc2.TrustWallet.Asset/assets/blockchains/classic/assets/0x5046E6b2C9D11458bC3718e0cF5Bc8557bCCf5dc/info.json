@@ -1,0 +1,18 @@
+{
+  "id": "0x5046E6b2C9D11458bC3718e0cF5Bc8557bCCf5dc",
+  "address": "0x5046E6b2C9D11458bC3718e0cF5Bc8557bCCf5dc",
+  "blockchain": "classic",
+  "name": "Wahdereau",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://blockscout.com/etc/mainnet/tokens/0x5046E6b2C9D11458bC3718e0cF5Bc8557bCCf5dc",
+  "research": null,
+  "symbol": "WADRG1",
+  "type": "ETC20",
+  "decimals": 0,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

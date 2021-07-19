@@ -1,0 +1,18 @@
+{
+  "id": "0x1Fe72034dA777ef22533eaa6Dd7cBE1D80bE50Fa",
+  "address": "0x1Fe72034dA777ef22533eaa6Dd7cBE1D80bE50Fa",
+  "blockchain": "ethereum",
+  "name": "PayAccept",
+  "website": "https://www.payaccept.net/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1Fe72034dA777ef22533eaa6Dd7cBE1D80bE50Fa",
+  "research": null,
+  "symbol": "PAY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

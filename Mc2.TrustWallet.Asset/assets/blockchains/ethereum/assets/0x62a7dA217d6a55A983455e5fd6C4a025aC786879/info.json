@@ -1,0 +1,18 @@
+{
+  "id": "0x62a7dA217d6a55A983455e5fd6C4a025aC786879",
+  "address": "0x62a7dA217d6a55A983455e5fd6C4a025aC786879",
+  "blockchain": "ethereum",
+  "name": "TBT",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x62a7dA217d6a55A983455e5fd6C4a025aC786879",
+  "research": null,
+  "symbol": "TBT",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

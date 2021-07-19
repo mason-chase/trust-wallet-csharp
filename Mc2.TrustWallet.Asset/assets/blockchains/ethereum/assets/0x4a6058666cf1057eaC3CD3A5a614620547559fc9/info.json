@@ -1,0 +1,18 @@
+{
+  "id": "0x4a6058666cf1057eaC3CD3A5a614620547559fc9",
+  "address": "0x4a6058666cf1057eaC3CD3A5a614620547559fc9",
+  "blockchain": "ethereum",
+  "name": "BrickblockToken",
+  "website": "http://brickblock.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4a6058666cf1057eaC3CD3A5a614620547559fc9",
+  "research": null,
+  "symbol": "BBK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

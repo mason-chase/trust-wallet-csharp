@@ -1,0 +1,18 @@
+{
+  "id": "0x8B40761142B9aa6dc8964e61D0585995425C3D94",
+  "address": "0x8B40761142B9aa6dc8964e61D0585995425C3D94",
+  "blockchain": "ethereum",
+  "name": "Tripio Token",
+  "website": "https://trip.io",
+  "description": "Tripio describes itself as a blockchain-based travel marketplace and protocols.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x8B40761142B9aa6dc8964e61D0585995425C3D94",
+  "research": null,
+  "symbol": "TRIO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

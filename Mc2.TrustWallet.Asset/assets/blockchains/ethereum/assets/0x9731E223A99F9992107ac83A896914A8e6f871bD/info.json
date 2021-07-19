@@ -1,0 +1,18 @@
+{
+  "id": "0x9731E223A99F9992107ac83A896914A8e6f871bD",
+  "address": "0x9731E223A99F9992107ac83A896914A8e6f871bD",
+  "blockchain": "ethereum",
+  "name": "Lucid Ganoderma chain",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9731E223A99F9992107ac83A896914A8e6f871bD",
+  "research": null,
+  "symbol": "LGC",
+  "type": "ERC20",
+  "decimals": 3,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

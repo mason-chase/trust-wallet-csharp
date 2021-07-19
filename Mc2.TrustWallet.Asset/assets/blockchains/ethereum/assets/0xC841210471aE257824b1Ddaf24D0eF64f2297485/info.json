@@ -1,0 +1,18 @@
+{
+  "id": "0xC841210471aE257824b1Ddaf24D0eF64f2297485",
+  "address": "0xC841210471aE257824b1Ddaf24D0eF64f2297485",
+  "blockchain": "ethereum",
+  "name": "Wymax Lending Platform",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xC841210471aE257824b1Ddaf24D0eF64f2297485",
+  "research": null,
+  "symbol": "WLP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

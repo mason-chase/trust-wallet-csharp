@@ -1,0 +1,18 @@
+{
+  "id": "0x261638EC8ee8100484130EBD2fEBfDAdC0D8742a",
+  "address": "0x261638EC8ee8100484130EBD2fEBfDAdC0D8742a",
+  "blockchain": "ethereum",
+  "name": "Level01 Token",
+  "website": "https://level01.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x261638EC8ee8100484130EBD2fEBfDAdC0D8742a",
+  "research": null,
+  "symbol": "LVX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

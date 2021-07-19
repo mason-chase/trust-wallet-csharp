@@ -1,0 +1,18 @@
+{
+  "id": "0xCC4304A31d09258b0029eA7FE63d032f52e44EFe",
+  "address": "0xCC4304A31d09258b0029eA7FE63d032f52e44EFe",
+  "blockchain": "ethereum",
+  "name": "TrustSwap Token",
+  "website": "https://trustswap.org",
+  "description": "A Full-Service Digital Asset Ecosystem.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xCC4304A31d09258b0029eA7FE63d032f52e44EFe",
+  "research": null,
+  "symbol": "SWAP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

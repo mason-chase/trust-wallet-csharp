@@ -1,0 +1,18 @@
+{
+  "id": "0xCda907B126375B914DBa39AC2518230dc95D315C",
+  "address": "0xCda907B126375B914DBa39AC2518230dc95D315C",
+  "blockchain": "ethereum",
+  "name": "Nlife",
+  "website": "https://nlife.io",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xCda907B126375B914DBa39AC2518230dc95D315C",
+  "research": null,
+  "symbol": "Nlife",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

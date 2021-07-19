@@ -1,0 +1,18 @@
+{
+  "id": "0x009631F3cb11a9aF2E2f0186e698a2bC976D86Eb",
+  "address": "0x009631F3cb11a9aF2E2f0186e698a2bC976D86Eb",
+  "blockchain": "ethereum",
+  "name": "Ethereum Dragon",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x009631F3cb11a9aF2E2f0186e698a2bC976D86Eb",
+  "research": null,
+  "symbol": "ETHD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

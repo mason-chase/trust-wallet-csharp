@@ -1,0 +1,18 @@
+{
+  "id": "0x974C718665C1545D20136879fa37755aCDf38a4B",
+  "address": "0x974C718665C1545D20136879fa37755aCDf38a4B",
+  "blockchain": "ethereum",
+  "name": "Coin Cab",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x974C718665C1545D20136879fa37755aCDf38a4B",
+  "research": null,
+  "symbol": "CCAB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

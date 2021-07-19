@@ -1,0 +1,18 @@
+{
+  "id": "0x38c87AA89B2B8cD9B95b736e1Fa7b612EA972169",
+  "address": "0x38c87AA89B2B8cD9B95b736e1Fa7b612EA972169",
+  "blockchain": "ethereum",
+  "name": "AMO Coin",
+  "website": "https://amo.foundation",
+  "description": "AMO Coin (AMO) is a cryptocurrency and operates on the Ethereum platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x38c87AA89B2B8cD9B95b736e1Fa7b612EA972169",
+  "research": null,
+  "symbol": "AMO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x0Bb7Db697567178c590eFA64A7DcB2ce6213768C",
+  "address": "0x0Bb7Db697567178c590eFA64A7DcB2ce6213768C",
+  "blockchain": "ethereum",
+  "name": "Camouflage.eth",
+  "website": "https://camouflage.eth/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0Bb7Db697567178c590eFA64A7DcB2ce6213768C",
+  "research": null,
+  "symbol": "CAMO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

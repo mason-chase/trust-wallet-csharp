@@ -1,0 +1,18 @@
+{
+  "id": "0x4212FEa9FEc90236eCc51E41e2096B16CEB84555",
+  "address": "0x4212FEa9FEc90236eCc51E41e2096B16CEB84555",
+  "blockchain": "ethereum",
+  "name": "Six Domain Asset",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4212FEa9FEc90236eCc51E41e2096B16CEB84555",
+  "research": null,
+  "symbol": "SDA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

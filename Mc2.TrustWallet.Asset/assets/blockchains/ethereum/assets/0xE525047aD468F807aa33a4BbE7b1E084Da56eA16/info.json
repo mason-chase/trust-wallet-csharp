@@ -1,0 +1,18 @@
+{
+  "id": "0xE525047aD468F807aa33a4BbE7b1E084Da56eA16",
+  "address": "0xE525047aD468F807aa33a4BbE7b1E084Da56eA16",
+  "blockchain": "ethereum",
+  "name": "CRYPTODUBAI",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE525047aD468F807aa33a4BbE7b1E084Da56eA16",
+  "research": null,
+  "symbol": "CDUB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x9669CA82Bac26fc762011C59cC0Dd41A665e861B",
+  "address": "0x9669CA82Bac26fc762011C59cC0Dd41A665e861B",
+  "blockchain": "ethereum",
+  "name": "Cminers",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9669CA82Bac26fc762011C59cC0Dd41A665e861B",
+  "research": null,
+  "symbol": "BTOB",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

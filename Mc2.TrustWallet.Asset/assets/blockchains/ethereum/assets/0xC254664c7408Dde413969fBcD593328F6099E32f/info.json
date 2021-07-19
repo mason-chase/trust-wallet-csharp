@@ -1,0 +1,18 @@
+{
+  "id": "0xC254664c7408Dde413969fBcD593328F6099E32f",
+  "address": "0xC254664c7408Dde413969fBcD593328F6099E32f",
+  "blockchain": "ethereum",
+  "name": "YGG",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xC254664c7408Dde413969fBcD593328F6099E32f",
+  "research": null,
+  "symbol": "YGG",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

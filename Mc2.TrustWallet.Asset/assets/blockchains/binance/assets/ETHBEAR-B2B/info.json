@@ -1,0 +1,18 @@
+{
+  "id": "ETHBEAR-B2B",
+  "address": "ETHBEAR-B2B",
+  "blockchain": "binance",
+  "name": "3X Short Ethereum Token",
+  "website": "https://ftx.com/tokens/ETHBEAR",
+  "description": "3X Short Ethereum Token (ETHBEAR) is a token which seeks a return that corresponds to -3 times the daily return of Ethereum.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/ETHBEAR-B2B",
+  "research": null,
+  "symbol": "ETHBEAR",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

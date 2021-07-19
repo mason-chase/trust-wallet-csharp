@@ -1,0 +1,18 @@
+{
+  "id": "0x47c1C7B9D7941A7265D123DCfb100D8FB5348213",
+  "address": "0x47c1C7B9D7941A7265D123DCfb100D8FB5348213",
+  "blockchain": "smartchain",
+  "name": "YVS Finance",
+  "website": "https://yvs.finance",
+  "description": "The first and only yield-farming, vaults and staking deflationary token with no admin control.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x47c1c7b9d7941a7265d123dcfb100d8fb5348213",
+  "research": "https://yvs.finance/files/whitepaper.pdf",
+  "symbol": "YVS",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

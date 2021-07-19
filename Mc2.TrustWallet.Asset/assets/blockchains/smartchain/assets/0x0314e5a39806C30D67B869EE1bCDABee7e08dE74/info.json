@@ -1,0 +1,18 @@
+{
+  "id": "0x0314e5a39806C30D67B869EE1bCDABee7e08dE74",
+  "address": "0x0314e5a39806C30D67B869EE1bCDABee7e08dE74",
+  "blockchain": "smartchain",
+  "name": "DoubleMoon",
+  "website": "https://doublemoon.finance",
+  "description": "DoubleMoon is Next generation of Defi yield generating, community driven. Earn interest by holding.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x0314e5a39806c30d67b869ee1bcdabee7e08de74",
+  "research": null,
+  "symbol": "DBM",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

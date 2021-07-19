@@ -1,0 +1,18 @@
+{
+  "id": "0x0Ef009AD1899f1f3228073d1Bff8f3Db67d1061a",
+  "address": "0x0Ef009AD1899f1f3228073d1Bff8f3Db67d1061a",
+  "blockchain": "ethereum",
+  "name": "BiTBrothers",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0Ef009AD1899f1f3228073d1Bff8f3Db67d1061a",
+  "research": null,
+  "symbol": "BTB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

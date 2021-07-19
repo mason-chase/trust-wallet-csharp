@@ -1,0 +1,18 @@
+{
+  "id": "0xbd1848e1491d4308Ad18287A745DD4DB2A4BD55B",
+  "address": "0xbd1848e1491d4308Ad18287A745DD4DB2A4BD55B",
+  "blockchain": "ethereum",
+  "name": "MOchi MArket",
+  "website": "https://mochi.market",
+  "description": "The multi-chain decentralized exchange ecosystem for non-fungible tokens",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xbd1848e1491d4308Ad18287A745DD4DB2A4BD55B",
+  "research": null,
+  "symbol": "MOMA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

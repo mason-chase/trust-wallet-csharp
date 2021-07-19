@@ -1,0 +1,18 @@
+{
+  "id": "0x84F7c44B6Fed1080f647E354D552595be2Cc602F",
+  "address": "0x84F7c44B6Fed1080f647E354D552595be2Cc602F",
+  "blockchain": "ethereum",
+  "name": "Bigbom",
+  "website": "https://bigbom.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x84F7c44B6Fed1080f647E354D552595be2Cc602F",
+  "research": null,
+  "symbol": "BBO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

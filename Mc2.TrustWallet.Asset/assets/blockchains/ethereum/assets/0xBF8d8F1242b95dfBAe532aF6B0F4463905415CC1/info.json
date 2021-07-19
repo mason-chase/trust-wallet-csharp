@@ -1,0 +1,18 @@
+{
+  "id": "0xBF8d8F1242b95dfBAe532aF6B0F4463905415CC1",
+  "address": "0xBF8d8F1242b95dfBAe532aF6B0F4463905415CC1",
+  "blockchain": "ethereum",
+  "name": "Edex",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xBF8d8F1242b95dfBAe532aF6B0F4463905415CC1",
+  "research": null,
+  "symbol": "EDX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

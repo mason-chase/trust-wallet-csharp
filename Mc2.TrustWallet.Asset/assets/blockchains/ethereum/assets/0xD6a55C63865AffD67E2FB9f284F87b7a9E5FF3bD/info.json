@@ -1,0 +1,18 @@
+{
+  "id": "0xD6a55C63865AffD67E2FB9f284F87b7a9E5FF3bD",
+  "address": "0xD6a55C63865AffD67E2FB9f284F87b7a9E5FF3bD",
+  "blockchain": "ethereum",
+  "name": "Switch",
+  "website": "https://switch.ag",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xD6a55C63865AffD67E2FB9f284F87b7a9E5FF3bD",
+  "research": null,
+  "symbol": "ESH",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

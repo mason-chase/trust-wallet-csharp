@@ -1,0 +1,18 @@
+{
+  "id": "0x940a2dB1B7008B6C776d4faaCa729d6d4A4AA551",
+  "address": "0x940a2dB1B7008B6C776d4faaCa729d6d4A4AA551",
+  "blockchain": "ethereum",
+  "name": "Dusk Network",
+  "website": "https://dusk.network/",
+  "description": "Dusk Network is technology for securities. An open source and secure blockchain (DLT) infrastructure that businesses use to tokenize financial instruments and automate costly processes.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x940a2dB1B7008B6C776d4faaCa729d6d4A4AA551",
+  "research": null,
+  "symbol": "DUSK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

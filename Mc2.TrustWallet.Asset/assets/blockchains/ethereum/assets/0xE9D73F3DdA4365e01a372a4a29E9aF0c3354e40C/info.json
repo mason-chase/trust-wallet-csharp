@@ -1,0 +1,18 @@
+{
+  "id": "0xE9D73F3DdA4365e01a372a4a29E9aF0c3354e40C",
+  "address": "0xE9D73F3DdA4365e01a372a4a29E9aF0c3354e40C",
+  "blockchain": "ethereum",
+  "name": "Amadeo",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE9D73F3DdA4365e01a372a4a29E9aF0c3354e40C",
+  "research": null,
+  "symbol": "DEO",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

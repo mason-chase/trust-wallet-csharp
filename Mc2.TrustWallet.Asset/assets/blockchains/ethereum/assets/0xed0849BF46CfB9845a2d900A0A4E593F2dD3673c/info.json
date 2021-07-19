@@ -1,0 +1,18 @@
+{
+  "id": "0xed0849BF46CfB9845a2d900A0A4E593F2dD3673c",
+  "address": "0xed0849BF46CfB9845a2d900A0A4E593F2dD3673c",
+  "blockchain": "ethereum",
+  "name": "Saga",
+  "website": "https://www.saga.org/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xed0849BF46CfB9845a2d900A0A4E593F2dD3673c",
+  "research": null,
+  "symbol": "SGA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x7d3cb11f8c13730C24D01826d8F2005F0e1b348F",
+  "address": "0x7d3cb11f8c13730C24D01826d8F2005F0e1b348F",
+  "blockchain": "ethereum",
+  "name": "COS",
+  "website": "https://coss.io/",
+  "description": "One-stop shop for all things crypto: an exchange, an e-wallet which supports a broad variety of tokens, a platform for ICO launches and promotional trading campaigns, a fiat gateway, a market cap widget, and more.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7d3cb11f8c13730C24D01826d8F2005F0e1b348F",
+  "research": null,
+  "symbol": "COS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

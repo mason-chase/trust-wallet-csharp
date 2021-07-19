@@ -1,0 +1,18 @@
+{
+  "id": "0x01F83cE6636179b54b0CC0C408f9a8bce40ae776",
+  "address": "0x01F83cE6636179b54b0CC0C408f9a8bce40ae776",
+  "blockchain": "tomochain",
+  "name": "PayFrequent EURO",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://scan.tomochain.com/address/0x01F83cE6636179b54b0CC0C408f9a8bce40ae776",
+  "research": null,
+  "symbol": "PEUR",
+  "type": "TRC21",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x7aF9Fd0545D36Ca3c55C4DE505E6D5636BB7fE0B",
+  "address": "0x7aF9Fd0545D36Ca3c55C4DE505E6D5636BB7fE0B",
+  "blockchain": "ethereum",
+  "name": "Orange Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7aF9Fd0545D36Ca3c55C4DE505E6D5636BB7fE0B",
+  "research": null,
+  "symbol": "ORA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

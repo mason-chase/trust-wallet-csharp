@@ -1,0 +1,18 @@
+{
+  "id": "0x0a4b2d4B48a63088e0897a3F147Ba37f81a27722",
+  "address": "0x0a4b2d4B48a63088e0897a3F147Ba37f81a27722",
+  "blockchain": "ethereum",
+  "name": "CuraDAI",
+  "website": "https://curadai.curadao.io/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0a4b2d4B48a63088e0897a3F147Ba37f81a27722",
+  "research": null,
+  "symbol": "CURA",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

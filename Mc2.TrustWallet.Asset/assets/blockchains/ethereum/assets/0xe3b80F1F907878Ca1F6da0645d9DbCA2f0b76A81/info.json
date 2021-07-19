@@ -1,0 +1,18 @@
+{
+  "id": "0xe3b80F1F907878Ca1F6da0645d9DbCA2f0b76A81",
+  "address": "0xe3b80F1F907878Ca1F6da0645d9DbCA2f0b76A81",
+  "blockchain": "ethereum",
+  "name": "Black Diamond",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe3b80F1F907878Ca1F6da0645d9DbCA2f0b76A81",
+  "research": null,
+  "symbol": "BKD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

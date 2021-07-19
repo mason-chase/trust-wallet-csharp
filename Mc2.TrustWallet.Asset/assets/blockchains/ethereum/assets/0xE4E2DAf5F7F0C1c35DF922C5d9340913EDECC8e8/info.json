@@ -1,0 +1,18 @@
+{
+  "id": "0xE4E2DAf5F7F0C1c35DF922C5d9340913EDECC8e8",
+  "address": "0xE4E2DAf5F7F0C1c35DF922C5d9340913EDECC8e8",
+  "blockchain": "ethereum",
+  "name": "Mnoer",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xE4E2DAf5F7F0C1c35DF922C5d9340913EDECC8e8",
+  "research": null,
+  "symbol": "MNR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

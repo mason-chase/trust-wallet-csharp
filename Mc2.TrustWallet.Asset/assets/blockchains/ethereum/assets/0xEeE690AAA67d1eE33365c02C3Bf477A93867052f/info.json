@@ -1,0 +1,18 @@
+{
+  "id": "0xEeE690AAA67d1eE33365c02C3Bf477A93867052f",
+  "address": "0xEeE690AAA67d1eE33365c02C3Bf477A93867052f",
+  "blockchain": "ethereum",
+  "name": "HappyPay",
+  "website": "https://gohappypay.com/",
+  "description": "HPC targets Thai and foreign retail communities. The development team has decided to convert HAPPYCOIN (HPC) from the X11 algorithm (Proof of Work and Proof of Stake) to an ERC20 token running on Ethereum blockchain. The second iteration of the coin is named HappyPay (HPAY). It focuses on the 'Network Marketing' industry in Thailand and has plans for international expansion.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xEeE690AAA67d1eE33365c02C3Bf477A93867052f",
+  "research": null,
+  "symbol": "HPAY",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

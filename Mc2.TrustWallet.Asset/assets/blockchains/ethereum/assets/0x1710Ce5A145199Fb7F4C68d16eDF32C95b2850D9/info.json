@@ -1,0 +1,18 @@
+{
+  "id": "0x1710Ce5A145199Fb7F4C68d16eDF32C95b2850D9",
+  "address": "0x1710Ce5A145199Fb7F4C68d16eDF32C95b2850D9",
+  "blockchain": "ethereum",
+  "name": "Down",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1710Ce5A145199Fb7F4C68d16eDF32C95b2850D9",
+  "research": null,
+  "symbol": "DOWN",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x95aBb152ed410cc4b6DffB3eD41D01015bdbb5D2",
+  "address": "0x95aBb152ed410cc4b6DffB3eD41D01015bdbb5D2",
+  "blockchain": "ethereum",
+  "name": "Mankind",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x95aBb152ed410cc4b6DffB3eD41D01015bdbb5D2",
+  "research": null,
+  "symbol": "MK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

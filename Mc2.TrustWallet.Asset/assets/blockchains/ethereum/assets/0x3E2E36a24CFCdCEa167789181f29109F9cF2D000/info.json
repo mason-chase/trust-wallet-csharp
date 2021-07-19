@@ -1,0 +1,18 @@
+{
+  "id": "0x3E2E36a24CFCdCEa167789181f29109F9cF2D000",
+  "address": "0x3E2E36a24CFCdCEa167789181f29109F9cF2D000",
+  "blockchain": "ethereum",
+  "name": "AMRITA",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x3E2E36a24CFCdCEa167789181f29109F9cF2D000",
+  "research": null,
+  "symbol": "AMRITA",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

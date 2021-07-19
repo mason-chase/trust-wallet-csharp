@@ -1,0 +1,18 @@
+{
+  "id": "0x12683Dc9eEc95a5F742D40206e73319E6b9d8A91",
+  "address": "0x12683Dc9eEc95a5F742D40206e73319E6b9d8A91",
+  "blockchain": "ethereum",
+  "name": "FAB Token",
+  "website": "https://www.fabrk.io/",
+  "description": "FABRK is building the missing “People Protocol” of the internet. It’s like HTTP, but for finding people instead of websites. It allows people to own their data, freely exchange value and digital currency, and discover new ways to socialize.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x12683Dc9eEc95a5F742D40206e73319E6b9d8A91",
+  "research": null,
+  "symbol": "FAB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

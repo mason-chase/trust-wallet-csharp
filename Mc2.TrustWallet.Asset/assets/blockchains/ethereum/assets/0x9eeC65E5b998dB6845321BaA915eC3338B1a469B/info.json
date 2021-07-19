@@ -1,0 +1,18 @@
+{
+  "id": "0x9eeC65E5b998dB6845321BaA915eC3338B1a469B",
+  "address": "0x9eeC65E5b998dB6845321BaA915eC3338B1a469B",
+  "blockchain": "ethereum",
+  "name": "OnlyChain",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9eeC65E5b998dB6845321BaA915eC3338B1a469B",
+  "research": null,
+  "symbol": "Only",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

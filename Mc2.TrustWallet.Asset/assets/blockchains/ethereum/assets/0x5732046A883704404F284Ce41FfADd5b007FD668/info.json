@@ -1,0 +1,18 @@
+{
+  "id": "0x5732046A883704404F284Ce41FfADd5b007FD668",
+  "address": "0x5732046A883704404F284Ce41FfADd5b007FD668",
+  "blockchain": "ethereum",
+  "name": "Bluzelle Token",
+  "website": "https://bluzelle.com",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5732046A883704404F284Ce41FfADd5b007FD668",
+  "research": null,
+  "symbol": "BLZ",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xf649c39E7EFdBAC6c9aDb65c43e87894fC14aEDd",
+  "address": "0xf649c39E7EFdBAC6c9aDb65c43e87894fC14aEDd",
+  "blockchain": "ethereum",
+  "name": "All World Coin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf649c39E7EFdBAC6c9aDb65c43e87894fC14aEDd",
+  "research": null,
+  "symbol": "AWC",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

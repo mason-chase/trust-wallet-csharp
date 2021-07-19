@@ -1,0 +1,18 @@
+{
+  "id": "0x0508331c4883Dc6a0Ffc4e0b239A38a68787E21b",
+  "address": "0x0508331c4883Dc6a0Ffc4e0b239A38a68787E21b",
+  "blockchain": "ethereum",
+  "name": "LIQ",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0508331c4883Dc6a0Ffc4e0b239A38a68787E21b",
+  "research": null,
+  "symbol": "LIQ",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

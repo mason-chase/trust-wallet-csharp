@@ -1,0 +1,18 @@
+{
+  "id": "0xa123aB52a32267Dc357B7599739d3C6CAF856fe4",
+  "address": "0xa123aB52a32267Dc357B7599739d3C6CAF856fe4",
+  "blockchain": "smartchain",
+  "name": "AIR",
+  "website": "https://aircoin.cool",
+  "description": "AIR was issued to mock the madness of the cryptocurrency market. AIR is everywhere, after buying Air coin you get nothing but AIR.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xa123aB52a32267Dc357B7599739d3C6CAF856fe4",
+  "research": null,
+  "symbol": "AIR",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

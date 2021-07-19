@@ -1,0 +1,18 @@
+{
+  "id": "0x211d6373313dAfa21789767E2A255e0C435E7F5d",
+  "address": "0x211d6373313dAfa21789767E2A255e0C435E7F5d",
+  "blockchain": "ethereum",
+  "name": "USDI",
+  "website": "https://otfund.io/",
+  "description": "USDI payment gateway.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x211d6373313dAfa21789767E2A255e0C435E7F5d",
+  "research": null,
+  "symbol": "USDI",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xD3C00772B24D997A812249ca637a921e81357701",
+  "address": "0xD3C00772B24D997A812249ca637a921e81357701",
+  "blockchain": "ethereum",
+  "name": "WILD Token",
+  "website": "https://wildcrypto.com/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xD3C00772B24D997A812249ca637a921e81357701",
+  "research": null,
+  "symbol": "WILD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

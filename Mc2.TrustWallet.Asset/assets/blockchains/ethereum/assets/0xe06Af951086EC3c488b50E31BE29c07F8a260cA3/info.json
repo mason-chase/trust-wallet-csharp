@@ -1,0 +1,18 @@
+{
+  "id": "0xe06Af951086EC3c488b50E31BE29c07F8a260cA3",
+  "address": "0xe06Af951086EC3c488b50E31BE29c07F8a260cA3",
+  "blockchain": "ethereum",
+  "name": "EXU Protocol",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xe06Af951086EC3c488b50E31BE29c07F8a260cA3",
+  "research": null,
+  "symbol": "EXU",
+  "type": "ERC20",
+  "decimals": 16,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

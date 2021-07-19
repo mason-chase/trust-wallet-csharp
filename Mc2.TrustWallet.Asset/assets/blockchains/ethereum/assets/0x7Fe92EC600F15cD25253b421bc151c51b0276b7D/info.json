@@ -1,0 +1,18 @@
+{
+  "id": "0x7Fe92EC600F15cD25253b421bc151c51b0276b7D",
+  "address": "0x7Fe92EC600F15cD25253b421bc151c51b0276b7D",
+  "blockchain": "ethereum",
+  "name": "Japan Content Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7Fe92EC600F15cD25253b421bc151c51b0276b7D",
+  "research": null,
+  "symbol": "JCT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

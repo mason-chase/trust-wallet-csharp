@@ -1,0 +1,18 @@
+{
+  "id": "0x69702cfd7DAd8bCcAA24D6B440159404AAA140F5",
+  "address": "0x69702cfd7DAd8bCcAA24D6B440159404AAA140F5",
+  "blockchain": "ethereum",
+  "name": "Strike USDT",
+  "website": "https://strike.org",
+  "description": "Strike Finance collateral cryptocurrency",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x69702cfd7DAd8bCcAA24D6B440159404AAA140F5",
+  "research": null,
+  "symbol": "sUSDT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

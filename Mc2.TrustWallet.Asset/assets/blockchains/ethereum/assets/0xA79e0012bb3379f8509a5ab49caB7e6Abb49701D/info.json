@@ -1,0 +1,18 @@
+{
+  "id": "0xA79e0012bb3379f8509a5ab49caB7e6Abb49701D",
+  "address": "0xA79e0012bb3379f8509a5ab49caB7e6Abb49701D",
+  "blockchain": "ethereum",
+  "name": "NAMTANCOIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA79e0012bb3379f8509a5ab49caB7e6Abb49701D",
+  "research": null,
+  "symbol": "NAMTC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

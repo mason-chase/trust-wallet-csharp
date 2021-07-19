@@ -1,0 +1,18 @@
+{
+  "id": "0xA4668631110C31d30F0C48A63D65f422e25af58C",
+  "address": "0xA4668631110C31d30F0C48A63D65f422e25af58C",
+  "blockchain": "ethereum",
+  "name": "BitcoinKrypt",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA4668631110C31d30F0C48A63D65f422e25af58C",
+  "research": null,
+  "symbol": "BTKT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x59639Ab94e7dAF3b39C6555115e493145032e85E",
+  "address": "0x59639Ab94e7dAF3b39C6555115e493145032e85E",
+  "blockchain": "ethereum",
+  "name": "OmnisBit",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x59639Ab94e7dAF3b39C6555115e493145032e85E",
+  "research": null,
+  "symbol": "OMNIS",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

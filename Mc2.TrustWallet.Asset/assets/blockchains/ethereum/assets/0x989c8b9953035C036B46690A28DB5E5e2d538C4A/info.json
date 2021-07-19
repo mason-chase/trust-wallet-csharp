@@ -1,0 +1,18 @@
+{
+  "id": "0x989c8b9953035C036B46690A28DB5E5e2d538C4A",
+  "address": "0x989c8b9953035C036B46690A28DB5E5e2d538C4A",
+  "blockchain": "ethereum",
+  "name": "Guru",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x989c8b9953035C036B46690A28DB5E5e2d538C4A",
+  "research": null,
+  "symbol": "Guru",
+  "type": "ERC20",
+  "decimals": 3,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

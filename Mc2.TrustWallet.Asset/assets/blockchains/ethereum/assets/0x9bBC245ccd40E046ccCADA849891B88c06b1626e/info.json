@@ -1,0 +1,18 @@
+{
+  "id": "0x9bBC245ccd40E046ccCADA849891B88c06b1626e",
+  "address": "0x9bBC245ccd40E046ccCADA849891B88c06b1626e",
+  "blockchain": "ethereum",
+  "name": "STAKEBIT",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9bBC245ccd40E046ccCADA849891B88c06b1626e",
+  "research": null,
+  "symbol": "SBIT",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

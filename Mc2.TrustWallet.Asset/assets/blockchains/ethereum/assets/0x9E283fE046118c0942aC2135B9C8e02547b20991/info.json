@@ -1,0 +1,18 @@
+{
+  "id": "0x9E283fE046118c0942aC2135B9C8e02547b20991",
+  "address": "0x9E283fE046118c0942aC2135B9C8e02547b20991",
+  "blockchain": "ethereum",
+  "name": "Qwartz",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9E283fE046118c0942aC2135B9C8e02547b20991",
+  "research": null,
+  "symbol": "QWRTZ",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

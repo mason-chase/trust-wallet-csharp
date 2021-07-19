@@ -1,0 +1,18 @@
+{
+  "id": "0x5f7d95329e806Befa024982e91B7127393737249",
+  "address": "0x5f7d95329e806Befa024982e91B7127393737249",
+  "blockchain": "ethereum",
+  "name": "BaapPay",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x5f7d95329e806Befa024982e91B7127393737249",
+  "research": null,
+  "symbol": "BAAP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

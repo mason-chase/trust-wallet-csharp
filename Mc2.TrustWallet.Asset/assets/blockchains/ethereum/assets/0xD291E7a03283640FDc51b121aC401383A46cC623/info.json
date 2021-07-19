@@ -1,0 +1,18 @@
+{
+  "id": "0xD291E7a03283640FDc51b121aC401383A46cC623",
+  "address": "0xD291E7a03283640FDc51b121aC401383A46cC623",
+  "blockchain": "ethereum",
+  "name": "Rari Governance Token (RGT)",
+  "website": "https://rari.capital",
+  "description": "The Rari Governance Token is the native token behind Rari Capital.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xD291E7a03283640FDc51b121aC401383A46cC623",
+  "research": null,
+  "symbol": "RGT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

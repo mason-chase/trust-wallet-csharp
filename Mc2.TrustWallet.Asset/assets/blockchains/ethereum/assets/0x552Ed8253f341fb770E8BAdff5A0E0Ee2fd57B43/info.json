@@ -1,0 +1,18 @@
+{
+  "id": "0x552Ed8253f341fb770E8BAdff5A0E0Ee2fd57B43",
+  "address": "0x552Ed8253f341fb770E8BAdff5A0E0Ee2fd57B43",
+  "blockchain": "ethereum",
+  "name": "Vestarin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x552Ed8253f341fb770E8BAdff5A0E0Ee2fd57B43",
+  "research": null,
+  "symbol": "VST",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

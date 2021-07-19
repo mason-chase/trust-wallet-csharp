@@ -1,0 +1,18 @@
+{
+  "id": "XRPBULL-E7C",
+  "address": "XRPBULL-E7C",
+  "blockchain": "binance",
+  "name": "3X Long XRP Token",
+  "website": "https://ftx.com/tokens/XRPBULL",
+  "description": "3X Long XRP Token (XRPBULL) is an ERC20 token which seeks a return that corresponds to 3 times the daily return of XRP.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/XRPBULL-E7C",
+  "research": null,
+  "symbol": "XRPBULL",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

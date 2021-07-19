@@ -1,0 +1,18 @@
+{
+  "id": "0x436F0F3a982074c4a05084485D421466a994FE53",
+  "address": "0x436F0F3a982074c4a05084485D421466a994FE53",
+  "blockchain": "ethereum",
+  "name": "Rate3",
+  "website": "https://www.rate3.network",
+  "description": "Creating a Connected Tokenized World Rate3 bridges enterprises to the blockchain through cross-chain asset tokenization and identity management.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x436F0F3a982074c4a05084485D421466a994FE53",
+  "research": null,
+  "symbol": "RTE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

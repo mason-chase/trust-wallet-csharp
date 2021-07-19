@@ -1,0 +1,18 @@
+{
+  "id": "0xf05a9382A4C3F29E2784502754293D88b835109C",
+  "address": "0xf05a9382A4C3F29E2784502754293D88b835109C",
+  "blockchain": "ethereum",
+  "name": "REX - Real Estate tokens",
+  "website": "https://imbrex.io",
+  "description": "imbrex (REX) is a cryptocurrency and operates on the Ethereum platform.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf05a9382A4C3F29E2784502754293D88b835109C",
+  "research": null,
+  "symbol": "REX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0xB9bb08AB7E9Fa0A1356bd4A39eC0ca267E03b0b3",
+  "address": "0xB9bb08AB7E9Fa0A1356bd4A39eC0ca267E03b0b3",
+  "blockchain": "ethereum",
+  "name": "PCHAIN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB9bb08AB7E9Fa0A1356bd4A39eC0ca267E03b0b3",
+  "research": null,
+  "symbol": "PI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

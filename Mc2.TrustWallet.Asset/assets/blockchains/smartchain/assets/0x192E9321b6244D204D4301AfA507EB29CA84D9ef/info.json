@@ -1,0 +1,18 @@
+{
+  "id": "0x192E9321b6244D204D4301AfA507EB29CA84D9ef",
+  "address": "0x192E9321b6244D204D4301AfA507EB29CA84D9ef",
+  "blockchain": "smartchain",
+  "name": "BoxerInu",
+  "website": "https://boxerinu.finance/",
+  "description": "A community-driven, dog-themed protocol with actual\nuse cases and utility.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x192E9321b6244D204D4301AfA507EB29CA84D9ef",
+  "research": null,
+  "symbol": "BOXER",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "0x87C00817ABe35eD4C093e59043fae488238d2F74",
+  "address": "0x87C00817ABe35eD4C093e59043fae488238d2F74",
+  "blockchain": "ethereum",
+  "name": "YOINK",
+  "website": "https://yoink.rocks/",
+  "description": "YOINK is a simple yet elegant protocol encompassing deflationary characteristics with a sneaky little twist.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x87C00817ABe35eD4C093e59043fae488238d2F74",
+  "research": null,
+  "symbol": "YNK",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/yoinknetwork"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/yoinkofficial"
+    }
+  ],
+  "tags": null
+}

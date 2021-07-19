@@ -2,7 +2,6 @@
 using System.IO;
 using Azihub.Utilities.Base.Extensions.ByteArray;
 using Mc2.TrustWallet.Asset.FolderModels;
-using Mc2.TrustWallet.Asset.Utilities;
 using static Mc2.TrustWallet.Asset.Settings;
 
 namespace Mc2.TrustWallet.Asset.Services

@@ -1,0 +1,18 @@
+{
+  "id": "0xEA097A2b1dB00627B2Fa17460Ad260c016016977",
+  "address": "0xEA097A2b1dB00627B2Fa17460Ad260c016016977",
+  "blockchain": "ethereum",
+  "name": "Upfiring",
+  "website": "https://www.upfiring.com/",
+  "description": "Upfiring is a web, iOS and Android application that creates a decentralized autonomous network between users' devices. Incentivized and decentralized P2P file-sharing on the Ethereum blockchain.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xEA097A2b1dB00627B2Fa17460Ad260c016016977",
+  "research": null,
+  "symbol": "UFR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

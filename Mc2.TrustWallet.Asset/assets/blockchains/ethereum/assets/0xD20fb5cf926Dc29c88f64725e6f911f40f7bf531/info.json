@@ -1,0 +1,18 @@
+{
+  "id": "0xD20fb5cf926Dc29c88f64725e6f911f40f7bf531",
+  "address": "0xD20fb5cf926Dc29c88f64725e6f911f40f7bf531",
+  "blockchain": "ethereum",
+  "name": "PALA INT COMM",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xD20fb5cf926Dc29c88f64725e6f911f40f7bf531",
+  "research": null,
+  "symbol": "pala",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

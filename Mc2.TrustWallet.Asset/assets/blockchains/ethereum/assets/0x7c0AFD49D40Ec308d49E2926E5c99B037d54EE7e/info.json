@@ -1,0 +1,18 @@
+{
+  "id": "0x7c0AFD49D40Ec308d49E2926E5c99B037d54EE7e",
+  "address": "0x7c0AFD49D40Ec308d49E2926E5c99B037d54EE7e",
+  "blockchain": "ethereum",
+  "name": "Onyx USD",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7c0AFD49D40Ec308d49E2926E5c99B037d54EE7e",
+  "research": null,
+  "symbol": "OUSD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

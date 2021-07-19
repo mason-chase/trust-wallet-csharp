@@ -1,0 +1,18 @@
+{
+  "id": "0xeBDf1b978dC2576Ef0020BA4cF5f98174425c3a1",
+  "address": "0xeBDf1b978dC2576Ef0020BA4cF5f98174425c3a1",
+  "blockchain": "smartchain",
+  "name": "SafeRocket",
+  "website": "https://saferocket.pro/",
+  "description": "SafeRocket is a community driven, deflationary token",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xebdf1b978dc2576ef0020ba4cf5f98174425c3a1",
+  "research": null,
+  "symbol": "ROCKET",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

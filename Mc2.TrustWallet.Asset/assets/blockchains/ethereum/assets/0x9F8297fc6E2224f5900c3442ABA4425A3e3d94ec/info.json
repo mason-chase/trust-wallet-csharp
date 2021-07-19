@@ -1,0 +1,18 @@
+{
+  "id": "0x9F8297fc6E2224f5900c3442ABA4425A3e3d94ec",
+  "address": "0x9F8297fc6E2224f5900c3442ABA4425A3e3d94ec",
+  "blockchain": "ethereum",
+  "name": "MineBlock",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9F8297fc6E2224f5900c3442ABA4425A3e3d94ec",
+  "research": null,
+  "symbol": "MB",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

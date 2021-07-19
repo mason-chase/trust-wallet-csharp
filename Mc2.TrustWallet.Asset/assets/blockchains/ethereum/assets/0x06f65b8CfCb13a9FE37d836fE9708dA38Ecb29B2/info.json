@@ -1,0 +1,18 @@
+{
+  "id": "0x06f65b8CfCb13a9FE37d836fE9708dA38Ecb29B2",
+  "address": "0x06f65b8CfCb13a9FE37d836fE9708dA38Ecb29B2",
+  "blockchain": "ethereum",
+  "name": "SAINT FAME: Genesis Shirt",
+  "website": "https://www.saintfame.com/fame",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x06f65b8CfCb13a9FE37d836fE9708dA38Ecb29B2",
+  "research": null,
+  "symbol": "FAME",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

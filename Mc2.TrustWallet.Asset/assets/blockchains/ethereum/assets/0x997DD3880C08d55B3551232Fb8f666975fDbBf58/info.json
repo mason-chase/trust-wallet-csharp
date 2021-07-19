@@ -1,0 +1,18 @@
+{
+  "id": "0x997DD3880C08d55B3551232Fb8f666975fDbBf58",
+  "address": "0x997DD3880C08d55B3551232Fb8f666975fDbBf58",
+  "blockchain": "ethereum",
+  "name": "PrivToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x997DD3880C08d55B3551232Fb8f666975fDbBf58",
+  "research": null,
+  "symbol": "PRIV",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

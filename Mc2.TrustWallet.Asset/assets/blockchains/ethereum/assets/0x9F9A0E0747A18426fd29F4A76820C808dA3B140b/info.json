@@ -1,0 +1,18 @@
+{
+  "id": "0x9F9A0E0747A18426fd29F4A76820C808dA3B140b",
+  "address": "0x9F9A0E0747A18426fd29F4A76820C808dA3B140b",
+  "blockchain": "ethereum",
+  "name": "ETHBOLD",
+  "website": "https://ethbold.org/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9F9A0E0747A18426fd29F4A76820C808dA3B140b",
+  "research": null,
+  "symbol": "ETBOLD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

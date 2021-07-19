@@ -1,0 +1,18 @@
+{
+  "id": "0xABcB2372370Fa1591Ce104a03351B5B628443C2B",
+  "address": "0xABcB2372370Fa1591Ce104a03351B5B628443C2B",
+  "blockchain": "ethereum",
+  "name": "InveCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xABcB2372370Fa1591Ce104a03351B5B628443C2B",
+  "research": null,
+  "symbol": "INVE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "WINB-41F",
+  "address": "WINB-41F",
+  "blockchain": "binance",
+  "name": "WINB",
+  "website": "https://www.wink.org/#/",
+  "description": "WINK describes itself as betting DApp.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/WINB-41F",
+  "research": null,
+  "symbol": "WINB",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

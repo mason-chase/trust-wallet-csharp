@@ -1,0 +1,18 @@
+{
+  "id": "0xC06fb76E8d0616a8847484448C27c877FfBfdf89",
+  "address": "0xC06fb76E8d0616a8847484448C27c877FfBfdf89",
+  "blockchain": "ethereum",
+  "name": "FrankfurtSchoolCoin",
+  "website": "https://frankfurt-school.de/",
+  "description": "FrankfurtSchoolCoin is a EUR-pegged stablecoin.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xC06fb76E8d0616a8847484448C27c877FfBfdf89",
+  "research": null,
+  "symbol": "FSBC",
+  "type": "ERC20",
+  "decimals": 3,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

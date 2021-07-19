@@ -1,0 +1,18 @@
+{
+  "id": "0x60ecB1536D7c49c07a05ed042e8662cb7FA3dD42",
+  "address": "0x60ecB1536D7c49c07a05ed042e8662cb7FA3dD42",
+  "blockchain": "ethereum",
+  "name": "Vessel Investment Trust",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x60ecB1536D7c49c07a05ed042e8662cb7FA3dD42",
+  "research": null,
+  "symbol": "VTRUST",
+  "type": "ERC20",
+  "decimals": 5,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

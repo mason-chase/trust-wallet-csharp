@@ -1,0 +1,18 @@
+{
+  "id": "0x9484451e0D1c3364aC50AE77ec72300a3dd896b5",
+  "address": "0x9484451e0D1c3364aC50AE77ec72300a3dd896b5",
+  "blockchain": "ethereum",
+  "name": "StonieCoin BETA",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9484451e0D1c3364aC50AE77ec72300a3dd896b5",
+  "research": null,
+  "symbol": "STC",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x4FB7d00f57A143B80b7FcedaEf8985Dc6EBB6798",
+  "address": "0x4FB7d00f57A143B80b7FcedaEf8985Dc6EBB6798",
+  "blockchain": "ethereum",
+  "name": "TianHone Coin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x4FB7d00f57A143B80b7FcedaEf8985Dc6EBB6798",
+  "research": null,
+  "symbol": "THC",
+  "type": "ERC20",
+  "decimals": 10,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

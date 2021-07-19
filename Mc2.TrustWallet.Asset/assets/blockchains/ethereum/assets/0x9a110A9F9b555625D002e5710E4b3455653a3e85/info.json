@@ -1,0 +1,18 @@
+{
+  "id": "0x9a110A9F9b555625D002e5710E4b3455653a3e85",
+  "address": "0x9a110A9F9b555625D002e5710E4b3455653a3e85",
+  "blockchain": "ethereum",
+  "name": "GUUZZ Token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x9a110A9F9b555625D002e5710E4b3455653a3e85",
+  "research": null,
+  "symbol": "GUUZZ",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

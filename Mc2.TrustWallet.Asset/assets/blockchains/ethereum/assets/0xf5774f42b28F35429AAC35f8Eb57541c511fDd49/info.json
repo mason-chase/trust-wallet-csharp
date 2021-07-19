@@ -1,0 +1,18 @@
+{
+  "id": "0xf5774f42b28F35429AAC35f8Eb57541c511fDd49",
+  "address": "0xf5774f42b28F35429AAC35f8Eb57541c511fDd49",
+  "blockchain": "ethereum",
+  "name": "Arch Crypton Game",
+  "website": "https://www.archcrypton.com/",
+  "description": "Arch Crypton Game is a token based on ERC-20 ethereum game platform powered by blockchain, has new breakthrough in the field of gaming with cryptocurrency, prioritizes our product service for the world,provides an opportunity for everyone to earn money.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf5774f42b28F35429AAC35f8Eb57541c511fDd49",
+  "research": null,
+  "symbol": "ARCG",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

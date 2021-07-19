@@ -1,0 +1,18 @@
+{
+  "id": "0xbA32286b0296F0a86111644B74472D8AAbaE3027",
+  "address": "0xbA32286b0296F0a86111644B74472D8AAbaE3027",
+  "blockchain": "ethereum",
+  "name": "SLEEVES",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xbA32286b0296F0a86111644B74472D8AAbaE3027",
+  "research": null,
+  "symbol": "SEV",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

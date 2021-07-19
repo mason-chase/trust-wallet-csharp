@@ -1,0 +1,18 @@
+{
+  "id": "0x3a23f43aaED213209a6143Cb91A00674CAA767E6",
+  "address": "0x3a23f43aaED213209a6143Cb91A00674CAA767E6",
+  "blockchain": "smartchain",
+  "name": "HentaiCoin",
+  "website": "https://hentaicoin.net/",
+  "description": "Hentaicoin is a decentralized token on the Binance Smart Chain and NFT platform dedicated to the world of Hentai, ero manga or adult Japanimation.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x3a23f43aaED213209a6143Cb91A00674CAA767E6",
+  "research": null,
+  "symbol": "HENTAI",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

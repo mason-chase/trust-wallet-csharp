@@ -1,0 +1,18 @@
+{
+  "id": "0x6733D909e10DDedB8d6181b213dE32A30cEac7ed",
+  "address": "0x6733D909e10DDedB8d6181b213dE32A30cEac7ed",
+  "blockchain": "ethereum",
+  "name": "BitSerial",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6733D909e10DDedB8d6181b213dE32A30cEac7ed",
+  "research": null,
+  "symbol": "BTE",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x6Ccb2AdECc8cE829F768465280586F0E04a6959c",
+  "address": "0x6Ccb2AdECc8cE829F768465280586F0E04a6959c",
+  "blockchain": "ethereum",
+  "name": "TOP TOKEN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6Ccb2AdECc8cE829F768465280586F0E04a6959c",
+  "research": null,
+  "symbol": "TOP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

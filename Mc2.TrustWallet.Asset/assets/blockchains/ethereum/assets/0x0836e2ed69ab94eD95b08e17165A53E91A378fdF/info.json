@@ -1,0 +1,18 @@
+{
+  "id": "0x0836e2ed69ab94eD95b08e17165A53E91A378fdF",
+  "address": "0x0836e2ed69ab94eD95b08e17165A53E91A378fdF",
+  "blockchain": "ethereum",
+  "name": "SureSAVER PRIZE-LINKED REWARD SAVINGS ACCOUNT TOKEN",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0836e2ed69ab94eD95b08e17165A53E91A378fdF",
+  "research": null,
+  "symbol": "SAVER",
+  "type": "ERC20",
+  "decimals": 2,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

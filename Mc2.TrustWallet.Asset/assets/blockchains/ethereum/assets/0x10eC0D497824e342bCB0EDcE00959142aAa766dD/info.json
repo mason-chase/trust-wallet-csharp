@@ -1,0 +1,18 @@
+{
+  "id": "0x10eC0D497824e342bCB0EDcE00959142aAa766dD",
+  "address": "0x10eC0D497824e342bCB0EDcE00959142aAa766dD",
+  "blockchain": "ethereum",
+  "name": "IdleDAI",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x10eC0D497824e342bCB0EDcE00959142aAa766dD",
+  "research": null,
+  "symbol": "IDLEDAI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x63f584FA56E60e4D0fE8802b27C7e6E3b33E007f",
+  "address": "0x63f584FA56E60e4D0fE8802b27C7e6E3b33E007f",
+  "blockchain": "ethereum",
+  "name": "BOX Token",
+  "website": "https://contentbox.one/",
+  "description": "Blockchain Infrastructure For The Digital Content Industry. Empowering a decentralized digital content ecosystem.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x63f584FA56E60e4D0fE8802b27C7e6E3b33E007f",
+  "research": null,
+  "symbol": "BOX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "TJ63TQ3fvibq9pgkiFysPgDWkim1tBjejC",
+  "address": "TJ63TQ3fvibq9pgkiFysPgDWkim1tBjejC",
+  "blockchain": "tron",
+  "name": "LIME",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://tronscan.io/#/token20/TJ63TQ3fvibq9pgkiFysPgDWkim1tBjejC",
+  "research": null,
+  "symbol": "LIME",
+  "type": "TRC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

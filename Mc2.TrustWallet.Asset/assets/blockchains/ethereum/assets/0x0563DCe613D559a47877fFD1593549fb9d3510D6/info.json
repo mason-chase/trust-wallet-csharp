@@ -1,0 +1,18 @@
+{
+  "id": "0x0563DCe613D559a47877fFD1593549fb9d3510D6",
+  "address": "0x0563DCe613D559a47877fFD1593549fb9d3510D6",
+  "blockchain": "ethereum",
+  "name": "SuperBid",
+  "website": "https://www.superbid.io",
+  "description": "SuperBid is an innovative social-auction app that connects influencers with their fans.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0563DCe613D559a47877fFD1593549fb9d3510D6",
+  "research": null,
+  "symbol": "SUPERBID",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

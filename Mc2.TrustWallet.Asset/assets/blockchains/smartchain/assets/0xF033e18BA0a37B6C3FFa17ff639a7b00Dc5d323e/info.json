@@ -1,0 +1,18 @@
+{
+  "id": "0xF033e18BA0a37B6C3FFa17ff639a7b00Dc5d323e",
+  "address": "0xF033e18BA0a37B6C3FFa17ff639a7b00Dc5d323e",
+  "blockchain": "smartchain",
+  "name": "ChiwawaSwap",
+  "website": "https://chiwawaswap.site",
+  "description": "Chiwawa Swap is for strategists, building the people’s gateway to financial freedom on DEFI to find yield-bearing opportunities.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xF033e18BA0a37B6C3FFa17ff639a7b00Dc5d323e",
+  "research": null,
+  "symbol": "CHIWAWA",
+  "type": "BEP20",
+  "decimals": 0,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x88f400F6a26465c9ac6AE5c1C8C14Cf12B515C96",
+  "address": "0x88f400F6a26465c9ac6AE5c1C8C14Cf12B515C96",
+  "blockchain": "ethereum",
+  "name": "Virus Token",
+  "website": "https://virustoken.xyz/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x88f400F6a26465c9ac6AE5c1C8C14Cf12B515C96",
+  "research": null,
+  "symbol": "VIRUS",
+  "type": "ERC20",
+  "decimals": 9,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

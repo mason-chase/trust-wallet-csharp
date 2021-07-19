@@ -1,0 +1,18 @@
+{
+  "id": "0xE4FAE3Faa8300810C835970b9187c268f55D998F",
+  "address": "0xE4FAE3Faa8300810C835970b9187c268f55D998F",
+  "blockchain": "smartchain",
+  "name": "CateCoin ",
+  "website": "http://catecoin.club",
+  "description": "Decentralised MEME Platform with NFT Market",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xE4FAE3Faa8300810C835970b9187c268f55D998F",
+  "research": null,
+  "symbol": "CATE",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

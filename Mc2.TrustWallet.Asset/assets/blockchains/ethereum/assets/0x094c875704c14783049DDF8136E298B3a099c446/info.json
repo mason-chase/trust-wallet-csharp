@@ -1,0 +1,18 @@
+{
+  "id": "0x094c875704c14783049DDF8136E298B3a099c446",
+  "address": "0x094c875704c14783049DDF8136E298B3a099c446",
+  "blockchain": "ethereum",
+  "name": "Promotion Token @ https://kyber.network/swap",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x094c875704c14783049DDF8136E298B3a099c446",
+  "research": null,
+  "symbol": "PT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

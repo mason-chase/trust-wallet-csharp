@@ -1,0 +1,18 @@
+{
+  "id": "0x94241428E0E36DF628E0C2485bC0e158A5dA3362",
+  "address": "0x94241428E0E36DF628E0C2485bC0e158A5dA3362",
+  "blockchain": "smartchain",
+  "name": "CrazyTime",
+  "website": "https://www.moochii.net/crazytime",
+  "description": "CrazyTime is an automatic LP generating lottery token. The lottery function randomly chooses a holder and sends them 5% of the transaction value in CrazyTime. ",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0x94241428E0E36DF628E0C2485bC0e158A5dA3362",
+  "research": null,
+  "symbol": "CrazyTime",
+  "type": "BEP20",
+  "decimals": 9,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

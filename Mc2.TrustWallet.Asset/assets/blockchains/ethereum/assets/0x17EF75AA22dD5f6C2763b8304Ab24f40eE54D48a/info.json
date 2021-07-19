@@ -1,0 +1,35 @@
+{
+  "id": "0x17EF75AA22dD5f6C2763b8304Ab24f40eE54D48a",
+  "address": "0x17EF75AA22dD5f6C2763b8304Ab24f40eE54D48a",
+  "blockchain": "ethereum",
+  "name": "Revolution Populi",
+  "website": "https://revolutionpopuli.com/",
+  "description": "The Blockchain Database for the Internet.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x17EF75AA22dD5f6C2763b8304Ab24f40eE54D48a",
+  "research": null,
+  "symbol": "RVP",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Rev_Populi"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/revpopofficial"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/37gBNkJ"
+    },
+    {
+      "name": "medium",
+      "url": "https://revolutionpopuli.medium.com/"
+    }
+  ],
+  "tags": null
+}

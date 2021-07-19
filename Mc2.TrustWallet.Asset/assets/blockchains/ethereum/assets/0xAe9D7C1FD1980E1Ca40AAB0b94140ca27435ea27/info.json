@@ -1,0 +1,18 @@
+{
+  "id": "0xAe9D7C1FD1980E1Ca40AAB0b94140ca27435ea27",
+  "address": "0xAe9D7C1FD1980E1Ca40AAB0b94140ca27435ea27",
+  "blockchain": "ethereum",
+  "name": "Tranquility Audit Security",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xAe9D7C1FD1980E1Ca40AAB0b94140ca27435ea27",
+  "research": null,
+  "symbol": "TRANQ",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

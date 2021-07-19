@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Mc2.TrustWallet.Asset</id>
+    <version>0.1.0</version>
+    <title>Trust Wallet Assets</title>
+    <authors>Mason Chase</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">AGPL-3.0-only</license>
+    <projectUrl>https://github.com/mason-chase/trust-wallet-csharp</projectUrl>
+    <iconUrl>https://github.com/mason-chase/trust-wallet-csharp/blob/development/Mc2.TrustWallet.Assets.png</iconUrl>
+    <description>Regenerated asset/blockchains based on testable C# code.</description>
+    <releaseNotes>Initial Blockchain parsed model.</releaseNotes>
+    <copyright>Mason Chase</copyright>
+    <icon>Mc2.TrustWallet.Assets.png</icon>
+    <tags>Cryptocurrency Bitcoin Ethereum Litecoin</tags>
+  </metadata>
+  <files>
+    <file src="..\Mc2.TrustWallet.Assets.png" target="\." />
+    <file src="**" exclude="**\*.nupkg;**\*.dll;**\*.designer.cs;**\*.csproj;**\*.pdb;**\*.user;**\*.vspscc;bin\*.cs;bin\*.aspx;bin\*.config;bin\*.asax;bin\*.pubxml" />
+  </files>
+</package>

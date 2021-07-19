@@ -1,0 +1,18 @@
+{
+  "id": "0x0ED8343dfdEE32E38b4c4cE15a3b00A59E90F3dB",
+  "address": "0x0ED8343dfdEE32E38b4c4cE15a3b00A59E90F3dB",
+  "blockchain": "ethereum",
+  "name": "Claymore",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x0ED8343dfdEE32E38b4c4cE15a3b00A59E90F3dB",
+  "research": null,
+  "symbol": "CLM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

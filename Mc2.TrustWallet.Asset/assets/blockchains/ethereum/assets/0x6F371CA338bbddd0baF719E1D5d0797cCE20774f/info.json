@@ -1,0 +1,18 @@
+{
+  "id": "0x6F371CA338bbddd0baF719E1D5d0797cCE20774f",
+  "address": "0x6F371CA338bbddd0baF719E1D5d0797cCE20774f",
+  "blockchain": "ethereum",
+  "name": "Ethereum Rush",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6F371CA338bbddd0baF719E1D5d0797cCE20774f",
+  "research": null,
+  "symbol": "ETR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

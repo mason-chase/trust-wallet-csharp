@@ -1,0 +1,18 @@
+{
+  "id": "0x6613876533Bc69b9DD628611a4D5dD2CCD8C7638",
+  "address": "0x6613876533Bc69b9DD628611a4D5dD2CCD8C7638",
+  "blockchain": "ethereum",
+  "name": "Toqqn",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x6613876533Bc69b9DD628611a4D5dD2CCD8C7638",
+  "research": null,
+  "symbol": "TQN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

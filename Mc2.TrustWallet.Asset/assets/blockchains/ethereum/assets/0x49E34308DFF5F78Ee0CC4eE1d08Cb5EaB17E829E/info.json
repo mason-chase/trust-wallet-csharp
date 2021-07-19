@@ -1,0 +1,18 @@
+{
+  "id": "0x49E34308DFF5F78Ee0CC4eE1d08Cb5EaB17E829E",
+  "address": "0x49E34308DFF5F78Ee0CC4eE1d08Cb5EaB17E829E",
+  "blockchain": "ethereum",
+  "name": "SmogToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x49E34308DFF5F78Ee0CC4eE1d08Cb5EaB17E829E",
+  "research": null,
+  "symbol": "SGT",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

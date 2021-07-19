@@ -1,0 +1,18 @@
+{
+  "id": "0x06BEAD2EAD661B51307B646F7419d5284330c135",
+  "address": "0x06BEAD2EAD661B51307B646F7419d5284330c135",
+  "blockchain": "ethereum",
+  "name": "EliteShipperToken",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x06BEAD2EAD661B51307B646F7419d5284330c135",
+  "research": null,
+  "symbol": "ESHIP",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

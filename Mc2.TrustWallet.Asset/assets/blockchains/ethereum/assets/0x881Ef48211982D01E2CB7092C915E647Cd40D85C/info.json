@@ -1,0 +1,18 @@
+{
+  "id": "0x881Ef48211982D01E2CB7092C915E647Cd40D85C",
+  "address": "0x881Ef48211982D01E2CB7092C915E647Cd40D85C",
+  "blockchain": "ethereum",
+  "name": "Open Trading Network",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x881Ef48211982D01E2CB7092C915E647Cd40D85C",
+  "research": null,
+  "symbol": "OTN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

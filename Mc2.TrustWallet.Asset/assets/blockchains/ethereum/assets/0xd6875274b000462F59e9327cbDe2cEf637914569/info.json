@@ -1,0 +1,18 @@
+{
+  "id": "0xd6875274b000462F59e9327cbDe2cEf637914569",
+  "address": "0xd6875274b000462F59e9327cbDe2cEf637914569",
+  "blockchain": "ethereum",
+  "name": "QUSD",
+  "website": "https://qusd.co.uk",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xd6875274b000462F59e9327cbDe2cEf637914569",
+  "research": null,
+  "symbol": "QUSD",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

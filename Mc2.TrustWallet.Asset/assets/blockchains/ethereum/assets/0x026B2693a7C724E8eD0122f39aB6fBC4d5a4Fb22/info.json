@@ -1,0 +1,18 @@
+{
+  "id": "0x026B2693a7C724E8eD0122f39aB6fBC4d5a4Fb22",
+  "address": "0x026B2693a7C724E8eD0122f39aB6fBC4d5a4Fb22",
+  "blockchain": "ethereum",
+  "name": "TUR",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x026B2693a7C724E8eD0122f39aB6fBC4d5a4Fb22",
+  "research": null,
+  "symbol": "TUR",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

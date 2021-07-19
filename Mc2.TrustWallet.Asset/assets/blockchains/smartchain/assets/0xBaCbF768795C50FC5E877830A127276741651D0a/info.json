@@ -1,0 +1,18 @@
+{
+  "id": "0xBaCbF768795C50FC5E877830A127276741651D0a",
+  "address": "0xBaCbF768795C50FC5E877830A127276741651D0a",
+  "blockchain": "smartchain",
+  "name": "Fire Token",
+  "website": "https://firetoken.xyz/",
+  "description": "Fire Token is a deflationary BEP-20 that uses the reflection model to benefit holders and guarantee the project longevity. What makes Fire Token different from the rest of the BEP-20 is that it has a built-in mechanism to guarantee funding for growth.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://bscscan.com/token/0xbacbf768795c50fc5e877830a127276741651d0a",
+  "research": null,
+  "symbol": "FIRE",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

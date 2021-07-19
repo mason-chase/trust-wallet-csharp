@@ -1,0 +1,31 @@
+{
+  "id": "0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183",
+  "address": "0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183",
+  "blockchain": "ethereum",
+  "name": "Shroom.Finance(SHROOM)",
+  "website": "https://shroom.finance",
+  "description": "Community-owned DEX focused on in-game assets.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xEd0439EACf4c4965AE4613D77a5C2Efe10e5f183",
+  "research": null,
+  "symbol": "SHROOM",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/ShroomFinance"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/shroomfinance"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.com/invite/eZcFahS"
+    }
+  ],
+  "tags": null
+}

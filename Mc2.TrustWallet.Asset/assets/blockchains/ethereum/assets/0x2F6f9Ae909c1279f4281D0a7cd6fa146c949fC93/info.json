@@ -1,0 +1,18 @@
+{
+  "id": "0x2F6f9Ae909c1279f4281D0a7cd6fa146c949fC93",
+  "address": "0x2F6f9Ae909c1279f4281D0a7cd6fa146c949fC93",
+  "blockchain": "ethereum",
+  "name": "Britency",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2F6f9Ae909c1279f4281D0a7cd6fa146c949fC93",
+  "research": null,
+  "symbol": "BRI",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "0x511759F0318750c7A9B5d2e083253720F4cE63A6",
+  "address": "0x511759F0318750c7A9B5d2e083253720F4cE63A6",
+  "blockchain": "ethereum",
+  "name": "Wisely coin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x511759F0318750c7A9B5d2e083253720F4cE63A6",
+  "research": null,
+  "symbol": "wise",
+  "type": "ERC20",
+  "decimals": 6,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

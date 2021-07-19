@@ -1,0 +1,18 @@
+{
+  "id": "0x7Dc4f41294697a7903C4027f6Ac528C5d14cd7eB",
+  "address": "0x7Dc4f41294697a7903C4027f6Ac528C5d14cd7eB",
+  "blockchain": "ethereum",
+  "name": "RemiCoin",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x7Dc4f41294697a7903C4027f6Ac528C5d14cd7eB",
+  "research": null,
+  "symbol": "RMC",
+  "type": "ERC20",
+  "decimals": 8,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

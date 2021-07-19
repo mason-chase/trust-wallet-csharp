@@ -1,0 +1,18 @@
+{
+  "id": "0x1D4105534dA120DA243281cfC3f26Aaf038E2D6f",
+  "address": "0x1D4105534dA120DA243281cfC3f26Aaf038E2D6f",
+  "blockchain": "ethereum",
+  "name": "Yooba token",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x1D4105534dA120DA243281cfC3f26Aaf038E2D6f",
+  "research": null,
+  "symbol": "YOO",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "spam",
+  "links": null,
+  "tags": null
+}

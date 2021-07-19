@@ -1,0 +1,18 @@
+{
+  "id": "0xf354a75DB1641D7658628771055199C41e7b4bAd",
+  "address": "0xf354a75DB1641D7658628771055199C41e7b4bAd",
+  "blockchain": "ethereum",
+  "name": "JAY",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xf354a75DB1641D7658628771055199C41e7b4bAd",
+  "research": null,
+  "symbol": "JAY",
+  "type": "ERC20",
+  "decimals": 4,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

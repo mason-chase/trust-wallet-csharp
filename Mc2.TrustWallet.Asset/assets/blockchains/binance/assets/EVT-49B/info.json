@@ -1,0 +1,18 @@
+{
+  "id": "EVT-49B",
+  "address": "EVT-49B",
+  "blockchain": "binance",
+  "name": "everiToken",
+  "website": "https://www.everitoken.io/",
+  "description": "Blockchain for real business,Lightning-fast crypto payment and Secure and simple contracts.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://explorer.binance.org/asset/EVT-49B",
+  "research": null,
+  "symbol": "EVT",
+  "type": "BEP2",
+  "decimals": 8,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

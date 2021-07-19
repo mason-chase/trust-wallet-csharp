@@ -1,0 +1,18 @@
+{
+  "id": "0x68350d30D9F58C81aaaA41929f1bfC52FFf4Ea49",
+  "address": "0x68350d30D9F58C81aaaA41929f1bfC52FFf4Ea49",
+  "blockchain": "ethereum",
+  "name": "Rapidz",
+  "website": "https://www.rapidz.io",
+  "description": "RAPIDZ - reimagines the digital finance & payment experience and propels the crypto ecosystem to a broader audience.",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x68350d30D9F58C81aaaA41929f1bfC52FFf4Ea49",
+  "research": null,
+  "symbol": "RPZX",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "active",
+  "links": null,
+  "tags": null
+}

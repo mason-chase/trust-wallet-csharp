@@ -1,0 +1,18 @@
+{
+  "id": "0xA52383B665b91DCe42dD4b6d1E0Fb37d3EFFe489",
+  "address": "0xA52383B665b91DCe42dD4b6d1E0Fb37d3EFFe489",
+  "blockchain": "ethereum",
+  "name": "MASTER USD",
+  "website": "https://master-usd.org/",
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xA52383B665b91DCe42dD4b6d1E0Fb37d3EFFe489",
+  "research": null,
+  "symbol": "MUSD",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

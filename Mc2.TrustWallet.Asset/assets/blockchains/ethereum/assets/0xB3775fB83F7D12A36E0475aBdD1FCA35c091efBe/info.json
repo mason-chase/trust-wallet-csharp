@@ -1,0 +1,18 @@
+{
+  "id": "0xB3775fB83F7D12A36E0475aBdD1FCA35c091efBe",
+  "address": "0xB3775fB83F7D12A36E0475aBdD1FCA35c091efBe",
+  "blockchain": "ethereum",
+  "name": "PowH3D",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0xB3775fB83F7D12A36E0475aBdD1FCA35c091efBe",
+  "research": null,
+  "symbol": "P3D",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}

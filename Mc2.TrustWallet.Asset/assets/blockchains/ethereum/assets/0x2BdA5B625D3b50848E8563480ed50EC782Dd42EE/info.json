@@ -1,0 +1,18 @@
+{
+  "id": "0x2BdA5B625D3b50848E8563480ed50EC782Dd42EE",
+  "address": "0x2BdA5B625D3b50848E8563480ed50EC782Dd42EE",
+  "blockchain": "ethereum",
+  "name": "BetEncore",
+  "website": null,
+  "description": "",
+  "short_description": null,
+  "audit_report": null,
+  "explorer": "https://etherscan.io/token/0x2BdA5B625D3b50848E8563480ed50EC782Dd42EE",
+  "research": null,
+  "symbol": "BTEN",
+  "type": "ERC20",
+  "decimals": 18,
+  "status": "abandoned",
+  "links": null,
+  "tags": null
+}
